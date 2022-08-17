@@ -1,46 +1,36 @@
-# Our Massive Wiki
+# Welcome to Open Global Mind.
 
-## For Editing Wiki Files
+This is our wiki. It is a [Massive Wiki](https://massive.wiki/).
 
-Welcome to the home page of this wiki. Edit to make it your own! You can delete all the sample content on this page, and replace it with yours.
+Please visit our homepage website: [Open Global Mind](https://www.openglobalmind.com/).
 
-Use Markdown, or just type text -- either way works.
+Along with this wiki, we have several other communication channels:
 
-Use double square brackets around words to make links to other pages in this wiki.
+- [CSC Mattermost](https://chat.collectivesensecommons.org)
+- [OGM Google Group](https://groups.google.com/g/openglobalmind/)
+- [OGM Forum](https://forum.openglobalmind.com/)
 
-## For Publishing Wiki To Website
+To edit this wiki, clone or fork the [OGM Wiki repo](https://github.com/OpenGlobalMind/ogm-wiki), and push or make a pull request back.
 
-### Massive Wiki Builder
+Ask Pete for help when you need it.
 
-**THIS FOLLOWING IS AN ADVANCED TOPIC.** You do not need the following information if you just want to edit your wiki.
+## Helpful Pages and Sections
 
-You can use [Massive Wiki Builder](https://github.com/peterkaminski/massivewikibuilder) to publish (export) any Massive Wiki to static HTML files. The wiki is then in a format viewable by anyone with a web browser.
+- [[Meeting Index]] - a dynamically updated index of meeting notes
+- Brain - collected knowledge and wisdom
+- Blogs - pages by a particular person
+- Meetings - meeting notes for general OGM meetings
+- OGM Culture - how we OGM together
+- OGM Stewardship - governance of OGM
+- OMG Structure - the structure of OGMing together
+- Organizations - other organizations of interest
+- People - some of the people in OGM
+- Templates - pages or pieces of pages that help create particular kinds of pages
 
-Massive Wiki Builder (MWB) and [Massive Wiki Themes](https://github.com/peterkaminski/massive-wiki-themes) are included in this repo as Git submodules.
+There is also a [[Sandbox]] page if you want to try editing.
 
-If your website host has build automation, you can adapt the included `netlify.toml` file to drive the build automation, and the build automation should automatically use the Git submodule mechanism to retrieve the MWB code it will need.
+## OGM Wiki Conventions
 
-If you are using MWB locally on your computer, you will need to retrieve MWB, and optionally, the themes.
+When creating a page, please put it into an appropriate top-level or sub-level directory.  If it's not obvious where to put a new page, or if you're using software that will automatically create pages, please point it into the `_new-pages` top-level directory.
 
-When cloning this repo using Git, you can use the `--recurse-submodules` flag to also clone the Massive Wiki Builder and Massive Wiki Themes submodules.
-
-The full command:
-
-```shell
-git clone --recurse-submodules git@github.com:Massive-Wiki/massive-wiki-starter.git
-```
-
-Or, you can clone the submodules with these commands:
-
-```shell
-git submodule init
-git submodule update
-```
-
-See the [Submodules chapter of the Git Book](https://git-scm.com/book/en/v2/Git-Tools-Submodules) for more information about Git submodules.
-
-### Themes
-
-This starter wiki is set up with two MWB / MWT themes, Alto and Basso, in the `.massivewikibuilder/this-wiki-themes` folder. We suggest you continue to use and customize your wiki's themes in the `this-wiki-themes` folder.
-
-The Massive Wiki Themes repo is updated from time to time, and when you refresh your local Git submodule in `.massivewikibuilder/massive-wiki-themes`, you'll receive those updates. Rather than use those themes directly, though, it is suggested to copy what you want into your `this-wiki-themes` folder, and customize and use your copy of the themes from there.
+When embedding images or adding other non-Markdown files, consider putting them in the `_attachments` top-level directory.
