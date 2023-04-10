@@ -28,7 +28,7 @@
     -   What book-like artifacts do we want to use?
 -   Project management hub
     -   Projects and Subprojects Dashboard
-    -   Tasks page(s)
+    -   [[Tasks]] Page(s)
 -   Books Under Way
     -   Each with team rosters, etc.
 -   Best Practices
