@@ -11,9 +11,9 @@ After that book is published, we will escalate things, convening book-writing te
 We refer to "books" with a big of tongue in cheek, because conventional books are inert and obsolete. So:
 
 - Books are known cultural objects: shiny, attractive media that anyone can understand
-- Books are "gateway drugs" to the more interesting artifacts, which are online and include:
-	- Live discussions
+- Books serve as an inviting entry point to a vast array of captivating online resources, such as:
+	- Live discussions (both real-time and over time)
 	- Further resources, should you want to act on a Nugget's advice 
-	- Constantly updated content, as we learn more and incorporate the lessons
+	- Constantly updated content that reflects our growing knowledge and understanding
 
 To co-write several intersecting books, we will need to develop [[Roles]], a [[Marley Work Flow]], a [[Design Bible]] and a [[Marley FAQ]] to explain outstanding questions. 
