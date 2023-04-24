@@ -6,7 +6,7 @@ Last updated April 10, 2023
 - [x] New temporary name: Marley (weir, cairn)
 - [ ] Reorg the wiki pages (Pete and Jerry by 4/18)
 - [x] Change project references to "Marley"
-- [ ] Write description of Marley for Plex (Jerry by 4/18)
+- [x] Write description of Marley for Plex (Jerry by 4/18)
 - [x] On Fridays, set up reminder to OGM list for Monday Marley calls (Jerry on 4/14)
 - [ ] Find book champions (Doug, Klaus, Pete, Jerry) 
 	- [ ] Convene book teams
