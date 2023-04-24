@@ -8,4 +8,5 @@ To achieve this, we need to:
 - [ ] Find out who wants to contribute chapters
 - [ ] Flesh out the [[Design Bible]] so we agree on what a Marley work looks like
 - [ ] Design and assemble a [[Marley Publishing Infrastructure]] as part of the [[Marley Work Flow]]
-- [ ] 
+
+[[Potential QFB Outline]]

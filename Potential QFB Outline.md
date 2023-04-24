@@ -1,0 +1,26 @@
+# Possible QFB Outline:
+
+- Who is our audience?
+	- Civilians/citizens/Muggles
+	- (vs the food industry, farmers, etc)
+- Why should you care?
+- Positivity
+	- Positive things to do
+	- Positive outcomes 
+- Bake in social justice
+- Soil health & fertility 
+- Water retention 
+- Honor bioregional boundaries and differences
+	- Cultural
+	- Socioeconomic 
+	- Physical: soil, water, climate 
+- Feeding ourselves
+- Chapter with 6 case studies of homes and communities growing food
+	- In-home hydroponics
+	- Community gardens
+	- Foodscaping
+	- Edible Landscapes
+- Titles?
+	- Food Revolt! 
+	- Fix Your Food (and Land)
+- References and resources (to meet, to do, to join)
