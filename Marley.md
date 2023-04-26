@@ -17,3 +17,6 @@ We refer to "books" with a big of tongue in cheek, because conventional books ar
 	- Constantly updated content that reflects our growing knowledge and understanding
 
 To co-write several intersecting books, we will need to develop [[Roles]], a [[Marley Work Flow]], a [[Design Bible]] and a [[Marley FAQ]] to explain outstanding questions. 
+
+PS: Our namesake:
+![[Marley.jpg]]

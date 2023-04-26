@@ -1,5 +1,7 @@
 # Possible QFB Outline:
 
+Part of the [[Quick First Book]] in project [[Marley]].
+
 - Who is our audience?
 	- Civilians/citizens/Muggles
 	- (vs the food industry, farmers, etc)
