@@ -1,6 +1,6 @@
 # Marley
 
-Although it has nothing to do with dogs or pets in general, this project is named Marley in honor of Stacey Druss's late shaggy dog of that name. We keep his memory going when we talk about this project. 
+Although it has nothing to do with dogs or pets in general, this project is named Marley in honor of Stacey Druss's late shaggy dog of that name (see below). We keep his memory going when we talk about this project. 
 
 Project Marley started with [[Pete's Original OGM Topics Proposal]], which was a challenge to OGM to write an edited volume book. That's a book where each chapter is contributed by a different writer, but the chapters together work as a book. 
 

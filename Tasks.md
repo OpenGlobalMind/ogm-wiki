@@ -2,9 +2,8 @@
 
 Last updated April 10, 2023
 
-- [x] [[Project Naming]] (from SenseDoing and OGM Topics)
-- [x] New temporary name: Marley (weir, cairn)
-- [ ] Reorg the wiki pages (Pete and Jerry by 4/18)
+- [x] Reorg the wiki pages (Pete and Jerry by 4/18)
+- [ ] Discuss Marley governance (Pete)
 - [x] Change project references to "Marley"
 - [x] Write description of Marley for Plex (Jerry by 4/18)
 - [x] On Fridays, set up reminder to OGM list for Monday Marley calls (Jerry on 4/14)
@@ -20,4 +19,6 @@ Last updated April 10, 2023
 - [ ] Define what metaphor(s) we want to use for overall structure here
 - [ ] Put out a call across OGM land (status update, new name, meeting times, channel)
 - [x] Demo Tools for Thought project tracker 
+- [x] [[Project Naming]] (from SenseDoing and OGM Topics)
+- [x] New temporary name: Marley (weir, cairn)
 
