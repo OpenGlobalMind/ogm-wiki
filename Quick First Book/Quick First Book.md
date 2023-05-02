@@ -5,12 +5,21 @@ The [[Marley]] project's first goal is to co-author a book in the manner of an [
 To achieve this, we need to:
 
 - [ ] Choose the QFB's topic and title
+	- Food Revolt! 
+	- Fix Your Food (and Land)
+	- Eating Within Our Bioregions: A Sustainable Food System
 - [ ] Find out who wants to contribute chapters
 - [ ] Flesh out the [[Design Bible]] so we agree on what a Marley work looks like
 - [ ] Design and assemble a [[Marley Publishing Infrastructure]] as part of the [[Marley Production Process]]
 
-[[Potential QFB Outline A]]
+Also see: [[Tasks]]
 
-[[Potential QFB Outline B]]
+## Pages in this folder
 
-
+- [[Draft Summary]]
+- [[Potential QFB Outline A]]
+- [[Potential QFB Outline B]]
+- Quick First Book (this page)
+- [[Related subsequent NeoBooks]]
+- [[Resources]]
+- [[What is a bioregion?]]

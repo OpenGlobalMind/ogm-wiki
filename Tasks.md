@@ -1,6 +1,6 @@
 # Tasks
 
-Last updated April 10, 2023
+*Last updated May 2, 2023. Needs gardening.*
 
 - [x] Reorg the wiki pages (Pete and Jerry by 4/18)
 - [ ] Discuss Marley governance (Pete)
