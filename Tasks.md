@@ -12,7 +12,7 @@ Last updated April 10, 2023
 	- [ ] Write abstracts for each book
 	- [ ] [[Book Team Template]]
 - [ ] Choose topic and contributors for [[Quick First Book]] 
-- [ ] Start developing the [[Marley Work Flow]]
+- [ ] Start developing the [[Marley Production Process]]
 - [ ] Write the [[Marley FAQ]] entry, "[[Aren't Books Dead]]?" (Jerry by 4/20)
 - [ ] Refine the [[Roles]] page 
 - [ ] Flesh out the [[Design Bible]]

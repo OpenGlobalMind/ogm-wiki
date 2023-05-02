@@ -1,4 +1,4 @@
-# Possible QFB Outline:
+# Potential QFB Outline A
 
 Part of the [[Quick First Book]] in project [[Marley]].
 

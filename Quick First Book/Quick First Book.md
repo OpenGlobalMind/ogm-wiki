@@ -7,6 +7,10 @@ To achieve this, we need to:
 - [ ] Choose the QFB's topic and title
 - [ ] Find out who wants to contribute chapters
 - [ ] Flesh out the [[Design Bible]] so we agree on what a Marley work looks like
-- [ ] Design and assemble a [[Marley Publishing Infrastructure]] as part of the [[Marley Work Flow]]
+- [ ] Design and assemble a [[Marley Publishing Infrastructure]] as part of the [[Marley Production Process]]
 
-[[Potential QFB Outline]]
+[[Potential QFB Outline A]]
+
+[[Potential QFB Outline B]]
+
+
