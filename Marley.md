@@ -8,7 +8,7 @@ Our first goal is to co-write a [[Quick First Book]], getting the basic elements
 
 After that book is published, we will escalate things, convening book-writing teams and exploring the book ideas' intersections, so the books might share "nuggets" of content. 
 
-We refer to "books" with a big of tongue in cheek, because conventional books are inert and obsolete. So:
+We refer to "books" with a bit of tongue in cheek, because conventional books are inert and obsolete. So:
 
 - Books are known cultural objects: shiny, attractive media that anyone can understand
 - Books serve as an inviting entry point to a vast array of captivating online resources, such as:
@@ -16,7 +16,11 @@ We refer to "books" with a big of tongue in cheek, because conventional books ar
 	- Further resources, should you want to act on a Nugget's advice 
 	- Constantly updated content that reflects our growing knowledge and understanding
 
-To co-write several intersecting books, we will need to develop [[Roles]], a [[Marley Production Process]], a [[Design Bible]] and a [[Marley FAQ]] to explain outstanding questions. 
+To co-write several intersecting books, we will need to develop [[Roles]], a [[Marley Production Process]], a [[Design Bible]] and a [[Marley FAQ]] to explain outstanding questions.
+
+We have notes from some of the [[Marley Meetings]].
+
+We intend to have project agreements based on Stewart Levine's [[ESSENTIAL ELEMENTS OF AGREEMENTS]].
 
 PS: Our namesake:
  
