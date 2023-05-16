@@ -16,9 +16,14 @@ Also see: [[Tasks]]
 
 ## Pages in this folder
 
+Also see: [[Vision and Intent Template 1]]
+
 - [[Draft Summary]]
+- [[Ideas to Consider for QFB Vision and Intent Process]]
 - [[Potential QFB Outline A]]
 - [[Potential QFB Outline B]]
+- [[QFB Sample New Member Onboarding Questionnaire]]
+- [[QFB Vision-Intent Starter A]]
 - Quick First Book (this page)
 - [[Related subsequent NeoBooks]]
 - [[Resources]]
