@@ -18,6 +18,7 @@ Also see: [[Tasks]]
 
 Also see: [[Vision and Intent Template 1]]
 
+- [[Bioregions and Food Sample Essay]]
 - [[Draft Summary]]
 - [[Ideas to Consider for QFB Vision and Intent Process]]
 - [[Potential QFB Outline A]]
