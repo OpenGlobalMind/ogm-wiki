@@ -67,7 +67,6 @@ The Concepts, Books, and Links sections were prepared by [[Peter Kaminski]] with
 20. [Wikipedia article on Fusion Torch](https://en.wikipedia.org/wiki/Fusion_torch) - Wikipedia
 21. [Kinematics analyses of Dodekapod - ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S0094114X0500008X) - ScienceDirect
 22. [Cradle to Cradle: Remaking the Way We Make Things book](https://mcdonough.com/cradle-to-cradle/) - McDonough
-
 23. [Cradle to Cradle product certification program](https://mbdc.com/) - MBDC
 24. [Ray Anderson’s restorative paradigm video](https://youtu.be/FEsewbG4UOo?t=131) - YouTube
 25. [The Upcycle book on Goodreads](https://www.goodreads.com/book/show/16066814-the-upcycle) - Goodreads
@@ -86,7 +85,6 @@ The Concepts, Books, and Links sections were prepared by [[Peter Kaminski]] with
 38. [Article: "North Atlantic El Nino"](https://www.independent.co.uk/climate-change/news/north-atlantic-el-nino-national-oceanic-and-atmospheric-administration-scientists-university-of-sussex-b2356711.html) - Independent.co.uk
 39. [Link to North Atlantic temperature graph on Twitter](https://twitter.com/EliotJacobson/status/1667571728984461312) - Twitter
 40. [JSON file for climate data](https://climatereanalyzer.org/clim/sst_daily/json/oisst2.1_natlan1_sst_day.json) - Climate Reanalyzer
-41. [Book: "Of Water and the Spirit" by Malidoma Patrice Somé](https://www.goodreads.com/book/show/244805.Of_Water_and_the_Spirit) - Goodreads
+41. [Book: "Of Water and the Spirit" by Malidoma Patrice Somé](https://www.goodreads.com/en/book/show/192354) - Goodreads
 42. [Proclamation by Ofelia Zepeda](https://www.poetryfoundation.org/poems/53448/proclamation) - Poetry Foundation
-
 43. [Proclamation for Peace, by Kim Stafford](https://www.kimstaffordpoet.com/kim-stafford-poems-with-prompts) - Kim Stafford Website
