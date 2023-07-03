@@ -18,7 +18,6 @@ Longer term issues are on the [[Marley Roadmap]].
 - Reorg the wiki pages: create a Marley folder
 	- define the folder structure we want
 	- actually move the files
-- Announce Stewart's call segment to OGM community (Jerry)
 - In the wiki, change QFB to "Food Revolt"
 
 ## Doing
@@ -37,3 +36,5 @@ _currently empty_
 - [x] Demo Tools for Thought project tracker 
 - [x] [[Project Naming]] (from SenseDoing and OGM Topics)
 - [x] New temporary name: Marley (weir, cairn)
+- [x] Announce Stewart's call segment to OGM community (Jerry)
+
