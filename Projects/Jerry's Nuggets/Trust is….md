@@ -6,7 +6,7 @@ Trust is foundational, specific, built over time, indirect, emergent, transitive
 
 We are social creatures, born to learn and cooperate. Trust is the catalyst that enables that cooperation. 
 
-**Specific**: I would trust my friend David Reed with my vote on any issue in the realm of telecommunications. He could confidently vote my proxy in that domain. But I have no idea if I could trust him to cook a dinner for 20 people. 
+**Specific**: For example, I would trust my friend David Reed with my vote on any issue in the realm of telecommunications. He could confidently vote my proxy in that domain. But I have no idea if I could trust him to cook a dinner for 20 people. 
 
 Shift domains and your quanta of trust shift. I know several absent-minded friends you wouldn’t want to trust with small children. 
 

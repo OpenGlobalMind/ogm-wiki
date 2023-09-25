@@ -1,6 +1,6 @@
 # Aren't Books Dead?
 
-Books are great things: containers of knowledge, durable artifacts of culture, annotateable inspirations, and more. 
+Books are great things: containers of knowledge, durable artifacts of culture, annotatable inspirations, and more. 
 
 But books are inert. They don't make it easy to put the knowledge they contain to work. They aren't updated often. In digital form, we overprotect their contents with Digital Rights Management software. 
 
