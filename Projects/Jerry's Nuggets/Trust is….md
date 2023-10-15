@@ -51,3 +51,4 @@ To explore that point, imagine for a moment that you lived in the former East Ge
 Because the possible punishments for stepping outside the official system include imprisonment or worse, the stakes in these underground networks are very high. Those high stakes pressure-test trust between individuals. They anneal it and strengthen it, to the point where once the high stakes are gone and life is more “normal,” say after the fall of the Iron Curtain, people may become nostalgic for the bygone era, however dysfunctional it may have been. 
 
 This is one reason soldiers miss war.
+
