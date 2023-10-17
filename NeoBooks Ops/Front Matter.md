@@ -1,6 +1,6 @@
-# DfT Front Matter
+# Front Matter (generic)
 
-Customize these, and make each a linked page: 
+Many parts are optional, but generally, front matter includes ([source]()): 
 
 1. **Book half-title page:** A half-title page displays only the main title of the book, excluding all other information.
 2. **Series-title page or frontispiece:** A series title page lists the series title and volume number, and may list other books in the series. A frontispiece is an illustration that sits opposite the title page.
@@ -13,5 +13,6 @@ Customize these, and make each a linked page:
 9. **List of tables:** The list of tables can be included as part of the list of illustrations when there are fewer tables than illustrations. However, when there are more tables than illustrations, the list of tables can stand on its own.
 10. **Foreword:** The foreword is a short piece written by someone other than the author. It lends credibility to the author, since the foreword is commonly written by someone who's already well-known and established in his or her field.
 11. **Preface:** Different from the foreword, the preface is the author's statement about the work, including why he or she wrote it, research or writing methods used, or how it came to fruition. The author may include acknowledgments in this section.
-12. **Introduction (if not included in text):** Introductions are usually included in the main text of the book; however, in some cases (for example, when the introduction is written by someone other than the author) it should be included in the front matter.
+12. **Acknowledgements (if not in preface):** This is where the author formally thanks all the people who contributed to the book in one way or another, including researching, coaching, editing, pitching, publishing, or providing moral support. The acknowledgments may alternatively be placed at the beginning of the back matter.
+13. **Introduction (if not included in text):** Introductions are usually included in the main text of the book; however, in some cases (for example, when the introduction is written by someone other than the author) it should be included in the front matter.
 14. **Abbreviations (if not back matter):** When many abbreviations are used throughout a book, a list may be useful. The list can be placed in the back matter if the abbreviations are only used in the back matter.
