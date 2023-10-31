@@ -5,9 +5,14 @@ This book has a double introduction because it is a new kind of book, a thing we
 [[DfT Front Matter]]  
 [[NeoBooks Intro]]  
 [[DfT Introduction]]  
-[[Design from Mistrust]]  
 
+[[Examples of Design from Trust]]  
+[[Recurring Patterns of Design from Trust]]  
+[[Benefits of Design from Trust]]  
+[[Design from Mistrust]]  
 [[Trust is…]]  
-[[Acknowledgements]]  
+
+
 [[DfT Back Matter]]  
 
+DfT: The Crazy Optimist’s Guide to Fixing Everything

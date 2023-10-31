@@ -36,5 +36,5 @@ Nuggets are really powerful:
 - As social documents, nuggets contribute to [[Collective Intelligence]].
 - Nuggets are [composable](https://en.wikipedia.org/wiki/Composability) (reusable in other narratives or NeoBooks)
 
-To create an eBook, we roll these nuggets up in the order dictated by a Table of Contents, add front matter and back matter, then use software that exports documentation and books. (Lots more on creating your own NeoBook [[Creating a NeoBook|here]].)
+To create an eBook, we roll these nuggets up in the order dictated by a Table of Contents, add front matter and back matter, then use software that exports documentation and books. (Lots more on creating your own NeoBook [[Creating a NeoBook (start here)|here]].)
 
