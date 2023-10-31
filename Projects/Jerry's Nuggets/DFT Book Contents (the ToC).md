@@ -2,6 +2,8 @@
 
 This book has a double introduction because it is a new kind of book, a thing we explain before we enter the topic of the book.
 
+[[DfT Cover Art]]
+[[DfT Title]]
 [[DfT Front Matter]]  
 [[NeoBooks Intro]]  
 [[DfT Introduction]]  
@@ -15,4 +17,3 @@ This book has a double introduction because it is a new kind of book, a thing we
 
 [[DfT Back Matter]]  
 
-DfT: The Crazy Optimist’s Guide to Fixing Everything
