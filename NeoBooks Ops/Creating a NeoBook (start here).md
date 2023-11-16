@@ -1,6 +1,7 @@
 # Creating a NeoBook
 
 
+First, read [[NeoBooks Intro]]
 
 [[Thinking like a NeoBook]]  
 [[Setting Up to Write a NeoBook]] (Obsidian, Github, etc.)  
