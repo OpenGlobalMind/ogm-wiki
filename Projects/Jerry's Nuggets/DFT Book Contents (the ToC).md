@@ -13,7 +13,7 @@ This book has a double introduction because it is a new kind of book, a thing we
 [[Benefits of Design from Trust]]  
 [[Design from Mistrust]]  
 [[Trust is…]]  
-
+[[Not Naïve Trust]]
 
 [[DfT Back Matter]]  
 
