@@ -15,7 +15,7 @@ Along the way, I discovered I was consistently describing things that materializ
 - In 1995, Newsweek called me a “software seer”
 - In 1997, I Saw Buddy Lists as the Future of Interpersonal Communications
 - In 1997, My "Fridge Door" Showed up as Wikis and Family Apps Later
-- My Law of Convenience May Have Inspired Bezos’s 1-click Ordering
+- My Law of Convenience May Have Inspired Bezos’s 1-Click Ordering
 
 Here are these stories [in my Brain](https://bra.in/5joJr5). 
 

@@ -4,9 +4,9 @@ Trust is foundational, specific, built over time, indirect, emergent, transitive
 
 **Foundational**: We are social creatures. We wouldn’t make it very far without other humans. Many of our brains have been overtaken by a narrative that life is nasty, brutish and short, and that if only we all pursue our greedy self-interest, an invisible hand will guide the larger economy to an equilibrium. That’s all hogwash. 
 
-We are social creatures, born to learn and cooperate. The invisible hand is a convenient fiction, invented to make an unstable system seem more stable. Trust is the catalyst that enables that cooperation. 
+Again, we are social creatures, born to learn and cooperate. The invisible hand is a convenient fiction, invented to make an unstable system seem more stable. Trust is the catalyst that enables that cooperation. Without collaboration, the system is inherently unstable. 
 
-**Specific**: For example, I would trust my friend David Reed with my vote on any issue in the realm of telecommunications. He could confidently vote my proxy in that domain. But I have no idea if I could trust him to cook a dinner for 20 people. 
+**Specific**: For example, I would trust my friend David Reed with my vote on any issue in the realm of telecommunications. He could confidently vote my proxy in that domain. But I have no idea if I could trust him to cook a dinner for 10 people. 
 
 Shift domains and your quanta of trust shift. I know several absent-minded friends you wouldn’t want to trust with small children. 
 

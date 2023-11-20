@@ -22,19 +22,20 @@ This NeoBook is an act of [[Level Up Media|leveling up media]], one of many we'r
 
 We think of the ideas that compose this NeoBook as "nuggets" that we string together in playlists to create narratives. On top of that, a collection of narratives becomes a Point of View (see [Nuggets, Narratives and Points of view](http://www.youtube.com/watch?v=EmId2x6JSQE&feature=related)). 
 
-Nuggets are really powerful:
-- Nuggets live in the open. They are open content. 
-- They live on Github (for now), which gives us several features:
-	- Every version and change is tracked and available.
-	- We can improve each Nugget over time, as a social document.
-- As hypertexts, nuggets can be woven into their context with links and more.
-- Those links can include:
-	- Further reading
-	- Resources to take action
-	- Communities and conversations you can join now
-	- Metadata! 
-- As social documents, nuggets contribute to [[Collective Intelligence]].
-- Nuggets are [composable](https://en.wikipedia.org/wiki/Composability) (reusable in other narratives or NeoBooks)
+Nuggets are really powerful: 
+
+- Nuggets live in the open. They are open content.  
+- They live on Github (for now), which gives us several features:  
+	- Every version and change is tracked and available.  
+	- We can improve each Nugget over time, as a social document.  
+- As hypertexts, nuggets can be woven into their context with links and more.  
+- Those links can include:  
+	- Further reading  
+	- Resources to take action  
+	- Communities and conversations you can join now  
+	- Metadata!  
+- As social documents, nuggets contribute to [[Collective Intelligence]].  
+- Nuggets are [composable](https://en.wikipedia.org/wiki/Composability) (reusable in other narratives or NeoBooks)  
 
 To create an eBook, we roll these nuggets up in the order dictated by a Table of Contents, add front matter and back matter, then use software that exports documentation and books. (Lots more on creating your own NeoBook [[Creating a NeoBook (start here)|here]].)
 
