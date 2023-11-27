@@ -12,7 +12,6 @@ Higher-level (societal) goals:
 - Rebuild trust
 - Rebuild community
 - Use technology to augment humans, not replace them
-- [[Level up Media]]
 
 Important questions (see [map](https://bra.in/4j4mGv)):
 
@@ -21,8 +20,9 @@ Important questions (see [map](https://bra.in/4j4mGv)):
 
 Pragmatic goals:
 
-- Prototyping Shared Memory 
-- Publishing NeoBooks to attract people to their better online versions
-- Pioneering Design from Trust
-- Seeding The Big Fungus
+- [[Level up Media|Leveling up Media]]
+	- Prototyping Shared Memory 
+	- Publishing [[NeoBooks Intro|NeoBooks]] to attract people to their better online versions
+- Pioneering [[Design from Trust]]
+- Seeding [[The Big Fungus 2]]
 - 
