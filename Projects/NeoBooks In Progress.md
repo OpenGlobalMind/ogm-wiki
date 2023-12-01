@@ -8,5 +8,5 @@ Rick's NeoBook
 
 [[Jerry's NeoBooks]] 
 
-For background, visit [[NeoBooks Intro]] and [[Creating a NeoBook (start here)]]
+For background, visit [[NeoBooks Introduction]] and [[Creating a NeoBook (start here)]]
 

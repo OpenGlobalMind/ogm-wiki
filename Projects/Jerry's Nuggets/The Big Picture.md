@@ -22,7 +22,7 @@ Pragmatic goals:
 
 - [[Level up Media|Leveling up Media]]
 	- Prototyping Shared Memory 
-	- Publishing [[NeoBooks Intro|NeoBooks]] to attract people to their better online versions
+	- Publishing [[NeoBooks Introduction|NeoBooks]] to attract people to their better online versions
 - Pioneering [[Design from Trust]]
 - Seeding [[The Big Fungus 2]]
 - 

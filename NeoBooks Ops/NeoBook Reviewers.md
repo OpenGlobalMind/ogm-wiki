@@ -8,4 +8,4 @@ At this point, we're not doing line edits or anything that detailed. We'd like t
 
 We're meeting Mondays at 10:30am PT in [my Zoom](https://us02web.zoom.us/j/4154650256?pwd=Zm5DWGRJcmFmZGtBMmI1Wkx2WUQyZz09), if you want to join. Our Mattermost channel is [here](https://chat.collectivesensecommons.org/agora/channels/ogm-sensedoing). 
 
-And [[NeoBooks Intro|this page]] describes NeoBooks, so you can grok the thing we're aiming for.
+And [[NeoBooks Introduction|this page]] describes NeoBooks, so you can grok the thing we're aiming for.

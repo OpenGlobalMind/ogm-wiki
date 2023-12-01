@@ -5,7 +5,7 @@ This book has a double introduction because it is a new kind of book, a thing we
 [[DfT Cover Art]]
 [[DfT Title]]
 [[DfT Front Matter]]  
-[[NeoBooks Intro]]  
+[[NeoBooks Introduction]]  
 [[DfT Introduction]]  
 
 [[Examples of Design from Trust]]  
