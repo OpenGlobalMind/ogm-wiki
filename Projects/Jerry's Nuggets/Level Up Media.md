@@ -14,7 +14,7 @@ The Copyright Industries will fight this.
 Our early experiments to level up media include:
 
 - NeoBooks
-- Curating The Big Fungus Together
+- Curating [[The Big Fungus 2]] Together
 - A Meta Pattern Language
 
 

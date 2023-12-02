@@ -3,26 +3,38 @@
 Back to Nuggets, which are really powerful: 
 
 - Nuggets live in the open. They are open content.  
-- These Nuggets live on Github (for now), which gives us several features:  
+- These Nuggets live on Github (for now), which gives us several capabilities:  
 	- Every change is tracked and available through Github's version-control features.  
 	- We can improve each Nugget over time, as a social document, via Github's [[Fork and Pull]] method.  
 - Because they are hypertexts, Nuggets can be woven into their context with links and more.  
 - Those links can include:  
-	- Further reading  
+	- Metadata!  
 	- Broader context  
+		- Further reading  
+		- Relevant Thoughts in Jerry's Brain  
 	- Parallel versions of the same Nugget  
 		- in different languages  
 		- in different levels of difficulty  
+		- with more (or less) explanation or examples  
 		- in different modes or media  
+			- as a slide in a presentation
+			- as a segment of video  
+			- as a graphic novel or animation  
 		- published in mainstream media  
-	- Source data, with analytic tools  
-	- Resources to take action  
-	- In-place chat or comments  
-	- Communities and conversations you can join now  
-	- Metadata!  
+		- in other NeoBooks  
+	- Conversations  
+		- In-place chat or comments  
+		- Communities and conversations you can join now  
+	- Get more involved  
+		- Improve this Nugget: offer edits  
+		- Use this Nugget in your own NeoBook  
+		- Fork this Nugget and make it your own  
+		- Source data, with analytic tools  
+		- Resources to take action  
 	- Software that instantiates what the Nuggets say  
 		- (compare to how GPTs might do this; add page about GPTs; Emily Bender tweet)
-	- Other NeoBooks this Nugget is in (or narratives, etc)  
+	- Chatbots that let you talk to this and other Nuggets  
 	- Prompts for GPT  
 - As social documents, nuggets contribute to [[Collective Intelligence]].  
 - Nuggets are [composable](https://en.wikipedia.org/wiki/Composability) They are reusable in other narratives or NeoBooks.  
+- A wish: A memorable trope (like Cut, Copy Paste, Undo) that helps us orient ourselves to all these possibilities. 
