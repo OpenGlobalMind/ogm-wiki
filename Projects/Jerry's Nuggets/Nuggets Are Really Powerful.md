@@ -21,6 +21,7 @@ Back to Nuggets, which are really powerful:
 			- as a segment of video  
 			- as a graphic novel or animation  
 		- published in mainstream media  
+		- mentions in other media  
 		- in other NeoBooks  
 	- Conversations  
 		- In-place chat or comments  

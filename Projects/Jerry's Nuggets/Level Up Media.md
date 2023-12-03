@@ -9,12 +9,12 @@ We're at a moment where we can level up, transforming media.
 
 Leveling up media will help us [[Save Civilization]] together.
 
-The Copyright Industries will fight this.
+The Copyright Industries will likely fight this.
 
 Our early experiments to level up media include:
 
 - NeoBooks
-- Curating [[The Big Fungus 2]] Together
+- Curating [[The Big Fungus]] Together
 - A Meta Pattern Language
 
 
