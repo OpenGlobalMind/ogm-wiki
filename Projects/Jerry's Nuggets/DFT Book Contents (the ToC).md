@@ -1,6 +1,6 @@
 # DfT Book Contents
 
-This book has a double introduction because it is a new kind of book, a thing we explain before we enter the topic of the book.
+This book has a double introduction because it is a new kind of book, a NeoBook, a concept I explain before we enter the principal topic of the book.
 
 [[DfT Cover Art]]
 [[DfT Title]]
@@ -15,6 +15,7 @@ This book has a double introduction because it is a new kind of book, a thing we
 [[Trust is…]]  
 [[Not Naïve Trust]]  
 [[Reality Check]]  
+[[Implementing Design from Trust]]
 
 [[DfT Back Matter]]  
 

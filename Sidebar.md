@@ -3,13 +3,8 @@ This site is a [[Work In Progress]]
 # Site Navigation
 
 [[README|Home]]  
-
-[[Blogs]]  
-[[Brain]]  
-[[Literary and Media References]]
-[[Marley]]  
-[[Rel8 Mid-Term Goals]]  
-
+[[NeoBooks In Progress]]  
+[[Creating a NeoBook (start here)]]  
 [[Admin and Help]]  
 
 <!-- Comment not rendered visibly to web
