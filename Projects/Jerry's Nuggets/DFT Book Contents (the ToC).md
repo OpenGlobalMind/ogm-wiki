@@ -13,9 +13,8 @@ This book has a double introduction because it is a new kind of book, a NeoBook,
 [[Benefits of Design from Trust]]  
 [[Design from Mistrust]]  
 [[Trust is…]]  
-[[Not Naïve Trust]]  
 [[Reality Check]]  
-[[Implementing Design from Trust]]
+[[Implementing Design from Trust]]  
 
 [[DfT Back Matter]]  
 

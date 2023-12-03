@@ -6,5 +6,8 @@ Jerry is working on:
 
  - [[Design from Trust (NeoBook)]]
  - [[What If We Trusted You (NeoBook)]]
- - Trust Is the Only Way Forward (NeoBook)
+ - [[Trust Is the Only Way Forward (NeoBook)]]
+ - [[NeoBooks (NeoBook)]]  
+
+
 
