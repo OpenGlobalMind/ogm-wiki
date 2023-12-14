@@ -10,6 +10,8 @@ Deep multiplayer sensemaking likely involves this heterogeneous cooperation. In 
 
 Related topics:
 
-- [[Seamful Design]]
-- [[Separate Applications from Data]]
-- [[Level up Media]]
+- [[Seamful Design]]  
+- [[Separate Applications from Data]]  
+- [[Level up Media]]  
+
+ 
