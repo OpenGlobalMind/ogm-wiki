@@ -6,7 +6,7 @@ I could spend a lot more energy convincing you of all this, but I'd be echoing a
 
 Many folks claim to know where the solution lies: Education! Legislation! Science! Innovation! Entrepreneurship! I don't think it's any one of these. They're all involved, but not the places or institutions that will catalyze the positive changes we need. For example, science is super useful, but we can't science our way out of our current messes. 
 
-The underrated point of leverage is trust. This book is an attempt to explain why and how. Along the way, we will explain and explore the notion of Design from Trust, which is one way of rebuilding trust and redesigning our norms, systems and institutions. 
+The underrated point of leverage is trust. This book explains why and how. In addition, we will explain and explore the notion of Design from Trust, which is one way of rebuilding trust and redesigning our norms, systems and institutions, which are mostly designed from mistrust. 
 
 You have already experienced Design from Trust. If you've used the Internet, Airbnb, Wikipedia or Open Source Software; lent money through Kiva or other small-loan lenders; or explored workplace democracy, unconferences or unschooling, you've touched Design from Trust. 
 
