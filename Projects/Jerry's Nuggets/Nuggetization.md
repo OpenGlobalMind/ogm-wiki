@@ -6,9 +6,11 @@
 
 The process of "Nuggetization" is the process of composing Nuggets so they fit well in the flow of the NeoBook they are originally meant for, but also are well suited for inclusion in future works, including others' works. That means you're writing with the possibility of multiple contexts surrounding your Nugget, which in turn means writing in a way that is relatively self-contained. 
 
-Nugget boundaries. 
+If you've ever contributed to creating a wiki, you know that there's a skill to "[[Writing Wikily]]."  
 
-Open question: distinguishing between Nuggets you want included in the flow and Nuggets you want to keep as links the reader might optionally follow. 
+Nuggetization requires deciding on Nugget boundaries. 
+
+An open question: distinguishing between Nuggets you want included in the flow and Nuggets you want to keep as links the reader might optionally follow. 
 
 
 
