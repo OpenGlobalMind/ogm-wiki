@@ -6,7 +6,7 @@ Fungi offer rich, evocative, funny metaphors about symbiosis and collaboration i
 - [[Leaf-Cutter Ants Can't Digest Leaves]]. So Why Are They Taking Leaves to Their Nests?
 - [[Mushrooms Externalize Their Digestion]]
 - [[Fungi are the Principal Decomposers in Ecological Systems]]
-- [[Mushrooms for Bioremediation]]
+- [[Mycoremediation]]
 - [[Mushrooms Are the Fruiting Bodies of Mycelium]], (so [[NeoBooks are Mushrooms of The Big Fungus]])
 - [[Hyphae Connect]]
 - [[Fungi Can Be Huge]]
