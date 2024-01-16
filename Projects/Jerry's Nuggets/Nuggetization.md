@@ -12,5 +12,6 @@ Nuggetization requires deciding on Nugget boundaries.
 
 An open question: distinguishing between Nuggets you want included in the flow and Nuggets you want to keep as links the reader might optionally follow. 
 
+[[Fabulous Fungal Metaphors]]
 
 

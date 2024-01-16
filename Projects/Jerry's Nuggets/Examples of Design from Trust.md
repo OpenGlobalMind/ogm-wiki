@@ -1,6 +1,6 @@
 # Examples of Design from Trust
 
-Here are familiar things that are designed from trust: 
+These familiar things are designed from trust: 
 
  - [[The Internet]]
  - [[Wikipedia]]

@@ -4,4 +4,4 @@ Everything we've written so far is about one person writing a NeoBook. But what 
 
 NeoBooks are social documents, from co-creation to comments, edits and improvements, and re-use. 
 
-Each of those depends 
+Each of those depends tktk
