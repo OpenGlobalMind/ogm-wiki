@@ -26,7 +26,7 @@ Because I promised to skip the mess early on, I'll leave explaining these forces
 
 > People are generally more trustworthy than we think they are. 
 
-On a big stage at SXSW (South by SouthWest, an annual conference in Austin) around 2005, Craig Newmark and Jimmy Wales interviewed each other. Craig is the namesake and founder of Craigslist; Jimmy is the founder of Wikipedia. During the course of their 90 minutes onstage, each of them said a version of the sentence I just dropped. Their experience was that bad actors exist, but they are outnumbered by people who just want to help make the system work properly. 
+On a big stage at SXSW (South by SouthWest, an annual conference in Austin) around 2005, Craig Newmark and Jimmy Wales interviewed each other. Craig is the namesake and founder of Craigslist; Jimmy is the founder of Wikipedia. During the course of their 90 minutes onstage, each of them said a version of the sentence I just cited. Their experience was that bad actors exist, but they are outnumbered by people who just want to help make the system work properly. 
 
 Throughout humans' brief time on Earth, we have been trying to figure out how to live better — together. I set "together" apart in the previous sentence because we're such an individualistic culture, marinaded for so long in a "greed is good" ethos, that it's easy to interpret the first part of the sentence as a quest for individual improvements. 
 

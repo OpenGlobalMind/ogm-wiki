@@ -1,6 +1,6 @@
 ## What Are "Tools for Thinking"?
 
-Arguably, we think when we write, so tools like Evernote, OneNote, WordPress, Medium and even Notepad could be called Tools for Thinking. But they’re not, for our purposes. Neither is simple linky text, which is a big improvement over plain text. 
+Arguably, we think when we write, so tools like Evernote, OneNote, WordPress, Medium and even Notepad could be called Tools for Thinking. But for our purposes, they’re not. Neither is simple linky text, which is a big improvement over plain text. 
 
 Tools for Thinking add value to notetaking in one or several dimensions:
 
