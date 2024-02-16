@@ -8,7 +8,7 @@ In these early calls, we debated the word "governance" (coordination? co-regulat
 
 Our call schedule going forward (all calls last one hour, in [this Zoom](https://us02web.zoom.us/j/4154650256?pwd=Zm5DWGRJcmFmZGtBMmI1Wkx2WUQyZz09), starting at 10am PT): 
 
-- Feb. 15
+- [Feb. 15](https://bra.in/4pD5an)
 - Feb. 22
 - skip one week
 - March 7
