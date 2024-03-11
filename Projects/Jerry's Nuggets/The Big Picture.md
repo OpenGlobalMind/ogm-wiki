@@ -6,8 +6,8 @@ Higher-level (societal) goals:
 
 - Reduce global conflicts
 - Help humans make better decisions together
-	- Liberate and instrument ideas
-	- Facilitate comparison of points of view and sharing of experiments
+	- Liberate ideas, then instrument them  
+	- Facilitate comparison of points of view and sharing of experiments  
 - Help humans design better systems 
 - Rebuild trust
 - Rebuild community
@@ -20,9 +20,10 @@ Important questions (see [map](https://bra.in/4j4mGv)):
 
 Pragmatic goals:
 
-- [[Level up Media|Leveling up Media]]
-	- Prototyping Shared Memory 
+- [[Level up Media|Leveling up Media]]  
+	- Prototyping Shared Memory  
 	- Publishing [[NeoBooks Introduction|NeoBooks]] to attract people to their better online versions
 - Pioneering [[Design from Trust]]
 - Seeding [[The Big Fungus]]
-- 
+
+Explaining The Big Picture through [[Intertwingled Narratives]].
