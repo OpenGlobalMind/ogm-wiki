@@ -4,7 +4,7 @@ Design from Trust is not meant to imply that one should give blind trust to ever
 
 [[Portland's Tale of Woe Around Drug Decriminalization]]
 
-[[Being Defenseless vs Being Undefended]]
+[[Be Undefended, Not Defenseless]]
 
 [[Design from Trust Requires Thoughtful Design]]
 

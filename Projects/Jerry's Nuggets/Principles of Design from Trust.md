@@ -1,13 +1,15 @@
 # Principles of Design from Trust
 
-[[Assume Good Faith]] (Intent)  
+[[Assume Good Faith]]  
 [[Be Undefended, Not Defenseless]]  
 [[Choose Abundance]]  
+[[Citizens, Not Consumers]]  
 [[Knowledge Should Accumulate]]  
-[[Make the Right Thing Easy To Do]]  
-[[Nothing About Us Without Us]] (Nihil de nobis, sine nobis)  
 [[Lift as We Climb]]  
-[[Some Risk Stimulates Interdependence]] (risk connects us)  
+[[Make the Right Thing Easy To Do]]  
+[[Not Naïve Trust]]  
+[[Nothing About Us Without Us]]  
+[[Some Risk Stimulates Interdependence]]  
 [[Subsidiarity]] (local knows best)  
 [[Trust Is Participatory]]  
 
