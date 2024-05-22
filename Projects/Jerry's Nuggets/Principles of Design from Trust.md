@@ -5,7 +5,7 @@
 [[Choose Abundance]]  
 [[Citizens, Not Consumers]]  
 [[Knowledge Should Accumulate]]  
-[[Lift as We Climb]]  
+[[Lifting as We Climb]]  
 [[Make the Right Thing Easy To Do]]  
 [[Move Upstream Until Your Actions Can be Effective]]  
 [[Not Naïve Trust]]  

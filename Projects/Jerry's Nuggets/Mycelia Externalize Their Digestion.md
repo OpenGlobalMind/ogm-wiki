@@ -1,4 +1,4 @@
-# Mushrooms Externalize Their Digestion
+# Mycelia Externalize Their Digestion
 
 The 
 
