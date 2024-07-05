@@ -1,6 +1,6 @@
 # Reality Check
 
-Some of you, dear readers, are likely thinking, "What planet is Jerry from? Design from Trust? Doesn't he see the mess we're in? Doesn't he see how broken trust is?" I don't blame you. 
+Some of you, dear readers, may be thinking, "What planet is Jerry from? Design from Trust? Srsly? Doesn't he see the messes we're in? [[The Polycrisis]]? The Metacrisis? Doesn't he see how broken trust is?" I don't blame you if those thoughts showed up right away. 
 
 Not only have institutions of various kinds been losing our trust on their own (think Boeing's 737 Max mess, )
 
@@ -8,5 +8,5 @@ Building a strategy around trust in such low-trust times must seem like a fool's
 
 Or is it? 
 
-[[Not Naïve Trust]]  
+This is [[Not Naïve Trust]]  
 

@@ -1,5 +1,6 @@
 # GPT-4o Riffs on Fungal Ideas
 
+Fits with [[Fabulous Fungal Metaphors]] and [[The Big Fungus]].
 ## Prompt: Fungi are different from the animal and plant kingdoms, right? can you explain where fungi fit and how they're different?
 
 Yes, fungi are indeed different from the animal and plant kingdoms. They belong to their own separate kingdom called Fungi. Here's a breakdown of how fungi fit into the classification of life and how they differ from plants and animals:
