@@ -1,0 +1,7 @@
+# Finding Your GenAI Advisors
+
+GenAI is a pretty [[This Changes Everything!|big deal]]. 
+
+Implementing it is going to be a complex endeavor, affecting not only your company's offers, but also its structure, hiring, job descriptions, work processes, and even its strategy. 
+
+You are likely going to need help with these transformations from more than one person or company. 
