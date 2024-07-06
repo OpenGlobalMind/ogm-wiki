@@ -1,0 +1,2 @@
+# The NeoBooks Manifesto
+
