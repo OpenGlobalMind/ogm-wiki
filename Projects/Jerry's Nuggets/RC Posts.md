@@ -3,6 +3,9 @@
 Context Posts
 - On Constraints and Strategy 
 - A Map to This Project 
+- My Missions
+- The RC Substack
+- 
 
 GenAI Posts (#GenAI)
 - [[This Changes Everything!]] 
@@ -15,9 +18,13 @@ Design from Trust Posts (#DesignfromTrust)
 - [[Oh Advertisers 2]] (done) 
 
 Stories of Constraints
+- The Dark Side of RC
+- Design from Trust Case Studies
+- 
 
-Big Picture Posts
+[[The Big Picture]] Posts
 - History as a Story of Constraints 
+- [[This Project's Goals]] 
 
 NeoBooks Posts
 - [[The Unwritten Laws of Books]] 
@@ -32,7 +39,7 @@ Joy Line Posts (#JoyLine)
 Current Events Posts 
 - 
 
-Big Fungus Posts (#TheBigFungus)
+[[The Big Fungus]] Posts (#TheBigFungus)
 
 
 All part of [[Rethink Constraints]].
