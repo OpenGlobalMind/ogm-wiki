@@ -4,12 +4,13 @@ Context Posts
 - On Constraints and Strategy 
 - A Map to This Project 
 - My Missions
-- The RC Substack
+- About This Substack
 - 
 
 GenAI Posts (#GenAI)
 - [[This Changes Everything!]] 
-- [[Finding Your GenAI Advisors]]
+- [[Finding Your GenAI Advisors]] 
+- [[GenAI's Mixed Blessings]] 
 
 Design from Trust Posts (#DesignfromTrust)
 - How Is Trust an Important Constraint? 

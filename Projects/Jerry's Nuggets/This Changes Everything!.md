@@ -1,8 +1,10 @@
 # This Changes Everything!
 
+*We in tech owe you an apology.*
+
 For many years, the tech business has been distracting you with promises of utopia. One technology after another has been celebrated as the best ever, with pitches and headlines proclaiming the equivalent of "This changes everything!"
 
-Personal computers, the Internet, Open Source software, the Web and Smartphones were all real and huge, if perhaps they missed bringing Utopia closer. 
+Yes, personal computers, the Internet, Open Source software, the Web and Smartphones were all real and huge, if perhaps they missed bringing Utopia much closer. 
 
 But many other themes fell way short. Remember:
 

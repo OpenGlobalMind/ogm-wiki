@@ -1,6 +1,6 @@
 # In medias res
 
-This latin phrase means "into the middle of things," and that's where I'm starting. 
+This Latin phrase means "into the middle of things," and that's where I'm starting. 
 
 
 
