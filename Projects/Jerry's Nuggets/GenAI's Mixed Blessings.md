@@ -1,6 +1,6 @@
 # GenAI's Mixed Blessings
 
-One of the harbingers of GenAI's recent explosion on the world stage was the 2016 Go match between Lee Sedol, the world's top-ranked Go player, and AlphaGo, a neural network trained on historic Go games (Go is an ancient board game more complicated than chess). The New York Times just posted [this thoughtful interview](https://www.nytimes.com/2024/07/10/world/asia/lee-saedol-go-ai.html?unlocked_article_code=1.6E0.nYgx.dwnjoCDEc1wR&smid=url-share) with him (gift link).
+One of the harbingers of GenAI's recent explosion on the world stage was the 2016 Go match between Lee Sedol, the world's top-ranked Go player, and AlphaGo, a neural network trained on historic Go games ([Go](http://en.wikipedia.org/wiki/Go_(board_game)) is an ancient board game more complicated than chess). The New York Times just posted [this thoughtful interview](https://www.nytimes.com/2024/07/10/world/asia/lee-saedol-go-ai.html?unlocked_article_code=1.6E0.nYgx.dwnjoCDEc1wR&smid=url-share) with him (gift link).
 
 One bittersweet note is about AI's effects on creativity and personality:
 
@@ -28,4 +28,4 @@ Disappeared? I have a hunch we'll be perceiving creativity, originality and inno
 
   
 
-This post also exists here on LinkedIn. 
+This post also exists [here](https://www.linkedin.com/pulse/genais-mixed-blessings-jerry-michalski-sdvac) on LinkedIn and [here](https://bra.in/7jQRoE) in Jerry's Brain. 
