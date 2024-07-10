@@ -1,12 +1,12 @@
 # GenAI's Mixed Blessings
 
-One of the harbingers of GenAI's recent explosion on the world stage was the 2016 Go match between Lee Sedol, the world's top-ranked Go player, and AlphaGo, a neural network trained on historic Go games ([Go](http://en.wikipedia.org/wiki/Go_(board_game)) is an ancient board game more complicated than chess). The New York Times just posted [this thoughtful interview](https://www.nytimes.com/2024/07/10/world/asia/lee-saedol-go-ai.html?unlocked_article_code=1.6E0.nYgx.dwnjoCDEc1wR&smid=url-share) with him (gift link).
+One of the harbingers of Generative AI's recent explosion on the world stage was the 2016 Go match between Lee Sedol, the world's top-ranked Go player, and AlphaGo, a neural network trained on historic Go games ([Go](http://en.wikipedia.org/wiki/Go_(board_game)) is an ancient board game more complicated than chess). The New York Times just posted [this thoughtful interview](https://www.nytimes.com/2024/07/10/world/asia/lee-saedol-go-ai.html?unlocked_article_code=1.6E0.nYgx.dwnjoCDEc1wR&smid=url-share) with him (gift link).
 
 One bittersweet note is about AI's effects on creativity and personality:
 
 > Mr. Lee had a hard time accepting the defeat. What he regarded as an art form, an extension of a player’s own personality and style, was now cast aside for an algorithm’s ruthless efficiency. “I could no longer enjoy the game,” he said. “So I retired.”
 
-In recent conversations, several friends rue the coming tsunami of written materials with no distinct human author: no individual whose background, beliefs, passions and skills inhabit and shape a written piece.
+In recent conversations, several friends have rued the coming tsunami of written materials with no distinct human author: no individual whose background, beliefs, passions and skills inhabit and shape an specific AI-written piece.
 
 Ironically, GenAI is so good because it is a stew of the collected writings of millions of such passionate individuals, whose works were fed as training material. It is in their pasteurization and homogenization that the individual sparks seem to be lost.
 
@@ -20,7 +20,11 @@ This led to the following chart, which stopped me cold the first time I saw it:
 
 Not seeing historic Go games makes AGZ more creative!
 
-That stretch under the top of the curve is my first strong evidence of AI's creativity. This brings a different light to another quote of Sedol's in the NYT piece:
+That stretch under the top of the curve is my first strong evidence of AI's creativity. 
+
+Note the many constraints being shattered here: Sedol's belief he would beat AlphaGo, AlphaGo Zero's blowing past AlphaGo Lee (the original version), our expectations that GenAI can't be creative. There are more.
+
+These insights on creativity shine a different light to another quote of Sedol's in the NYT piece:
 
 > What he worries about is that A.I. may change what humans value. “People used to be in awe of creativity, originality and innovation,” he said. “But since A.I. came, a lot of that has disappeared.”
 
@@ -28,4 +32,4 @@ Disappeared? I have a hunch we'll be perceiving creativity, originality and inno
 
   
 
-This post also exists [here](https://www.linkedin.com/pulse/genais-mixed-blessings-jerry-michalski-sdvac) on LinkedIn and [here](https://bra.in/7jQRoE) in Jerry's Brain. 
+This post also exists [here](https://www.linkedin.com/pulse/genais-mixed-blessings-jerry-michalski-sdvac) on LinkedIn and [here](https://bra.in/7jQRoE) in [[Jerry's Brain]]. 
