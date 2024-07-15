@@ -5,12 +5,13 @@ Context Posts
 - A Map to This Project 
 - My Missions
 - About This Substack
-- 
+- [[I Think in Webs]] 
 
 GenAI Posts (#GenAI)
 - [[This Changes Everything!]] 
 - [[Finding Your GenAI Advisors]] 
 - [[GenAI's Mixed Blessings]] (done) 
+- [[GenAI Trust Issues]] 
 
 Design from Trust Posts (#DesignfromTrust)
 - How Is Trust an Important Constraint? 
@@ -18,14 +19,16 @@ Design from Trust Posts (#DesignfromTrust)
 - [[Oh Advertisers 1]] (done) 
 - [[Oh Advertisers 2]] (done) 
 
-Stories of Constraints
-- Design from Trust Case Studies
-- The Dark Side of RC
-- 
+Constraint Tales 
+- Design from Trust Case Studies 
+- The Dark Side of RC 
+- [[HTML Is Forgiving]] 
 
 [[The Big Picture]] Posts
 - History as a Story of Constraints 
 - [[This Project's Goals]] 
+- [[Communities Working to Fix World Problems]] 
+- [[Questions for Those With Projects to Fix the World]] 
 
 NeoBooks Posts
 - [[The Unwritten Laws of Books]] 
