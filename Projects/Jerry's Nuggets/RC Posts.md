@@ -29,6 +29,7 @@ Constraint Tales
 - [[This Project's Goals]] 
 - [[Communities Working to Fix World Problems]] 
 - [[Questions for Those With Projects to Fix the World]] 
+- [[Does Ethical Capitalism Pencil Out]]? 
 
 NeoBooks Posts
 - [[The Unwritten Laws of Books]] 
