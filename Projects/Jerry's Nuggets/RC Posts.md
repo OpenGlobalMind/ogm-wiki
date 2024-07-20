@@ -22,7 +22,7 @@ Design from Trust Posts (#DesignfromTrust)
 Constraint Tales 
 - Design from Trust Case Studies 
 - The Dark Side of RC 
-- [[HTML Is Forgiving]] 
+- [[The Web Is Forgiving]] 
 
 [[The Big Picture]] Posts
 - History as a Story of Constraints 
