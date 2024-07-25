@@ -2,6 +2,7 @@
 
 Context Posts
 - On Constraints and Strategy 
+- [[On Cross-Posting]] 
 - A Map to This Project 
 - My Missions
 - About This Substack
@@ -33,6 +34,8 @@ Constraint Tales
 
 NeoBooks Posts
 - [[The Unwritten Laws of Books]] 
+- [[How Books Fail Us]] 
+- [[The Creator’s Dilemma]] 
 
 4S Posts (See, Shift, Shape, Set)
 
