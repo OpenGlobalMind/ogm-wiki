@@ -15,7 +15,7 @@ GenAI Posts (#GenAI)
 - [[GenAI Trust Issues]] 
 
 Design from Trust Posts (#DesignfromTrust)
-- How Is Trust an Important Constraint? 
+- Trust Is the Crucial Constraint 
 - Writing a NeoBook About Design from Trust 
 - [[Oh Advertisers 1]] (done) 
 - [[Oh Advertisers 2]] (done) 
@@ -50,9 +50,7 @@ Joy Line Posts (#JoyLine)
 
 Current Events Posts 
 - [[Trump Through the Trust Lens]] 
-
-Political Posts 
-- How Constraints and Trust Figure in Trump's Strategy 
+- [[Trump and Constraints]] 
 
 Rethink Society Posts (#RethinkSociety)
 - [[Rethink Masculinity]] 
