@@ -21,7 +21,7 @@ Design from Trust Posts (#DesignfromTrust)
 - [[Oh Advertisers 2]] (done) 
 
 Constraint Tales 
-- Design from Trust Case Studies 
+- [[Design from Trust Case Studies]] 
 - The Dark Side of RC 
 - [[The Web Is Forgiving]] 
 
@@ -36,18 +36,29 @@ NeoBooks Posts
 - [[The Unwritten Laws of Books]] 
 - [[How Books Fail Us]] 
 - [[The Creator’s Dilemma]] 
+- [[Nuggetization]] 
+- [[The NeoBooks Manifesto]] 
 
-4S Posts (See, Shift, Shape, Set)
+4S Posts (See, Shift, Shape, Set) 
+- [[Seeing Constraints]] 
+- [[Shifting Your Perspective]] 
+- [[Shaping Your Future]] 
+- [[Setting Your Course]] 
 
 Joy Line Posts (#JoyLine) 
+- [[The Joy Line]] 
 
 Current Events Posts 
-- 
+- [[Trump Through the Trust Lens]] 
 
 Political Posts 
 - How Constraints and Trust Figure in Trump's Strategy 
 
+Rethink Society Posts (#RethinkSociety)
+- [[Rethink Masculinity]] 
+- [[Ownership versus Stewardship]] 
+
 [[The Big Fungus]] Posts (#TheBigFungus)
+- [[Fabulous Fungal Metaphors]] 
 
-
-All part of [[Rethink Constraints]].
+All part of [[Rethink Constraints]]. (#RethinkConstraints)
