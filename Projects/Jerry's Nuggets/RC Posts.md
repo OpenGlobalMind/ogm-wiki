@@ -38,6 +38,7 @@ NeoBooks Posts
 - [[The Creator’s Dilemma]] 
 - [[Nuggetization]] 
 - [[The NeoBooks Manifesto]] 
+- [[Level Up Media]] 
 
 4S Posts (See, Shift, Shape, Set) 
 - [[Seeing Constraints]] 
@@ -51,6 +52,7 @@ Joy Line Posts (#JoyLine)
 Current Events Posts 
 - [[Trump Through the Trust Lens]] 
 - [[Trump and Constraints]] 
+- This Kamala Moment 
 
 Rethink Society Posts (#RethinkSociety)
 - [[Rethink Masculinity]] 
