@@ -1,6 +1,6 @@
 # Nuggetization
 
-[[NeoBooks Introduction|NeoBooks]] are composed of Nuggets, set in a sequence determined by their authors. The Nuggets are usually text, but they might also be a graphic or a table. 
+[[NeoBooks Introduction|NeoBooks]] are composed of Nuggets ([[Why Nuggets]]?), set in a sequence determined by their authors. Nuggets are usually text, but they might also be graphics, tables, videos, animations or other media. 
 
 [[Nuggets Are Really Powerful]]. Creating Nuggets is not self-evident. 
 
@@ -14,4 +14,5 @@ An open question: distinguishing between Nuggets you want included in the flow a
 
 [[Fabulous Fungal Metaphors]]
 
+This is part of [[Thinking like a NeoBook]] 
 

@@ -3,9 +3,9 @@
 Context Posts
 - On Constraints and Strategy 
 - [[On Cross-Posting]] 
-- A Map to This Project 
-- My Missions
-- About This Substack
+- A Map to This Project  
+- My Missions 
+- About This Substack 
 - [[I Think in Webs]] 
 
 GenAI Posts (#GenAI)
@@ -26,7 +26,7 @@ Constraint Tales
 - [[The Web Is Forgiving]] 
 
 [[The Big Picture]] Posts
-- History as a Story of Constraints 
+- [[History as a Story of Constraints]] 
 - [[This Project's Goals]] 
 - [[Communities Working to Fix World Problems]] 
 - [[Questions for Those With Projects to Fix the World]] 
@@ -52,7 +52,7 @@ Joy Line Posts (#JoyLine)
 Current Events Posts 
 - [[Trump Through the Trust Lens]] 
 - [[Trump and Constraints]] 
-- This Kamala Moment 
+- [[This Kamala Moment]] 
 
 Rethink Society Posts (#RethinkSociety)
 - [[Rethink Masculinity]] 
