@@ -1,6 +1,6 @@
 # Level Up Media
 
-Today's Internet/Web are [stuck in mainstream media metaphors](https://youtube.com/shorts/yT0r6D1h_iQ?feature=share) 
+[[The Internet Is Stuck in Mainstream Media Metaphors]]. 
 
 - Early movies filmed theater  
 - Then filmmakers innovated, inventing the language of cinema (pan, zoom, jump cut, montage)  

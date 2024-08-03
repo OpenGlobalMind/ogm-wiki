@@ -8,5 +8,6 @@ Trump and Constraints:
 - Trump may have fashioned his own constraints 
 
 
+
 This is a companion piece to [[Trump Through the Trust Lens]], as well as [these videos](https://www.youtube.com/playlist?list=PLreQNsM8LqWAJFWfH3UCRo3QLxV8-wtol) about Trump and his strategies, which I posted in 2020. 
  

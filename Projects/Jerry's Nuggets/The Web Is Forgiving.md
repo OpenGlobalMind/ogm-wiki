@@ -29,4 +29,4 @@ Berners-Lee understood the constraints that kept SGML from being more broadly us
 
 But "forgiving" wasn't on anyones requirements list. In fact, graceful degradation runs against most project goals, which seek six-sigma quality (meaning very low error rates) or very complete functionality. 
 
-This post is cross-posted on [Substack](https://rethinkconstraints.substack.com/p/the-web-is-forgiving) and LinkedIn. 
+This post is cross-posted on [Substack](https://rethinkconstraints.substack.com/p/the-web-is-forgiving) and [LinkedIn](https://www.linkedin.com/pulse/web-forgiving-jerry-michalski-7udjc). [[On Cross-Posting]]. 

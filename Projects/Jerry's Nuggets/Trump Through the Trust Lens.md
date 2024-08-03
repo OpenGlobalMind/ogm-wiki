@@ -8,7 +8,7 @@ Understanding why Trump's followers trust him is important, especially if you be
 
 Dr. Evil
 
-If you're very Conservative (not all the way MAGA), Trump has paid off better than any Conservative president since Reagan, who definitely changed the course of the country. Consider:
+If you're very Conservative (not even all the way MAGA), Trump has paid off better than any Conservative president since Reagan, who definitely changed the course of the country. Consider:
 - Roe v Wade is gone. 
 - In its wake, many states triggered draconian abortion laws. 
 - A "fetal personhood" movement is rolling. 
