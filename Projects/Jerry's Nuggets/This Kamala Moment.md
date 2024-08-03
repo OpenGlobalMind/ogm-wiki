@@ -22,8 +22,9 @@ The other path has the Democrats building from this fever pitch and sourcing a m
 Want to win lasting loyalty? 
 
 1. Admit that some Democratic initiatives over time have been flawed, and could use a collective re-think. 
-2. Start some public processes for those re-thinks, featuring contentious but substantial debates out in the open. 
+2. Start some public processes for those re-thinks, featuring substantial (and occasionally contentious) debates out in the open. 
 3. Open some side channels to talk to folks who have felt left out and left behind for decades. Go meta with them, sharing strategies and context, not just policies and victories. Be really frank. 
-4. Open on-ramps for young white men who’ve gone MAGA. They’re in search of meaning, community, and context, all of which are findable in places other than 4chan and the [Manosphere](https://bra.in/3jX9ey).  
+4. Open on-ramps for young white men who’ve gone MAGA. They’re in search of meaning, community, relationships, and context, all of which are findable in places other than 4chan and the [Manosphere](https://bra.in/3jX9ey). 
 
-Democratic Business as Usual will lead to a squeaker election. Aren’t we tired of those, especially the ones lost by a few hanging chads? The shock of the moment (the needle of adrenaline to the heart?) creates a moment for deeper change. Let’s take advantage of it. 
+Democratic Business as Usual will lead to a squeaker election. Aren’t we tired of those, especially the ones lost by a few hanging chads? The shock of this moment (the needle of adrenaline to the heart?) creates a moment for deeper change. Let’s take advantage of it. 
+
