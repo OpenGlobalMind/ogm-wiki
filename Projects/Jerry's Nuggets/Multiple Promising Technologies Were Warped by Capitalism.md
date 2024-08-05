@@ -2,7 +2,7 @@
 
 Intro
 
-[[Microfinance Was Different before Capitalists “Discovered” It]]
+[[Microfinance Was Different before Capitalists Discovered It]] 
 
 [[The Sharing Economy Was Different before Uber Got Its First $50 Million]]
 

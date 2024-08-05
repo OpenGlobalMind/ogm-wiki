@@ -2,7 +2,9 @@
 
 *If not, will we?*
 
-Intro tktk
+Capitalism has a way of messing things up. 
+
+
 
 [[Multiple Promising Technologies Were Warped by Capitalism]]
 
