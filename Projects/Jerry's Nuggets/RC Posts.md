@@ -13,6 +13,7 @@ GenAI Posts (#GenAI)
 - [[Finding Your GenAI Advisors]] 
 - [[GenAI's Mixed Blessings]] (done) 
 - [[GenAI Trust Issues]] 
+- [[Will GenAI Survive Capitalism]]? 
 
 Design from Trust Posts (#DesignfromTrust)
 - Trust Is the Crucial Constraint 
@@ -52,7 +53,7 @@ Joy Line Posts (#JoyLine)
 Current Events Posts 
 - [[Trump Through the Trust Lens]] 
 - [[Trump and Constraints]] 
-- [[This Kamala Moment]] 
+- [[This Kamala Moment]] (done) 
 
 Rethink Society Posts (#RethinkSociety)
 - [[Rethink Masculinity]] 

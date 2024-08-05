@@ -16,7 +16,7 @@ If you're very Conservative (not even all the way MAGA), Trump has paid off bett
 - The Federal bench has been larded with deep Conservatives (also McConnell). 
 
 Trump has successfully undermined: 
-- The Left, which is consistently wrong-footed (until This Kamala Moment). 
+- The Left, which is consistently wrong-footed (until [[This Kamala Moment]]). 
 - Mainstream media (enemy of the people??). 
 - Elections. 
 - Science. 
@@ -32,7 +32,8 @@ Trump has normalized execrable speech.
 ## Trump has weaponized trust 
 
 
+
 As a result, Trump has more elbow room than most anyone. 
 
-This is a companion piece to [[Trump and Constraints]], as well as [these videos](https://www.youtube.com/playlist?list=PLreQNsM8LqWAJFWfH3UCRo3QLxV8-wtol) about Trump and his strategies, which I posted in 2020. 
+This is a companion piece to [[Trump and Constraints]]. It also pairs well with [these videos](https://www.youtube.com/playlist?list=PLreQNsM8LqWAJFWfH3UCRo3QLxV8-wtol) about Trump and his strategies, which I posted in 2020. 
  
