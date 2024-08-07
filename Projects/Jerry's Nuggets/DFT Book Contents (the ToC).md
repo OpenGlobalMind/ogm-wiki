@@ -5,6 +5,7 @@ This book has a double introduction because it is a new kind of book, a NeoBook,
 [[DfT Cover Art]]  
 [[DfT Title]]  
 [[DfT Front Matter]]  
+[[Thanks for Buying This Souvenir]] 
 [[NeoBooks Introduction]]  
 [[DfT Introduction]]  
 
