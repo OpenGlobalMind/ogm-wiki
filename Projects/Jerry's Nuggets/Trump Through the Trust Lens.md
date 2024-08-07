@@ -4,11 +4,11 @@ Let's start with an assertion that may sound weird to anyone leaning Left: Many 
 
 Yup, I'm [perfectly aware](https://bra.in/9qaY2m) that Trump pegs the lies-per-minute meter, that he can't be trusted to honor a [contract](https://bra.in/3jk3Ew) or election, and that he uses lies strategically. I'll get to those. 
 
-Understanding why Trump's followers trust him is important, especially if you believe his constant lying disqualifies him from being trustworthy. [Misunderestimating](https://bra.in/6j8bXb) Donald Trump is very dangerous. It's a big reason why he still has the power he has. 
+Understanding why Trump's followers trust him is important, especially if you believe his constant lying disqualifies him from being trustworthy. [[Misunderestimating Donald Trump Is Very Dangerous]]. It's a big reason why he still has the power he has. 
 
-Dr. Evil
+Dr. Evil tktk 
 
-If you're very Conservative (not even all the way MAGA), Trump has paid off better than any Conservative president since Reagan, who definitely changed the course of the country. Consider:
+If you're very Conservative (not even full MAGA), Trump has paid off better than any Conservative president since Reagan, who definitely changed the course of the country. Consider:
 - Roe v Wade is gone. 
 - In its wake, many states triggered draconian abortion laws. 
 - A "fetal personhood" movement is rolling. 
@@ -16,10 +16,11 @@ If you're very Conservative (not even all the way MAGA), Trump has paid off bett
 - The Federal bench has been larded with deep Conservatives (also McConnell). 
 
 Trump has successfully undermined: 
-- The Left, which is consistently wrong-footed (until [[This Kamala Moment]]). 
+- The Left, which has been consistently wrong-footed (until [[This Kamala Moment]]). 
 - Mainstream media (enemy of the people??). 
 - Elections. 
 - Science. 
+- Facts. 
 - Social justice, from wokeness to DEI. 
 - Our trust in one another. 
 - Countless norms and institutions. 

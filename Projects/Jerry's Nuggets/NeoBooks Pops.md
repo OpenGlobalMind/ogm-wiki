@@ -14,7 +14,7 @@ So write a draft post somewhere (Medium, Substack, Google Docs) and share it wit
 width=100% height=100%
 ```></iframe>
 
-Whoever comes to the NeoBooks calls will collectively choose whose draft to focus on each week. We'll get through as many as time permits. 
+Whoever comes to the [[NeoBooks Introduction|NeoBooks]] calls will collectively choose whose draft to focus on each week. We'll get through as many as time permits. 
 
 The NeoBooks calls are on Mondays at 10:30am PT for 90 minutes (Zoom is [here](https://us02web.zoom.us/j/4154650256?pwd=Zm5DWGRJcmFmZGtBMmI1Wkx2WUQyZz09)). We'll be devoting many (but not all) of them to this Pops! project. 
 
