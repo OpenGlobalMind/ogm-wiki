@@ -6,6 +6,7 @@ Have you used the Internet? Used a ride-sharing service like Uber or Lyft? Atten
 
 If your answer to any of those is yes, you've already experienced Design from Trust. 
 
-The idea for Design from Trust showed up when I noticed the common threads that wove through many of these examples. It wasn't an abstract idea built up from first principles about trust and social dynamics. 
+The idea for Design from Trust wasn't an abstract model built up from first principles about trust and social dynamics. It showed up when I noticed the common threads that wove through many of these examples. 
 
-Often I learned about these examples by hearing the stories of their inventors. For example, the story of Muhammad Yunus giving a small loan to a circle of 21 Bangladeshi women taught me about microfinance. [Pam Warhurst's TEDx talk](https://www.youtube.com/watch?v=4KmKoj4RSZw) taught me about turning towns into edible landscapes. John Taylor Gatto convinced me that our compulsory education system stamps out curiosity and our sense of agency, and ought to be replaced with self-directed education. 
+Often I learned about these examples by hearing the stories of their inventors. For example, the story of Muhammad Yunus giving a small loan to a circle of 21 Bangladeshi women taught me about microfinance. [Pam Warhurst's TEDx talk](https://www.youtube.com/watch?v=4KmKoj4RSZw) explained how inspired citizens could turn ordinary towns into edible landscapes, transforming their town, creating food and building community. John Taylor Gatto convinced me that our compulsory education system stamps out curiosity and our sense of agency, and ought to be replaced with something more like self-directed education. 
+
