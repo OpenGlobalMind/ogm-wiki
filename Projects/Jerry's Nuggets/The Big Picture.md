@@ -28,4 +28,6 @@ Higher-level (societal) goals:
 - Rebuild community
 - Use technology to augment humans, not replace them
 
-Explaining The Big Picture through [[Intertwingled Narratives]].
+Explaining The Big Picture through [[Intertwingled Narratives]]. 
+
+[[Rethinking My Constraints]] 

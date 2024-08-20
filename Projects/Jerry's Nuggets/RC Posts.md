@@ -25,6 +25,7 @@ Constraint Tales
 - [[Design from Trust Case Studies]] 
 - [[The Dark Side of Rethinking Constraints]] 
 - [[The Web Is Forgiving]] (done) 
+- [[Ackoff Was a Master at Rethinking Constraints]] 
 
 [[The Big Picture]] Posts
 - [[History as a Story of Constraints]] 
@@ -32,6 +33,7 @@ Constraint Tales
 - [[Communities Working to Fix World Problems]] 
 - [[Questions for Those With Projects to Fix the World]] 
 - [[Does Ethical Capitalism Pencil Out]]? 
+- [[Rethinking My Constraints]] 
 
 NeoBooks Posts
 - [[The Unwritten Laws of Books]] 
