@@ -7,6 +7,10 @@ Context Posts
 - My Missions 
 - About This Substack 
 - [[I Think in Webs]] 
+- [[Contrarians Who Make (or Made) Sense]] 
+- [[Rethinking My Own Constraints]] 
+- [[On the Nature of Constraints]] 
+- [[On Sensemaking]] 
 
 GenAI Posts (#GenAI)
 - [[This Changes Everything!]] 
@@ -63,5 +67,6 @@ Rethink Society Posts (#RethinkSociety)
 
 [[The Big Fungus]] Posts (#TheBigFungus)
 - [[Fabulous Fungal Metaphors]] 
+- [[On Curating a Long-Term Memory]] 
 
 All part of [[Rethink Constraints]]. (#RethinkConstraints)

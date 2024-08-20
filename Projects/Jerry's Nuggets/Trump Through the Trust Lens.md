@@ -1,8 +1,8 @@
 # Trump Through the Trust Lens
 
-I'm interested in [[How to Keep Trump from Winning the 2024 Election]]. 
+I'm interested in [[How to Keep Trump from Winning the 2024 Election]].  
 
-Let's start with an assertion that may sound weird to anyone leaning Left: Many people trust Trump. 
+Let's start with an assertion that may sound weird to anyone who leans Left: Many people trust Trump. 
 
 Yup, I'm [perfectly aware](https://bra.in/9qaY2m) that Trump pegs the lies-per-minute meter, that he can't be trusted to honor a [contract](https://bra.in/3jk3Ew) or election, and that he uses lies strategically. I'll get to those. 
 
