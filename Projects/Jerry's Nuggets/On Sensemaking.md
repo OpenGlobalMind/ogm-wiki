@@ -19,7 +19,7 @@ In non-fiction:
 
 - 1937: HG Wells' article [World Brain](https://en.wikipedia.org/wiki/World_Brain) 
 - 1945: Vannevar Bush's [Memex](https://en.wikipedia.org/wiki/Memex) 
-- 1945: Teilhard De Chardin and Vladimir Vernadsky's idea of [The Noosphere](http://en.wikipedia.org/wiki/Noosphere) 
+- 1945: Teilhard De Chardin and Vladimir Vernadsky's idea of [[The Noosphere]] 
 - 1960: JCR Licklider's [Man-Computer Symbiosis](https://groups.csail.mit.edu/medg/people/psz/Licklider.html) 
 - 1974: Ted Nelson's [Computer Lib/Dream Machines](https://en.wikipedia.org/wiki/Computer_Lib/Dream_Machines) 
 - 1977: Adele Goldberg and Alan Kay's [Personal Dynamic Media](https://augmentingcognition.com/assets/Kay1977.pdf) 
