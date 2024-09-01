@@ -68,5 +68,6 @@ Rethink Society Posts (#RethinkSociety)
 [[The Big Fungus]] Posts (#TheBigFungus)
 - [[Fabulous Fungal Metaphors]] 
 - [[On Curating a Long-Term Memory]] 
+- [[Joy and Jerry Discuss The Big Fungus]] 
 
 All part of [[Rethink Constraints]]. (#RethinkConstraints)
