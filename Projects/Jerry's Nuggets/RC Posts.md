@@ -11,6 +11,7 @@ Context Posts
 - [[Rethinking My Own Constraints]] 
 - [[On the Nature of Constraints]] 
 - [[On Sensemaking]] 
+- [[My Kite Has Been in Storage for a While]] 
 
 GenAI Posts (#GenAI)
 - [[This Changes Everything!]] 
