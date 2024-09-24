@@ -11,7 +11,7 @@
 - [[Rethinking My Own Constraints]] 
 - [[On the Nature of Constraints]] 
 - [[On Sensemaking]] 
-- [[My Kite Has Been in Storage for a While]] 
+- [[Getting My Kite Out of Storage]] (about my new speaking reel) 
 
 RC Podcast Episodes
 - [[Ida and Jerry Explore Unlocking Human Potential]] 
@@ -80,5 +80,16 @@ Rethink Society Posts (#RethinkSociety)
 - [[Fabulous Fungal Metaphors]] 
 - [[On Curating a Long-Term Memory]] 
 - [[Joy and Jerry Discuss The Big Fungus]] 
+
+Behind the Reel (series)
+- [[Behind the Reel - Neural Nets in 1988]] 
+- Behind the Reel - Those Documents 
+- Behind the Reel - Slides on Acetates 
+- Behind the Reel - Q&A with Nathan 
+- Behind the Reel - Powered Flight Is Impossible 
+- Behind the Reel - Family Pics 
+- Behind the Reel - Re-Shape Your Industry 
+- Behind the Reel - All Four Ses 
+- Behind the Reel - Rethink the Constraints 
 
 All part of [[Rethink Constraints]]. (#RethinkConstraints)
