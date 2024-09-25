@@ -29,11 +29,18 @@ I wrote that 1988 report during the second lifetime of neural nets. Their first 
 
 When I arrived as an observer in the late 1980s, researchers were newly motivated by books like [Parallel Distributed Processing](https://www.amazon.com/Parallel-Distributed-Processing-Explorations-Microstructure/dp/0262181231/jerrymichalskisr), which was published in 1986, and a bit of a boom ensued. In the frame of the bazillions of dollars that are chasing today's GenAI companies, that boom was but a blip. But our clients at New Science were interested in what the technology might do, and weak though those early models were, they were good at things that Expert Systems couldn't solve. For example, a neural net could distinguish between maple and oak leaves. It somehow distills the essence of "mapleness" and "oakness" from its training set in ways that Knowledge Engineers interviewing Domain Experts couldn't match. 
 
-Technological progress often moves in steps. Perceptrons marked the top of neural networks' first step; tech limitations constrained neural nets for a long time after that. But many researchers saw the potential and kept at it. 
+Technological progress often moves in steps, as progress plateaus when it hits constraints. Perceptrons marked the top of neural networks' first step; tech limitations constrained neural nets for a long time after that. But many researchers saw the potential and kept at it. 
 
 Scroll forward to December 2022, when the combination of processor power, training data availability and algorithmic sophistication hit a sweet spot that exploded on the world stage. 
 
-I've seen my share of hype in the tech business, and I'm worried about the amount of money that is chasing Generative AI these days, but I have to say that this boom has substance. GenAI is the real deal. I don't mean that we've achieved [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence) and can stop worrying about warfare and hunger, but rather that a very useful form of intelligence has arrived, which will transform many industries and solve problems we are only starting to identify. And it's getting awfully close to being able to improve itself. 
+I've seen my share of hype in the tech business, and I am worried about the amount of money that is chasing Generative AI these days, but I have to say that this boom has substance: GenAI is the real deal. 
+
+I don't mean that we've achieved [Artificial General Intelligence](https://en.wikipedia.org/wiki/Artificial_general_intelligence) and can stop worrying about warfare and hunger, but rather that a very useful form of intelligence has arrived, which will transform many industries and solve problems we are only starting to identify. And it's getting awfully close to being able to improve itself. 
+
+#neuralnetworks
+#techhistory
+#newscienceassociates
+#rethinkconstraints  
 
 --- 
 This article is cross-posted on Substack here and LinkedIn here. 
