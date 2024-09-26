@@ -43,4 +43,4 @@ I don't mean that we've achieved [Artificial General Intelligence](https://en.wi
 #rethinkconstraints  
 
 --- 
-This article is cross-posted on Substack here and LinkedIn here. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/behind-the-reel-neural-nets-in-1988?r=1173&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) and LinkedIn [here](https://www.linkedin.com/pulse/behind-reel-neural-nets-1988-jerry-michalski-gidkc/). 

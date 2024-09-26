@@ -1,7 +1,8 @@
-# This Changes Everything!
+# Tech Owes You an Apology
 
-*We in tech owe you an apology.*
+*Too often: This Changes Everything!*
 
+![[Comcast_Xfinity_10G_network.jpg]]
 For many years, the tech business has been distracting you with promises of utopia. One technology after another has been celebrated as the best ever, with pitches and headlines proclaiming the equivalent of "This changes everything!"
 
 Yes, personal computers, the Internet, Open Source software, the Web and Smartphones were all real and huge, if perhaps they missed bringing Utopia much closer. 
@@ -15,7 +16,7 @@ But many other themes fell way short. Remember:
 - [[The Crypto Craze]] 
 - [[The Metaverse]] 
 - [[Spatial Computing]] 
-- (For those who've been around longer, see also Pen Computing and the Segway)
+- (For those who've been around longer, see also [Push](https://en.wikipedia.org/wiki/Push_technology), Pen Computing and the Segway)
 
 Most of these were big distractions. If you spent time learning about them, then spent money implementing them, chances are you didn't get far and wasted considerable resources. 
 

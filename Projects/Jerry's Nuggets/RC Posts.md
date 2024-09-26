@@ -18,7 +18,7 @@ RC Podcast Episodes
 - [[Joy and Jerry Discuss The Big Fungus]] 
 
 GenAI Posts (#GenAI)
-- [[This Changes Everything!]] 
+- [[Tech Owes You an Apology]] 
 - [[Finding Your GenAI Advisors]] 
 - [[GenAI's Mixed Blessings]] (done) 
 - [[GenAI Trust Issues]] 
@@ -82,8 +82,8 @@ Rethink Society Posts (#RethinkSociety)
 - [[Joy and Jerry Discuss The Big Fungus]] 
 
 Behind the Reel (series)
-- [[Behind the Reel - Neural Nets in 1988]] 
-- Behind the Reel - Those Documents 
+- [[Behind the Reel - Neural Nets in 1988]] (done) 
+- [[Behind the Reel - The Documents That Saved My Family]] 
 - Behind the Reel - Slides on Acetates 
 - Behind the Reel - Q&A with Nathan 
 - Behind the Reel - Powered Flight Is Impossible 
