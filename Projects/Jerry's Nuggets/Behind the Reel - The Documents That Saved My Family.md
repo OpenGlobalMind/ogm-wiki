@@ -23,5 +23,7 @@ The steamship tickets I do have are dated June 3. Germany attacked Poland on Sep
 
 So in the reel, when I say my parents met in Bolivia, there's a bit of a backstory there. 
 
+#speakersreel, #familyhistory, #escapestories 
+
 --- 
-This article is cross-posted on Substack [here]() and LinkedIn here. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/behind-the-reel-the-documents-that?r=1173&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) and LinkedIn [here](https://www.linkedin.com/pulse/behind-reel-documents-saved-my-family-jerry-michalski-nacoc/). It's also [here](https://bra.in/8pWVZY) in my Brain. 
