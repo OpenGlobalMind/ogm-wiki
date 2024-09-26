@@ -13,15 +13,13 @@ A second note, the plot twist I haven't revealed yet: When I was 24, my Mom reve
 
 Now back to these three documents (I've put them in [this Google Drive](https://drive.google.com/drive/folders/1_22Zsdw2K9x_ZOy22XeKFDD14b6mcg2k?usp=sharing)). 
 
-The first, in Spanish, is from the Bolivian consulate in Berlin, dated October 24, 1938. Bolivia was one of the very few countries that opened its doors to refugees as a war loomed, and it appears Opi worked the Nazi bureaucracy at every turn to get the family out of Germany. This document gives them permission to emigrate to Bolivia permanently. 
+The first, in Spanish, is from the Bolivian consulate in Berlin, dated October 24, 1938. Bolivia was one of the very few countries that opened its doors to refugees as war loomed, and it appears Opi worked the Nazi bureaucracy at every turn to get the family out of Germany. This document gives them permission to emigrate to Bolivia permanently. 
 
 The second, in German, is a certificate of good conduct — one of many documents they had to present to prove they were good citizens and had no debts — from the Berlin police department. At the bottom is a stamp with a swastika. 
 
-The third, in English, is hard to believe I even have. It's three tickets on a steamship (Royal Netherlands' "Costa Rica") from Hamburg to Amsterdam, then transiting to the Caribbean, where I've lost the trail. Why three? Maybe because Omi (my grandmother) was Lutheran, so she went with the children on one ship, while Opi went on another. How they met up in the Caribbean, in the time before cellphones and American Express, I'll never know. 
+The third, in English, is hard to believe I even have. It's three tickets on a steamship (Royal Netherlands' "Costa Rica") from Hamburg to Amsterdam, then transiting to the Caribbean, where I've lost the trail. Why three? Maybe because Omi (my grandmother) was Lutheran, so she went with the children on one ship, while Opi went on another. How they met up in the Caribbean, in the time before cellphones and American Express, I'll never know. I don't know what Opi's ship's name was, but I think I have several pictures with him taken on that crossing. 
 
-I don't know what Opi's ship's name was, but I think I have several pictures with him taken on that crossing. 
-
-The steamship tickets I do have are dated June 3. Germany attacked Poland on Sept. 1. The ill-fated [MS St. Louis](https://en.wikipedia.org/wiki/MS_St._Louis) sailed from Hamburg on May 13. I am one lucky person. 
+The steamship tickets I do have are dated June 3. Germany attacked Poland on Sept. 1. The ill-fated [MS St. Louis](https://en.wikipedia.org/wiki/MS_St._Louis) sailed from Hamburg on May 13, before the Costa Rica. I am one lucky person. 
 
 So in the reel, when I say my parents met in Bolivia, there's a bit of a backstory there. 
 
