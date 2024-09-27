@@ -16,7 +16,8 @@ But many other themes fell way short. Remember:
 - [[The Crypto Craze]] 
 - [[The Metaverse]] 
 - [[Spatial Computing]] 
-- (For those who've been around longer, see also [Push](https://en.wikipedia.org/wiki/Push_technology), Pen Computing and the Segway)
+
+Old hands may remember [Push](https://en.wikipedia.org/wiki/Push_technology), Pen Computing and the [Segway](https://slate.com/human-interest/2021/08/dean-kamen-viral-mystery-invention-2001.html). You likely have your own favorites. 
 
 Most of these were big distractions. If you spent time learning about them, then spent money implementing them, chances are you didn't get far and wasted considerable resources. 
 

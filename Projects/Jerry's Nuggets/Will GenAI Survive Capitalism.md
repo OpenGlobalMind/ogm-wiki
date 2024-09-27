@@ -4,7 +4,7 @@
 
 Capitalism has a way of messing things up. 
 
-Yesterday, OpenAI opted to become a for-profit company. It may not seem like a big thing, but it is. 
+This week, OpenAI opted to become a for-profit company. It may not seem like a big thing, but it is. 
 
 Remember [the weekend in November 2023](https://bra.in/2joE85) when OpenAI's board fired Sam Altman, then everyone resigned, then he was rehired and the board was fired? Weird, wasn't it? Oh, but before he was rehired, Microsoft hired him! The whole thing was a surreal, real-time soap opera, played out in the public sphere. 
 
