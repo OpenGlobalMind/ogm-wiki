@@ -23,6 +23,7 @@ GenAI Posts (#GenAI)
 - [[GenAI's Mixed Blessings]] (done) 
 - [[GenAI Trust Issues]] 
 - [[Will GenAI Survive Capitalism]]? 
+- [[A GenAI Compact]] 
 
 Design from Trust Posts (#DesignfromTrust)
 - Trust Is the Crucial Constraint 
