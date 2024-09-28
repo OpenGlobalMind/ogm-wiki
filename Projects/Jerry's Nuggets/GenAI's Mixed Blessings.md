@@ -31,5 +31,5 @@ These insights on creativity shine a different light to another quote of Sedol's
 Disappeared? I have a hunch we'll be perceiving creativity, originality and innovation quite differently in the next couple decades. And I'm not sure it will spell the downfall of civilization.
 
   
-
+---
 This post also exists [here](https://www.linkedin.com/pulse/genais-mixed-blessings-jerry-michalski-sdvac) on LinkedIn and [here](https://bra.in/7jQRoE) in [[Jerry's Brain]]. 
