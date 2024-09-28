@@ -3,9 +3,11 @@
 *Too often: This Changes Everything!*
 
 ![[Comcast_Xfinity_10G_network.jpg]]
-For many years, the tech business has been distracting you with promises of utopia. One technology after another has been celebrated as the best ever, with pitches and headlines proclaiming the equivalent of "This changes everything!"
+Wait... weren't we just on 5G? 
 
-Yes, personal computers, the Internet, Open Source software, the Web and Smartphones were all real and huge, if perhaps they missed bringing Utopia much closer. 
+For many years, the tech business has been distracting you with promises of Utopias. One technology after another has been celebrated as the best ever, with pitches and headlines proclaiming the equivalent of "This changes everything!"
+
+Yes, personal computers, the Internet, Open Source software, the Web and smartphones were all real and huge, if perhaps they missed bringing Utopia much closer. 
 
 But many other themes fell way short. Remember:
 

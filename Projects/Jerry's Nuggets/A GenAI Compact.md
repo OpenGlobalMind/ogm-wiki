@@ -1,6 +1,7 @@
 # A GenAI Compact
 
 This is both a project framework and the site for one or three draft articles. 
+Working draft is now on Google Docs, [here](https://docs.google.com/document/d/1dOxkUjFfeVhAlGnMkNMx1bpiEXC0i6g6VxLAmgvQTdE/edit). 
 
 Possible draft titles:
 - GenAI Anxiety: A Poll 
