@@ -5,16 +5,17 @@
 - [[On Cross-Posting]] 
 - A Map to This Project  
 - My Missions 
+- Habemus Substack! 
 - About This Substack 
 - [[I Think in Webs]] 
 - [[Contrarians Who Make (or Made) Sense]] 
-- [[Rethinking My Own Constraints]] 
+- [[Rethinking My Own Constraints]] (series) 
 - [[On the Nature of Constraints]] 
 - [[On Sensemaking]] 
 - [[Getting My Kite Out of Storage]] (about my new speaking reel) 
 
 RC Podcast Episodes
-- [[Ida and Jerry Explore Unlocking Human Potential]] 
+- [[Ida and Jerry Explore Unlocking Human Potential]] (done) 
 - [[Joy and Jerry Discuss The Big Fungus]] 
 
 GenAI Posts (#GenAI)
@@ -50,11 +51,11 @@ Innovation Posts
 - [[Rethinking My Constraints]] 
 
 NeoBooks Posts
+- [[The NeoBooks Manifesto]] 
 - [[The Unwritten Laws of Books]] 
 - [[How Books Fail Us]] 
 - [[The Creator’s Dilemma]] 
 - [[Nuggetization]] 
-- [[The NeoBooks Manifesto]] 
 - [[Level Up Media]] 
 - [[Why Hasn’t Software Solved Collaboration]]? 
 

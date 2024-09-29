@@ -21,3 +21,6 @@ But it's the non-geeky barriers that I find more interesting. They usually invol
 
 That last one is a feeder for a Nelson Mandela quote, "It always seems impossible until it’s done." (Though it seems Pliny the Elder [said it earlier](https://quoteinvestigator.com/2016/01/05/done/).)
 
+## Reeling it in
+
+Those examples are famous and world-scale, but we know that the impossible strikes at all scales, from "nobody will buy this product" to . 
