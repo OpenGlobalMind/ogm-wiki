@@ -15,4 +15,6 @@ The brilliant participants in IndieWeb have thought about this, detailing variou
 - [POSSE](https://indieweb.org/POSSE) (Publish (on your) Own Site, Syndicate Elsewhere) 
 - [PESETAS](https://indieweb.org/PESETAS) (Publish Elsewhere, Syndicate Everything To A Silo) 
 
-I think I'm a POSSE guy. 
+I think I'm a POSSE guy. ![[j3rry_spiff_A_surreal_digital_illustration_depicting_the_chaos__dab1a48a-13e9-4bbf-b9d6-4e739a2889f6.png]]
+## How I'm crossposting
+

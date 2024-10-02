@@ -5,7 +5,7 @@ This is a list of norms that we take for granted around books. They are invisibl
 We'd love to hear your comments and additions. 
 
 All the Material in a Book Must Be Original Content
-Books May Not Share Chapters
+[[Books May Not Share Chapters]] 
 Books that Are too Long (over 200 pages?) Won’t Sell
 We Overprotect the Ideas in Books
 Books Don’t Make It Easy to Talk with Authors or Other Fans

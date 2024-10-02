@@ -13,6 +13,7 @@
 - [[On the Nature of Constraints]] 
 - [[On Sensemaking]] 
 - [[Getting My Kite Out of Storage]] (about my new speaking reel) 
+- The Many Flavors of Capitalism 
 
 RC Podcast Episodes
 - [[Ida and Jerry Explore Unlocking Human Potential]] (done) 
@@ -58,6 +59,7 @@ NeoBooks Posts
 - [[Nuggetization]] 
 - [[Level Up Media]] 
 - [[Why Hasn’t Software Solved Collaboration]]? 
+- [[Making Ideas More Useful]] 
 
 4S Posts (See, Shift, Shape, Set) 
 - [[Seeing Constraints]] 
