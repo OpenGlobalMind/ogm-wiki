@@ -2,7 +2,7 @@
 
 ## Context Posts
 - On Constraints and Strategy 
-- [[On Cross-Posting]] 
+- [[On Crossposting]] 
 - A Map to This Project  
 - My Missions 
 - Habemus Substack! 
@@ -50,6 +50,7 @@ Innovation Posts
 - [[Questions for Those With Projects to Fix the World]] 
 - [[Does Ethical Capitalism Pencil Out]]? 
 - [[Rethinking My Constraints]] 
+- [[Impossible Is Just the Most Famous Constraint]] 
 
 NeoBooks Posts
 - [[The NeoBooks Manifesto]] 

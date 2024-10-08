@@ -1,8 +1,8 @@
-# Behind the Reel: Powered Flight Is Impossible
+# Behind the Reel: What Seems Impossible
 
 [My speaker's reel](https://vimeo.com/1006299404?share=copy) contains many fleeting moments that are really significant to me, so I'm elaborating on them in a quick series of posts. 
 
-At [2:12 in the reel](https://vimeo.com/1006299404?share=copy#t=132.603) you'll see this image, which starts a quick montage about innovation:
+At [2:12 in the reel](https://vimeo.com/1006299404?share=copy#t=132.603) you'll see this familiar image, which starts a quick montage about innovation:
 ![[Impossible w Wright Flyer.jpg]]
 One of the things that makes Rethinking the Impossible such a fun theme is that there is a mother lode of "that's impossible!" quotes that have aged poorly, especially around technology. They include:
 
