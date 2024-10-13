@@ -2,7 +2,7 @@
 
 *Others don't get enough love!*
 
-Within the frame of rethinking constraints, I've been focused on — perhaps even a little obsessed about — constraints that seem impossible. The obvious examples are things that at one point in time seemed out of the question, like a nearly free communication medium that would let us all post articles and videos to one another, or flying in heavier-than-air craft. Both the Internet and Delta Airlines were out of the question in 1900. 
+Within the frame of [[Rethink Constraints|rethinking constraints]] , I've been focused on — perhaps even a little obsessed about — constraints that seem impossible. The obvious examples are things that at one point in time seemed out of the question, like a nearly free communication medium that would let us all post articles and videos to one another, or flying in heavier-than-air craft. Both the Internet and Delta Airlines were out of the question in 1900. 
 
 There are many more recent examples of the impossible becoming possible, but when I started reflecting on less daunting constraints, I realized that often it is those that really hem us in and keep us from succeeding. Imagine a spectrum that goes (from impossible on down) like this: 
 

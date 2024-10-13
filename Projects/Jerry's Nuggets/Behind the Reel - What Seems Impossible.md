@@ -23,4 +23,4 @@ That last one is a feeder for a Nelson Mandela quote, "It always seems impossibl
 
 ## Reeling it in
 
-Those examples are famous and world-scale, but we know that the impossible strikes at all scales, from "nobody will buy this product" to . 
+Those examples are famous and world-scale, but we know that the impossible strikes at all scales, from "nobody will buy this product" to "I can't imagine jumping from this high up." 

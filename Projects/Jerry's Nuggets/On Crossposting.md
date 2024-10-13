@@ -22,13 +22,19 @@ For me, the "Ur" copy of every post is on Pete's [Massive Wiki](https://massive.
 
 - I write it in [Obsidian](https://obsidian.md/) (using [Markdown](http://en.wikipedia.org/wiki/Markdown))
 - Save (push) it to [Github](http://en.wikipedia.org/wiki/GitHub) 
-- Where [Massive Wiki Builder](https://massive.wiki/massive_wiki_builder) automagically regenerates its web pages, "publishing" the new one
+- Where [Massive Wiki Builder](https://massive.wiki/massive_wiki_builder) automagically regenerates its web pages, "publishing" the new one 
+- Copy that page's contents and paste them into Substack, Medium and LinkedIn 
 - Copy the new page's URL and add it to the crossposts 
 - Add that page to my Brain, too 
+- Fetch the final URLs of the Substack, Medium and LinkedIn posts and add them to the Ur-post, and to my Brain 
+- I once would have posted to Twitter, but I won't post to Xitter, and haven't found a happy rhythm or community in the new alternatives, like Bluesky, Mastodon and Threads. 
+- Whew! 
 
-Functionally, that turns into the footer you'll see on this page, after the separating line. 
+Functionally, that looks like the footer you'll see on this page, after the separating line. 
 
 I don't want to make the crossposted articles confusing, so on those, I just link back here by adding "The Ur-post lives here."
+
+Oh, and that workflow doesn't include any videos, or where and how I create images to use in the posts. 
 
 ## Useful details
 
