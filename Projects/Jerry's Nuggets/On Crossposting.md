@@ -56,4 +56,4 @@ The crossposting strategy I've described here definitely increases the risk that
 Lmk what you think! And what you do. 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/on-crossposting?r=1173&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true), Medium [here](https://jerrymichalski.medium.com/on-crossposting-d3599e878505) and LinkedIn [here](On Crossposting (on Substack)). It's also [here](https://bra.in/2pRVKx) in my Brain. 
