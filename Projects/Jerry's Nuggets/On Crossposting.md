@@ -2,13 +2,13 @@
 
 You have valuable ideas. Where to post them? In what medium? Text, videos, animations, tweets? 
 
-Some years back, in the Internet's [salad days](https://en.wikipedia.org/wiki/Salad_days), the answers were more straightforward. Start a blog on Blogger or Movable Type, for example, or try LiveJournal or MySpace. Today, there's a mad variety of places to post, making it hard to choose from among them. 
+Some years back, in the Internet's [salad days](https://en.wikipedia.org/wiki/Salad_days), the answers were more straightforward. You could start a blog on Blogger or Movable Type, for example, or try LiveJournal or MySpace. Today, there's a mad variety of places to post, making it hard to choose from among them. 
 
 Why choose just one? 
 
-It's more complicated to maintain, as you'll see shortly, but putting the same post in several places gets you the benefit of each platforms' special powers. If you like to be orderly about such things, the question arises: which of these copies do you think of as the "original," the hub of the other copies? 
+It's more complicated to maintain, as you'll see shortly, but putting the same post in several places gets you the benefit of each platforms' different audiences and special powers. If you like to be orderly about such things, the question arises: which of these copies do you think of as the "original," the hub of the other copies? 
 
-The brilliant participants in [IndieWeb](https://indieweb.org/) have thought about this, detailing various techniques, including: 
+The savvy participants in [IndieWeb](https://indieweb.org/) have thought about this, detailing various techniques, including: 
 
 - [POSE](https://indieweb.org/POSE) (Publish Once, Syndicate Everywhere) 
 - [PESOS](https://indieweb.org/PESOS) (Publish Elsewhere, Syndicate (to your) Own Site) 
