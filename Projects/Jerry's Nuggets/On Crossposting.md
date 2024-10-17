@@ -35,7 +35,7 @@ Then I:
 
 Functionally, that looks like the footer you'll see on this page, after the separating line. I don't want to make the crossposted articles confusing, so on those, I just link back here by adding "The Ur-post lives here."
 
-For this particular post, there's one more stop: Pete is publishing it in his bi-weekly Plex newsletter (thanks, Pete!).
+For this particular post, there's one more stop: Pete is [publishing it](https://plex.collectivesensecommons.org/2024-10-16/) in his bi-weekly Plex newsletter (thanks, Pete!).
 
 Oh, and that workflow doesn't include any videos, or where and how I create images to use in the posts. Or what constitutes a podcast nowadays. 
 

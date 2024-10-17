@@ -2,7 +2,7 @@
 
 ## Context Posts
 - On Constraints and Strategy 
-- [[On Crossposting]] 
+- [[On Crossposting]] (done) 
 - A Map to This Project  
 - My Missions 
 - Habemus Substack! 
@@ -61,6 +61,7 @@ NeoBooks Posts
 - [[Level Up Media]] 
 - [[Why Hasn’t Software Solved Collaboration]]? 
 - [[Making Ideas More Useful]] 
+- [[Jerry's Presentation Nuggets]] 
 
 4S Posts (See, Shift, Shape, Set) 
 - [[Seeing Constraints]] 

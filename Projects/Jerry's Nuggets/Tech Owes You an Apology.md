@@ -21,7 +21,7 @@ But many other themes fell way short. Remember:
 
 Old hands may remember [Push](https://en.wikipedia.org/wiki/Push_technology), Pen Computing and the [Segway](https://slate.com/human-interest/2021/08/dean-kamen-viral-mystery-invention-2001.html). You likely have your own favorites. 
 
-Most of these were big distractions. If you spent time learning about them, then spent money implementing them, chances are you didn't get far and wasted considerable resources. 
+Most of these were distractions. If you spent time learning about them, then spent money implementing them, chances are you didn't get far and wasted considerable resources. 
 
 I don't mean to say that these ideas don't contain useful technologies. They do. But these technology descriptions are like looking into a giant warehouse of awesome tech and saying the ferris wheel and yo-yo are going to be the earth shaking inventions that matter. They truly miss the point.
 
