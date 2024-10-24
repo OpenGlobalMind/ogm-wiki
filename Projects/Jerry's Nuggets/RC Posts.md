@@ -19,6 +19,12 @@ RC Podcast Episodes
 - [[Ida and Jerry Explore Unlocking Human Potential]] (done) 
 - [[Joy and Jerry Discuss The Big Fungus]] 
 
+Jerry's Brain Posts 
+- On Curating My Brain 
+- isms 
+- Taglines 
+- 
+
 GenAI Posts (#GenAI)
 - [[Tech Owes You an Apology]] 
 - [[Finding Your GenAI Advisors]] 
@@ -90,3 +96,5 @@ Rethink Society Posts (#RethinkSociety)
 [[Behind the Reel (series)]] 
 
 All part of [[Rethink Constraints]]. (#RethinkConstraints)
+
+And all funneled through [[The Queue]]. 
