@@ -4,6 +4,10 @@ The advent of Generative AI raises a series of important questions related to tr
 
 - Can I Trust GenAI's Answers?
 - Will GenAI Take My Job? 
+
+
+Answers: 
+
 - [[How Damocles Threatens GenAI]] 
 
 

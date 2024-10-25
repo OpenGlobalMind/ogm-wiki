@@ -8,7 +8,6 @@
 - Habemus Substack! 
 - About This Substack 
 - [[I Think in Webs]] 
-- [[Contrarians Who Make (or Made) Sense]] 
 - [[Rethinking My Own Constraints]] (series) 
 - [[On the Nature of Constraints]] 
 - [[On Sensemaking]] 
@@ -20,9 +19,10 @@ RC Podcast Episodes
 - [[Joy and Jerry Discuss The Big Fungus]] 
 
 Jerry's Brain Posts 
-- On Curating My Brain 
+- On Curating a 27-Year-Old Mind Map 
 - isms 
 - Taglines 
+- [[Contrarians Who Make (or Made) Sense]] (series) 
 - 
 
 GenAI Posts (#GenAI)
@@ -31,7 +31,7 @@ GenAI Posts (#GenAI)
 - [[GenAI's Mixed Blessings]] (done) 
 - [[GenAI Trust Issues]] 
 - [[Will GenAI Survive Capitalism]]? 
-- [[A GenAI Compact]] 
+- [[Proposing a GenAI Compact]] 
 
 Design from Trust Posts (#DesignfromTrust)
 - Trust Is the Crucial Constraint 
@@ -41,8 +41,8 @@ Design from Trust Posts (#DesignfromTrust)
 - [[Oh Advertisers 2]] (done) 
 
 Constraint Tales 
-- [[Design from Trust Case Studies]] 
-- [[The Dark Side of Rethinking Constraints]] 
+- [[Design from Trust Case Studies]] (series) 
+- [[The Dark Side of Rethinking Constraints]] (series) 
 - [[The Web Is Forgiving]] (done) 
 - [[Ackoff Was a Master at Rethinking Constraints]] 
 

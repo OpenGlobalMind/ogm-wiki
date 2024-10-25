@@ -28,3 +28,9 @@ In non-fiction:
 You can browse all of these, in context, in my Brain [here](https://bra.in/2pxbo6). To suggest others, please [write me](mailto:sociate@gmail.com). 
 
 In my imagination: [[The Big Fungus]]. 
+
+## A caveat 
+
+Despite (obviously) being a huge fan of sensemaking, I'm also a realist. That means I think many actions we take aren't based on logic, reasoning, and measured debate about actual potential outcomes, but instead are a maelstrom of fear, spin, factoids, misrepresentations, etc. 
+
+One of our greatest fears is being shunned by our neighbors, our communities. That's why I have this Thought in my Brain. 

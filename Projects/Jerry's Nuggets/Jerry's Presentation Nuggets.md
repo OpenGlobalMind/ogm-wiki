@@ -19,7 +19,7 @@ Design from Trust
 The Big Fungus 
 
 Superpowers 
-- GenAI Gives Us Superpowers 
+- [[GenAI Gives Us Superpowers]] 
 - Discovering Your Superpowers 
 - How Might We Blend Superpowers with GenAI? 
 
