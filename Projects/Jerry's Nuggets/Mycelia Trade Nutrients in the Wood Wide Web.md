@@ -4,4 +4,4 @@ Because [[Mycelia Externalize Their Digestion]], breaking down things like miner
 
 All this happens at the root (rhyzomal) level, hence the coining of the "Wood Wide Web". 
 
-This all to explain our fondness for the metaphor of [[The Big Fungus]].
+This [[Fabulous Fungal Metaphors|fungal metaphor]] helps explain our fondness for the metaphor of [[The Big Fungus]].

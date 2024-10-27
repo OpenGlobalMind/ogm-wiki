@@ -9,3 +9,4 @@ In a broad metaphoric coup, we've adopted [[The Big Fungus]] as a fruitful repre
 [[NeoBooks Introduction|NeoBooks]] are media experiments to make books more accessible, useful, and vibrant. As books, NeoBooks are the visible fruits of collaborations happening across The Big Fungus. As this metaphor implies, there is a lot of activity happening "underground," in what we hope to be analogous to healthy thinking soil. 
 
 
+This [[Fabulous Fungal Metaphors|fungal metaphor]] helps explain our fondness for the metaphor of [[The Big Fungus]].

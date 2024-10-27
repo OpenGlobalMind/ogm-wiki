@@ -8,4 +8,4 @@ Thus mushrooms, the most visible and best known elements of the fungal world, ar
 
 One of our projects involves creating living documents we call [[NeoBooks Introduction|NeoBooks]], which are composed of "Nuggets" of media, which might be texts, videos or other artifacts. [[NeoBooks are Mushrooms of The Big Fungus]], as are [[NeoDecks]] and [[NeoCasts]]. 
 
-This all to explain our fondness for the metaphor of [[The Big Fungus]].
+This [[Fabulous Fungal Metaphors|fungal metaphor]] helps explain our fondness for the metaphor of [[The Big Fungus]].
