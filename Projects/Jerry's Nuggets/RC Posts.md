@@ -27,6 +27,7 @@ Jerry's Brain Posts
 
 GenAI Posts (#GenAI)
 - [[Tech Owes You an Apology]] 
+- [[On GenAI's Origins]] 
 - [[Finding Your GenAI Advisors]] 
 - [[GenAI's Mixed Blessings]] (done) 
 - [[GenAI Trust Issues]] 

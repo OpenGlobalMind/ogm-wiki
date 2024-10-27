@@ -5,6 +5,7 @@ The list of upcoming posts.
 - [[Behind the Reel - What Seems Impossible]] 
 - [[Leaf-Cutter Ants Can't Digest Leaves]] 
 - [[Joy and Jerry Discuss The Big Fungus]] (contains [[The Noosphere]]) 
+- [[On GenAI's Origins]] 
 - [[GenAI Gives Us Superpowers]] 
 - [[How Damocles Threatens GenAI]] 
 - [[Will GenAI Survive Capitalism]] (contains multiple) 
