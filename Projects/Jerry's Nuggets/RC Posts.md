@@ -97,4 +97,4 @@ Rethink Society Posts (#RethinkSociety)
 
 All part of [[Rethink Constraints]]. (#RethinkConstraints)
 
-And all funneled through [[The Queue]]. 
+And all funneled through [[The Queue]] of upcoming posts. 

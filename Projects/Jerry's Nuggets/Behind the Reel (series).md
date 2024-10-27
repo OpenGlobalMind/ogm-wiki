@@ -6,8 +6,8 @@
 - At 2:52 [[Behind the Reel - The Documents That Saved My Family|The Documents That Saved My Family]] (done) 
 - At 2:12 [[Behind the Reel - What Seems Impossible]] 
 - At 0:54 [[Behind the Reel - Slides on Acetates]] 
-- Behind the Reel - Design from Trust 
-- [[Behind the Reel - The Joy Line]] 
+- At 2:52 [[Behind the Reel - Design from Trust]] 
+- At 2:52 [[Behind the Reel - The Joy Line]] 
 - Behind the Reel - Q&A with Nathan 
 - Behind the Reel - Family Pics 
 - Behind the Reel - Re-Shape Your Industry 

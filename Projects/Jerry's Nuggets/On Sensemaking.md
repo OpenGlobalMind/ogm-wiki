@@ -33,4 +33,4 @@ In my imagination: [[The Big Fungus]].
 
 Despite (obviously) being a huge fan of sensemaking, I'm also a realist. That means I think many actions we take aren't based on logic, reasoning, and measured debate about actual potential outcomes, but instead are a maelstrom of fear, spin, factoids, misrepresentations, etc. 
 
-One of our greatest fears is being shunned by our neighbors, our communities. That's why I have this Thought in my Brain. 
+One of our greatest fears is being shunned by our neighbors, our communities. That's why I have [this Thought](https://bra.in/2vPB9q) in my Brain. 
