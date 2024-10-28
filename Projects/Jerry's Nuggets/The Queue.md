@@ -9,6 +9,7 @@ The list of upcoming posts.
 - [[GenAI Gives Us Superpowers]] 
 - [[How Damocles Threatens GenAI]] 
 - [[Will GenAI Survive Capitalism]] (contains multiple) 
+- [[My Story of Trust]] 
 - [[On Sensemaking]] 
 - [[Tech Owes You an Apology]] 
 - [[Our Cyborg Future]] 

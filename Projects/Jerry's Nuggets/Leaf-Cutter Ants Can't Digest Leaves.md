@@ -1,8 +1,9 @@
 # Leaf-Cutter Ants Can't Digest Leaves
 
-So why are they carrying leaf cuttings into their hives all the time? 
+*So why are they carrying leaf cuttings into their hives all the time?* 
 
-[Leaf-cutter ants](http://en.wikipedia.org/wiki/Leafcutter_ant) are also known as farmer ants, because they farm a fungus. The ants collect leaves from the forest, bring them down into their hive and hand them off to colleagues. Those ants mulch the leafy bits up with some ant spit, then feed the results to the fungus, which metabolizes it. In return, the fungus creates edible projections called [Gongylidia](https://en.wikipedia.org/wiki/Gongylidia) and oozes nectar, all of which feeds the ant colony. 
+![[ant mulching leaf.jpg]]
+[Leaf-cutter ants](http://en.wikipedia.org/wiki/Leafcutter_ant) are also known as farmer ants, because they farm a fungus. The ants collect leaves from the forest, bring them down into their hive and hand them off to colleagues. Those ants mulch the leafy bits up with some ant spit, then feed the results to the fungus, which metabolizes it. In return, the fungus oozes nectar and creates edible projections called [Gongylidia](https://en.wikipedia.org/wiki/Gongylidia), all of which feed the ant colony. 
 
 Happy fungus, happy hive. It's one of nature's beautiful [symbiotic relationships](http://en.wikipedia.org/wiki/Symbiosis). 
 
