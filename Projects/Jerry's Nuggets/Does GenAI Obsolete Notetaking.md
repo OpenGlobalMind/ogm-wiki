@@ -1,0 +1,2 @@
+# Does GenAI Obsolete Notetaking?
+

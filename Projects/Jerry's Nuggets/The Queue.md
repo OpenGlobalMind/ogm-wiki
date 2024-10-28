@@ -7,8 +7,11 @@ The list of upcoming posts.
 - [[Joy and Jerry Discuss The Big Fungus]] (contains [[The Noosphere]]) 
 - [[On GenAI's Origins]] 
 - [[GenAI Gives Us Superpowers]] 
+- [[Does GenAI Obsolete Notetaking]]? 
+- [[Does GenAI Obsolete Tools for Thinking]]? 
+- [[Does GenAI Obsolete Reading]]? 
 - [[How Damocles Threatens GenAI]] 
-- [[Will GenAI Survive Capitalism]] (contains multiple) 
+- [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[My Story of Trust]] 
 - [[On Sensemaking]] 
 - [[Tech Owes You an Apology]] 

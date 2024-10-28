@@ -27,6 +27,10 @@ Jerry's Brain Posts
 
 GenAI Posts (#GenAI)
 - [[Tech Owes You an Apology]] 
+- [[GenAI Gives Us Superpowers]] 
+- [[Does GenAI Obsolete Notetaking]]? 
+- [[Does GenAI Obsolete Tools for Thinking]]? 
+- [[Does GenAI Obsolete Reading]]? 
 - [[On GenAI's Origins]] 
 - [[Finding Your GenAI Advisors]] 
 - [[GenAI's Mixed Blessings]] (done) 
