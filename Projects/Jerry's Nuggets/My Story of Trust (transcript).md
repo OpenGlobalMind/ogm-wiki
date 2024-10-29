@@ -1,22 +1,22 @@
 # My Story of Trust (transcript)
 
-See [[My Story of Trust]]. This is what I say:
+In the [[My Story of Trust]] video, this is what I say:
 
-This is the story of how I see trust and how I see how we got to the current state of trust and where we might go with it.
+This is the story of how I see trust, how we got to the current state of trust, and where we might go with it.
 
-I happen to believe that long ago all around the world we used to understand how to live in community on the commons. 
+I happen to believe that long ago, all around the world, we used to understand how to live in community on the Commons. 
 
-Now first on the upper left there is a bunch of megafauna. First, we managed to kill off all the megafauna because humans were pretty efficient at killing the large slow animals. So we killed off megafauna and then slowly over time we figured out how to live in community on the commons.
+On the upper left there is a bunch of megafauna. First, we managed to kill off all the megafauna because humans were pretty efficient at killing the large slow animals. So we killed off megafauna and then slowly over time we figured out how to live in community on the Commons.
 
-This was hard won knowledge because a lot of communities wiped themselves out. The ones that destroyed their Commons ended up overfishing or cutting all the timber off or Easter Island or name your calamity in society, but basically really often it was because we fought each other to death or we managed to eliminate that which sustained us.
+This was hard-won knowledge because a lot of communities wiped themselves out. The ones that destroyed their Commons ended up overfishing or cutting all the timber off or Easter Island or name your calamity in society, but basically really often it was because we fought each other to death or we managed to eliminate that which sustained us.
 
-So if you go to the Dagara tribe in West Africa, if you go to the Quechua and Aymara tribes in South America, if you go to lots of communities around the world and you probe and you ask about their indigenous ways of knowing, their cosmologies, the stories they tell, the words in their language, you'll find they have words like reciprocity and stewardship and so forth and really words about how to build and create community and how to take care of your Commons.
+If you go to the Dagara tribe in West Africa, if you go to the Quechua and Aymara tribes in South America, if you go to lots of communities around the world and you probe and you ask about their indigenous ways of knowing, their cosmologies, the stories they tell, the words in their language, you'll find they have words like reciprocity and stewardship and so forth — really words about how to build and create community and how to take care of your Commons.
 
-Now somewhere along the road we shattered this. We systematically went around the world and destroyed it in fact. It's a painful topic. It causes lots of controversy. A bunch of people don't particularly want to have this conversation and its causes are multiple.
+Somewhere along the road we shattered this. We systematically went around the world and destroyed it, in fact. It's a painful topic. It causes lots of controversy. A bunch of people don't particularly want to have this conversation; its causes are multiple.
 
-My own take on it is that somewhere around World War I we sort of finally lost faith in humans because before World War I we have, you know, the automobile, the airplane, electrification, a whole bunch of technologies and things seem to be making life better. 
+My own take on it is that somewhere around World War I we sort of finally lost faith in humans because before World War I we have, you know, the automobile, the airplane, electrification, a whole bunch of technologies seemed to be making life better. 
 
-We're figuring out how a lot of things work and then World War I is a stupid war. We feed people into machine guns, millions of people die. The frontier across the middle of Europe never moves more than 14 miles one way or the other for four years. We just exhaust each other in this war.
+We're figuring out how a lot of things work, and then World War I is a stupid war. We feed people into machine guns; millions of people die. The frontier across the middle of Europe never moves more than 14 miles one way or the other for four years. We just exhaust each other in this war.
 
 Then at the end of the war we proceed to do a lot of stupid things. The end of World War I basically primes the world for World War II by making a whole series of stupid decisions, but on the whole we kind of lost faith in humans in here and we started handing institutions over to mostly engineers, managers, white men to design things for efficiency, scale and often profit.
 
