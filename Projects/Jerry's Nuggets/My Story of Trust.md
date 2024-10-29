@@ -2,6 +2,8 @@
 
 *How did we get where we are?* 
 
+![[Now We're Rediscovering Trust.jpg]]
+
 Trust is a crazy, complicated topic. It's one of those words we take for granted, then we're surprised at how many facets and nuances they have as we unpack them. 
 
 My journey into trust over the past 30 years has been exciting and fruitful. It began in the mid-90s, when I realized that the word "consumer" made me itch, and trust wasn't much on my radar. Trust revealed itself to me over time, the story I tell here. 
