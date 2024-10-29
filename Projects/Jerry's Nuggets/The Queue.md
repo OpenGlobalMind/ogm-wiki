@@ -2,6 +2,8 @@
 
 The list of upcoming posts. 
 
+- [[My Story of Trust]] 
+- [[This Is Not Democracy]] 
 - [[Behind the Reel - What Seems Impossible]] 
 - [[Leaf-Cutter Ants Can't Digest Leaves]] 
 - [[Joy and Jerry Discuss The Big Fungus]] (contains [[The Noosphere]]) 
@@ -12,7 +14,6 @@ The list of upcoming posts.
 - [[Does GenAI Obsolete Reading]]? 
 - [[How Damocles Threatens GenAI]] 
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
-- [[My Story of Trust]] 
 - [[On Sensemaking]] 
 - [[Tech Owes You an Apology]] 
 - [[Our Cyborg Future]] 
