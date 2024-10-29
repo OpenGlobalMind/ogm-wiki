@@ -41,7 +41,7 @@ GenAI Posts (#GenAI)
 Design from Trust Posts (#DesignfromTrust)
 - Trust Is the Crucial Constraint 
 - Writing a NeoBook About Design from Trust 
-- [[My Story of Trust]] 
+- [[My Story of Trust]] (done) 
 - [[Trust Unlocks Innovation]] 
 - [[Oh Advertisers 1]] (done) 
 - [[Oh Advertisers 2]] (done) 

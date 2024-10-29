@@ -15,5 +15,7 @@ I've put the video transcript in a separate file, [[My Story of Trust (transcrip
 
 The video's content, in context in my Brain, is [here](https://bra.in/9v2eRe). 
 
+#trust #history #designfromtrust 
+
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/2qnw3W) in my Brain. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/my-story-of-trust?r=1173&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true), Medium [here](https://jerrymichalski.medium.com/my-story-of-trust-4f87a464f263) and LinkedIn [here](https://www.linkedin.com/pulse/my-story-trust-jerry-michalski-gzvoc). It's also [here](https://bra.in/2qnw3W) in my Brain. 
