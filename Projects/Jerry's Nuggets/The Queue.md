@@ -2,7 +2,7 @@
 
 The list of upcoming posts. 
 
-- [[My Story of Trust]] 
+- [[My Story of Trust]] (done) 
 - [[This Is Not Democracy]] 
 - [[Behind the Reel - What Seems Impossible]] 
 - [[Leaf-Cutter Ants Can't Digest Leaves]] 
@@ -15,6 +15,7 @@ The list of upcoming posts.
 - [[How Damocles Threatens GenAI]] 
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[On Sensemaking]] 
+- [[Brands Are Trapped]] 
 - [[Tech Owes You an Apology]] 
 - [[Our Cyborg Future]] 
 - [[Upkido]] 

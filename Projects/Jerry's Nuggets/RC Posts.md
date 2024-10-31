@@ -51,6 +51,7 @@ Constraint Tales
 - [[The Dark Side of Rethinking Constraints]] (series) 
 - [[The Web Is Forgiving]] (done) 
 - [[Ackoff Was a Master at Rethinking Constraints]] 
+- [[Brands Are Trapped]] 
 
 Innovation Posts 
 - [[Innovation We Don't Talk About]] 
