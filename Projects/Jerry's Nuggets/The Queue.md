@@ -14,6 +14,8 @@ The list of upcoming posts.
 - [[Does GenAI Obsolete Reading]]? 
 - [[How Damocles Threatens GenAI]] 
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
+- A Chatbot for My Brain? 
+- Instrumenting Ideas 
 - [[On Sensemaking]] 
 - [[Brands Are Trapped]] 
 - [[Tech Owes You an Apology]] 

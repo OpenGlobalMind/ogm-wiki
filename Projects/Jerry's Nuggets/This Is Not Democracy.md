@@ -2,7 +2,7 @@
 
 We are five days from the 2024 US election, which seems as consequential an election as any I have lived through. And it's a mess. 
 
-After two and a half years of campaigning, primaries and endless fundraising, the pollsters tell us it's a coin toss: either side could win the Electoral College. 
+After two and a half years of campaigning, primaries and endless fundraising, the pollsters tell us it's a coin toss: either side could win the Electoral College. It's a convicted felon vs. a prosecutor, and it's a coin toss. 
 
 For a reality check, do you know how many days passed from the day when Rishi Sunak called a [snap election](https://en.wikipedia.org/wiki/2024_United_Kingdom_general_election) in the UK to the day he had to move out of 10 Downing Street? 
 
