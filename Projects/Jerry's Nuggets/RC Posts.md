@@ -42,6 +42,7 @@ Design from Trust Posts (#DesignfromTrust)
 - Trust Is the Crucial Constraint 
 - Writing a NeoBook About Design from Trust 
 - [[My Story of Trust]] (done) 
+- [[Scarcity = Abundance - Trust]] 
 - [[Trust Unlocks Innovation]] 
 - [[Oh Advertisers 1]] (done) 
 - [[Oh Advertisers 2]] (done) 

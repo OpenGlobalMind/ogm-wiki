@@ -4,6 +4,8 @@ The list of upcoming posts.
 
 - [[My Story of Trust]] (done) 
 - [[This Is Not Democracy]] 
+- On World War I and Trust in Humans 
+- [[Scarcity = Abundance - Trust]] 
 - [[Behind the Reel - What Seems Impossible]] 
 - [[Leaf-Cutter Ants Can't Digest Leaves]] 
 - [[Joy and Jerry Discuss The Big Fungus]] (contains [[The Noosphere]]) 
