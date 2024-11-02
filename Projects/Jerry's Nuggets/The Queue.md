@@ -9,6 +9,9 @@ The list of upcoming posts.
 - [[Behind the Reel - What Seems Impossible]] 
 - [[Leaf-Cutter Ants Can't Digest Leaves]] 
 - [[Joy and Jerry Discuss The Big Fungus]] (contains [[The Noosphere]]) 
+- New Call Series: Rethink the Future 
+- Join Our Conversations 
+- The Coming Displacement (start w ag worker shift)
 - [[On GenAI's Origins]] 
 - [[GenAI Gives Us Superpowers]] 
 - [[Does GenAI Obsolete Notetaking]]? 
@@ -16,10 +19,11 @@ The list of upcoming posts.
 - [[Does GenAI Obsolete Reading]]? 
 - [[How Damocles Threatens GenAI]] 
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
-- A Chatbot for My Brain? 
-- Instrumenting Ideas 
+- Instrumenting Ideas (Animating?) 
 - [[On Sensemaking]] 
 - [[Brands Are Trapped]] 
+- A Chatbot for My Brain? 
+- In What Ways Would I Like GenAI to Enhance My Brain? 
 - [[Tech Owes You an Apology]] 
 - [[Our Cyborg Future]] 
 - [[Upkido]] 

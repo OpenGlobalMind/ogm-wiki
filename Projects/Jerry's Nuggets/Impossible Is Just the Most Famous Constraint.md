@@ -1,5 +1,7 @@
 # Impossible Is Just the Most Famous Constraint
 
+(draft) 
+
 *Others don't get enough love!*
 
 Within the frame of [[Rethink Constraints|rethinking constraints]] , I've been focused on — perhaps even a little obsessed about — constraints that seem impossible. The obvious examples are things that at one point in time seemed out of the question, like a nearly free communication medium that would let us all post articles and videos to one another, or flying in heavier-than-air craft. Both the Internet and Delta Airlines were out of the question in 1900. 
@@ -29,6 +31,10 @@ Sometimes, it's these barriers that create value. In gift giving, or doing someo
 Experiment more. 
 
 Sometimes the things that hold us back are tiny. 
+
+See also [[Behind the Reel - What Seems Impossible]]. 
+
+— [[Jerry Michalski]] 
 
 #rethinkconstraints 
 

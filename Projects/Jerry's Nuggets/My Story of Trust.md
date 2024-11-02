@@ -15,6 +15,8 @@ I've put the video transcript in a separate file, [[My Story of Trust (transcrip
 
 The video's content, in context in my Brain, is [here](https://bra.in/9v2eRe). 
 
+— [[Jerry Michalski]] 
+
 #trust #history #designfromtrust 
 
 --- 

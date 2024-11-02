@@ -8,9 +8,9 @@
 - At 0:54 [[Behind the Reel - Slides on Acetates]] 
 - At 2:52 [[Behind the Reel - Design from Trust]] 
 - At 2:52 [[Behind the Reel - The Joy Line]] 
-- Behind the Reel - Q&A with Nathan 
-- Behind the Reel - Family Pics 
-- Behind the Reel - Re-Shape Your Industry 
-- Behind the Reel - All Four Ses 
-- Behind the Reel - Rethink Your Constraints 
+- At 3:29 Behind the Reel - Q&A with Nathan 
+- At 2:38 Behind the Reel - Family Pics 
+- At 3:15 Behind the Reel - Re-Shape Your Industry 
+- At 1:54 Behind the Reel - All Four Ses 
+- At Behind the Reel - Rethink Your Constraints 
 
