@@ -1,5 +1,5 @@
 # How Damocles Threatens GenAI
-
+(draft) 
 *It's about trust.* 
 
 The advent of Generative AI has has shaken the workplace, with pronounced effects both good and bad. On the negative side, GenAI has poured kerosene on a problem that already existed in the US workforce before: job security. 
@@ -16,3 +16,7 @@ The
 
 #futureofwork #generativeai #trustatwork 
 
+— [[Jerry Michalski]] 
+
+--- 
+This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain. 

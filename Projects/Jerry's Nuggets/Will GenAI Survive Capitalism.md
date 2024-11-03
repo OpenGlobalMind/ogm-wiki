@@ -1,5 +1,5 @@
 # Will GenAI Survive Capitalism?
-
+(draft)
 *If not, will we?*
 
 Capitalism has a way of messing things up. 
@@ -27,3 +27,8 @@ Capitalism, at least in its current form, is insatiable. And greedy.
 Whether we can fix Capitalism is a subject for future posts. 
 
 #OpenAI, #critiquesofcapitalism, #innovation, 
+
+— [[Jerry Michalski]] 
+
+--- 
+This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain.  

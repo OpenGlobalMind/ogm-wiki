@@ -19,6 +19,7 @@ The list of upcoming posts.
 - [[Does GenAI Obsolete Reading]]? 
 - [[How Damocles Threatens GenAI]] 
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
+- [[Variants of Capitalism]] 
 - Instrumenting Ideas (Animating?) 
 - [[On Sensemaking]] 
 - [[Brands Are Trapped]] 

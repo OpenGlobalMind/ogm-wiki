@@ -24,3 +24,8 @@ That last one is a feeder for a Nelson Mandela quote, "It always seems impossibl
 ## Reeling it in
 
 Those examples are famous and world-scale, but we know that the impossible strikes at all scales, from "nobody will buy this product" to "I can't imagine jumping from this high up." 
+
+— [[Jerry Michalski]] 
+
+--- 
+This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain. 

@@ -1,5 +1,5 @@
 # Tech Owes You an Apology
-
+(draft) 
 *Too often: This Changes Everything!*
 
 ![[Comcast_Xfinity_10G_network.jpg]]
@@ -37,3 +37,8 @@ GenAI Is the Real Deal.
 [[What's your position on GenAI ]]? 
 
 This raises an important question: [[Will GenAI Survive Capitalism]]?
+
+— [[Jerry Michalski]] 
+
+--- 
+This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain.  
