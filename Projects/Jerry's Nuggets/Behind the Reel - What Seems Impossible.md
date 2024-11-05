@@ -1,5 +1,5 @@
 # Behind the Reel: What Seems Impossible
-
+(draft) 
 [My speaker's reel](https://vimeo.com/1006299404?share=copy) contains many fleeting moments that are really significant to me, so I'm elaborating on them in a quick series of posts. 
 
 At [2:12 in the reel](https://vimeo.com/1006299404?share=copy#t=132.603) you'll see this familiar image, which starts a quick montage about innovation:

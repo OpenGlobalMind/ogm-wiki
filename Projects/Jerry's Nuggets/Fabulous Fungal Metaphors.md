@@ -1,5 +1,5 @@
 # Fabulous Fungal Metaphors 
-
+(draft) 
 Fungi offer rich, evocative, funny metaphors about symbiosis and collaboration in nature, which fit our mission at Open Global Mind to create a shared, interconnected memory for humans in multiple ways, including:
 
 - [[Hyphae Connect]] 
@@ -14,3 +14,4 @@ Fungi offer rich, evocative, funny metaphors about symbiosis and collaboration i
 - [[The Matsutake's Peculiar Ecosystem]] 
 - [[Magic Mushrooms]] 
 - [[Data as Healthy Soil]] 
+

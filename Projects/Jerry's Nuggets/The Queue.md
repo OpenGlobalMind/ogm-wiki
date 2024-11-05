@@ -1,6 +1,6 @@
 # The Queue
 
-The list of upcoming posts. 
+The list of upcoming posts, in expected time sequence. They move a lot. 
 
 - [[My Story of Trust]] (done) 
 - [[This Is Not Democracy]] 
