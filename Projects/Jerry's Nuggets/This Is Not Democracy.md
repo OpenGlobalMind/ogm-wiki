@@ -64,5 +64,7 @@ The Ur-post lives [here](https://wiki.openglobalmind.com/projects/jerry's_nugget
 
 — [[Jerry Michalski]] 
 
+#election2024 #democracy #moneyinpolitics #consumerism 
+
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/8jXmQy) in my Brain. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/this-is-not-democracy?r=1173&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true), Medium [here](https://jerrymichalski.medium.com/this-is-not-democracy-8c7146173b9c) and LinkedIn [here](https://www.linkedin.com/pulse/democracy-jerry-michalski-tecwc). It's also [here](https://bra.in/8jXmQy) in my Brain. 
