@@ -33,22 +33,23 @@ Democracy shouldn't be a massive money-driven, consumer-mass-marketing exercise 
 
 A major reason so many citizens are pissed off is that they've been ignored as citizens. 
 
-We are no longer citizens, but [mere consumers](https://bra.in/8vBzBa). Our role as consumers of government is to "pay" for government through donations and votes, not to get involved in actual governance, which is so messy and time-consuming. There is much more to say about this some other time, and many folks have written passionately about it, including [Jon Alexander](https://www.amazon.com/Citizens-Why-Key-Fixing-Everything-ebook/dp/B09QLP74TC/jerrymichalskisr), [Annie Leonard](https://www.amazon.com/Citizens-Why-Key-Fixing-Everything-ebook/dp/B09QLP74TC/jerrymichalskisr), [Eric Liu](https://www.theatlantic.com/politics/archive/2012/05/democracy-is-for-amateurs-why-we-need-more-citizen-citizens/256818/), and [Barry Lynn](https://www.youtube.com/watch?v=dHyzZ0_Le30). 
+We are no longer citizens, but [mere consumers](https://bra.in/8vBzBa). Our role as consumers of government is to "pay" for government through donations and votes, not to get involved in actual governance, which is so messy and time-consuming. Many folks have written passionately about this, including [Jon Alexander](https://www.amazon.com/Citizens-Why-Key-Fixing-Everything-ebook/dp/B09QLP74TC/jerrymichalskisr), [Annie Leonard](https://www.amazon.com/Citizens-Why-Key-Fixing-Everything-ebook/dp/B09QLP74TC/jerrymichalskisr), [Eric Liu](https://www.theatlantic.com/politics/archive/2012/05/democracy-is-for-amateurs-why-we-need-more-citizen-citizens/256818/), and [Barry Lynn](https://www.youtube.com/watch?v=dHyzZ0_Le30). 
 
 Our current answer is apparently massive advertising, supplemented by door-knocking, card-writing, and phone-banking, all to try to light people up on Election Day who have been ignored and passed over in the intervening years. 
 
 We're far enough from functional democracy that [Deep Canvassing](https://bra.in/6pJ8Lg) seems like a big innovation: Stop and actually have a conversation for 45 minutes, instead of pressing a pamphlet in potential voters' hands and asking a few questions prompted by your [canvassing app](https://theconnector.substack.com/p/slouching-to-election-day-with-minivan).  
+
+I'm on the White Dudes for Harris WhatsApp group, and it's truly heartening to read the stories of conversations everyone is having on the ground in swing states these last few weeks. But it's also a little heartbreaking. 
 ## How to fix democracy?
 
 There are movements to [reverse Citizens United](https://bra.in/6j4yBG), which seems like one good starting place. If you look "up" from there, [revoking corporate personhood](https://bra.in/3qnwm9) would be great, too. To these initiatives I'd add algorithmic redistricting, fixing the Electoral College, and maybe nonpartisan primaries. I'm sure you could add more to this list. 
 
 Those are (important) geeky policy solutions, but they mask a dysfunctional dynamic at the heart of this problem: We are at one another's throats, full of fear, instead of in one another's back yards, full of curiosity. Our very ability to talk our way to a better world has been crippled. 
 
-A taste of the solutions that appeal to me: 
+A taste of the solutions that seem aimed and designed well: 
 
 - [Loretta J. Ross](https://en.wikipedia.org/wiki/Loretta_Ross): [Don't call people out -- call them in](https://www.youtube.com/watch?v=xw_720iQDss) (2021 TED talk) 
-- [Daryl Davis](https://en.wikipedia.org/wiki/Daryl_Davis
-- ): [What do you do when someone just doesn't like you?](https://www.youtube.com/watch?v=Y4gly9n9RBo) 
+- [Daryl Davis](https://en.wikipedia.org/wiki/Daryl_Davis): [What do you do when someone just doesn't like you?](https://www.youtube.com/watch?v=Y4gly9n9RBo) 
 - [Elizabeth Markle](https://www.linkedin.com/in/elizabeth-markle-0918ab47/): [Community As Medicine](https://www.youtube.com/watch?v=cyNLd746V_o) (TEDxCherry Creek Women) 
 - [Jason Roberts](https://www.linkedin.com/in/jason-roberts-5780863/): [Reimagining Your Own Blocks](http://www.youtube.com/watch?v=Iciuh5pbnsI) (2012) 
 - [Megan Phelps-Roper](https://en.wikipedia.org/wiki/Megan_Phelps-Roper): [I grew up in the Westboro Baptist Church. Here's why I left](https://www.youtube.com/watch?v=bVV2Zk88beY). 
