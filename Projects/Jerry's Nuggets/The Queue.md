@@ -3,7 +3,7 @@
 The list of upcoming posts, in expected time sequence. They move a lot. 
 
 - [[My Story of Trust]] (done) 
-- [[This Is Not Democracy]] 
+- [[This Is Not Democracy]] (done) 
 - On World War I and Trust in Humans 
 - [[Scarcity = Abundance - Trust]] 
 - [[Behind the Reel - What Seems Impossible]] 
