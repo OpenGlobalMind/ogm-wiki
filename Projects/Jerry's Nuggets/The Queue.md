@@ -4,8 +4,9 @@ The list of upcoming posts, in expected time sequence. They move a lot.
 
 - [[My Story of Trust]] (done) 
 - [[This Is Not Democracy]] (done) 
-- On World War I and Trust in Humans 
 - [[Scarcity = Abundance - Trust]] 
+- [[On World War I and Trust in Humans]] 
+- [[Can We Mend Democracy]]? 
 - [[Behind the Reel - What Seems Impossible]] 
 - [[Leaf-Cutter Ants Can't Digest Leaves]] 
 - [[Joy and Jerry Discuss The Big Fungus]] (contains [[The Noosphere]]) 
@@ -21,6 +22,7 @@ The list of upcoming posts, in expected time sequence. They move a lot.
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[Variants of Capitalism]] 
 - Instrumenting Ideas (Animating?) 
+- [[We Separated Work, Play and Learning]] 
 - [[On Sensemaking]] 
 - [[Brands Are Trapped]] 
 - A Chatbot for My Brain? 
