@@ -4,6 +4,7 @@ The list of upcoming posts, in expected time sequence. They move a lot.
 
 - [[My Story of Trust]] (done) 
 - [[This Is Not Democracy]] (done) 
+- [[Interpreting the 2024 US Election]] 
 - [[Scarcity = Abundance - Trust]] 
 - [[On World War I and Trust in Humans]] 
 - [[Can We Mend Democracy]]? 
@@ -21,6 +22,7 @@ The list of upcoming posts, in expected time sequence. They move a lot.
 - [[How Damocles Threatens GenAI]] 
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[Variants of Capitalism]] 
+- [[How the Robocar Trifecta Would Improve Our Cities]] 
 - Instrumenting Ideas (Animating?) 
 - [[We Separated Work, Play and Learning]] 
 - [[On Sensemaking]] 
