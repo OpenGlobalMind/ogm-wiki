@@ -5,6 +5,7 @@ The list of upcoming posts, in expected time sequence. They move a lot.
 - [[My Story of Trust]] (done) 
 - [[This Is Not Democracy]] (done) 
 - [[Interpreting the 2024 US Election]] 
+- [[Where I'm Aiming]] 
 - [[Scarcity = Abundance - Trust]] 
 - [[On World War I and Trust in Humans]] 
 - [[Can We Mend Democracy]]? 

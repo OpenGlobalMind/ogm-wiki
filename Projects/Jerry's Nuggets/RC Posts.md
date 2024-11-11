@@ -53,6 +53,7 @@ Constraint Tales
 - [[The Web Is Forgiving]] (done) 
 - [[Ackoff Was a Master at Rethinking Constraints]] 
 - [[Brands Are Trapped]] 
+- [[How the Robocar Trifecta Would Improve Our Cities]] 
 
 Innovation Posts 
 - [[Innovation We Don't Talk About]] 

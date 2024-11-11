@@ -2,6 +2,8 @@
 (draft) 
 *We need a big flip, not a slow shift.*
 
+Inspired by my friend Kevin's [recent post](https://www.linkedin.com/pulse/where-all-parking-go-kevin-clark-rfpme/), as well as Brad's eternal stream of interesting ideas and analysis.
+
 I've long hoped the Robocar Trifecta would happen: electric, shared, autonomous vehicles — all in many sizes, with cabins designed for specific purposes.
 
 We've discovered that lack of charging facilities is a hugely limiting factor for the uptake of privately owned EVs. That means there'll be a slower transition as we wire up more places to be good for recharges, a costly and inefficient process.
@@ -17,15 +19,15 @@ Previewing some benefits:
 - Much quieter cities as all vehicles go electric 
 - Newfound urban spaces 
 - Imagine all the parked cars gone 
-- Repurposed parking structures 
-- Vehicles customizable to many uses 
+- Repurposed parking structures (27% of downtown Houston Is parking structures!) 
+- Purpose-built robocars! 
 - Very little private vehicle ownership 
 - Easier multi-mode urban transit 
 - Move recharging to the least desirable spaces 
 
 Each of these deserves a post, so I'll light them up with links as I write them. 
 
-#robocars #urbanplanning #futureofcities #wishfulthinking #EVs
+#robocars #urbanplanning #futureofcities #wishfulthinking #EVs #futureoftransportation 
 
 — [[Jerry Michalski]] 
 

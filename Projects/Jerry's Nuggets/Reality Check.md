@@ -1,8 +1,12 @@
 # Reality Check
 (draft) 
-*Surely he's not serious!*
+*Surely Jerry's not serious!*
 
-Some of you, dear readers, may be thinking, "What planet is Jerry from? Design from Trust? Srsly? Doesn't he see the messes we're in? [[The Polycrisis]]? The Metacrisis? Doesn't he see how broken trust is?" I don't blame you if those thoughts showed up right away. 
+Design from Trust? Srsly? 
+
+Some of you, dear readers, may be thinking, "What planet is Jerry from? Doesn't he see the messes we're in? [[The Polycrisis]]? The [Metacrisis](https://bra.in/2joEQY)? Doesn't he see how broken trust is?" I don't blame you if those thoughts showed up right away. After all, people's first reactions when they encounter systems that are designed from trust are [[The 2 Oh Shit!s]]. 
+
+Here's a quick list of reasons your skepticism is warranted: 
 
 Not only have institutions of various kinds been losing our trust on their own (think Boeing's 737 Max mess, )
 
