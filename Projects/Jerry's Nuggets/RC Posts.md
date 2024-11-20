@@ -49,6 +49,7 @@ Design from Trust Posts (#DesignfromTrust)
 
 Open Global Mind Posts
 - [[The OGM Birth Story]] 
+- [[OGM Effects (if we succeed)]] 
 
 Constraint Tales 
 - [[Design from Trust Case Studies]] (series) 
