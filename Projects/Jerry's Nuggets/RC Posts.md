@@ -47,6 +47,9 @@ Design from Trust Posts (#DesignfromTrust)
 - [[Oh Advertisers 1]] (done) 
 - [[Oh Advertisers 2]] (done) 
 
+Open Global Mind Posts
+- [[The OGM Birth Story]] 
+
 Constraint Tales 
 - [[Design from Trust Case Studies]] (series) 
 - [[The Dark Side of Rethinking Constraints]] (series) 

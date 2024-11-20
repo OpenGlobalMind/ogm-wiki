@@ -4,7 +4,8 @@
 
 The 
 
-## Ways of interpreting the results 
+## Ways progressives are processing the results 
+
 
 ## Paths forward
 
