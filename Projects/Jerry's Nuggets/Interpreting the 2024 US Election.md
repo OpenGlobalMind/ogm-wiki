@@ -2,8 +2,7 @@
 (draft) 
 *How you see it affects what you'll do.* 
 
-The 
-
+The American Left got socked in the nose on Election Day. 
 ## Ways progressives are processing the results 
 
 

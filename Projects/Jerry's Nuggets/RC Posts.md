@@ -23,7 +23,9 @@ Jerry's Brain Posts
 - isms 
 - Taglines 
 - [[Contrarians Who Make (or Made) Sense]] (series) 
-- 
+- [[Useful Thinking Frameworks and Mental Models]] (Braincast) 
+- [[Variants of Capitalism]] (Braincast) 
+- [[Communities Working to Fix World Problems]] (Braincast) 
 
 GenAI Posts (#GenAI)
 - [[Tech Owes You an Apology]] 
@@ -43,6 +45,7 @@ Design from Trust Posts (#DesignfromTrust)
 - Writing a NeoBook About Design from Trust 
 - [[My Story of Trust]] (done) 
 - [[Scarcity = Abundance - Trust]] 
+- [[Examples of Design from Trust]] (series) 
 - [[Trust Unlocks Innovation]] 
 - [[Oh Advertisers 1]] (done) 
 - [[Oh Advertisers 2]] (done) 
@@ -52,7 +55,7 @@ Open Global Mind Posts
 - [[OGM Effects (if we succeed)]] 
 
 Constraint Tales 
-- [[Design from Trust Case Studies]] (series) 
+- [[Examples of Design from Trust]] (series) 
 - [[The Dark Side of Rethinking Constraints]] (series) 
 - [[The Web Is Forgiving]] (done) 
 - [[Ackoff Was a Master at Rethinking Constraints]] 
@@ -65,7 +68,7 @@ Innovation Posts
 [[The Big Picture]] Posts
 - [[History as a Story of Constraints]] 
 - [[This Project's Goals]] 
-- [[Communities Working to Fix World Problems]] 
+- [[Communities Working to Fix World Problems]] (Braincast) 
 - [[Questions for Those With Projects to Fix the World]] 
 - [[Does Ethical Capitalism Pencil Out]]? 
 - [[Rethinking My Constraints]] 

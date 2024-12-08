@@ -16,7 +16,7 @@ What I say in that passage is this:
 
 This deserves some discussion, no? 
 
-Herewith, a series of observations, as sections. 
+Herewith, a series of observations from an amateur historian and student of change. 
 ## I was generalizing, but also searching for a moment 
 
 In my Brain, there's this thought: Somewhere After the Alphabet and Before WWII, We Lost Faith in Humans. 
@@ -28,20 +28,29 @@ From F. Scott Fitzgerald's debut novel, This Side of Paradise, published in 1920
 Ways World War I Screwed Up the World 
 More of my logic:
 
-- Telegraph and photography both changed journalism forever. Speed and impact of news. 
-- Scramble for Africa ended with WWI 
+Just before WWI: 
+
+- The telegraph and photography both transformed journalism forever. Speed and impact of news. 
+- Scramble for Africa ended with WWI, really messed up Africa after slavery's terrible effects. See especially King Leopold II of Belgium's awful Congo Free State. 
+- Major shift from agriculture to industry 
+- Major nation-states formed up 
+- Roads and railroads. Peak horse. 
+
+During and right after WWI: 
+
+- Revolutions were in the air, especially Communism. Took Russia out of the War. Scared everyone else. 
 - The Sykes–Picot Agreement (1916) screwed up the Middle East 
-- Revolutions were in the air, especially Communism. Took Russia out. 
 - Infamous Versailles Treaty (and Britain's weird role) 
-- Eddie Bernays, the 1919 Paris Peace Conference, and his uncle Sigmund 
+- Eddie Bernays, the 1919 Paris Peace Conference, and his uncle Sigmund. Propaganda becomes PR. 
 - Ho Chi Minh wrote Woodrow Wilson to ask his assistance in creating a democratic Vietnam 
+- Machine guns, high explosives, poison gas... 
 - The meat grinder 
 - The end of gentlemen soldiers 
 - Shell shock 
-- Machine guns, high explosives, poison gas... 
-- The Spanish Flu started at its end, killed more people. But it also shredded the social fabric. From Laura Spinney's book [Pale Rider](https://www.amazon.com/dp/B01NA026PU/jerrymichalskisr): "Your best chance of survival was to be utterly selfish...  jealously guard your hoard of food and water, and ignore all pleas for help." The Spanish Flu was so awful that nobody wanted to talk about it afterward. 
+- Tanks and military aircraft 
+- The Spanish Flu started at WWI's end, and killed more people. It also shredded the social fabric. From Laura Spinney's book [Pale Rider](https://www.amazon.com/dp/B01NA026PU/jerrymichalskisr): "Your best chance of survival was to be utterly selfish...  jealously guard your hoard of food and water, and ignore all pleas for help." The Spanish Flu was so awful that nobody wanted to talk about it afterward. 
 
-## Nobody took issue with my conclusion (yet) 
+## But, but: Nobody took issue with my conclusion (yet) 
 
 I started with the assertion that we lost faith in humans, then said we built the world's major systems and institutions from a basis of mistrust of the average human. 
 
@@ -57,12 +66,15 @@ I'm interested in your versions. Really.
 
 - Witch hunts in the Middle Ages 
 - Colonialism 
-- Inquisitions 
+- Inquisitions and Crusades (so many!) 
 - 
 
 ## Convergence of forces 
 
+- Emergence of modern mass media 
 - Speed and reach of communication 
 - Fear of mobs 
-- Emergence of media 
+- Senselessness of conflicts 
+- Institutional design 
+- Population growth outrunning our ability to control people 
 - 

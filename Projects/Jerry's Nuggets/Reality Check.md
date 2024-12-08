@@ -4,7 +4,9 @@
 
 Design from Trust? Srsly? 
 
-Some of you, dear readers, may be thinking, "What planet is Jerry from? Doesn't he see the messes we're in? [[The Polycrisis]]? The [Metacrisis](https://bra.in/2joEQY)? Doesn't he see how broken trust is?" I don't blame you if those thoughts showed up right away. After all, people's first reactions when they encounter systems that are designed from trust are [[The 2 Oh Shit!s]]. 
+Some of you, dear readers, may be thinking, "What planet is Jerry from? Doesn't he see the messes we're in? [[The Polycrisis]]? The [Metacrisis](https://bra.in/2joEQY)? Doesn't he see how broken trust is?" 
+
+I don't blame you if those thoughts showed up right away. After all, people's first reactions when they encounter systems that are designed from trust are [[The 2 Oh Shit!s]]. 
 
 Here's a quick list of reasons your skepticism is warranted: 
 

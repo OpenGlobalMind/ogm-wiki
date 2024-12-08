@@ -14,8 +14,8 @@ This book has a double introduction because it is a new kind of book, a NeoBook,
 [[Recurring Patterns of Design from Trust]]  
 [[Benefits of Design from Trust]]  
 [[Principles of Design from Trust]]  
-[[Design from Mistrust]]  
 [[Reality Check]]  
+[[Design from Mistrust]]  
 [[Implementing Design from Trust]]  
 
 [[DfT Back Matter]]  

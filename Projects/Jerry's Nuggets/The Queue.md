@@ -9,6 +9,7 @@ The list of upcoming posts, in expected time sequence. They move a lot.
 - [[Scarcity = Abundance - Trust]] 
 - [[On World War I and Trust in Humans]] 
 - [[Can We Mend Democracy]]? 
+- [[Useful Thinking Frameworks and Mental Models]] (Braincast) 
 - [[Behind the Reel - What Seems Impossible]] 
 - [[Leaf-Cutter Ants Can't Digest Leaves]] 
 - [[Joy and Jerry Discuss The Big Fungus]] (contains [[The Noosphere]]) 
@@ -22,7 +23,7 @@ The list of upcoming posts, in expected time sequence. They move a lot.
 - [[Does GenAI Obsolete Reading]]? 
 - [[How Damocles Threatens GenAI]] 
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
-- [[Variants of Capitalism]] 
+- [[Variants of Capitalism]] (Braincast) 
 - [[How the Robocar Trifecta Would Improve Our Cities]] 
 - Instrumenting Ideas (Animating?) 
 - [[We Separated Work, Play and Learning]] 
