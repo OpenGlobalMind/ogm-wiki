@@ -1,12 +1,17 @@
 # On World War I and Trust in Humans
 (draft) 
-*The many interesting ways we lost that faith.* 
+*The many interesting ways we lost that trust.* 
 
 My [[My Story of Trust|post about the origins of our trust debacle]] generated many [fascinating comments on LinkedIn](https://www.linkedin.com/pulse/my-story-trust-jerry-michalski-gzvoc/), some of which commented on [[Scarcity = Abundance - Trust]], as I posted recently. 
 
-But the biggie appears to have been this moment in the video at m:ss:
+But the biggie appears to have been this moment in the video at 1:37:
+![[Trust - WWI.jpg]]
 
 where I pointed to World War I as the moment we lost faith in humans. 
+
+Many commenters disagreed with WWI as the marker. 
+
+This deserves some discussion, no? 
 
 What I say in that passage is this: 
 
@@ -14,14 +19,12 @@ What I say in that passage is this:
 > 
 > In the process, we broke trust. 
 
-This deserves some discussion, no? 
-
 Herewith, a series of observations from an amateur historian and student of change. 
 ## I was generalizing, but also searching for a moment 
 
-In my Brain, there's this thought: Somewhere After the Alphabet and Before WWII, We Lost Faith in Humans. 
+In my Brain, there's this thought: [Somewhere After the Alphabet and Before WWII, We Lost Faith in Humans](https://bra.in/4jQZQE). 
 
-From F. Scott Fitzgerald's debut novel, This Side of Paradise, published in 1920: 
+From F. Scott Fitzgerald's debut novel, [This Side of Paradise](https://www.amazon.com/This-side-paradise-Scott-Fitzgerald-ebook-dp-B01MTFL4PS/dp/B01MTFL4PS/jerrymichalskisr), published in 1920: 
 
 > Here was a new generation, grown up to find all Gods dead, all wars fought, all faiths in man shaken.
 
