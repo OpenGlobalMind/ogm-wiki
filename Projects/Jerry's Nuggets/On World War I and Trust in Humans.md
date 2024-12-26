@@ -33,11 +33,11 @@ More of my logic:
 
 Just before WWI: 
 
-- The telegraph and photography both transformed journalism forever. Speed and impact of news. 
-- Scramble for Africa ended with WWI, really messed up Africa after slavery's terrible effects. See especially King Leopold II of Belgium's awful Congo Free State. 
-- Major shift from agriculture to industry 
-- Major nation-states formed up 
-- Roads and railroads. Peak horse. 
+- We lived through an abrupt shift from agriculture to industry: In the US, at the Civil War (1860), 80% of Americans were making food; by WWI, 55 years later, it was down to 20%. 
+- Major nation-states formed up. 
+- Railroads, then roads, criss-crossed the nation. "Peak horse" was around 1915. 
+- The telegraph and photography transformed journalism forever, multiplying the speed and impact of news. Before photography, battle painters often made war seem quick and glamorous. Mathew Brady's photos of bloated corpses left at Antietam shocked the public. 
+- The [Scramble for Africa](http://en.wikipedia.org/wiki/Scramble_for_Africa) which ended with WWI, really messed up Africa, compounding slavery's terrible effects. See especially King Leopold II of Belgium's awful Congo Free State. 
 
 During and right after WWI: 
 
