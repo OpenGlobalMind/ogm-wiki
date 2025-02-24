@@ -1,6 +1,6 @@
 # DfT Book Contents
 
-This book has a double introduction because it is a new kind of book, a NeoBook, a concept I explain before we enter the principal topic of the book.
+This book has a double introduction because it is a new kind of book, a NeoBook, a concept I explain in the [[NeoBooks Introduction]] before we enter the principal topic of the book.
 
 [[DfT Cover Art]]  
 [[DfT Title]]  

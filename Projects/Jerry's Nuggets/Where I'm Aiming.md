@@ -1,5 +1,5 @@
 # Where I'm Aiming 
-
+(draft)
 This page builds on [the /now page](https://www.jerrymichalski.com/now) that my sig file points to, in order to help interested folks catch up with my thinking and see where I'm headed. 
 
 The two talks I gave at the Bucharest Unfinished conference do a nice job of explaining my thesis, origins and hopes (a bit) around trust. [The first one](https://youtu.be/gf3vp0Wquz8) was virtual, [the second](https://www.youtube.com/watch?v=N47GRiYZ0p8) in person. You can see both of them in their full context [in my Brain](https://bra.in/3qnVD9). Also useful: [[My Story of Trust]] (22 mins). 

@@ -52,4 +52,4 @@ Happily, we are rediscovering trust, community, meaning, purpose, and abundance.
 
 Exponential technologies can cut either way. They might help us automate and replicate our way to the much-promised world free of disease and want, or they might surveil and enslave us to the point that we're living lives we no longer want. Which way this goes depends on *what we do these days*. Our lives in lockdown because of the coronavirus really highlight the role of trust and open whole new huge opportunities. 
 
-If you'd like to start thinking this way now, adopt this saying from the open-source community, "Assume good intent." Remember, scarcity equals abundance minus trust. We can fix economics and capitalism and live amid abundance, but it will take swapping out some well-grooved beliefs and taking some leaps of trust. 
+If you'd like to start thinking this way now, adopt this saying from the open-source community, "[[Assume Good Intent]]." Remember, scarcity equals abundance minus trust. We can fix economics and capitalism and live amid abundance, but it will take swapping out some well-grooved beliefs and taking some leaps of trust. 

@@ -7,6 +7,7 @@ The list of upcoming posts, in expected time sequence. They move a lot.
 - [[Interpreting the 2024 US Election]] 
 - [[Where I'm Aiming]] 
 - [[Scarcity = Abundance - Trust]] 
+- [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[On World War I and Trust in Humans]] 
 - [[Can We Mend Democracy]]? 
 - [[Useful Thinking Frameworks and Mental Models]] (Braincast) 
@@ -14,6 +15,7 @@ The list of upcoming posts, in expected time sequence. They move a lot.
 - [[Leaf-Cutter Ants Can't Digest Leaves]] 
 - [[Joy and Jerry Discuss The Big Fungus]] (contains [[The Noosphere]]) 
 - New Call Series: Rethink the Future 
+- [[What Are Our Next Two Stacks]]? 
 - Join Our Conversations 
 - The Coming Displacement (start w ag worker shift)
 - [[On GenAI's Origins]] 
@@ -22,7 +24,6 @@ The list of upcoming posts, in expected time sequence. They move a lot.
 - [[Does GenAI Obsolete Tools for Thinking]]? 
 - [[Does GenAI Obsolete Reading]]? 
 - [[How Damocles Threatens GenAI]] 
-- [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[Variants of Capitalism]] (Braincast) 
 - [[How the Robocar Trifecta Would Improve Our Cities]] 
 - Instrumenting Ideas (Animating?) 

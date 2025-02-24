@@ -20,17 +20,24 @@ What I say in that passage is this:
 Herewith, a series of observations from an amateur historian and student of change. 
 ## I was generalizing, but also searching for a moment 
 
-In my Brain, there's this thought: [Somewhere After the Alphabet and Before WWII, We Lost Faith in Humans](https://bra.in/4jQZQE). That's a much bigger window: written alphabets seem to have started around 1000 BC with the Phoenicians, and World War II started in 1939. 
+In my Brain, there's this thought: [Somewhere After the Alphabet and Before WWII, We Lost Faith in Humans](https://bra.in/4jQZQE). That's a much bigger window: written alphabets seem to have started around 1000 BC with the Phoenicians, and World War II started in 1939. From that, you might correctly infer that I'm on the side of the argument that says there were many causes and many moments that contributed to our loss of faith. 
 
-So I'm on the side of the argument that says there were many causes and many moments that contributed to our loss of faith. 
+It really is hard to tally the many moments that contributed to our loss of faith in humans. Some of my favorites include the Witch hunts in the Middle Ages, Colonialism, the Inquisitions and Crusades (so many!), and (perhaps surprisingly) the consumerization of our world. 
 
-Omigosh, it's hard to tally the many moments that contributed to our loss of faith in humans. You could point to the Witch hunts in the Middle Ages, Colonialism, the Inquisitions and Crusades (so many!), or other tktktk. 
-
-But there's something pivotal about World War I that's worth exploring. After it was over, in his 1920 debut novel [This Side of Paradise](https://www.amazon.com/This-side-paradise-Scott-Fitzgerald-ebook-dp-B01MTFL4PS/dp/B01MTFL4PS/jerrymichalskisr), F. Scott Fitzgerald wrote: 
+But there's something pivotal about World War I that draws me to it. After the war was over, in his 1920 debut novel [This Side of Paradise](https://www.amazon.com/This-side-paradise-Scott-Fitzgerald-ebook-dp-B01MTFL4PS/dp/B01MTFL4PS/jerrymichalskisr), F. Scott Fitzgerald wrote: 
 
 > Here was a new generation, grown up to find all Gods dead, all wars fought, all faiths in man shaken.
 
-I'm definitely not an historian, but the amateur lover of history in me can list these [[Ways World War I Screwed Up the World]]. 
+I'm definitely not an historian, but the amateur lover of history in me can list these [[Ways World War I Screwed Up the World]]. I've put that evidence in a separate post because as the section grew, it threatened to swamp this post. But it bears summarizing here. 
+
+We saw a convergence of forces 
+
+- Speed and reach of transport and communication 
+- Fear of mobs 
+- Senselessness of conflicts. Humans making terrible decisions. 
+- Rigid institutions 
+- Population growth outrunning our ability to control people 
+- 
 ## But, but: Nobody took issue with my conclusion (yet) 
 
 I started with the assertion that we lost faith in humans, then said we built the world's major systems and institutions from a basis of mistrust of the average human. 
@@ -39,12 +46,3 @@ Seems big, no?
 
 Want to chime in here? 
 I'm interested in your versions. Really. 
-## Convergence of forces 
-
-- Emergence of modern mass media 
-- Speed and reach of communication 
-- Fear of mobs 
-- Senselessness of conflicts 
-- Rigid institutions 
-- Population growth outrunning our ability to control people 
-- 

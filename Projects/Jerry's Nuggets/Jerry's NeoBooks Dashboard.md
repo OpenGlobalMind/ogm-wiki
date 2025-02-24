@@ -1,2 +1,0 @@
-# Jerry's NeoBooks Dashboard
-

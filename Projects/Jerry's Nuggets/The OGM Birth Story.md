@@ -6,7 +6,7 @@ In the back of my mind, I've always hoped for something like TheBrain, but open 
 
 OGM Double Entendre 
 
-Then Lockdown hit, and a friend introduced me to Matt Saiia. 
+Then Lockdown hit, and a friend introduced me to Matt Saiia, the founder of a Boston based consultancy. 
 
 We brought our communities together online. 
 
