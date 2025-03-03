@@ -1,8 +1,10 @@
 # A Worldview Built from Contrarians (U22 Talk)
 (draft) 
+*Explaining the origins of my talk in 2020* 
+
 In October 2022, I gave a keynote talk in Bucharest, Romania, at [Unfinished 2022](https://archive.unfinished.ro/2022/) (U22). You can watch the whole talk [here](https://www.youtube.com/watch?v=N47GRiYZ0p8), and see it in context in my Brain [here](https://bra.in/4jXD9y). 
 
-This talk is essentially the backstory of how I came up with the ideas that I expressed virtually at U20 in [[Trust Is the (Only) Way Forward]]. 
+This talk is the backstory of how I came up with the ideas that I expressed virtually at U20 in [[Trust Is the (Only) Way Forward]]. 
 
 [[Nuggetization|Nuggetizing]] the talk yields: 
 
@@ -12,8 +14,7 @@ Harrison Owen
 Hans Monderman
 Eleanor Ostrom
 John Taylor Gatto
-Admiral Farragut
-The Hidden Curriculum of School
+
 Christopher Alexander
 Pattern Languages
 Contrarian inspirations

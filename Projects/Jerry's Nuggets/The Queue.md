@@ -4,9 +4,14 @@ The list of upcoming posts, in expected time sequence. They move a lot.
 
 - [[My Story of Trust]] (done) 
 - [[This Is Not Democracy]] (done) 
-- [[Interpreting the 2024 US Election]] 
-- [[Where I'm Aiming]] 
+- [[Variants of Capitalism]] (Braincast) 
+- [[Slowing Down My Unfinished 2022 Keynote]] (series) 
+- [[Trump Through the Trust Lens]] 
+- [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
+- [[Innovation We Don't Talk About]] 
+- [[The NeoBooks Manifesto]] 
 - [[Scarcity = Abundance - Trust]] 
+- [[Has Progress Stopped]]? 
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[On World War I and Trust in Humans]] 
 - [[Can We Mend Democracy]]? 
@@ -16,6 +21,9 @@ The list of upcoming posts, in expected time sequence. They move a lot.
 - [[Joy and Jerry Discuss The Big Fungus]] (contains [[The Noosphere]]) 
 - New Call Series: Rethink the Future 
 - [[What Are Our Next Two Stacks]]? 
+- [[Interpreting the 2024 US Election]] 
+- [[Where I'm Aiming]] 
+- Bluesky as a Comments Platform 
 - Join Our Conversations 
 - The Coming Displacement (start w ag worker shift)
 - [[On GenAI's Origins]] 
@@ -24,7 +32,6 @@ The list of upcoming posts, in expected time sequence. They move a lot.
 - [[Does GenAI Obsolete Tools for Thinking]]? 
 - [[Does GenAI Obsolete Reading]]? 
 - [[How Damocles Threatens GenAI]] 
-- [[Variants of Capitalism]] (Braincast) 
 - [[How the Robocar Trifecta Would Improve Our Cities]] 
 - Instrumenting Ideas (Animating?) 
 - [[We Separated Work, Play and Learning]] 
@@ -44,7 +51,6 @@ The list of upcoming posts, in expected time sequence. They move a lot.
 - [[The Unwritten Laws of Books]] 
 - [[How Books Fail Us]] 
 - [[Nuggetization]] 
-- [[The NeoBooks Manifesto]] 
 - [[The Betterverse|What's Your Betterverse?]] 
 - [[Proposing a GenAI Compact]] 
 - [[Reality Check]] (on [[Design from Trust]]) 
