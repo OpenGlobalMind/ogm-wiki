@@ -4,11 +4,11 @@
 
 You'll find context for this post, which is part of a short series, [[Introducing My Contrarians|here]]. 
 
-In 2006, I met [Hans Monderman](http://en.wikipedia.org/wiki/Hans_Monderman) in the Dutch town of [Drachten](https://en.wikipedia.org/wiki/Drachten), which he had helped improve. There, he gave me walking and driving tours of the town, while explaining the [Traffic Calming](http://en.wikipedia.org/wiki/Traffic_calming) process he had convinced them to implement. You can watch the ten short videos I posted to YouTube after my visit [here](https://www.youtube.com/watch?v=Xo3KWHqmDhA&list=PLreQNsM8LqWDEpdHm2v4MRk0qCa49Rhyf). 
+In 2006, I met [Hans Monderman](http://en.wikipedia.org/wiki/Hans_Monderman) on a foggy day in the Dutch town of [Drachten](https://en.wikipedia.org/wiki/Drachten), which he had helped improve. There, he gave me walking and driving tours of the town, while explaining the [Traffic Calming](http://en.wikipedia.org/wiki/Traffic_calming) process he had convinced them to implement. You can watch the ten short videos I posted to YouTube after my visit [here](https://www.youtube.com/watch?v=Xo3KWHqmDhA&list=PLreQNsM8LqWDEpdHm2v4MRk0qCa49Rhyf). 
 
 
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9e2tQliMcdM?si=RTjxxN0nDQEIGRnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Next up: [[Contrarian Elinor Ostrom]]. 
 

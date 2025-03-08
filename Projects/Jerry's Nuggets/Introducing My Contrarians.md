@@ -10,14 +10,14 @@ These times also seem dangerous, head-spinning, disorienting, distressing, and, 
 
 My preferred mode of response — alas, not always the one that comes out my mouth or fingertips — is to describe positive futures and work toward making them real. The positive futures I imagine involve major redesigns of the systems, institutions and norms we often take for granted today. 
 
-I was on this quest before the 2016 US election, as you'll see from the stories I tell in this series. The chain of events since 2016 seems to have softened up the old institutions, while hardening up the humans and creating a huge amount of uncertainty. 
+I was on this quest before the 2016 US election, as you'll see from the stories I tell in this series. The chain of events since 2016 seems to have softened up our old institutions (perhaps an understatement), while hardening up the humans and creating a huge amount of uncertainty. 
 
-Still, uncertainty and flux spell opportunity. The confluence of Generative AI, geopolitical flux, harsher climate events and whatever your other favorite ingredient of the polycrisis is has created a moment of reinvention. 
+Still, uncertainty and change spell opportunity. The confluence of Generative AI, geopolitical flux, harsher climate events and whatever your other favorite ingredient of the polycrisis is has created a moment for reinvention. 
 
-But I'm not going to delve into that confluence quite yet. I'd like to begin by describing five people who strongly affected how I see the world. 
+My best ideas about reinvention were sparked by a series of sages I discovered, each of whom was offering a sensible critique of their field, from education to urban design and creating abundance. I took to calling them my Contrarians. 
 ## About those Contrarians 
 
-In 2022, I had the pleasure of giving a unique keynote in Bucharest as part of [Unfinished 2022](Unfinished 2022). You can watch the whole talk [here](https://www.youtube.com/watch?v=N47GRiYZ0p8), but I've realized that the ideas it contains deserve individual presentation, so I'm posting a short series examining them in turn. 
+In 2022, I had the pleasure of giving a unique keynote in Bucharest as part of [Unfinished 2022](Unfinished 2022). You can watch the whole talk [here](https://www.youtube.com/watch?v=N47GRiYZ0p8), but I've realized that the ideas it contains deserve individual presentation, so I'm posting this short series examining them in turn. 
 
 The theme of my U22 keynote was explaining the thinking behind my Unfinished keynote two years prior, which I titled [Trust Is the (Only) Way Forward](https://youtu.be/gf3vp0Wquz8). How did I decide that trust is the way forward, even in our low-trust times? 
 
@@ -25,7 +25,7 @@ A big chunk of that thesis came from my slow discovery over time of a series of 
 
 It took me some time to get there, but gradually I realized their critiques had a huge theme in common. The paragraph none of them uttered that I know of, but which I'm pretty sure they all would have agreed with is: 
 
-> In my field, we lost faith in humans and designed our systems and institutions on a basis of mistrust of the average person. That has left us with congenitally flawed institutions that often do a lot of damage. It turns out that if you flip that assumption and start with a belief that most (though not all) people are trustworthy, you get much better results — and very different solutions. 
+> In my field, years ago, we lost faith in humans and redesigned our systems and institutions on a basis of mistrust of the average person. That has left us with congenitally flawed institutions that often do a lot of damage. It turns out that if you flip that assumption and start with a belief that most (though not all) people are trustworthy, you get much better results — and very different solutions. 
 
 In this short section of the U22 talk, I frame the notion of Contrarians: 
 

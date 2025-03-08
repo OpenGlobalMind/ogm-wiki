@@ -4,8 +4,8 @@ The list of upcoming posts, in expected time sequence. They move a lot.
 
 - [[My Story of Trust]] (done) 
 - [[This Is Not Democracy]] (done) 
-- [[Variants of Capitalism]] (Braincast) 
 - [[Slowing Down My Unfinished 2022 Keynote]] (series) 
+- [[Variants of Capitalism]] (Braincast) 
 - [[Trump Through the Trust Lens]] 
 - [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
 - [[Innovation We Don't Talk About]] 
