@@ -2,6 +2,8 @@
  
 *Sensible folks who have defied conventional wisdom.* 
 
+![[j3rry_spiff_abstract_image_depicting_how_Contrarians_are_ofte_747e833d-e4e7-4377-ba85-df8a3f82ee56_3.png]]
+
 We do live in interesting times. The [curse](https://quoteinvestigator.com/2015/12/18/live/) is complete. 
 
 These times also seem dangerous, head-spinning, disorienting, distressing, and, every now and then, promising. How we respond matters a great deal. 

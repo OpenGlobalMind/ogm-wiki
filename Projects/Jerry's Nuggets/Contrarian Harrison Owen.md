@@ -1,6 +1,8 @@
 # Contrarian: Harrison Owen
-(draft) 
+ 
 *Self-organizing meetings are more effective, but they hinge on trust.* 
+
+![[j3rry_spiff_abstract_image_of_a_group_of_6_people_dressed_cas_d292b36a-268e-412d-a9d0-10050f7a95dd_3.png]]
 
 You'll find context for this post, which is part of a short series, [[Introducing My Contrarians|here]]. 
 
