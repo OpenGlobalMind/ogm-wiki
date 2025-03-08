@@ -30,4 +30,4 @@ Higher-level (societal) goals:
 
 Explaining The Big Picture through [[Intertwingled Narratives]]. 
 
-[[Rethinking My Constraints]] 
+[[Rethinking My Own Constraints]] 

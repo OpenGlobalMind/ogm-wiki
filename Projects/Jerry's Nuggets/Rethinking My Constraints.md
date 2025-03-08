@@ -1,2 +1,0 @@
-# Rethinking My Constraints
-

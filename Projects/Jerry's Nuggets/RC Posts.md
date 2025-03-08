@@ -71,7 +71,7 @@ Innovation Posts
 - [[Communities Working to Fix World Problems]] (Braincast) 
 - [[Questions for Those With Projects to Fix the World]] 
 - [[Does Ethical Capitalism Pencil Out]]? 
-- [[Rethinking My Constraints]] 
+- [[Rethinking My Own Constraints]] 
 - [[Impossible Is Just the Most Famous Constraint]] 
 
 NeoBooks Posts
