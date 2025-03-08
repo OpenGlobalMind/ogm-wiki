@@ -20,7 +20,7 @@ As a Contrarian, Owen must be bearing heresies. Here's my description of Harriso
 
 Next up: [[Contrarian Hans Monderman]]. 
 
-As you'll see in this short series, Contrarians are masters of [[Rethink Constraints|rethinking constraints]]. 
+As you'll see in this short series, Contrarians are masters of [[Rethink Constraints|rethinking constraints]]. They are also the foundations of [[Design from Trust]]. 
 
 If you read this far, a treat: In [my online Brain](https://www.jerrysbrain.com/), you'll find all my Contrarians [here](https://bra.in/4jrdQp), where you can see them in their greater context. 
 
