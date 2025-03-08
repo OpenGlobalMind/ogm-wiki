@@ -35,9 +35,9 @@ To pick up the story, please head to my description of the Contrarian named [[Co
 
 As you'll see in this short series, Contrarians are masters of [[Rethink Constraints|rethinking constraints]]. They are also the foundations of [[Design from Trust]]. 
 
-A confession or warning: only one of the five Contrarians I profiled in this talk is a woman; the rest are oldish white men. In part this is because I chose the stories I knew best from among my larger collection of Contrarians, and also was biased toward the few that I've met in person. 
+A confession or warning: only one of the five Contrarians I profiled in this talk is a woman; the rest are oldish white men. In part this is because I chose the stories I knew best from among my larger collection of Contrarians, and also I was biased toward the few that I've met in person. 
 
 If you read this far, a treat: In [my online Brain](https://www.jerrysbrain.com/), you'll find all my Contrarians [here](https://bra.in/4jrdQp), where you can see them in their greater context. 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/6j9omR) in my Brain. 
+This article is cross-posted on Substack [here](https://rethinkconstraints.substack.com/p/introducing-my-contrarians), Medium [here](https://jerrymichalski.medium.com/introducing-my-contrarians-392f98bf568e) and LinkedIn [here](https://www.linkedin.com/pulse/introducing-my-contrarians-jerry-michalski-cw54c). It's also [here](https://bra.in/6j9omR) in my Brain. 
