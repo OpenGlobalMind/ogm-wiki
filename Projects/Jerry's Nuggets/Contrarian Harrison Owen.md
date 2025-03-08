@@ -16,7 +16,9 @@ I loved how much his process trusts the participants, as well as how that gestur
 
 As a Contrarian, Owen must be bearing heresies. Here's my description of Harrison's heresies from my U22 talk:
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/wk6OYjbAmBE?si=gsmYu6lU8mu8CYtj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Next up: [[Contrarian Hans Monderman]]. 
 
 As you'll see in this short series, Contrarians are masters of [[Rethink Constraints|rethinking constraints]]. 
 

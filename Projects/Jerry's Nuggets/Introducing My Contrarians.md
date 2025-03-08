@@ -4,11 +4,13 @@
 
 We do live in interesting times. The [curse](https://quoteinvestigator.com/2015/12/18/live/) is complete. 
 
-These times also seem dangerous, head-spinning, disorienting, dismaying and, every now and then, promising. How we respond matters a great deal. 
+These times also seem dangerous, head-spinning, disorienting, distressing, and, every now and then, promising. How we respond matters a great deal. 
 
 My preferred mode of response — alas, not always the one that comes out my mouth or fingertips — is to describe positive futures and work toward making them real. The positive futures I imagine involve major redesigns of the systems, institutions and norms we often take for granted today. 
 
-I was on this track before the 2016 US election. The chain of events since then seem to have softened up the old institutions, while hardening up the humans. Still, 
+I was on this quest before the 2016 US election, as you'll see from the stories I tell in this series. The chain of events since 2016 seem to have softened up the old institutions, while hardening up the humans and creating a huge amount of uncertainty. 
+
+Still, 
 
 The confluence of Generative AI, geopolitical flux, harsher climate events and whatever your other favorite ingredient of the polycrisis is has created a moment of reinvention. 
 ## About those contrarians 
