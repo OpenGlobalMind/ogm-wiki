@@ -5,8 +5,8 @@ In October 2022 I gave a keynote in Bucharest, Romania, titled [[A Worldview Bui
 
 Here are the sections, in the order I presented them, with more context: 
 
-- [[Introducing My Contrarians]] 
-- [[Contrarian Harrison Owen|Contrarian: Harrison Owen]] 
+- [[Introducing My Contrarians]] (done) 
+- [[Contrarian Harrison Owen|Contrarian: Harrison Owen]] (done) 
 - [[Contrarian Hans Monderman|Contrarian: Hans Monderman]] 
 - [[Contrarian Elinor Ostrom|Contrarian: Elinor Ostrom]] 
 - [[Contrarian John Taylor Gatto]] (includes [[Admiral Farragut]] and [[The Hidden Curriculum of School]])
