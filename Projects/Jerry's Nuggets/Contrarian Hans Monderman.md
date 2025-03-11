@@ -17,6 +17,8 @@ There are so many useful lessons in Hans's story. I just get to give them a quic
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9e2tQliMcdM?si=RTjxxN0nDQEIGRnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
+Which of these points is most interesting to you? 
+
 Next up: Contrarian Elinor Ostrom. 
 
 As you'll see in this short series, Contrarians are masters of [[Rethink Constraints|rethinking constraints]]. They are also the foundations of [[Design from Trust]]. 
