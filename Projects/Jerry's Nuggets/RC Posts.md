@@ -82,6 +82,7 @@ Join my Substack
 ### [[The Big Picture]] Posts
 - [[Fighting Over the Joystick]] 
 - [[This Project's Goals]] 
+- [[We Used to Know How to Live in Community on the Commons]] 
 - [[Communities Working to Fix World Problems]] (Braincast) 
 - [[Questions for Those With Projects to Fix the World]] 
 - [[Does Ethical Capitalism Pencil Out]]? 
