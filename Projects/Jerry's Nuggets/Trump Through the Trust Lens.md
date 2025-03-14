@@ -50,5 +50,5 @@ You can even trust that Trump and his family will try to enrich themselves at th
 As a result, Trump has more elbow room than most anyone. 
 
 
-This is a companion piece to [[Trump and Constraints]]. It also pairs well with [these videos](https://www.youtube.com/playlist?list=PLreQNsM8LqWAJFWfH3UCRo3QLxV8-wtol) about Trump and his strategies, which I posted in 2020. 
+This is a companion piece to [[On Trump and Constraints]]. It also pairs well with [these videos](https://www.youtube.com/playlist?list=PLreQNsM8LqWAJFWfH3UCRo3QLxV8-wtol) about Trump and his strategies, which I posted in 2020. 
  

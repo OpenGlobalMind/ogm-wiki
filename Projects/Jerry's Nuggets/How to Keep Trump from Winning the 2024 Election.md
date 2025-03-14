@@ -4,7 +4,7 @@ This page is under construction. Meanwhile, start here:
 
 - [[This Kamala Moment]] 
 - [[Trump Through the Trust Lens]] 
-- [[Trump and Constraints]] 
+- [[On Trump and Constraints]] 
 - [[Deradicalizing the Alt-Right]] 
 - Trump’s Playbook 
 - Concepts to Explain about Trump’s Strategy 

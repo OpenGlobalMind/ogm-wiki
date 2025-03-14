@@ -133,7 +133,7 @@ Apps atop shared warm data
 
 ### Current Events Posts 
 - [[Trump Through the Trust Lens]] 
-- [[Trump and Constraints]] 
+- [[On Trump and Constraints]] 
 - [[This Kamala Moment]] (done) 
 - [[Misunderestimating Donald Trump Is Very Dangerous]] - point to old video series 
 - [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 

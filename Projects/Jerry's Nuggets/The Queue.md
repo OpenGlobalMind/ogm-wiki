@@ -43,7 +43,7 @@ The list of upcoming posts, in expected time sequence. They move a lot.
 - [[Our Cyborg Future]] 
 - [[Upkido]] 
 - [[The Big Sentence]] (contains multiple) 
-- [[How Snipping Constraints Led to the Global Financial Crisis]] 
+- [[Snip and the Origins of the Global Financial Crisis]] 
 - [[Impossible Is Just the Most Famous Constraint]] 
 - [[Behind the Reel - The Joy Line]] (which contains [[The Joy Line]] ) 
 - [[The Creator’s Dilemma]] 
