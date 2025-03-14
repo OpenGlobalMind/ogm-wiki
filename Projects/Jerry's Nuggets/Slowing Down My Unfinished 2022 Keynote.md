@@ -7,8 +7,8 @@ Here are the sections, in the order I presented them, with more context:
 
 - [[Introducing My Contrarians]] (done) 
 - [[Contrarian Harrison Owen|Contrarian: Harrison Owen]] (done) 
-- [[Contrarian Hans Monderman|Contrarian: Hans Monderman]] 
-- [[Contrarian Elinor Ostrom|Contrarian: Elinor Ostrom]] 
+- [[Contrarian Hans Monderman|Contrarian: Hans Monderman]] (done) 
+- [[Contrarian Elinor Ostrom|Contrarian: Elinor Ostrom]] (done) 
 - [[Contrarian John Taylor Gatto]] (includes [[Admiral Farragut]] and [[The Hidden Curriculum of School]])
 - [[Contrarian Christopher Alexander]] (includes [[Pattern Languages]]) 
 - [[Contrarian Overview]] 

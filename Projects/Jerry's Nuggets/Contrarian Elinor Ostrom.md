@@ -20,11 +20,13 @@ Here's how I described her work at U22:
 
 You can explore the 8 Design Principles for Robust Long-Enduring Commons [here](https://bra.in/2vBzKW), or see Christopher Allen's edited and extended list [here](https://bra.in/3py7Qj). 
 
-Next up: Contrarian John Taylor Gatto. 
+Next up: [[Contrarian John Taylor Gatto]]. 
 
 As you'll see in this short series, Contrarians are masters of [[Rethink Constraints|rethinking constraints]]. They are also the foundations of [[Design from Trust]]. 
 
 If you read this far, a treat: In [my online Brain](https://www.jerrysbrain.com/), you'll find all my Contrarians [here](https://bra.in/4jrdQp), where you can see them in their greater context. 
 
+#commons, #governance, #designfromtrust , #abundance 
+
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/9pDznn) in my Brain. 
+This article is cross-posted on Substack [here](https://rethinkconstraints.substack.com/p/contrarian-elinor-ostrom), Medium [here](# Contrarian: Elinor Ostrom) and LinkedIn [here](). It's also [here](https://bra.in/9pDznn) in my Brain. 
