@@ -72,7 +72,7 @@ Join my Substack
 - [[Watching Travelers Eat Citibank]] 
 
 ### Innovation Posts 
-- [[Innovation We Don't Talk About]] 
+- [[The Dark Side of Innovation]] 
 - [[My Innovations]] (series) 
 - [[Dark Innovation]] (series) 
 - Beyond the Innovator's Dilemma (extending Christensen’s model)

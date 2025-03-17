@@ -13,7 +13,7 @@ Ways lack of trust endangers innovation:
 
 [[GenAI Trust Issues]] 
 
-[[Innovation We Don't Talk About]] 
+[[The Dark Side of Innovation]] 
 
 Most people trust their peers as much as scientists! 
 Decline of authority. 

@@ -8,7 +8,7 @@ The list of upcoming posts, in expected time sequence. They move a lot.
 - [[Variants of Capitalism]] (Braincast) 
 - [[Trump Through the Trust Lens]] 
 - [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
-- [[Innovation We Don't Talk About]] 
+- [[The Dark Side of Innovation]] 
 - [[The NeoBooks Manifesto]] 
 - [[Scarcity = Abundance - Trust]] 
 - [[Has Progress Stopped]]? 
