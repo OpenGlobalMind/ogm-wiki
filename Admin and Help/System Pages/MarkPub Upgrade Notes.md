@@ -24,3 +24,16 @@ encountered. (2025-03-16: WLA the primary dev on this)
 
 - DONE: turned on lunr
 
+- BREAKDOWN: `.github/workflows` did not get installed; why?  
+  TODO: manually install the workflow  
+  RESOLUTION:  
+  - i did not find a way to run the MarkPub gh-pages.yml file and
+    indicate to GitHub Pages to use `gh-pages` as the branch from the
+    markpub-update branch.  
+  - workaround: deploy the markpub-upate branch with netlify to this
+    URL: <https://mptest-ogmwiki.netlify.app/>  
+
+
+	
+  
+
