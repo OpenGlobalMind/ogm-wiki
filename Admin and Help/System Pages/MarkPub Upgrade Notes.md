@@ -14,4 +14,13 @@ encountered. (2025-03-16: WLA the primary dev on this)
   - insure that this branch works using `markpub`  
   - get review from Jerry and Pete  
   
-  
+### 2025-03-17 notes:    
+
+- DONE: `markpub init`  
+  (copied the GitHub link info from `mwb.yaml`)  
+
+- first local build (without --lunr or --commits) 
+- DONE: combine `Sidebar.md` and `Sidebar-new.mf`  
+
+- DONE: turned on lunr
+
