@@ -29,4 +29,4 @@ If you read this far, a treat: In [my online Brain](https://www.jerrysbrain.com/
 #commons, #governance, #designfromtrust , #abundance 
 
 --- 
-This article is cross-posted on Substack [here](https://rethinkconstraints.substack.com/p/contrarian-elinor-ostrom), Medium [here](# Contrarian: Elinor Ostrom) and LinkedIn [here](). It's also [here](https://bra.in/9pDznn) in my Brain. 
+This article is cross-posted on Substack [here](https://rethinkconstraints.substack.com/p/contrarian-elinor-ostrom), Medium [here](https://jerrymichalski.medium.com/contrarian-elinor-ostrom-f1c7b8c81eb5) and LinkedIn [here](https://www.linkedin.com/pulse/contrarian-elinor-ostrom-jerry-michalski-v65uc/). It's also [here](https://bra.in/9pDznn) in my Brain. 

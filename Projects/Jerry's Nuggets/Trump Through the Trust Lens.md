@@ -1,6 +1,6 @@
 # Trump Through the Trust Lens
-
-I'm interested in [[How to Keep Trump from Winning the 2024 Election]].  
+(draft) 
+*How people might trust Trump.* 
 
 Let's start with an assertion that may sound weird to anyone who leans Left: Many people trust Trump. 
 

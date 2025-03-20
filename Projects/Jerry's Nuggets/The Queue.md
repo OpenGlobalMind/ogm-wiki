@@ -6,6 +6,7 @@ The list of upcoming posts, in expected time sequence. They move a lot.
 - [[This Is Not Democracy]] (done) 
 - [[Slowing Down My Unfinished 2022 Keynote]] (series) 
 - [[Variants of Capitalism]] (Braincast) 
+- [[One GenAI Scenario]] 
 - [[Trump Through the Trust Lens]] 
 - [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
 - [[The Dark Side of Innovation]] 
