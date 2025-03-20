@@ -1,6 +1,6 @@
 # Useful Thinking Frameworks and Mental Models
 (draft) 
-*A visual resource you can interact with.*
+*A visual resource you can interact with in my outboard Brain.*
 
 If you subscribe to Shane Parrish's [Farnam Street](https://fs.blog/) newsletter, you are likely familiar with his fascination with mental models. In fact, in 2019 he started publishing [The Great Mental Models](https://www.amazon.com/gp/product/B07P79P8ST/jerrymichalskisr), which now runs four volumes. 
 

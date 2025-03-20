@@ -43,3 +43,17 @@ I'm convinced enough that trust is a key lever here that I did a keynote speech 
 
 This is the part where a miracle has to happen. I would love to see people in groups everywhere using [[Design from Trust]] to improve their neighborhoods, their communities, their watersheds, and their governance systems. The minor stumbling block is that nobody knows quite what that is. 
 
+Our default outcome, the one that shows up if we don't change things pretty dramatically, is bleak.
+
+## Wild cards 
+
+Several things that would really throw a wrench in the works are not hard to imagine. For example:
+- The boom in Agentic AI means these new AIs will have their hands on the steering wheel. Our attempts to put the brakes on will not always succeed.
+- Bad actors around the world will be actively removing the brakes.
+- GenAI could get ahead of us. Whether you call that superintelligence or AGI, it's not hard to imagine systems that can respond quicker, know more, and really cause havoc. 
+- It doesn't take Martha Wells, Stanislaw Lem, or Cory Doctorow to paint these futures. 
+- The blurring of the line between fiction and reality, or what humans do and what machines do, could catalyze a break at a civilizational scale. 
+
+## Current stance 
+
+I'm a cynical optimist. I believe people are actually smarter and more trustworthy than we think they are and given options to make humanity better might actually participate and do that, particularly when there are looming threats nearby.
