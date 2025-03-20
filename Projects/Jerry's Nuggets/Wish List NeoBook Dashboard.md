@@ -1,4 +1,4 @@
-# The NeoBook Dashboard (Book-O-Matic?)
+# Wish List: A NeoBook Dashboard (Book-O-Matic?)
 (draft)
 *An app to help write books* 
 

@@ -11,5 +11,11 @@ This is clearly a long shot.
 Here are some places to start understanding Design from Trust: 
 
 - [[Principles of Design from Trust]] 
-- 
+- [[From Trust, Not For]] 
+- [[Trust Is the (Only) Way Forward]] 
+
+I'm writing [[Design from Trust (NeoBook)|a NeoBook about Design from Trust]] . It's nowhere near done, but you are in it now. 
+
+--- 
+This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/6jMEgP) in my Brain. 
 

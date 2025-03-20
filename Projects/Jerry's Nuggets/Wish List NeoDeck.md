@@ -1,6 +1,6 @@
-# The Pitch-O-Matic 
+# Wish List: NeoDeck  
 (draft) 
-*Presentations are just playlists!* 
+*Presentations are just playlists!*
 
 [[NeoDecks are Mushrooms of The Big Fungus]]. 
 
@@ -8,4 +8,7 @@ More practically, NeoDecks are playlists of composable, reusable Nuggets that li
 
 To author a presentation, you'll quickly need a slide-sorter view that lets you see what is where, and also lets you grab subsets of your presentation and move them around. 
 
-This is one of several [[ATproto Apps]] we would love to see exist. 
+This is one of several [[ATproto Apps]] I would love to see exist, which are on my [[Software Wish List]]. 
+
+--- 
+This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain. 

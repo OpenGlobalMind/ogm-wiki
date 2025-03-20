@@ -10,8 +10,8 @@ Another core architectural principle is obeying protocols that facilitate intero
 
 Here are several ATproto apps we can easily imagine for the NeoBooks project: 
 
-- [[NeoBook Dashboard]] (compare with Scrivener, for writing books)
-- [[The Pitch-O-Matic]] (compare with PowerPoint or Keynote, for creating presentations) 
+- [[Wish List NeoBook Dashboard]] (compare with Scrivener, for writing books)
+- [[Wish List NeoDeck]] (compare with PowerPoint or Keynote, for creating presentations) 
 - [[The NeoBrain]] (compare with TheBrain, for curating context webs) 
 
 It turns out that Generative AI is really good at coding, so we will experiment with coding these apps ourselves. Go to each project page to find those experiments. 
