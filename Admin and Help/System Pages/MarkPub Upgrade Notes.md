@@ -33,7 +33,10 @@ encountered. (2025-03-16: WLA the primary dev on this)
   - workaround: deploy the markpub-upate branch with netlify to this
     URL: <https://mptest-ogmwiki.netlify.app/>  
 
+- NOTE: Delete (or `git rm`) `Sidebar-new.md` after it is merged with `Sidebar.md`  
+  (rationale: it is not a content file of the wiki that needs to show
+  up in "All Pages")  
 
-	
+
   
 
