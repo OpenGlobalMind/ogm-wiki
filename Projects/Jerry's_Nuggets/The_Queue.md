@@ -1,0 +1,57 @@
+# The Queue
+
+The list of upcoming posts, in expected time sequence. They move a lot. 
+
+- [[My Story of Trust]] (done) 
+- [[This Is Not Democracy]] (done) 
+- [[Slowing Down My Unfinished 2022 Keynote]] (series) 
+- [[Variants of Capitalism]] (Braincast) 
+- [[One GenAI Scenario]] 
+- [[Trump Through the Trust Lens]] 
+- [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
+- [[The Dark Side of Innovation]] 
+- [[The NeoBooks Manifesto]] 
+- [[Scarcity = Abundance - Trust]] 
+- [[Has Progress Stopped]]? 
+- [[Will GenAI Survive Capitalism]]? (contains multiple) 
+- [[On World War I and Trust in Humans]] 
+- [[Can We Mend Democracy]]? 
+- [[Useful Thinking Frameworks and Mental Models]] (Braincast) 
+- [[Behind the Reel - What Seems Impossible]] 
+- [[Leaf-Cutter Ants Can't Digest Leaves]] 
+- [[Joy and Jerry Discuss The Big Fungus]] (contains [[The Noosphere]]) 
+- New Call Series: Rethink the Future 
+- [[What Are Our Next Two Stacks]]? 
+- [[Interpreting the 2024 US Election]] 
+- [[Where I'm Aiming]] 
+- Bluesky as a Comments Platform 
+- Join Our Conversations 
+- The Coming Displacement (start w ag worker shift)
+- [[On GenAI's Origins]] 
+- [[GenAI Gives Us Superpowers]] 
+- [[Does GenAI Obsolete Notetaking]]? 
+- [[Does GenAI Obsolete Tools for Thinking]]? 
+- [[Does GenAI Obsolete Reading]]? 
+- [[How Damocles Threatens GenAI]] 
+- [[How the Robocar Trifecta Would Improve Our Cities]] 
+- Instrumenting Ideas (Animating?) 
+- [[We Separated Work, Play and Learning]] 
+- [[On Sensemaking]] 
+- [[Brands Are Trapped]] 
+- A Chatbot for My Brain? 
+- In What Ways Would I Like GenAI to Enhance My Brain? 
+- [[Tech Owes You an Apology]] 
+- [[Our Cyborg Future]] 
+- [[Upkido]] 
+- [[The Big Sentence]] (contains multiple) 
+- [[Snip and the Origins of the Global Financial Crisis]] 
+- [[Impossible Is Just the Most Famous Constraint]] 
+- [[Behind the Reel - The Joy Line]] (which contains [[The Joy Line]] ) 
+- [[The Creator’s Dilemma]] 
+- [[The Internet Is Stuck in Mainstream Media Metaphors]] 
+- [[The Unwritten Laws of Books]] 
+- [[How Books Fail Us]] 
+- [[Nuggetization]] 
+- [[The Betterverse|What's Your Betterverse?]] 
+- [[Proposing a GenAI Compact]] 
+- [[Reality Check]] (on [[Design from Trust]]) 

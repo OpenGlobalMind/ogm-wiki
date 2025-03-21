@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Web Is Forgiving - OGM Wiki</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/ogm-wiki/markpub-static/css/style.css">
+    <link rel="stylesheet" href="/ogm-wiki/markpub-static/css/custom.css">
+    <link rel="stylesheet" href="https://unpkg.com/bluesky-comments@0.9.0/dist/bluesky-comments.css">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+    <script src="/ogm-wiki/lunr-index-1742568849.1522567.js"></script>
+    <script>var index = lunr.Index.load(lunr_index)</script>
+    
+    
+    <script src="/ogm-wiki/lunr-posts-1742568849.1522567.js"></script>
+    <script> function randomPageLink() { return "/ogm-wiki"+lunr_posts[Math.floor(Math.random() * lunr_posts.length)].link; } </script>
+    
+  </head>
+<body>
+  <div id="header">
+    <span id="hamburger-btn"
+    class="hidden">&#9776;</span><a class="button is-light" id="header-link" href="/ogm-wiki/index.html">OGM Wiki</a>
+  </div>
+
+  <div class="container" id="flex-container">
+    <div id="side-column">
+      <div>
+        <button id="hide-btn">Hide</button>
+        <button id="move-btn" class="hidden">Move to Sidebar</button>
+      </div>
+      <p>This site is a <a class="wikilink" href="/ogm-wiki/Admin_and_Help/System_Pages/Work_In_Progress.html">Work In Progress</a></p>
+<h3>Site Navigation</h3>
+<div class="navlinks">
+<ul>
+<li><a class="wikilink" href="/ogm-wiki/README.html">HOME</a></li>
+<li><a href="/ogm-wiki/search.html">SEARCH</a></li>
+<li><a href="/ogm-wiki/all-pages.html">ALL PAGES</a></li>
+<li><a href="/ogm-wiki/recent-pages.html">RECENT CHANGES</a></li>
+</ul>
+</div>
+<div class="navlinks">
+  <button onclick="location.href=`${randomPageLink()}`">
+    RANDOM PAGE
+  </button>
+</div>
+<p><a class="wikilink" href="/ogm-wiki/Projects/NeoBooks_In_Progress.html">NeoBooks In Progress</a></p>
+<p><a class="wikilink" href="/ogm-wiki/NeoBooks_Ops/Creating_a_NeoBook_(start_here).html">Creating a NeoBook (start here)</a></p>
+<p><a class="wikilink" href="/ogm-wiki/Admin_and_Help/Admin_and_Help.html">Admin and Help</a></p>
+
+    </div>
+
+    <div id="main-column">
+      
+      <div> <!-- edit this page button -->
+	<p style="float:right; margin:.5em .5em
+	.5em"><a target="_blank" href="https://github.com/openglobalmind/ogm-wiki/edit/main/Projects/Jerry's Nuggets/The Web Is Forgiving.md"
+	class="edit-this-page-button">Edit on GitHub</a></p>
+	<br clear="all">
+      </div> <!-- edit this page button -->
+      
+      <h1>The Web Is Forgiving</h1>
+<p><em>A study in rethinking constraints</em></p>
+<h2>On designing the Web</h2>
+<p>When he was inventing the World Wide Web (without VC funding or likely any thought that it would so rapidly span the world), Tim Berners-Lee made many clever architectural decisions.</p>
+<p>For example, he needed a way to standardize document formats so that they looked the same however you accessed them, from whatever device you were using. Inventing a document format would've been a large project in and of itself, but there was already a standard called <a href="http://en.wikipedia.org/wiki/Standard_Generalized_Markup_Language">SGML</a>, the Standard Generalized Markup Language.</p>
+<p>But SGML was expensive, cumbersome, and (most importantly here) strict: if a document's creator made any mistake in the document, it wouldn't compile. The creator had to fix all the errors in a document until they had a perfect document. Then they could use it.</p>
+<p>None of those flaws was going to help Tim's fledgling Web fly. So he created a stripped-down version of SGML that he called HTML, the HyperText Markup Language. HTML had many fewer variables and options than SGML, which made it far less complete, but much easier to manage, and less expensive to implement. Then the magic feature: the "browser" he created to receive and present HTML documents was <em>forgiving</em>.</p>
+<p>A little background: A cool feature of HTML documents is that they can include component parts from anywhere around the Web. An image doesn't need to be on the same server where the main HTML body is; it can be on any other server on the planet. These days, ads, Captchas, payment widgets and other features can also come from distributed Web services.</p>
+<p>It's your Web browser's job to collect all the incoming parts, assemble them per the instructions in HTML, and present them to you. When you resize the browser window, the text and images flow around and adapt. You're so familiar with these features that you take them completely for granted.</p>
+<p>Here's where forgiveness comes in: If one of those many pieces of content didn't arrive, the Web browser would just substitute it with an icon of a broken component, and carry on. The webpage would still render with everything else that it did get.</p>
+<p><img src="/ogm-wiki/Broken-image-icon-in-Chrome.gif" alt="an image with no alt text" /></p>
+<h2>Rethinking Constraints</h2>
+<p><em>This is the first in what will likely be many posts about rethinking constraints.</em></p>
+<p>I love stories like this. Stories of people finding solutions by questioning conventional wisdom, by poking at — then flipping — the status quo. That's the spirit of rethinking constraints.</p>
+<p>Berners-Lee understood the constraints that kept SGML from being more broadly useful, and found a way past them. It took a creative leap to think differently from the developers of SGML and its related applications. SGML was complicated because it could do so much. It was robust for industry applications like documentation for the US Department of Defense. What it wasn't is flexible and light. Or forgiving.</p>
+<p>But "forgiving" wasn't on anyones requirements list. In fact, graceful degradation runs against most project goals, which seek six-sigma quality (meaning very low error rates) or very complete functionality.</p>
+<hr />
+<p>This post is cross-posted on <a href="https://rethinkconstraints.substack.com/p/the-web-is-forgiving">Substack</a> and <a href="https://www.linkedin.com/pulse/web-forgiving-jerry-michalski-7udjc">LinkedIn</a>. <a class="wikilink" href="/ogm-wiki/Projects/Jerry's_Nuggets/On_Crossposting.html">On Crossposting</a>.</p>
+
+      
+      <hr>
+      <div>
+	<h4>Pages that link to this page</h4>
+	<ul>
+	  
+	  <li><a href="/ogm-wiki/Projects/Jerry's_Nuggets/RC_Posts.html">RC Posts</a>
+	  
+	</ul>
+      </div>
+      
+    </div>
+  </div>
+  <script src="/ogm-wiki/markpub-static/js/script.js"></script>
+  
+  <footer class="footer">
+  <div class="content has-text-centered">
+    
+    <div><strong>OGM Wiki</strong> by the Open Global Mind community.</div>
+    
+    
+    <div>Central repository at <a href="https://github.com/openglobalmind/ogm-wiki">GitHub/openglobalmind/ogm-wiki</a>.</div>
+    
+    
+    <div>Licensed under <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</div>
+    
+    <div><em>Site last updated on Friday, March 21, 2025 at 14:54 UTC.</em></div>
+  </div>
+</footer>
+</body>
+</html>

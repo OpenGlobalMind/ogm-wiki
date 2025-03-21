@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>OGM Tile - Krav - OGM Wiki</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/ogm-wiki/markpub-static/css/style.css">
+    <link rel="stylesheet" href="/ogm-wiki/markpub-static/css/custom.css">
+    <link rel="stylesheet" href="https://unpkg.com/bluesky-comments@0.9.0/dist/bluesky-comments.css">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+    <script src="/ogm-wiki/lunr-index-1742568849.1522567.js"></script>
+    <script>var index = lunr.Index.load(lunr_index)</script>
+    
+    
+    <script src="/ogm-wiki/lunr-posts-1742568849.1522567.js"></script>
+    <script> function randomPageLink() { return "/ogm-wiki"+lunr_posts[Math.floor(Math.random() * lunr_posts.length)].link; } </script>
+    
+  </head>
+<body>
+  <div id="header">
+    <span id="hamburger-btn"
+    class="hidden">&#9776;</span><a class="button is-light" id="header-link" href="/ogm-wiki/index.html">OGM Wiki</a>
+  </div>
+
+  <div class="container" id="flex-container">
+    <div id="side-column">
+      <div>
+        <button id="hide-btn">Hide</button>
+        <button id="move-btn" class="hidden">Move to Sidebar</button>
+      </div>
+      <p>This site is a <a class="wikilink" href="/ogm-wiki/Admin_and_Help/System_Pages/Work_In_Progress.html">Work In Progress</a></p>
+<h3>Site Navigation</h3>
+<div class="navlinks">
+<ul>
+<li><a class="wikilink" href="/ogm-wiki/README.html">HOME</a></li>
+<li><a href="/ogm-wiki/search.html">SEARCH</a></li>
+<li><a href="/ogm-wiki/all-pages.html">ALL PAGES</a></li>
+<li><a href="/ogm-wiki/recent-pages.html">RECENT CHANGES</a></li>
+</ul>
+</div>
+<div class="navlinks">
+  <button onclick="location.href=`${randomPageLink()}`">
+    RANDOM PAGE
+  </button>
+</div>
+<p><a class="wikilink" href="/ogm-wiki/Projects/NeoBooks_In_Progress.html">NeoBooks In Progress</a></p>
+<p><a class="wikilink" href="/ogm-wiki/NeoBooks_Ops/Creating_a_NeoBook_(start_here).html">Creating a NeoBook (start here)</a></p>
+<p><a class="wikilink" href="/ogm-wiki/Admin_and_Help/Admin_and_Help.html">Admin and Help</a></p>
+
+    </div>
+
+    <div id="main-column">
+      
+      <div> <!-- edit this page button -->
+	<p style="float:right; margin:.5em .5em
+	.5em"><a target="_blank" href="https://github.com/openglobalmind/ogm-wiki/edit/main/OGM Operations/OGM Tiles/OGM Tile - Krav.md"
+	class="edit-this-page-button">Edit on GitHub</a></p>
+	<br clear="all">
+      </div> <!-- edit this page button -->
+      
+      <h1>OGM Tile - Krav</h1>
+<h2>Status</h2>
+<p>Proposal drafting phase. Pair writing to create fundable project description.</p>
+<h3>Update 2021-10-26</h3>
+<p><span class="incipient-wikilink">Zapier</span> has a Zoom-YouTube integration, which will watch for a new Zoom recording and post it to YouTube, unlisted.  Control of the metadata is okay but not great.  May or may not be useful.</p>
+<p><span class="incipient-wikilink">Google Sites</span> apparently doesn't have an API for sites created on or after November 22, 2016: <a href="https://developers.google.com/sites">Google Sites API</a></p>
+<p><a href="https://marketplace.zoom.us/docs/api-reference/zoom-api/cloud-recording/">Zoom API</a> looks good.</p>
+<p><a href="https://developers.google.com/youtube/v3">YouTube Data API</a> looks okay, probably a little hard to use.  Quota limits will not allow more than 6 uploads per day, perhaps fewer. (See notes below for adasq/youtube-studio, it says it works around the quota.)</p>
+<p>Anchor.fm doesn't have an API, but someone kludged together a <a href="https://github.com/Schrodinger-Hat/youtube-to-anchorfm/blob/main/upload-episode.js">Puppeteer script to do Anchor.fm uploads</a>.</p>
+<p>Need more information:</p>
+<ul>
+<li>which speech transcription service to use?</li>
+<li>define episode metadata</li>
+<li>what to do about Google Sites not having an API?</li>
+<li>should the script (or a separate script) move Zoom artifacts to trash?</li>
+</ul>
+<h4>Export from Descript</h4>
+<ul>
+<li>Buzzsprout</li>
+<li>Captivate</li>
+<li>Castos</li>
+<li>eWebinar</li>
+<li>Headliner</li>
+<li>Hello Audio</li>
+<li>Podcast.co</li>
+<li>Restream</li>
+<li>Transistor</li>
+<li>VideoAsk</li>
+<li>Wistia</li>
+</ul>
+<h2>Roles and Responsibilities</h2>
+<h3>Sponsor</h3>
+<p>Jerry</p>
+<h3>Project Manager</h3>
+<p>TBD</p>
+<h3>Lead</h3>
+<p>Pete</p>
+<h3>Team</h3>
+<p>Pete &amp; TBD</p>
+<h2>Goals</h2>
+<p>Automate process of turning fresh episode's raw files into more usable production artifacts. Raw files include video, audio and text. We know this project is done when it measurably improves the process of publishing calls, getting as close to full automation as practicable now.</p>
+<p>Inputs:</p>
+<ul>
+<li>call recording artifacts (mp4, m4a, txt) in Zoom account</li>
+</ul>
+<p>Outputs:</p>
+<ul>
+<li>video and episode metadata goes to YouTube Studio</li>
+<li>audio and episode metadata goes to Anchor.fm</li>
+<li>audio gets machine transcribed via one of Otter, AWS, GCP, Descript, etc. Highly desired to identify speakers by zoom name.</li>
+<li>transcript, zoom chat, and call metadata go to the episode web page (web hosted on Google Sites)</li>
+</ul>
+<p>For parts that are not practicably automatable in this phase, create a text or markdown or Google Keep checklist for a human to finish.</p>
+<h2>Resource Requirements</h2>
+<p><em>what (people, money, things) are needed to accomplish this project? where do they come from?</em></p>
+<h2>People</h2>
+<p><em>who are the people working on this project? who can I ask for more information? how can I best get in touch with them?</em></p>
+<h2>Approach</h2>
+<ol>
+<li>Define the desired workflow, including specific kinds of raw files and production artifacts.</li>
+<li>Choose hypothetical solutions for each part of the workflow.</li>
+<li>Test hypotheses.</li>
+<li>Build system, starting with long tentpoles.</li>
+<li>Integrate and create production pipeline.</li>
+<li>Create user and technical documentation.</li>
+<li>Document future potential enhancements and fixes.</li>
+</ol>
+<p>Build and use open source components.  Built components, integration, and documentation will be made open source.</p>
+<p>Build project in Python.  Maybe use serverless (e.g., AWS Lambda) for some/all deployments.</p>
+<p>Interview project team afterwards for a WtW episode.</p>
+<h3>Notes</h3>
+<ul>
+<li>need/able to use https://github.com/adasq/youtube-studio ?</li>
+</ul>
+<h2>Workplan and Timeline</h2>
+<p><em>what are the specific tasks needed to accomplish our goals? when might they happen? who / what / when?</em></p>
+<h2>Communication Norms</h2>
+<p><em>how have the project participants agreed to stay in touch? what, where and how often are regular meetings? special ceremonies?</em></p>
+
+      
+    </div>
+  </div>
+  <script src="/ogm-wiki/markpub-static/js/script.js"></script>
+  
+  <footer class="footer">
+  <div class="content has-text-centered">
+    
+    <div><strong>OGM Wiki</strong> by the Open Global Mind community.</div>
+    
+    
+    <div>Central repository at <a href="https://github.com/openglobalmind/ogm-wiki">GitHub/openglobalmind/ogm-wiki</a>.</div>
+    
+    
+    <div>Licensed under <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</div>
+    
+    <div><em>Site last updated on Friday, March 21, 2025 at 14:54 UTC.</em></div>
+  </div>
+</footer>
+</body>
+</html>

@@ -1,0 +1,18 @@
+# Front Matter (generic)
+
+Many parts are optional, but generally, front matter includes ([source]()): 
+
+1. **Book half-title page:** A half-title page displays only the main title of the book, excluding all other information.
+2. **Series-title page or frontispiece:** A series title page lists the series title and volume number, and may list other books in the series. A frontispiece is an illustration that sits opposite the title page.
+3. **Title page:** The title page typically includes the following information (if applicable): title, subtitle, edition number, author, editor, translator, publisher, publisher location, and publisher logo. Title pages are essential for most books.
+4. **Copyright page:** The copyright page lists details about the copyright holder of the book, including the publisher's address, publication date, ISBN, and a copyright notice ("All rights reserved"). Like the title page, a copyright page is an essential part to a published book.
+5. **Dedication:** It's up to the author whether or not to include a dedication. It can be short and sweet, or long and winding.
+6. **Epigraph:** An epigraph is a quotation that isn't part of the text, but suggests a theme or sets the tone.
+7. **Table of contents:** The table of contents helps readers know what's in a book and where to find it. It lists the page number and title of each chapter, including parts or sections, as well as front and back matter (however, front matter that precedes the table of contents is omitted). Most nonfiction books have table of contents, while fiction books typically don’t.
+8. **List of illustrations:** The term "illustrations" in publishing isn't just for drawings, but refers to images, such as photographs, artwork, charts, and maps. When books feature images that draw interest and hold value apart from the text, then a list of illustrations may be appropriate. This list is similar to the table of contents, stating the title of the work and the page number on which it's found.
+9. **List of tables:** The list of tables can be included as part of the list of illustrations when there are fewer tables than illustrations. However, when there are more tables than illustrations, the list of tables can stand on its own.
+10. **Foreword:** The foreword is a short piece written by someone other than the author. It lends credibility to the author, since the foreword is commonly written by someone who's already well-known and established in his or her field.
+11. **Preface:** Different from the foreword, the preface is the author's statement about the work, including why he or she wrote it, research or writing methods used, or how it came to fruition. The author may include acknowledgments in this section.
+12. **Acknowledgements (if not in preface):** This is where the author formally thanks all the people who contributed to the book in one way or another, including researching, coaching, editing, pitching, publishing, or providing moral support. The acknowledgments may alternatively be placed at the beginning of the back matter.
+13. **Introduction (if not included in text):** Introductions are usually included in the main text of the book; however, in some cases (for example, when the introduction is written by someone other than the author) it should be included in the front matter.
+14. **Abbreviations (if not back matter):** When many abbreviations are used throughout a book, a list may be useful. The list can be placed in the back matter if the abbreviations are only used in the back matter.
