@@ -50,7 +50,7 @@ There are actually many second paths, but I'm going to describe just one. One th
 
 I'm convinced enough that trust is a key lever here that I did a keynote speech in 2020 titled "[Trust Is the (Only) Way Forward](https://youtu.be/gf3vp0Wquz8)" and then I did a speech [two years later](https://www.youtube.com/watch?v=N47GRiYZ0p8) at the same event to explain my reasoning. In that second talk, I dug into the sources of my ideas, the way that I had sifted those ideas together into a thesis, and how it all might fit together to help us humans. 
 
-This is the part where a miracle has to happen. I would love to see people in groups everywhere using [[Design from Trust]] to improve their neighborhoods, their communities, their watersheds, and their governance systems. The minor stumbling block is that nobody knows quite what that is. 
+Here comes the leap. I would love to see people in groups everywhere using [[Design from Trust]] to improve their neighborhoods, their communities, their watersheds, and their governance systems. The minor stumbling block is that nobody knows quite what that is. 
 
 Our default outcome, the one that shows up if we don't change things pretty dramatically, is bleak. 
 
