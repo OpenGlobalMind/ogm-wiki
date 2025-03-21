@@ -6,7 +6,9 @@ Unfortunately, for years we've been designing our systems [[Design from Mistrust
 
 Outcomes would be so much better if we started with an assumption that most people — not all people — have good intent. And that if we optimize the systems we design for the people with good intent and worry about the bad actors later, we can provide terrific solutions to a whole series of problems that have been dogging us for decades. 
 
-This is clearly a long shot. 
+If you've been watching the news of late, this is clearly a long shot. At least at the global scale. 
+
+But at the small, local scale, it's been happening all over the place in tiny increments. 
 
 Here are some places to start understanding Design from Trust: 
 
