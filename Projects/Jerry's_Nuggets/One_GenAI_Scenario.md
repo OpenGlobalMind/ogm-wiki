@@ -7,23 +7,32 @@ Here's one narrative of how the next decade or two might play out, given the cur
 Generative AI progress continues (we're not at a plateau). 
 - Including sharp gains in efficiency, like DeepSeek and Gemma 3. 
 - (The apocalyptic trends of GenAI eating all resources don't account for these.) 
+
 Bootstrapping starts. GenAI is able to improve itself at a dramatic pace. 
+
 GenAI is already better than humans in a lot of verticals. 
+
 We and they learn to bridge domains and to arbitrate between different models, depending on which ones are best at solving the problems. 
+
 This starts to smell like AGI. (depending on your definition of AGI.) 
 
 Meanwhile... 
+
 Capitalism is doing its thing. 
 - Many people are losing their jobs to automation. 
 - Most of the others are afraid that is going to happen to them. 
 - The current system is particularly cruel to people who have lost their jobs. 
 - The Trump administration is busy tearing down the safety nets. 
 - Many people who get to keep their jobs find their workload has multiplied incredibly. 
+
 This pressure and uncertainty explodes in the streets. 
 
 Meanwhile... 
+
 Nobody figures out a good way to regulate or constrain GenAI. 
+
 Bad actors take open-source GenAI models and go crazy. 
+
 But it's an arms race: Good actors manage to neutralize most of these efforts, but not all. 
 
 To overgeneralize, from here there are two paths: 
@@ -56,7 +65,7 @@ Several things that would really throw a wrench in the works are not hard to ima
 
 ## Current stance 
 
-I'm a cynical optimist. I believe people are actually smarter and more trustworthy than we think they are and given options to make humanity better might actually participate and do that, particularly when there are looming threats nearby. 
+I'm a realistic optimist. I believe people are actually smarter and more trustworthy than we think they are, and given options to make humanity better, they might actually participate and do that, particularly when there are looming threats nearby. 
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain. 
