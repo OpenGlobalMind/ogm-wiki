@@ -24,6 +24,7 @@ The first time you hear about this, it hits you in the gut, doesn't it? Parents 
 Gatto went deeper in later writings, and others have expanded the list, or created versions of their own. To explore the broader context, here's how I've curated it in my outboard Brain (or open it in a new tab [here](https://app.thebrain.com/brain/3d80058c-14d8-5361-0b61-a061f89baf87/e7a14731-712d-e428-557d-bb599972755b)): 
 
 <iframe width="800" height="600" src="https://app.thebrain.com/brain/3d80058c-14d8-5361-0b61-a061f89baf87/e7a14731-712d-e428-557d-bb599972755b" frameborder="0"></iframe>
+
 The Hidden Curriculum inspired me to coin one of the outputs of schooling, which is the Modern OCD: Obedience, Compliance and Dependence. You'll see me referring to it in [my TEDx talk](http://www.youtube.com/watch?v=k0fgtvbMT7k&feature=g-all-u). 
 
 The more I dwelt on the situation in schools, the more I realized that there were hidden architectures in other places. You'll notice in my Brain above "The Hidden Curriculum of School" lies a Thought titled "Hidden Architectures of Mistrust," which was my generalization of this phenomenon, and will feature in subsequent posts. 
