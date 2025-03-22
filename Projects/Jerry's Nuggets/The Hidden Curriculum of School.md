@@ -30,4 +30,4 @@ The Hidden Curriculum inspired me to coin one of the outputs of schooling, which
 The more I dwelt on the situation in schools, the more I realized that there were hidden architectures in other places. You'll notice in my Brain above "The Hidden Curriculum of School" lies a Thought titled "Hidden Architectures of Mistrust," which was my generalization of this phenomenon, and will feature in subsequent posts. 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/3qZPzB) in my Brain. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/the-hidden-curriculum-of-school?r=1173&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true), Medium [here](https://jerrymichalski.medium.com/the-hidden-curriculum-of-school-03ba386acbdd) and LinkedIn [here](https://www.linkedin.com/pulse/hidden-curriculum-school-jerry-michalski-kkq7c/). It's also [here](https://bra.in/3qZPzB) in my Brain. 
