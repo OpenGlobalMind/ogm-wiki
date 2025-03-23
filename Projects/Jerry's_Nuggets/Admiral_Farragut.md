@@ -6,6 +6,6 @@ One of his favorite stories to tell was about [Admiral David Farragut](https://e
 
 This was not unusual for the time. The British Navy was like the British aristocracy: If you were born into it, you were expected to pick up the family traditions. Sending you off to a warship at a tender age to learn the trade was part of the drill. Farragut was fostered by a Navy family, and in fact served several times under his foster father, David Porter. 
 
-It was at age 11 that Farragut actually got his first brief command of a ship as a "prize master." His captain had taken a [prize](https://en.wikipedia.org/wiki/Prize_(law)) (captured a ship) and needed that ship to be sailed safely to a port. He gave Farragut that command. When the captured captain heard what was going to happen, he reputedly said, "I'm not going anywhere with a 13-year-old as captain." Farragut's reply was, "If he shows his face above decks, have him shot."
+It was at age 11 that Farragut actually got his first brief command of a ship as a "prize master." His captain had taken a [prize](https://en.wikipedia.org/wiki/Prize_(law)) (captured a ship) and needed that ship to be sailed safely to a port. He gave Farragut that command. When the captured captain heard what was going to happen, he reputedly said, "I'm not going anywhere with an 11-year-old as captain." Farragut's reply was, "If he shows his face above decks, have him shot."
 
 The rest, as they say, is history.
