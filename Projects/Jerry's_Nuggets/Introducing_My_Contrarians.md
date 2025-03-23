@@ -31,7 +31,12 @@ In this short section of the U22 talk, I frame the notion of Contrarians:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CaEch3vxGGM?si=05bEqy4Yabu81XYb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-To pick up the story, please head to my description of the Contrarian named [[Contrarian Harrison Owen|Harrison Owen]], the first of five whose stories and heresies I tell in this series. 
+To pick up the story, please head to my description of the Contrarian named [[Contrarian Harrison Owen|Harrison Owen]], the first of five whose stories and heresies I tell in this series. Here are the other four: 
+
+- [[Contrarian Hans Monderman|Hans Monderman]] 
+- [[Contrarian Elinor Ostrom|Elinor Ostrom]] 
+- [[Contrarian John Taylor Gatto|John Taylor Gatto]] 
+- [[Contrarian Christopher Alexander|Christopher Alexander]] 
 
 As you'll see in this short series, Contrarians are masters of [[Rethink Constraints|rethinking constraints]]. They are also the foundations of [[Design from Trust]]. 
 
