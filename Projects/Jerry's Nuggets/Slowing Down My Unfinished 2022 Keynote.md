@@ -1,5 +1,5 @@
 # Slowing Down My Unfinished 2022 Keynote
-(organizing page, not a post) 
+(an organizing page, not a post) 
 
 In October 2022 I gave a keynote in Bucharest, Romania, titled [[A Worldview Built from Contrarians]]. 
 
@@ -9,8 +9,8 @@ Here are the sections, in the order I presented them, with more context:
 - [[Contrarian Harrison Owen|Contrarian: Harrison Owen]] (done) 
 - [[Contrarian Hans Monderman|Contrarian: Hans Monderman]] (done) 
 - [[Contrarian Elinor Ostrom|Contrarian: Elinor Ostrom]] (done) 
-- [[Contrarian John Taylor Gatto]] (includes [[Admiral Farragut]] and [[The Hidden Curriculum of School]])
-- [[Contrarian Christopher Alexander]] (includes [[Pattern Languages]]) 
+- [[Contrarian John Taylor Gatto]] (includes [[Admiral Farragut]] and [[The Hidden Curriculum of School]]) (done) 
+- [[Contrarian Christopher Alexander]] (does not include [[Pattern Languages]]) (done) 
 - [[Contrarian Overview]] 
 - [[Contrarian or Kook]]? 
 - [[How I Became Aware of Contrarians]] 

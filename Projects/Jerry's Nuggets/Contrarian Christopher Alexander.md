@@ -44,4 +44,4 @@ As you'll see in this short series, Contrarians are masters of [[Rethink Constra
 If you read this far, a treat: In [my online Brain](https://www.jerrysbrain.com/), you'll find all my Contrarians [here](https://bra.in/4jrdQp), where you can see them in their greater context. 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/7pWLbY) in my Brain. 
+This article is cross-posted on Substack [here](https://rethinkconstraints.substack.com/p/contrarian-christopher-alexander), Medium [here](https://jerrymichalski.medium.com/contrarian-christopher-alexander-7f67158fa388) and LinkedIn [here](https://www.linkedin.com/pulse/contrarian-christopher-alexander-jerry-michalski-kxbpc/). It's also [here](https://bra.in/7pWLbY) in my Brain. 
