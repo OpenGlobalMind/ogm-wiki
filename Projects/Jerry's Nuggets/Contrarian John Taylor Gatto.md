@@ -32,11 +32,11 @@ Here's how I described Gatto's work at U22:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/PGTHCamjXd4?si=rwpCuEzxb-kLBWGm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Next up: Contrarian Christopher Alexander. 
+Next up: [[Contrarian Christopher Alexander]]. 
 
 As you'll see in this short series, Contrarians are masters of [[Rethink Constraints|rethinking constraints]]. They are also the foundations of [[Design from Trust]]. 
 
 If you read this far, a treat: In [my online Brain](https://www.jerrysbrain.com/), you'll find all my Contrarians [here](https://bra.in/4jrdQp), where you can see them in their greater context. 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/6vA5da) in my Brain. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/contrarian-john-taylor-gatto), Medium [here](https://jerrymichalski.medium.com/contrarian-john-taylor-gatto-4d079784498e) and LinkedIn [here](https://www.linkedin.com/pulse/contrarian-john-taylor-gatto-jerry-michalski-x4oec). It's also [here](https://bra.in/6vA5da) in my Brain. 

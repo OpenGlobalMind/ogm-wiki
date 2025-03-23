@@ -5,7 +5,7 @@ Fungi offer rich, evocative, funny metaphors about symbiosis and collaboration i
 - [[Hyphae Connect]] 
 - [[Mycelia Externalize Their Digestion]] 
 - [[Fungi Are Essential to Soil Health]] 
-- [[Fungi are the Principal Decomposers in Ecological Systems]] 
+- [[Fungi are the Principal Decomposers in Ecological Systems]] 
 - [[Fungal Fixers - Mycoremediation]] 
 - [[Mycelia Trade Nutrients in the Wood Wide Web]] 
 - [[Leaf-Cutter Ants Can't Digest Leaves]]. So Why Are They Taking Leaves to Their Nests? 
