@@ -4,9 +4,11 @@
 
 If you subscribe to Shane Parrish's [Farnam Street](https://fs.blog/) newsletter, you are likely familiar with his fascination with mental models. In fact, in 2019 he started publishing [The Great Mental Models](https://www.amazon.com/gp/product/B07P79P8ST/jerrymichalskisr), which now runs four volumes. 
 
-I've been fascinated with ideas and mental models, too, but I collect them in a different way: in my [[Jerry's Brain|Brain]], slowly, building context over time. Here's what that experience has created: 
+I've been fascinated with ideas and mental models, too, but I collect them in a different way: in my [[Jerry's Brain|Brain]], slowly, building context over time. Here's what I've created over some 25 years: 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WHquk_s6V-0?si=DSFPF6T2Wuu3TrVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
 
 Here's [a Brain Tour](https://bra.in/2joa45) that follows everything I clicked on in my Brain in the video above. You should be able to go off-roading at any point (say clicking on "Laws" when you get to Goodhart's Law), then get back to the Tour. 
 
@@ -16,7 +18,7 @@ If you want to work without a net, here's a direct link to [Useful Thinking Fram
 
 TheBrain software records some metadata, so I know when I added or modified each Thought in my Brain. For example, I didn't create the big collective thought Useful Thinking Frameworks until October 2015, but many of the models now under it predate it. For example, I added the OODA Loop in 2004 and the Cynefin framework in 2008. Russ Ackoff's Idealized Redesign went in way back in 1998, very early in my use of TheBrain. 
 
-This is what happens when knowledge accumulates, as it is meant to. But as we usually fail to do. 
+This is what happens when knowledge accumulates, as it is meant to. Alas, we usually fail to do so. 
 
 This exploration in my Brain is also only an example of one person's knowledge accumulating. The process is more powerful when groups do it, but that's challenging at the moment — a topic for future posts. 
 

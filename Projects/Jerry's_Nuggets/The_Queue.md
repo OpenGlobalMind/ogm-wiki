@@ -12,6 +12,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 	- [[The Hidden Curriculum of School]] (done) 
 	- [[Contrarian John Taylor Gatto]] (done) 
 	- [[Contrarian Christopher Alexander]] (done) 
+- [[Rethink the Future]] (first podcast episode) 
 - [[Variants of Capitalism]] (Braincast) 
 - [[One GenAI Scenario]] 
 - [[Trump Through the Trust Lens]] 
