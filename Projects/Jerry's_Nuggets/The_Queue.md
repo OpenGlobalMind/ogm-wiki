@@ -1,10 +1,17 @@
 # The Queue
 
-The list of upcoming posts, in expected time sequence. They move a lot. 
+The list of upcoming posts, in expected time sequence. They move around. And I [[On Crossposting|crosspost]] most of them. 
 
 - [[My Story of Trust]] (done) 
 - [[This Is Not Democracy]] (done) 
 - [[Slowing Down My Unfinished 2022 Keynote]] (series) 
+	- [[Introducing My Contrarians]] (done) 
+	- [[Contrarian Hans Monderman]] (done) 
+	- [[Contrarian Harrison Owen]] (done) 
+	- [[Contrarian Elinor Ostrom]] (done) 
+	- [[The Hidden Curriculum of School]] (done) 
+	- [[Contrarian John Taylor Gatto]] (done) 
+	- [[Contrarian Christopher Alexander]] (done) 
 - [[Variants of Capitalism]] (Braincast) 
 - [[One GenAI Scenario]] 
 - [[Trump Through the Trust Lens]] 
