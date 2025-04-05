@@ -37,7 +37,7 @@ Here's how I described CA and his heresies at [U22](https://archive.unfinished.r
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g3kVwpE8CEw?si=2X-0S9JQir3lUYG1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Next up: a Contrarian Overview. 
+Next up: a [[Contrarian Overview]]. 
 
 As you'll see in this short series, Contrarians are masters of [[Rethink Constraints|rethinking constraints]]. They are also the foundations of [[Design from Trust]]. 
 
