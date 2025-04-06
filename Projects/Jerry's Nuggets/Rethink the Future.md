@@ -1,7 +1,9 @@
 # Rethink the Future: A New Podcast 
  
 *Co-designing a fruitful, hopeful path forward.* 
+
 ![[Rethink the Future animated.gif]]
+
 Howdy! This is the first post in my new podcast called Rethink the Future, which lives inside my [Rethink Your Constraints](https://rethinkconstraints.substack.com/) Substack. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/EYZ-jWBbPKs?si=I9dbGyRd10Gb97ON" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
