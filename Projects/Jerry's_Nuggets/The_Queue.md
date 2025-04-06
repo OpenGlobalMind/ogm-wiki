@@ -12,7 +12,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 	- [[The Hidden Curriculum of School]] (done) 
 	- [[Contrarian John Taylor Gatto]] (done) 
 	- [[Contrarian Christopher Alexander]] (done) 
-- [[Rethink the Future]] (first podcast episode) 
+- [[Rethink the Future]] (first podcast episode, done) 
 - [[Variants of Capitalism]] (Braincast) 
 - [[One GenAI Scenario]] 
 - [[Trump Through the Trust Lens]] 
@@ -28,7 +28,6 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Behind the Reel - What Seems Impossible]] 
 - [[Leaf-Cutter Ants Can't Digest Leaves]] 
 - [[Joy and Jerry Discuss The Big Fungus]] (contains [[The Noosphere]]) 
-- New Call Series: Rethink the Future 
 - [[What Are Our Next Two Stacks]]? 
 - [[Interpreting the 2024 US Election]] 
 - [[Where I'm Aiming]] 
@@ -54,7 +53,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[The Big Sentence]] (contains multiple) 
 - [[Snip and the Origins of the Global Financial Crisis]] 
 - [[Impossible Is Just the Most Famous Constraint]] 
-- [[Behind the Reel - The Joy Line]] (which contains [[The Joy Line]] ) 
+- [[Behind the Reel - The Joy Line]] (contains [[The Joy Line]] ) 
 - [[The Creator’s Dilemma]] 
 - [[The Internet Is Stuck in Mainstream Media Metaphors]] 
 - [[The Unwritten Laws of Books]] 

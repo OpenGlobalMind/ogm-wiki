@@ -1,6 +1,6 @@
 # Level Up Media
 
-[[The Internet Is Stuck in Mainstream Media Metaphors]]. 
+In 2022, I posted [[The Internet Is Stuck in Mainstream Media Metaphors]]. 
 
 - Early movies filmed theater  
 - Then filmmakers innovated, inventing the language of cinema (pan, zoom, jump cut, montage)  
@@ -10,12 +10,13 @@ We're at a moment where we can level up, transforming media.
 
 Leveling up media will help us [[Save Civilization]] together.
 
-The Copyright Industries will likely fight this.
+The Copyright Industries will likely fight this. [[The Creator’s Dilemma]]. 
 
-Our early experiments to level up media include:
+To level up media, let's:
 
-- [[The NeoBooks Manifesto|NeoBooks]] 
-- Curating [[The Big Fungus]] together 
+- Create [[The NeoBooks Manifesto|NeoBooks]] 
+- Present Using [[NeoDecks]] 
+- Curate [[The Big Fungus]] together 
 - [[Turbocharge Pattern Languages]] 
 
 

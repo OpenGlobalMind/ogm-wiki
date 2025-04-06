@@ -1,5 +1,18 @@
 # Rethink Constraints Posts
 
+### Rethink the Future Posts 
+- [[On Sensemaking]] 
+- [[Level Up Media]] 
+- [[Fabulous Fungal Metaphors]] 
+- [[Joy and Jerry Discuss The Big Fungus]] 
+- [[Sitting with the Enemy]] (Daryl Davis interview) 
+- [[GenAI Gives Us Superpowers]] 
+- [[We Used to Know How to Live in Community on the Commons]] 
+- [[Foobarism]] 
+- [[Upkido]] 
+- [[The Big Sentence]] 
+- [[Our Cyborg Future]] 
+
 ### Meta Posts
 Help me shape this offer 
 Wrestling With Where I Fit 
