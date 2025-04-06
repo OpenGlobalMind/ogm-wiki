@@ -9,10 +9,12 @@ Howdy! This is the first post in my new podcast called Rethink the Future, which
 We are at a very strange and dangerous moment in history. It is also a very plastic moment. Big things are melting and changing. 
 
 It appears that governments around the world, including the USA, are sliding toward autocracy and other things that shouldn't appeal to the general public, but in fact, do. I think the reason they do is that they believe that the current systems are borked and nobody has proposed better solutions. 
-### Scope 
-I have lots to say about how we got here, but I'll try to avoid those issues in this podcast. Some will filter in because it's often hard to look forward without looking backward. I want to look forward, focusing on ways to build a better world together. We’re missing shared plans that everyone can appropriate and customize, so let's create them. 
 
-Topics will include: 
+It's not that nobody has proposed solutions: there are plenty to discover. It's just that none of them have crystallized into a usable platform or movement. This is a time for new forms of leadership and innovation. 
+### Scope 
+I have lots to say about how we got here, but I'll try to avoid those issues in this podcast. Some will filter in because it's often hard to look forward without looking backward. 
+
+I want to look forward, focusing on ways to build a better world together. We’re missing shared plans that everyone can appropriate and customize, so let's create them. Episode topics will include: 
 
 - Promising Solutions to World Crises and Thorny Social Problems 
 - What Does It Mean to Be a Good Cyborg? 
@@ -21,9 +23,9 @@ Topics will include: 
 - Leveling Up Media 
 - Here’s a link to [the Scope collection](https://bra.in/5vPLEJ) in my Brain
 ### Formats 
-Mixed! Some posts will be just me talking in a chair or on the hoof (like [Peter Zeihan](https://www.youtube.com/c/ZeihanonGeopolitics), maybe), me interviewing one or two people, small-group discussions, open sessions, screencasts, Braincasts, animations. It'll all be very linky and very open. 
+Mixed! Some posts will be just me talking in a chair or on the hoof (like [Peter Zeihan](https://www.youtube.com/c/ZeihanonGeopolitics), maybe), me interviewing one or two people, small-group discussions, open sessions, screencasts, Braincasts, and animations. It'll all be very linky and very open. 
 
-The posts might last from one minute to a couple hours. They won't follow a set schedule. And I'm Content over production value. 
+The posts won't follow a set schedule. They might last from one minute to a couple hours. And I'm clearly emphasizing content over production value. 
 ### Notes 
 This is a Substack, so your likes and subscribes are super helpful. Of course, so is your becoming a paid subscriber. Doing so will bring you into a private monthly call, where we scheme world domination, as well as invitations to participate in occasional Substack chats as well as Zoom calls that will show up on the podcast. 
 
