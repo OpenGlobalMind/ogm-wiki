@@ -1,6 +1,6 @@
 # Writing Wikily
 (draft) 
-
+*What's beyond linky text?* 
 
 Wikis are social writing environments. They allow teams to craft pages of content that include useful links connecting those pages, as well as links to outside artifacts. 
 
@@ -17,5 +17,5 @@ Writing in a wiki requires a few shifts of thinking, including:
 
 Some people think Writing Wikily requires too much mental overhead for most people, so instead they recommend a more "normal" mode of information sharing that involves individual essays published on separate platforms, such as Substack or LinkedIn posts. I'm mixed on this, but optimistic that the value of elegantly woven information will draw people in. 
 
-Writing Wikily is part of a broader process, [[Think Like a Wiki]]. 
+Writing Wikily is part of a broader process, [[Think Like a Wiki]], as well as [[On Sensemaking]]. Add [[What’s a NeoBook?]] 
 

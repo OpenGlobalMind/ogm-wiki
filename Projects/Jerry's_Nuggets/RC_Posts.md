@@ -3,11 +3,13 @@
 ### Rethink the Future Posts 
 - [[On Sensemaking]] 
 - [[Level Up Media]] 
+- [[What Are Our Next Two Stacks]]? 
+- [[We Used to Know How to Live in Community on the Commons]] 
 - [[Fabulous Fungal Metaphors]] 
 - [[Joy and Jerry Discuss The Big Fungus]] 
 - [[Sitting with the Enemy]] (Daryl Davis interview) 
+- [[PlaceboPhone]] 
 - [[GenAI Gives Us Superpowers]] 
-- [[We Used to Know How to Live in Community on the Commons]] 
 - [[Foobarism]] 
 - [[Upkido]] 
 - [[The Big Sentence]] 
@@ -26,7 +28,6 @@ Join my Substack
 - [[On Crossposting]] (done) 
 - A Map to This Project  
 - My Missions 
-- Habemus Substack! 
 - About This Substack 
 - [[I Think in Webs]] 
 - [[Rethinking My Own Constraints]] (series) 

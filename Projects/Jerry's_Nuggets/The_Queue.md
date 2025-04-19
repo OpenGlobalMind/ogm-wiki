@@ -19,6 +19,8 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
 - [[The Dark Side of Innovation]] 
 - [[The NeoBooks Manifesto]] 
+- [[PlaceboPhone]] 
+- [[Denial of Discourse Attacks]] 
 - [[Scarcity = Abundance - Trust]] 
 - [[Has Progress Stopped]]? 
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
