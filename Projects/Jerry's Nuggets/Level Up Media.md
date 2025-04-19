@@ -12,7 +12,7 @@ Leveling up media will help us [[Save Civilization]] together.
 
 The Copyright Industries will likely fight this. [[The Creator’s Dilemma]]. 
 
-To level up media, let's:
+To level up media, let's: 
 
 - Create [[The NeoBooks Manifesto|NeoBooks]] 
 - Present Using [[NeoDecks]] 

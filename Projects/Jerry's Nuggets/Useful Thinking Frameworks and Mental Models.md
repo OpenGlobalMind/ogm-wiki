@@ -18,7 +18,7 @@ If you want to work without a net, here's a direct link to [Useful Thinking Fram
 
 TheBrain software records some metadata, so I know when I added or modified each Thought in my Brain. For example, I didn't create the big collective thought Useful Thinking Frameworks until October 2015, but many of the models now under it predate it. For example, I added the OODA Loop in 2004 and the Cynefin framework in 2008. Russ Ackoff's Idealized Redesign went in way back in 1998, very early in my use of TheBrain. 
 
-This is what happens when knowledge accumulates, as it is meant to. Alas, we usually fail to do so. 
+This is what happens when knowledge accumulates, as it is meant to. Alas, we usually fail to do so. Most of our writings are ephemeral and disconnected. Even when we write things that are more permanent online, they are lightly woven into the 
 
 This exploration in my Brain is also only an example of one person's knowledge accumulating. The process is more powerful when groups do it, but that's challenging at the moment — a topic for future posts. 
 
