@@ -2,16 +2,16 @@
 (draft) 
 *That elusive thing.* 
 
-One of humans' biggest quests is to understand the world around us. 
+One of humans' biggest quests has been to understand the world around us. To be frank, we're not all that good at it yet. 
 ## Visions and inspirations 
-Sensemaking goes by many different names, including: 
+Sensemaking has many cousins, including: 
 
 - [Collective Intelligence](https://bra.in/9q5WVv) 
 - [Collaborative Sensemaking](https://bra.in/5pKkrp) 
 - [Hive Mind](https://bra.in/3jY98A) or Group Mind 
 - [Extended Mind](https://bra.in/8vADRa) 
-- Large Scale Collective IQ 
-- Knowledge Ecosystems 
+- [Large Scale Collective IQ](https://bra.in/5px926) 
+- [Knowledge Ecosystems](https://bra.in/8jYWD2) 
 - [Superintelligence](https://bra.in/7j8bKk) (which might or might not involve humans) 
 
 Of course, sensemaking shows up in fiction: 
@@ -20,9 +20,9 @@ Of course, sensemaking shows up in fiction:
 - A Young Lady's Illustrated Primer, in Neal Stephenson's [The Diamond Age](https://en.wikipedia.org/wiki/The_Diamond_Age) 
 - Hitchhiker's Guide?? 
 
-In speculative (wishful?) non-fiction: 
+And in speculative (wishful?) non-fiction: 
 
-- [Indra's Net](http://en.wikipedia.org/wiki/Indra's_net) 
+- 1500-500 BC: [Indra's Net](http://en.wikipedia.org/wiki/Indra's_net) 
 - 1937: HG Wells' article [World Brain](https://en.wikipedia.org/wiki/World_Brain) 
 - 1945: Vannevar Bush's [Memex](https://en.wikipedia.org/wiki/Memex) 
 - 1945: Teilhard De Chardin and Vladimir Vernadsky's idea of [[The Noosphere]] 
