@@ -1,6 +1,8 @@
 # Fabulous Fungal Metaphors 
 (draft) 
-Fungi offer rich, evocative, funny metaphors about symbiosis and collaboration in nature, which fit our mission at Open Global Mind to create a shared, interconnected memory for humans in multiple ways These facts as metaphors include:
+Fungi offer rich, evocative, funny metaphors about symbiosis and collaboration in nature, which fit our mission at Open Global Mind to create a shared, interconnected memory for humans in multiple ways. 
+
+These facts as metaphors include:
 
 - [[Hyphae Connect]], so [[Mycelia Are Nature's Internet]] 
 - [[Mycelia Externalize Their Digestion]] 
