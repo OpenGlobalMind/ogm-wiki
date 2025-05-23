@@ -4,7 +4,7 @@
 
 One of humans' biggest quests has been to understand the world around us. To be frank, we're not all that good at it yet. 
 ## Visions and inspirations 
-Sensemaking has many cousins, including: 
+Sensemaking has many relatives, including: 
 
 - [Collective Intelligence](https://bra.in/9q5WVv) 
 - [Collaborative Sensemaking](https://bra.in/5pKkrp) 
@@ -14,12 +14,13 @@ Sensemaking has many cousins, including:
 - [Knowledge Ecosystems](https://bra.in/8jYWD2) 
 - [Superintelligence](https://bra.in/7j8bKk) (which might or might not involve humans) 
 
-Opposites: 
+Of course, it has its opposites: 
 
 - [Herd Mentality](https://en.wikipedia.org/wiki/Herd_mentality) 
 - [Crowd (Mob) Psychology](https://bra.in/8jrE65) 
+- Groupthink 
 
-Of course, sensemaking shows up in fiction: 
+And of course, sensemaking shows up in fiction: 
 
 - The [Encyclopedia Galactica](https://en.wikipedia.org/wiki/Encyclopedia_Galactica) in Asimov's Foundation series 
 - A Young Lady's Illustrated Primer, in Neal Stephenson's [The Diamond Age](https://en.wikipedia.org/wiki/The_Diamond_Age) 
@@ -40,7 +41,7 @@ And in speculative (wishful?) non-fiction:
 
 You can browse all of these, in context, in my Brain [here](https://bra.in/2pxbo6). To suggest others, please [write me](mailto:sociate@gmail.com). 
 
-From the tech side, many different efforts include: 
+From the tech side, the many different sensemaking efforts I've heard of include: 
 
 - Dynamic Knowledge Repositories ([DKRs](https://bra.in/6jg32r)) 
 - Distributed Knowledge Graphs ([DKGs](https://bra.in/6vP3G9)) 

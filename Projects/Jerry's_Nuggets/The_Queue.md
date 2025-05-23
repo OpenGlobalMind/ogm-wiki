@@ -14,6 +14,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 	- [[Contrarian Christopher Alexander]] (done) 
 - [[Rethink the Future]] (first podcast episode, done) 
 - [[Variants of Capitalism]] (Braincast) 
+- [[GenAI Is Like a Flesh-Eating Bacterium]] 
 - [[One GenAI Scenario]] 
 - [[Trump Through the Trust Lens]] 
 - [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 

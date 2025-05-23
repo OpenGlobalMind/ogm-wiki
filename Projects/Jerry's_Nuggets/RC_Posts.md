@@ -6,14 +6,17 @@
 - [[What Are Our Next Two Stacks]]? 
 - [[We Used to Know How to Live in Community on the Commons]] 
 - [[Fabulous Fungal Metaphors]] 
-- [[Joy and Jerry Discuss The Big Fungus]] 
-- [[Sitting with the Enemy]] (Daryl Davis interview) 
 - [[PlaceboPhone]] 
 - [[GenAI Gives Us Superpowers]] 
 - [[Foobarism]] 
 - [[Upkido]] 
 - [[The Big Sentence]] 
 - [[Our Cyborg Future]] 
+
+### Rethink the Future Podcast Episodes
+- [[Ida and Jerry Explore Unlocking Human Potential]] (done) 
+- [[Joy and Jerry Discuss The Big Fungus]] 
+- [[Sitting with the Enemy]] (Daryl Davis interview) 
 
 ### Meta Posts
 Help me shape this offer 
@@ -35,10 +38,6 @@ Join my Substack
 - [[On Sensemaking]] 
 - [[Getting My Kite Out of Storage]] (about my new speaking reel) 
 - The Many Flavors of Capitalism 
-
-### RC Podcast Episodes
-- [[Ida and Jerry Explore Unlocking Human Potential]] (done) 
-- [[Joy and Jerry Discuss The Big Fungus]] 
 
 ### Jerry's Brain Posts 
 - On Curating a 27-Year-Old Mind Map 
