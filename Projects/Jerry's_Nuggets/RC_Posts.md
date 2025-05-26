@@ -17,6 +17,8 @@
 - [[Ida and Jerry Explore Unlocking Human Potential]] (done) 
 - [[Joy and Jerry Discuss The Big Fungus]] 
 - [[Sitting with the Enemy]] (Daryl Davis interview) 
+- Interview with Pia Mancini 
+- 
 
 ### Meta Posts
 Help me shape this offer 

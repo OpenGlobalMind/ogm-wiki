@@ -16,11 +16,15 @@ If you want to work without a net, here's a direct link to [Useful Thinking Fram
 
 <iframe width="800" height="600" src="https://app.thebrain.com/brain/3d80058c-14d8-5361-0b61-a061f89baf87/82b38fb8-2149-0c11-e548-8141d082267e" frameborder="0"></iframe>
 
-TheBrain software records some metadata, so I know when I added or modified each Thought in my Brain. For example, I didn't create the big collective thought Useful Thinking Frameworks until October 2015, but many of the models now under it predate it. For example, I added the [OODA Loop](https://bra.in/7pDkZn) in 2004 and the [Cynefin framework](https://bra.in/2vABx3) in 2008. Russ Ackoff's [Idealized Redesign](https://bra.in/5jL6YN) went in way back in 1998, very early in my use of TheBrain. 
+TheBrain software records some metadata, so I know when I added or modified each Thought in my Brain. For example, I didn't create the big collective thought Useful Thinking Frameworks until October 2015, but I added many of the models now under before that. For example, I added the [OODA Loop](https://bra.in/7pDkZn) in 2004 and the [Cynefin framework](https://bra.in/2vABx3) in 2008. Russ Ackoff's [Idealized Redesign](https://bra.in/5jL6YN) went in way back in 1998, very early in my use of TheBrain. 
+
+Then in 2015, I apparently had the idea to create the larger topic umbrella of Useful Thinking Frameworks. That led to my curating the different Thoughts that fit that theme, wherever they were tucked away in my Brain, and connecting them to the new hub Thought. Nowadays that thought is a notable landmark in my Brain(s), so I always know to connect new, relevant things to it. 
 
 ## Knowledge should accumulate
 
 This is what happens when knowledge accumulates, as I believe it is meant to. Alas, we usually fail to do so. Most of our writings are ephemeral and disconnected. Even when we write things that are more permanent online, they are lightly woven into the broader context. 
+
+This has civilizational consequences. [[We Are an Amnesic Society]]. 
 
 This exploration in my Brain is also only an example of one person's knowledge accumulating. The process is more powerful when groups do it, but that's challenging at the moment — a topic for future posts. 
 
