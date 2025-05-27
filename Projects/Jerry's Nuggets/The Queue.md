@@ -13,11 +13,13 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 	- [[Contrarian John Taylor Gatto]] (done) 
 	- [[Contrarian Christopher Alexander]] (done) 
 - [[Rethink the Future]] (first podcast episode, done) 
+- [[Useful Thinking Frameworks and Mental Models]] (Braincast) 
+- [[Sitting with the Enemy]] (podcast) 
+- [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
 - [[Variants of Capitalism]] (Braincast) 
 - [[GenAI Is Like a Flesh-Eating Bacterium]] 
 - [[One GenAI Scenario]] 
 - [[Trump Through the Trust Lens]] 
-- [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
 - [[The Dark Side of Innovation]] 
 - [[The NeoBooks Manifesto]] 
 - [[PlaceboPhone]] 
@@ -27,7 +29,6 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[On World War I and Trust in Humans]] 
 - [[Can We Mend Democracy]]? 
-- [[Useful Thinking Frameworks and Mental Models]] (Braincast) 
 - [[Behind the Reel - What Seems Impossible]] 
 - [[Leaf-Cutter Ants Can't Digest Leaves]] 
 - [[Joy and Jerry Discuss The Big Fungus]] (contains [[The Noosphere]]) 

@@ -26,7 +26,7 @@ This is what happens when knowledge accumulates, as I believe it is meant to. Al
 
 This has civilizational consequences. [[We Are an Amnesic Society]]. 
 
-This exploration in my Brain is also only an example of one person's knowledge accumulating. The process is more powerful when groups do it, but that's challenging at the moment — a topic for future posts. 
+Alas, this exploration in my Brain is only an example of one person's knowledge accumulating over time. The process is more powerful when groups do it, but that's challenging at the moment — and of course a topic for future posts. 
 
 I'd love to know what thinking frameworks and models you prefer and what models I've missed, how I might arrange these differently, and what stories you might tell around these items. And if anyone undertakes a systematic comparison of my Brain's links and Shane's books' contents: wow! 
 
