@@ -31,4 +31,4 @@ Alas, this exploration in my Brain is only an example of one person's knowledge 
 I'd love to know what thinking frameworks and models you prefer and what models I've missed, how I might arrange these differently, and what stories you might tell around these items. And if anyone undertakes a systematic comparison of my Brain's links and Shane's books' contents: wow! 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/6pxWwK) in my Brain. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/useful-thinking-frameworks-and-mental?r=1173&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true), Medium [here](https://jerrymichalski.medium.com/useful-thinking-frameworks-and-mental-models-61c3c76848c4) and LinkedIn [here](https://www.linkedin.com/pulse/useful-thinking-frameworks-mental-models-jerry-michalski-ljh4c). It's also [here](https://bra.in/6pxWwK) in my Brain. 
