@@ -13,11 +13,17 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 	- [[Contrarian John Taylor Gatto]] (done) 
 	- [[Contrarian Christopher Alexander]] (done) 
 - [[Rethink the Future]] (first podcast episode, done) 
-- [[Useful Thinking Frameworks and Mental Models]] (Braincast) 
-- [[Sitting with the Enemy]] (podcast) 
-- [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
-- [[Variants of Capitalism]] (Braincast) 
+- [[Useful Thinking Frameworks and Mental Models]] (Braincast) (done) 
+- [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[GenAI Is Like a Flesh-Eating Bacterium]] 
+- [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
+- [[Taglines]] 
+- [[Variants of Capitalism]] (Braincast) 
+- [[Leaf-Cutter Ants Can't Digest Leaves]] 
+- [[Fabulous Fungal Metaphors]] (use Claude) 
+- [[Sitting with the Enemy]] (podcast) 
+- [[Joy and Jerry Discuss The Big Fungus]] (podcast; contains [[The Noosphere]]) 
+- [[What Are Our Next Two Stacks]]? 
 - [[One GenAI Scenario]] 
 - [[Trump Through the Trust Lens]] 
 - [[The Dark Side of Innovation]] 
@@ -26,13 +32,9 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Denial of Discourse Attacks]] 
 - [[Scarcity = Abundance - Trust]] 
 - [[Has Progress Stopped]]? 
-- [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[On World War I and Trust in Humans]] 
 - [[Can We Mend Democracy]]? 
 - [[Behind the Reel - What Seems Impossible]] 
-- [[Leaf-Cutter Ants Can't Digest Leaves]] 
-- [[Joy and Jerry Discuss The Big Fungus]] (contains [[The Noosphere]]) 
-- [[What Are Our Next Two Stacks]]? 
 - [[Interpreting the 2024 US Election]] 
 - [[Where I'm Aiming]] 
 - Bluesky as a Comments Platform 
