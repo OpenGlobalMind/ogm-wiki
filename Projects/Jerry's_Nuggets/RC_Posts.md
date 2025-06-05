@@ -105,16 +105,16 @@ Join my Substack
 - [[Impossible Is Just the Most Famous Constraint]] 
 
 ### NeoBooks Posts
-- [[The NeoBooks Manifesto]] 
+- [[PowerPoints Should be Playlists]] 
 - [[The Unwritten Laws of Books]] 
 - [[How Books Fail Us]] 
-- [[The Creator’s Dilemma]] 
+- [[The NeoBooks Manifesto]] 
 - [[Nuggetization]] 
 - [[Level Up Media]] 
+- [[The Creator’s Dilemma]] 
 - [[Why Hasn’t Software Solved Collaboration]]? 
 - [[Making Ideas More Useful]] (includes [[The 1-2-4-All App]]) 
 - [[Jerry's Presentation Nuggets]] 
-- [[PowerPoints Should be Playlists]] 
 - [[Knowledge Should Accumulate]] 
 Other thinkers on this idea. Fellow travelers 
 Bonfires on the Horizon 
