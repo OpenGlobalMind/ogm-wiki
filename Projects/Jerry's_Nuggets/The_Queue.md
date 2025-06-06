@@ -14,23 +14,25 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 	- [[Contrarian Christopher Alexander]] (done) 
 - [[Rethink the Future]] (first podcast episode, done) 
 - [[Useful Thinking Frameworks and Mental Models]] (Braincast) (done) 
-- [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[GenAI Is Like a Flesh-Eating Bacterium]] 
+- [[How Damocles Threatens GenAI]] 
+- [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
+- [[We Used to Know How to Live in Community on the Commons]] 
+- [[Scarcity = Abundance - Trust]] 
+- [[What Are Our Next Two Stacks]]? 
 - [[Taglines]] 
 - [[Variants of Capitalism]] (Braincast) 
 - [[Leaf-Cutter Ants Can't Digest Leaves]] 
 - [[Fabulous Fungal Metaphors]] (use Claude) 
-- [[Sitting with the Enemy]] (podcast) 
 - [[Joy and Jerry Discuss The Big Fungus]] (podcast; contains [[The Noosphere]]) 
-- [[What Are Our Next Two Stacks]]? 
+- [[Sitting with the Enemy]] (podcast) 
 - [[One GenAI Scenario]] 
 - [[Trump Through the Trust Lens]] 
 - [[The Dark Side of Innovation]] 
 - [[The NeoBooks Manifesto]] 
 - [[PlaceboPhone]] 
 - [[Denial of Discourse Attacks]] 
-- [[Scarcity = Abundance - Trust]] 
 - [[Has Progress Stopped]]? 
 - [[On World War I and Trust in Humans]] 
 - [[Can We Mend Democracy]]? 
@@ -45,7 +47,6 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Does GenAI Obsolete Notetaking]]? 
 - [[Does GenAI Obsolete Tools for Thinking]]? 
 - [[Does GenAI Obsolete Reading]]? 
-- [[How Damocles Threatens GenAI]] 
 - [[How the Robocar Trifecta Would Improve Our Cities]] 
 - Instrumenting Ideas (Animating?) 
 - [[We Separated Work, Play and Learning]] 
