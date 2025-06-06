@@ -1,5 +1,21 @@
 # Rethink Constraints Posts
 
+### GenAI Posts (#GenAI)
+- [[GenAI's Mixed Blessings]] (done) 
+- [[Tech Owes You an Apology]] 
+- [[GenAI Gives Us Superpowers]] 
+- [[Does GenAI Obsolete Notetaking]]? 
+- [[Does GenAI Obsolete Tools for Thinking]]? 
+- [[Does GenAI Obsolete Reading]]? 
+- [[On GenAI's Origins]] 
+- [[Finding Your GenAI Advisors]] 
+- [[GenAI Trust Issues]] 
+- [[Will GenAI Survive Capitalism]]? 
+- [[Proposing a GenAI Compact]] 
+
+### GenAI + Future of Work Posts (#GenAI+FoW)
+- [[How Damocles Threatens GenAI]] 
+
 ### Rethink the Future Posts 
 - [[On Sensemaking]] 
 - [[Level Up Media]] 
@@ -46,22 +62,9 @@ Join my Substack
 - isms 
 - Taglines 
 - [[Contrarians Who Make (or Made) Sense]] (series) 
-- [[Useful Thinking Frameworks and Mental Models]] (Braincast) 
+- [[Useful Thinking Frameworks and Mental Models]] (Braincast) (done) 
 - [[Variants of Capitalism]] (Braincast) 
 - [[Communities Working to Fix World Problems]] (Braincast) 
-
-### GenAI Posts (#GenAI)
-- [[GenAI's Mixed Blessings]] (done) 
-- [[Tech Owes You an Apology]] 
-- [[GenAI Gives Us Superpowers]] 
-- [[Does GenAI Obsolete Notetaking]]? 
-- [[Does GenAI Obsolete Tools for Thinking]]? 
-- [[Does GenAI Obsolete Reading]]? 
-- [[On GenAI's Origins]] 
-- [[Finding Your GenAI Advisors]] 
-- [[GenAI Trust Issues]] 
-- [[Will GenAI Survive Capitalism]]? 
-- [[Proposing a GenAI Compact]] 
 
 ### Design from Trust Posts (#DesignfromTrust)
 - Trust Is the Crucial Constraint 
@@ -120,8 +123,7 @@ Other thinkers on this idea. Fellow travelers
 Bonfires on the Horizon 
 What’s a NeoBook? 
 Nuggets are powerful 
-Nuggetization 
-On Sensemaking 
+[[On Sensemaking]] 
 AI role in collective intelligence 
 - [[The History of Sensemaking]] (all those initiatives!) 
 - Smelling the Web (my IDM service) 
@@ -147,17 +149,20 @@ Apps atop shared warm data
 - [[The Joy Line]] 
 
 ### Current Events Posts 
-- [[Trump Through the Trust Lens]] 
-- [[On Trump and Constraints]] 
 - [[This Kamala Moment]] (done) 
-- [[Misunderestimating Donald Trump Is Very Dangerous]] - point to old video series 
-- [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
 - [[The Dark Side of Rethinking Constraints]] 
 - Charting a Positive Way Forward 
 - Progressives aren’t playing the right game yet 
+- DFT as a path forward 
+
+## Trump Field Manual 
 - Trump's Playbook 
 - Gorgeous George, Kayfabe and Trump II 
-- DFT as a path forward
+- [[Misunderestimating Donald Trump Is Very Dangerous]] - point to old video series 
+- [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
+- [[Trump Through the Trust Lens]] 
+- [[On Trump and Constraints]] 
+
 
 ### Rethink Society Posts (#RethinkSociety)
 - [[Rethink Masculinity]] 
