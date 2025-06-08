@@ -11,4 +11,4 @@ We'd love to hear your comments and additions.
 ## Books Don’t Make It Easy to Talk with Authors or Other Fans 
 ## Books Don’t Get Updated Much, if at All
 
-Part of [[What’s a NeoBook?]] 
+Part of [[What’s a NeoBook]] 
