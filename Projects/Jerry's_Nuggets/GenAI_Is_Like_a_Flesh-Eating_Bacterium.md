@@ -20,6 +20,12 @@ Conventional wisdom is that every prior wave of automation or innovation wiped o
 
 The thing that's different this time is that when GenAI masters a task — say consolidating regional sales spreadsheets and writing a summary report — that task more or less disappears into the machine. It no longer needs to be done by humans. But it doesn't necessarily spawn a new task to offset the work loss. 
 
+It feels almost cliché to  cite Taleb’s Black Swan these days, but you remember, he describes how every day is great for the turkey up until Thanksgiving time. He just doesn’t see it coming. I have a feeling this is one of those moments for us.
+
+In the race between humans and machine intelligence, the machine intelligence will win. Humans, as they age, get a bit smarter, but also get more expensive. They want raises. Machine intelligence just gets faster cheaper better.
+
+Write a companion piece titled will capitalism survive Gen AI
+
 [[GenAI Automates Tasks, Not Jobs]] (so far)
 
 GenAI Is Eating Entry-Level Jobs

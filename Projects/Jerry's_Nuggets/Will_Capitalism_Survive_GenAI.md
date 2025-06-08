@@ -1,0 +1,10 @@
+# Will Capitalism Survive GenAI?
+(draft) 
+*This is gonna cause some big changes.* 
+
+Let's pretend the generative AI progresses so well that it takes over many many tasks and ends up unemployed, a whole bunch of people. Those people will have hit the AI job education trilemma, and many of them will not have made it through that well. There will be growing numbers of unemployed, potentially unprecedented members of unemployed.
+
+Capitalism, particularly the rougher form we're heading toward, is not that friendly to the unemployed. What capitalism does recognize is the threat of large numbers of unemployed people. You just need to scroll back to 1848 or the build up before World War I to see just how messy the situation on the ground can be and how worried government can get.
+
+The changes the generative AI is bringing about will cause enormous pressure to change the social contract we live under, which also means changing some of the seemingly unshakable ground rules of how we operate.
+

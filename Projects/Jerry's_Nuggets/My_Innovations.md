@@ -6,7 +6,7 @@ Here's the list:
  - [[The Joy Line]] 
  - [[Design from Trust]] 
  - [[Presentations Are Playlists of Wiki Pages]], which sparked 
- - [[What’s a NeoBook?]] 
+ - [[What’s a NeoBook]] 
  - [[What's a Nugget]]? 
  - No-Agenda Retreats 
  - [[Scarcity = Abundance - Trust]] 

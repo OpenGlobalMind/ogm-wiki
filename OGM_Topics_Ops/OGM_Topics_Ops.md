@@ -44,7 +44,7 @@
 -   Meetings Index
 -   Glossary
 -   FAQ(s)
-    -   [[What’s a NeoBook?]]
+    -   [[What’s a NeoBook]]
     -   how is this similar to xyz?
     -   how is this different from xyz?
     -   history and preceding projects

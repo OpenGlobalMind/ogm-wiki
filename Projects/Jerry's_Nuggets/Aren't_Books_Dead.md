@@ -8,4 +8,4 @@ Think of books as snapshots in time, as souvenirs of a particular arrangement of
 
 We have an opportunity to [[Level Up Media]]. 
 
-What if those book-souvenirs were doorways to something more alive, useful and connected? We call these new things [[What’s a NeoBook?|NeoBooks]]. 
+What if those book-souvenirs were doorways to something more alive, useful and connected? We call these new things [[What’s a NeoBook|NeoBooks]]. 

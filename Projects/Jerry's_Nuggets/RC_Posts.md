@@ -10,11 +10,14 @@
 - [[On GenAI's Origins]] 
 - [[Finding Your GenAI Advisors]] 
 - [[GenAI Trust Issues]] 
-- [[Will GenAI Survive Capitalism]]? 
 - [[Proposing a GenAI Compact]] 
 
 ### GenAI + Future of Work Posts (#GenAI+FoW)
+- [[GenAI Is Like a Flesh-Eating Bacterium]] (includes [[GenAI Automates Tasks, Not Jobs]]) 
 - [[How Damocles Threatens GenAI]] 
+- [[Will GenAI Survive Capitalism]]? (includes [[Multiple Promising Technologies Were Warped by Capitalism]]) 
+- [[Will Capitalism Survive GenAI]]? 
+- 
 
 ### Rethink the Future Posts 
 - [[On Sensemaking]] 
@@ -109,6 +112,8 @@ Join my Substack
 
 ### NeoBooks Posts
 - [[PowerPoints Should be Playlists]] 
+- [[What's a NeoBook]]? 
+- [[What's a Nugget]]? 
 - [[The Unwritten Laws of Books]] 
 - [[How Books Fail Us]] 
 - [[The NeoBooks Manifesto]] 
