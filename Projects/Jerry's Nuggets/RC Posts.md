@@ -17,16 +17,18 @@
 - [[How Damocles Threatens GenAI]] 
 - [[Will GenAI Survive Capitalism]]? (includes [[Multiple Promising Technologies Were Warped by Capitalism]]) 
 - [[Will Capitalism Survive GenAI]]? 
-- 
+- [[The GenAI-Jobs-Education Trilemma]] 
 
 ### Rethink the Future Posts 
 - [[On Sensemaking]] 
 - [[Level Up Media]] 
 - [[What Are Our Next Two Stacks]]? 
 - [[We Used to Know How to Live in Community on the Commons]] 
+- [[Microsoft Office Is a Tractor Beam for Software]] 
 - [[Fabulous Fungal Metaphors]] 
 - [[PlaceboPhone]] 
 - [[GenAI Gives Us Superpowers]] 
+- [[What's the Second Commandment]]? 
 - [[Foobarism]] 
 - [[Upkido]] 
 - [[The Big Sentence]] 
@@ -34,10 +36,12 @@
 
 ### Rethink the Future Podcast Episodes
 - [[Ida and Jerry Explore Unlocking Human Potential]] (done) 
+- [[How Might We Make a Better Future]]? (explaining the podcast) 
+- [[Jerry's Theory of Change]] 
 - [[Joy and Jerry Discuss The Big Fungus]] 
 - [[Sitting with the Enemy]] (Daryl Davis interview) 
 - Interview with Pia Mancini 
-- 
+- Who to invite around [[On Sensemaking]]? 
 
 ### Meta Posts
 Help me shape this offer 
@@ -62,7 +66,8 @@ Join my Substack
 
 ### Jerry's Brain Posts 
 - On Curating a 27-Year-Old Mind Map 
-- isms 
+- [[Enumerated Wisdom]] 
+- [[isms]] 
 - Taglines 
 - [[Contrarians Who Make (or Made) Sense]] (series) 
 - [[Useful Thinking Frameworks and Mental Models]] (Braincast) (done) 
@@ -113,11 +118,12 @@ Join my Substack
 ### NeoBooks Posts
 - [[PowerPoints Should be Playlists]] 
 - [[What's a NeoBook]]? 
-- [[What's a Nugget]]? 
+- [[What's a Nugget]]? (includes - [[Nuggets, Narratives, and Points of View]]) 
+- [[Nuggets Are Really Powerful]] 
+- [[Nuggetization]] 
 - [[The Unwritten Laws of Books]] 
 - [[How Books Fail Us]] 
 - [[The NeoBooks Manifesto]] 
-- [[Nuggetization]] 
 - [[Level Up Media]] 
 - [[The Creator’s Dilemma]] 
 - [[Why Hasn’t Software Solved Collaboration]]? 
@@ -126,16 +132,13 @@ Join my Substack
 - [[Knowledge Should Accumulate]] 
 Other thinkers on this idea. Fellow travelers 
 Bonfires on the Horizon 
-What’s a NeoBook? 
-Nuggets are powerful 
 [[On Sensemaking]] 
 AI role in collective intelligence 
 - [[The History of Sensemaking]] (all those initiatives!) 
 - Smelling the Web (my IDM service) 
 - Smelling Smartphones (my CIE service)
 Apps atop shared warm data 
-- [[Nuggets, Narratives, and Points of View]] 
- 
+
 ### [[The Big Fungus]] Posts (#TheBigFungus)
 - [[Fabulous Fungal Metaphors]] (use Claude)
 - [[Leaf-Cutter Ants Can't Digest Leaves]] 

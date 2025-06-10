@@ -15,10 +15,14 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Rethink the Future]] (first podcast episode, done) 
 - [[Useful Thinking Frameworks and Mental Models]] (Braincast) (done) 
 - [[GenAI Is Like a Flesh-Eating Bacterium]] 
+- [[How Might We Make a Better Future]]? (podcast) 
+- [[Enumerated Wisdom]] 
+- [[Jerry's Theory of Change]] 
 - [[How Damocles Threatens GenAI]] 
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
 - [[We Used to Know How to Live in Community on the Commons]] 
+- [[Microsoft Office Is a Tractor Beam for Software]] 
 - [[Scarcity = Abundance - Trust]] 
 - [[What Are Our Next Two Stacks]]? 
 - [[Taglines]] 
