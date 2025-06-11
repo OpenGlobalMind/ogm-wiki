@@ -20,6 +20,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Jerry's Theory of Change]] 
 - [[How Damocles Threatens GenAI]] 
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
+- [[Poems for REX]] 
 - [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
 - [[We Used to Know How to Live in Community on the Commons]] 
 - [[Microsoft Office Is a Tractor Beam for Software]] 
