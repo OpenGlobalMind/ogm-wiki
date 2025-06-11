@@ -1,6 +1,8 @@
 # Poems for REX 
-(draft) 
+ 
 *Bring poems to your meetings!* 
+
+![[j3rry_spiff_conceptual_art_representing_poetrys_effects_on_ou_d263b396-e000-41f7-98d5-b99e30d3e0a7_0.png]]
 
 In 2010 I launched REX, the Relationship Economy eXpedition, an offer that these days I would call a mastermind group, though at the time I called it a think-and-do tank. 
 
@@ -15,4 +17,4 @@ My poem guru these days is [Ken Homer](https://bra.in/6qaymq), who has a pretern
 #poetry #masterminds 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain.  
+This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/8pWnAo) in my Brain.  
