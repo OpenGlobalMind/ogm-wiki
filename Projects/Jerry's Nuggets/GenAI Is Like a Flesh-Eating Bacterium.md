@@ -14,23 +14,21 @@ It's this last extreme possibility that has me worried, for several reasons. The
 
 In the 90s, I got a cold call from a researcher who was investigating the future of paper. When we talked, [Adina Levin](https://www.linkedin.com/in/adina-levin-b771/), who became a good friend, proceeded to ask me great questions, which I tried to answer to the best my perspective allowed. Each time I thought she was done asking questions, she'd ask another good one. 
 
-Our conversation made me notice that the "paperless society" was a bit of a mirage on the horizon: every time we'd wipe out one use of paper (sent a paper check recently?), another would pop up. If you look at the Amazonification of shopping, you'll wish you'd invested in cardboard. 
+Our conversation made me notice that the "paperless society" was a mirage on the horizon: every time we'd wipe out one use of paper (sent a paper check recently?), another would pop up. If you look back at the Amazonification of shopping, you'll wish you'd invested in cardboard. 
 
-Conventional wisdom is that every prior wave of automation or innovation wiped out some jobs, but created new ones. Cars obsoleted blacksmiths (and many other trades), but brought gas stations, auto repair shops and more. Airlines wiped out rail and ship travel (well, in the US), but took us farther, faster than ever, while employing quite a few people. The printing press wiped out scribes, but certainly fed many new industries, plus a few wars and revolutions. Electric lights wiped out lamplighters, candle makers and a few whalers, but ushered in a transformative wave of industralization and allowed us to turn night back into day. 
+Conventional wisdom is that every prior wave of automation or innovation wiped out some jobs, but created new ones. Cars obsoleted blacksmiths (and many other trades), but brought gas stations, auto repair shops and more. Airlines wiped out rail and ship travel (well, in the US), but took us farther, faster than ever, while employing quite a few people. The printing press wiped out scribes, but certainly fed many new industries, plus a few wars and revolutions. Electric lights wiped out lamplighters, candle makers and a few whalers, but ushered in a transformative wave of industrialization and allowed us to turn night back into day. 
+
+Each of these revolutions has fueled a new replacement market. 
 
 ## This time is different
 
-The thing that's different this time is that when GenAI masters a task — say consolidating regional sales spreadsheets and writing a summary report — that task disappears into the machine. It no longer needs to be done by humans, though someone should check the results. But this automation doesn't spawn a new task to offset the work loss. 
+The thing that's different this time is that when GenAI masters a task — say consolidating regional sales spreadsheets and writing a summary report — that task disappears into the machine. It no longer needs to be done by humans. (Though someone should check the results — for now.) But this automation event doesn't spawn a new task to offset the work loss. 
 
-GenAI "eats" tasks the way that necrotizing fasciitis eats human flesh. Actually, the metaphor is memorable but imperfect: it turns out the bacteria that we call flesh-eating actually secrete toxins that kill off human cells, making a very deadly mess. No chewing involved. But I bet the metaphor stays with you a while. 
+GenAI can "eat" tasks the way that necrotizing fasciitis eats human flesh. Actually, the metaphor is memorable but imperfect: it turns out the bacteria that we call flesh-eating don't bite: they secrete toxins that kill off human cells, making a very deadly mess. No chewing involved. But I bet the metaphor stays with you a while. 
 
-As GenAI spreads unchecked through organizations, 
+As GenAI spreads unchecked through organizations, it is tearing holes in the workforce. But because [[GenAI Automates Tasks, Not Jobs]] (so far), tktktk. 
 
-When AI achieves parity with an average worker on a given task, the only things keeping it from being automated now are practicalities like: Do we have the time to do the automation? Can we proof the outcomes? 
-
-And each task that gets automated shifts the balance of people's job descriptions. 
-
-[[GenAI Automates Tasks, Not Jobs]] (so far)
+This process is happening so quickly that organizations likely don't have a good picture of the extent of the change. Also, so-called [Shadow AI](Shadow AI) masks much of the damage, because employees use the technology but don't say they did. 
 
 It feels almost cliché to  cite Taleb’s Black Swan these days, but you may remember that he describes how every day is great for the turkey up until Thanksgiving time. He just doesn’t see it coming. I have a feeling this is one of those moments for us. 
 
@@ -42,11 +40,11 @@ For years, well before the advent of GenAI, senior executives have been assiduou
 
 Now there's a fancy new power tool on deck. 
 
-There are several juicy nuggets I'm leaving for future posts: 
+This post leaves several juicy nuggets on the table that are fodder for future posts: 
 
-- How *should* we rearrange work? 
-- Might we use AI to augment workers, instead of replacing them? 
 - How will workers move "up" the knowledge chain? 
+- How *should* we rearrange work? 
+- Will we actually use AI to augment workers, instead of replacing them? 
 
 Conclusion here. 
 

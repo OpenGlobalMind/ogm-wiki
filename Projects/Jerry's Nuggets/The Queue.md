@@ -14,19 +14,20 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 	- [[Contrarian Christopher Alexander]] (done) 
 - [[Rethink the Future]] (first podcast episode, done) 
 - [[Useful Thinking Frameworks and Mental Models]] (Braincast) (done) 
+- [[Poems for REX]] (done) 
 - [[GenAI Is Like a Flesh-Eating Bacterium]] 
-- [[How Might We Make a Better Future]]? (podcast) 
-- [[Enumerated Wisdom]] 
+- [[How Might We Make a Better Future]]? (podcast series) 
+- [[We Used to Know How to Live in Community on the Commons]] 
+- [[How Might We Blend the Best of the Old and New]]? (podcast series) 
+- [[Enumerated Wisdom]] (Braincast) 
 - [[Jerry's Theory of Change]] 
 - [[How Damocles Threatens GenAI]] 
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
-- [[Poems for REX]] 
 - [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
-- [[We Used to Know How to Live in Community on the Commons]] 
 - [[Microsoft Office Is a Tractor Beam for Software]] 
 - [[Scarcity = Abundance - Trust]] 
 - [[What Are Our Next Two Stacks]]? 
-- [[Taglines]] 
+- [[Taglines]] (Braincast) 
 - [[Variants of Capitalism]] (Braincast) 
 - [[Leaf-Cutter Ants Can't Digest Leaves]] 
 - [[Fabulous Fungal Metaphors]] (use Claude) 
