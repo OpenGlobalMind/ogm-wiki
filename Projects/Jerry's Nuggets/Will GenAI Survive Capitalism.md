@@ -1,5 +1,5 @@
 # Will GenAI Survive Capitalism?
-(draft)
+ (draft)
 *If not, will we?*
 
 Capitalism has a way of messing up good things. 
