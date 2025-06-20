@@ -34,17 +34,21 @@ I have a feeling this is one of those moments for us.
 
 This process is happening so quickly that organizations likely don't have a good picture of the extent of the change. Also, so-called [Shadow AI](Shadow AI) masks much of the damage, because employees use the technology but don't say they did. 
 
+The mismatched timing is a big part of the problem. 
+
 As GenAI spreads unchecked through organizations, it is tearing holes in the workforce. But because [[GenAI Automates Tasks, Not Jobs]] (so far), tktktk. 
 
 A reasonable counter argument is that the new wave of future jobs aren't evident to those whose jobs are about to be wiped out. Blacksmiths couldn't foresee tire busters. Looking higher in the transportation system's effects, the remaking of cities around cars and the effects of the Interstate Highway System were in few people's imaginations. 
 
 If such a thing comes to pass around GenAI, I do not promise to eat my hat, but I will be very surprised. 
 
+As the early Industrial Revolution caused rapid change, many tried to protect those affected. Queen Elizabeth 
+
 ## John Henry, with complications  
 
 In the race between humans and machine intelligence, machine intelligence has huge advantages. Humans, as they age, get a bit smarter, but also get more expensive. They want raises. They are hard to manage. They earn longer vacations. Machine intelligence just gets faster cheaper better. 
 
-For years, well before the advent of GenAI, senior executives have been assiduous in their efforts to get rid of full-time human employees. From [zero-hour contracts](https://en.wikipedia.org/wiki/Zero-hour_contract) to turning employees into "independent contractors," inescapable part-time status, [contingent faculty](https://en.wikipedia.org/wiki/Adjunct_professor) in higher education, to Business Process Reengineering (ah, remember the 90s?), the trend is [everywhere](https://bra.in/2pxo6v). 
+![[Corporations Are Doing Everything in Their Power to Reduce FTEs]] 
 
 Now there's a fancy new power tool on deck, and it has really sharp blades. 
 

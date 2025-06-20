@@ -1,5 +1,5 @@
 # Enumerated Wisdom 
-(draft) 
+ (draft) 
 *My favorite Thought in my Brain.* 
 
 Best sources of wisdom. Distilled wisdom. 

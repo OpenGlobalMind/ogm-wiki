@@ -1,8 +1,8 @@
 # On Sensemaking
-(draft) 
+ (draft) 
 *That elusive thing.* 
 
-One of humans' biggest quests has been to understand the world around us. To be frank, we're not all that good at it yet. 
+One of humans' biggest quests has been to understand the world around us. I'm not sure we're all that good at it yet. 
 ## Visions and inspirations 
 Sensemaking has many relatives, including: 
 
@@ -18,12 +18,16 @@ Of course, it has its opposites:
 
 - [Herd Mentality](https://en.wikipedia.org/wiki/Herd_mentality) 
 - [Crowd (Mob) Psychology](https://bra.in/8jrE65) 
-- Groupthink 
+- [Groupthink](https://bra.in/8jkM4w) 
+- Other [Dysfunctional Group Dynamics](https://bra.in/7qZzYB) 
 
 And of course, sensemaking shows up in fiction: 
 
 - The [Encyclopedia Galactica](https://en.wikipedia.org/wiki/Encyclopedia_Galactica) in Asimov's Foundation series 
 - A Young Lady's Illustrated Primer, in Neal Stephenson's [The Diamond Age](https://en.wikipedia.org/wiki/The_Diamond_Age) 
+- Borges's [Library of Babel](http://en.wikipedia.org/wiki/The_Library_of_Babel) (especially if you can find the index volume!) 
+- The Minds in Iain M. Banks' [Culture series](https://en.wikipedia.org/wiki/Culture_series) 
+- [The Borg](http://en.wikipedia.org/wiki/Borg_(Star_Trek)) in Star Trek 
 - Hitchhiker's Guide?? 
 
 And in speculative (wishful?) non-fiction: 
