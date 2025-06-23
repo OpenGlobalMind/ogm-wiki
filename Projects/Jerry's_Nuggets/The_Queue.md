@@ -15,6 +15,8 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Rethink the Future]] (first podcast episode, done) 
 - [[Useful Thinking Frameworks and Mental Models]] (Braincast) (done) 
 - [[Poems for REX]] (done) 
+- [[PowerPoints Should be Playlists]] 
+- [[Healthy Cultures Don't Cancel]] 
 - [[GenAI Is Like a Flesh-Eating Bacterium]] 
 - [[How Might We Make a Better Future]]? (podcast series) 
 - [[We Used to Know How to Live in Community on the Commons]] 
