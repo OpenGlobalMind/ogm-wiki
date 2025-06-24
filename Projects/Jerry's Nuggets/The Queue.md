@@ -18,6 +18,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[PowerPoints Should be Playlists]] 
 - [[Healthy Cultures Don't Cancel]] 
 - [[GenAI Is Like a Flesh-Eating Bacterium]] 
+- [[A Guide to Using Jerry's Brain]] 
 - [[How Might We Make a Better Future]]? (podcast series) 
 - [[We Used to Know How to Live in Community on the Commons]] 
 - [[How Might We Blend the Best of the Old and New]]? (podcast series) 
