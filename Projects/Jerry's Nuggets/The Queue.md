@@ -20,9 +20,11 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[GenAI Is Like a Flesh-Eating Bacterium]] 
 - [[A Guide to Using Jerry's Brain]] 
 - [[How Might We Make a Better Future]]? (podcast series) 
+	- [[What Are Our Next Two Stacks]]? 
 - [[We Used to Know How to Live in Community on the Commons]] 
 - [[How Might We Blend the Best of the Old and New]]? (podcast series) 
 - [[Enumerated Wisdom]] (Braincast) 
+- [[isms]] (Braincast) 
 - [[Jerry's Theory of Change]] 
 - [[How Damocles Threatens GenAI]] 
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
@@ -30,7 +32,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
 - [[Microsoft Office Is a Tractor Beam for Software]] 
 - [[Scarcity = Abundance - Trust]] 
-- [[What Are Our Next Two Stacks]]? 
+- [[Abundance, Abundance, Abundance]] 
 - [[Taglines]] (Braincast) 
 - [[Variants of Capitalism]] (Braincast) 
 - [[Leaf-Cutter Ants Can't Digest Leaves]] 
