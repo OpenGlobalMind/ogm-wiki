@@ -20,11 +20,11 @@ Conventional wisdom is that every prior wave of automation or innovation wiped o
 
 Each of these revolutions fueled a new replacement market. 
 
-## This time is different
+## This time is different 
 
 The thing that's different this time is that when GenAI masters a task — say consolidating regional sales spreadsheets and writing a summary report — that task disappears into the machine. It no longer needs to be done by humans. (Though someone should check the results — for now.) The task is still being done, at lower cost, but it doesn't spawn a new task to offset the work loss. 
 
-GenAI can "eat" tasks the way that necrotizing fasciitis eats human flesh. Alas , the metaphor is memorable but imperfect: it turns out the bacteria that we call flesh-eating don't bite: they secrete toxins that kill off human cells, making a very deadly mess. No chewing involved. But I bet the metaphor stays with you a while. 
+So GenAI can "eat" tasks the way that necrotizing fasciitis eats human flesh. Alas , the metaphor is memorable but imperfect: it turns out the bacteria that we call flesh-eating don't bite: they secrete toxins that kill off human cells, making a very deadly mess. No chewing involved. But I bet the metaphor stays with you a while. And the disappearing of tasks is going to feel very real. 
 
 It feels almost cliché to  cite Taleb’s Black Swan these days, but you may remember that he describes how every day is great for the turkey up until Thanksgiving time. He just doesn’t see it coming: 
 
