@@ -32,7 +32,9 @@ It feels almost cliché to  cite Taleb’s Black Swan these days, but you may re
 
 I have a feeling this is one of those moments for us. 
 
-This process is happening so quickly that organizations likely don't have a good picture of the extent of the change. Also, so-called [Shadow AI](Shadow AI) masks much of the damage, because employees use the technology but don't say they did. 
+## Timing matters 
+
+This process is happening so quickly that organizations likely don't have a good picture of the extent of the change. Also, so-called [Shadow AI](https://www.ibm.com/think/topics/shadow-ai) masks much of the damage, because employees use the technology but don't say they did. 
 
 The mismatched timing is a big part of the problem. 
 
@@ -42,8 +44,11 @@ A reasonable counter argument is that the new wave of future jobs aren't evident
 
 If such a thing comes to pass around GenAI, I do not promise to eat my hat, but I will be very surprised. 
 
-As the early Industrial Revolution caused rapid change, many tried to protect those affected. Queen Elizabeth 
+As the early Industrial Revolution caused rapid change, many tried to protect those affected. Back around 1590, Queen Elizabeth I refused William Lee's patent application for the stocking frame, saying: 
 
+> Thou aimest high, Master Lee. Consider thou what the invention could do to my poor subjects. It would assuredly bring to them ruin by depriving them of employment, thus making them beggars.
+
+Also TGT. 
 ## John Henry, with complications  
 
 In the race between humans and machine intelligence, machine intelligence has huge advantages. Humans, as they age, get a bit smarter, but also get more expensive. They want raises. They are hard to manage. They earn longer vacations. Machine intelligence just gets faster cheaper better. 

@@ -8,3 +8,7 @@ Recent bestseller titled [Abundance](https://www.amazon.com/Abundance-Progress-T
 
 ## Abundance vs plenitude 
 
+This goes back to Kevin Kelly's [New Rules for the New Economy](https://www.amazon.com/New-Rules-Economy-Strategies-Connected-ebook/dp/B000OI11AG/jerrymichalskisr) (1998). 
+
+--- 
+This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain. 
