@@ -7,7 +7,7 @@
 
 What are our next two stacks? 
 
-I'm borrowing the idea of a stack from the world of software development. You've probably heard of full stack software developers that all these companies are looking for. Well, the most popular stack originally was the [LAMP stack](http://en.wikipedia.org/wiki/Solution_stack): Linux, Apache, MySQL, and PHP, Perl, or Python. This is a set of pieces of software that work together as a suite, really quite elegantly, to let you build out websites, web services — a whole bunch of things. A "full-stack programmer" knows how to run them all together. 
+I'm borrowing the idea of a "stack" from the world of software development. You've probably heard of "full-stack software developers" that all these companies are looking for. Well, the most popular stack originally was the [LAMP stack](http://en.wikipedia.org/wiki/Solution_stack): Linux, Apache, MySQL, and PHP, Perl, or Python. This is a set of pieces of software that work together as a suite, really quite elegantly, to let you build out websites, web services — a whole bunch of things. A full-stack programmer knows how to run them all together. 
 
 I'm going to borrow that and use it to describe our society. I'm going to focus on two stacks that matter a lot right now. One of them is the **civilizational stack** and the other one is the **organizational stack**. 
 
