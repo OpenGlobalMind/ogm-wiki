@@ -1,8 +1,9 @@
 # What Are Our Next Two Stacks?
- (draft) 
+ 
 *How might we govern well together?* 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uJJGMFF9aBQ?si=RXSh91uVduP7FgdS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Transcript 
 
 What are our next two stacks? 
@@ -39,5 +40,7 @@ For me, one of the principles is not top down, mostly bottom up with a little bi
 
 That's the broad idea of the next two stacks or the next stacks concept. Please leave your comments below and let me know what you think. 
 
+#thesocialcontract #nextstacks #self-governance 
+
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/5qnYm9) in my Brain. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/what-are-our-next-two-stacks), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/5qnYm9) in my Brain. 
