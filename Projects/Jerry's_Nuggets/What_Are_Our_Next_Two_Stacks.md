@@ -10,19 +10,19 @@ What are our next two stacks?
 
 I'm borrowing the idea of a "stack" from the world of software development. You've probably heard of "full-stack software developers" that all these companies are looking for. Well, the most popular stack originally was the [LAMP stack](http://en.wikipedia.org/wiki/Solution_stack): Linux, Apache, MySQL, and PHP, Perl, or Python. This is a set of pieces of software that work together as a suite, really quite elegantly, to let you build out websites, web services — a whole bunch of things. A full-stack programmer knows how to run them all together. 
 
-I'm going to borrow that and use it to describe our society. I'm going to focus on two stacks that matter a lot right now. One of them is the **civilizational stack** and the other one is the **organizational stack**. 
+I'm going to borrow that and use it to describe our society. I'm going to focus on two stacks that matter a lot right now. One of them is [[The Civilizational Stack]] and the other one is [[The Organizational Stack]]. 
 
 In the civilizational stack in the West, you would put in there things that would describe liberal democracy. There's democratic process, courts, separation of powers, capitalism, free press, a whole series of elements that are in that stack, the civilizational stack.
 
-In the West, the organizational stack tends to be C corporations, 501(c)(3)s, government services, NGOs, and a couple other things, including a bunch of little vestigial organizational forms like L3Cs, special purpose corporations, and B corps. All of that that are like the little mammals trying to not get killed by the dinosaurs. 
+In the West, the organizational stack tends to be C corporations, 501(c)(3)s, government services, NGOs, and a couple other things, including a bunch of little vestigial organizational forms like L3Cs, special purpose corporations, and B corps — the little mammals trying to not get killed by the dinosaurs. 
 
 Now, every element I just described in both stacks, there are great critiques about all of them. All of them are crumbling. All of them are not working well. The social contract seems to be broken everywhere. 
 
-People everywhere are rising up because they feel like the social contract really has been compromised. They feel like their children's lives are going to be worse than their lives. Many of them are actually in poverty now, and that prospect is not good. 
+People everywhere are rising up because they feel like [the social contract really has been compromised](https://bra.in/8p7Y5J). They feel like their children's lives are going to be worse than their lives. Many of them are actually in poverty now, and that prospect is not good. 
 
 They're rising up around the world, and everything from the Arab Spring, to Caserolazos, and the Gilets Jaunes in France, the Tea Party movement, the MAGA movement, Occupy Wall Street, movements on the left, on the right, everywhere. These folks are out en masse protesting because they think that the social contract is broken. 
 
-I think of this as **an involuntary renegotiation of the social contract**. 
+I think of this as **an [involuntary renegotiation of the social contract](https://bra.in/2jkMaZ)**. 
 
 I think they're renegotiating the social contract in part because every attempt to change things so far has failed. If you focus in on the Arab Spring, most of the regimes across northern Africa were toppled. How many of them are better off now? Pretty much none. 
 
@@ -43,4 +43,4 @@ That's the broad idea of the next two stacks or the next stacks concept. Please 
 #thesocialcontract #nextstacks #self-governance 
 
 --- 
-This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/what-are-our-next-two-stacks), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/5qnYm9) in my Brain. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/what-are-our-next-two-stacks), Medium [here](https://jerrymichalski.medium.com/what-are-our-next-2-stacks-7feb0b31beb0) and LinkedIn [here](https://www.linkedin.com/pulse/what-our-next-2-stacks-jerry-michalski-rz8qc). It's also [here](https://bra.in/5qnYm9) in my Brain. 
