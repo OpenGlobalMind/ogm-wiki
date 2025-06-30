@@ -8,7 +8,7 @@
 
 More practically, NeoDecks are playlists of composable, reusable Nuggets that live on individual wiki pages. Creating a NeoDeck means understanding [[Nuggetization]], then plotting a course through Nuggets you want to include. Your presentation is the playlist you create. 
 
-To author a presentation, we'll need a slide-sorter view that lets us see what is where, and also lets us grab subsets of our presentation and move them around. 
+To create presentations, we'll need a slide-sorter view that lets us see what is where, and also lets us grab subsets of our presentation and move them around. 
 
 This is one of several [[ATproto Apps]] I would love to see exist, which are on my [[Software Wish List]]. 
 
