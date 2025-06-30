@@ -8,7 +8,9 @@ So much so that I've started a podcast titled [Rethink the Future](https://rethi
 
 The podcast will focus on how we might make a better future together. It will consist of a blend of interviews, group discussions, talking-head pieces by yours truly and stranger things like #Braindrops. 
 
+The "making a better future" episodes: 
 
+- [[What Are Our Next Two Stacks]]? 
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain. 
