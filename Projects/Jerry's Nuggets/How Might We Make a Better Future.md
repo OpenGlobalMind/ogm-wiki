@@ -11,6 +11,7 @@ The podcast will focus on how we might make a better future together. It will co
 The "making a better future" episodes: 
 
 - [[What Are Our Next Two Stacks]]? 
+- [[Comparing the Old and New Stacks]] 
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain. 
