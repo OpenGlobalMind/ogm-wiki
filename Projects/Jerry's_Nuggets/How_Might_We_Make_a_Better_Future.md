@@ -12,6 +12,7 @@ The "making a better future" episodes:
 
 - [[What Are Our Next Two Stacks]]? 
 - [[Comparing the Old and New Stacks]] 
+- [[Who Holds Parts of the New Stacks]]? 
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain. 
