@@ -40,6 +40,8 @@ For me, one of the principles is not top down, mostly bottom up with a little bi
 
 That's the broad idea of the next two stacks or the next stacks concept. Please leave your comments below and let me know what you think. 
 
+![[Next2Stacks.excalidraw]]
+
 #thesocialcontract #nextstacks #self-governance 
 
 This post is the first in [[How Might We Make a Better Future]]? 
