@@ -1,4 +1,4 @@
-# Software Wish List
-(ddraft) 
+# Vibecoding Wish List
+ (draft) 
 *Apps and service that should exist.* 
 
