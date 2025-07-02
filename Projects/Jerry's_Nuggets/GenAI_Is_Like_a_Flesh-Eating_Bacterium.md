@@ -2,9 +2,9 @@
 (draft) 
 *How this wave of innovation isn't like the others.* 
 
-Before diving in, a declaration: I love what Generative AI is capable of doing, and am optimistic we can figure out how to use it intelligently. 
+Before diving in, a declaration: I love what Generative AI is capable of doing, and am optimistic we can figure out how to use it intelligently. That said... 
 
-![[Gemini_Generated_Image_inhmn5inhmn5inhm.png]]
+![[j3rry_spiff_a_realistic_cube_of_steak_has_a_few_chunks_bitten_a9e2a45f-d54c-4a94-bed4-7b8a88a109a2_0.png]]
 
 The huge wave of innovation around Generative AI has led to many conjectures about how it will [affect employment](https://bra.in/8j8nDb). Opinions range from GenAI [just being a "normal" technology](https://knightcolumbia.org/content/ai-as-normal-technology) (so don't worry!), to it heralding the advent of [Fully Automated Luxury Communism](https://www.amazon.com/Fully-Automated-Luxury-Communism-Bastani-ebook/dp/B075WCGJDW/jerrymichalskisr) (less likely than pigs flying), to GenAI catalyzing a general economic meltdown. 
 
@@ -16,25 +16,32 @@ In the 90s, I got a cold call from a researcher who was investigating the future
 
 Our conversation made me notice that the "paperless society" was a mirage on the horizon: every time we'd wipe out one use of paper (sent a paper check recently?), another would pop up. If you look back at the Amazonification of shopping, you'll wish you'd invested in cardboard makers. 
 
-Conventional wisdom holds that every prior wave of automation or innovation wiped out some jobs, but created new ones ("[peak horse](https://bra.in/7pDXxr)" in the US seems to have happened in 1915). Cars obsoleted blacksmiths (and many other trades), but brought gas stations, auto repair shops and more. Airlines wiped out rail and ship travel (well, in the US), but took us farther, faster than ever, while employing quite a few people. The printing press wiped out scribes, but certainly fed many new industries, plus a few wars and revolutions. Electric lights wiped out lamplighters, candle makers and a few whalers, but ushered in a transformative wave of industrialization and allowed us to turn night back into day. 
+Conventional wisdom holds that every prior wave of automation or innovation wiped out some jobs, but created new ones: 
 
-Each of these revolutions fueled a new replacement market. 
+- Cars obsoleted blacksmiths (and many other trades; "[peak horse](https://bra.in/7pDXxr)" in the US seems to have happened in 1915), but brought gas stations, auto repair shops and more. 
+- Airlines replaced most rail and ship travel (well, in the US), but took us farther, faster than ever, while employing quite a few people. 
+- The printing press wiped out scribes, but certainly fed many new industries, not to mention multiple wars and revolutions. 
+- Electric lights unemployed lamplighters, candle makers and a few whalers, but ushered in a transformative wave of industrialization and allowed us to turn night back into day. 
+
+Each of these revolutions fueled a replacement market with novel jobs. 
 
 ## This time is different 
 
-The thing that's different this time is that when GenAI masters a task — say consolidating regional sales spreadsheets and writing a summary report — that task disappears into the machine. It no longer needs to be done by humans. (Though someone should check the results — for now.) The task is still being done, at lower cost, but it doesn't spawn a new task to offset the work loss. 
+What's different? When GenAI masters a task — say consolidating regional sales spreadsheets and writing a summary report — that task disappears into the machine. It no longer needs to be done by humans. (Though someone should check the results — for now.) The task is still being done, at lower cost, but it doesn't spawn a new task to offset the work loss. 
 
-So GenAI can "eat" tasks the way that necrotizing fasciitis eats human flesh. Alas , the metaphor is memorable but imperfect: it turns out the bacteria that we call flesh-eating don't bite: they secrete toxins that kill off human cells, making a very deadly mess. No chewing involved. But I bet the metaphor stays with you a while. And the disappearing of tasks is going to feel very real. 
+So GenAI can "eat" tasks the way that necrotizing fasciitis eats human flesh. Alas , the metaphor is memorable but imperfect: it turns out the bacteria that we call flesh-eating don't bite: they secrete toxins that kill off human cells, making a very deadly mess. No chewing involved. But I bet the metaphor stays with you a while. And the disappearing of tasks is going to feel very real, very soon. 
 
-It feels almost cliché to  cite Taleb’s Black Swan these days, but you may remember that he describes how every day is great for the turkey up until Thanksgiving time. He just doesn’t see it coming: 
+Problem is, we won't notice it because we're lulled by those previous replacement waves, plus the fact that the new jobs weren't apparent early on. 
+
+It's become cliché to cite Taleb’s [Black Swan](http://www.amazon.com/Black-Swan-Impact-Highly-Improbable/dp/1400063515/jerrymichalskisr), but you may remember that he describes how every day is great for the turkey up until just before Thanksgiving. He doesn’t see the one bad day coming: 
 
 > Consider a turkey that is fed every day. Every single feeding will firm up the bird’s belief that it is the general rule of life to be fed every day by friendly members of the human race “looking out for its best interests,” as a politician would say. On the afternoon of the Wednesday before Thanksgiving, something unexpected will happen to the turkey. It will incur a revision of belief. (The Black Swan)
 
-I have a feeling this is one of those moments for us. 
+I have a feeling this is one of those moments for us. We are blind to the change, comforted by all those historic shifts that turned out ok. 
 
 ## Timing matters 
 
-This process is happening so quickly that organizations likely don't have a good picture of the extent of the change. Also, so-called [Shadow AI](https://www.ibm.com/think/topics/shadow-ai) masks much of the damage, because employees use the technology but don't say they did. 
+This process is happening so quickly that organizations likely don't have a good picture of the extent of the change. So-called [Shadow AI](https://www.ibm.com/think/topics/shadow-ai) masks much of the damage, because employees use the technology but don't say they did. Try tracking that so you can incorporate it into your decision-making, especially if trust is missing. 
 
 The mismatched timing is a big part of the problem. 
 
@@ -56,6 +63,12 @@ In the race between humans and machine intelligence, machine intelligence has hu
 ![[Corporations Are Doing Everything in Their Power to Reduce FTEs]] 
 
 Now there's a fancy new power tool on deck, and it has really sharp blades. 
+
+## Trust implications 
+
+The 
+
+## Open questions 
 
 This post leaves several juicy nuggets on the table that are fodder for future posts: 
 

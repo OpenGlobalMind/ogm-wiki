@@ -40,11 +40,11 @@ For me, one of the principles is not top down, mostly bottom up with a little bi
 
 That's the broad idea of the next two stacks or the next stacks concept. Please leave your comments below and let me know what you think. 
 
-![[Next2Stacks.excalidraw]]
-
 #thesocialcontract #nextstacks #self-governance 
 
-This post is the first in [[How Might We Make a Better Future]]? 
+This post is the first in [[How Might We Make a Better Future]]? Here's a map of how they fit together: 
+
+![[Next2Stacks.excalidraw]]
 
 --- 
 This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/what-are-our-next-two-stacks), Medium [here](https://jerrymichalski.medium.com/what-are-our-next-2-stacks-7feb0b31beb0) and LinkedIn [here](https://www.linkedin.com/pulse/what-our-next-2-stacks-jerry-michalski-rz8qc). It's also [here](https://bra.in/5qnYm9) in my Brain. 
