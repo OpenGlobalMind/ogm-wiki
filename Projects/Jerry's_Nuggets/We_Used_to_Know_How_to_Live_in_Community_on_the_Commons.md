@@ -1,6 +1,6 @@
 # We Used to Know How to Live in Community, on the Commons 
  (draft) 
-*My, how we've grown! </irony>* 
+*My, how we've grown! '</irony>'* 
 
 Too many people are convinced that life used to be nasty, brutish, and short. Our lifespans were short, the narrative goes. Violence was everywhere, with humans barely staying alive on a hostile landscape. Then "civilization" saved us, starting with agriculture, which forced us to stay put. 
 
