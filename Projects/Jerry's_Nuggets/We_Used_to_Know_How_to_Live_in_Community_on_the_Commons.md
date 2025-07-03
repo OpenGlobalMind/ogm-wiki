@@ -2,6 +2,8 @@
  (draft) 
 *My, how we've grown! '</irony>'* 
 
+![[j3rry_spiff_conceptual_art_illustrating_the_statement_We_Used_8fddefa3-ef0a-4dda-808f-47c8957aca5a_1.png]]
+
 Too many people are convinced that life used to be nasty, brutish, and short. Our lifespans were short, the narrative goes. Violence was everywhere, with humans barely staying alive on a hostile landscape. Then "civilization" saved us, starting with agriculture, which forced us to stay put. 
 
 I no longer believe that story. Over the years, many different thinkers have convinced me that in many places — not everywhere — humans knew how to take care of the landscape and they knew how to take care of one another. We knew how to live in community, on the Commons (which I always capitalize, out of respect, like "Internet," oddly enough). 
@@ -37,7 +39,7 @@ Because much of this wisdom predates writing (and because some of it is deeply t
 
 Highlights: 
 
-- Stewardship not ownership. 
+- [[Stewardship vs. Ownership]]. 
 - Managing the landscape over time, not private plots for consumption. 
 
 Then Colonialism did its level best to destroy all that hard-won wisdom. 
