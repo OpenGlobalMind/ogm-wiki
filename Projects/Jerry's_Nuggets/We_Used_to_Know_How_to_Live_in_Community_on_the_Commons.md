@@ -6,9 +6,11 @@ Too many people are convinced that life used to be nasty, brutish, and short. Ou
 
 I no longer believe that story. Over the years, many different thinkers have convinced me that in many places — not everywhere — humans knew how to take care of the landscape and they knew how to take care of one another. We knew how to live in community, on the Commons (which I always capitalize, out of respect, like "Internet," oddly enough). 
 
+This was the starting assumption of [[My Story of Trust]]. 
+
 ## Hard-won wisdom 
 
-This wasn't innate; it was hard-won wisdom. We did manage to kill ourselves off, time after time. We wiped out megafauna, overfished, overgrazed, chopped down all our forests, and in other ways made it hard to stay alive. We also attacked one another pretty consistently. Living in harmony with the land and one another takes patience, effort and wisdom. 
+Knowing how to live in community, on the Commons, wasn't innate for humans: it was hard-won wisdom. We did manage to kill ourselves off, time after time. We wiped out megafauna, overgrazed, chopped down handy forests, overfished, and in other ways made it hard to stay alive. We saw famines and epidemics. We also attacked one another pretty consistently. Living in harmony with the land and one another takes patience, effort and wisdom. 
 
 The core principles of many indigenous traditions around the world revolve around stewardship and community. These include: 
 
@@ -22,18 +24,21 @@ The core principles of many indigenous traditions around the world revolve aroun
 | **[Pijitsirniq](https://www.premier.gov.nu.ca/en/about/our-guiding-principles)** | Inuit (Arctic)                 | A concept of communal living and resource sharing, particularly in harsh environments. It highlights cooperation, interdependence, and collective survival through sharing hunted game and other resources. |
 | **[Dadirri](https://bra.in/8pJJ4g)**                                             | Aboriginal (Australia)         | "Deep listening" and quiet, still awareness. It emphasizes a contemplative approach to understanding the land, community, and oneself, fostering deep connection and respectful engagement.                 |
 | **[Wolakota](https://www.wolakotaproject.org/)**                                 | Lakota Sioux (North America)   | A state of balance, harmony, and peace within oneself, with others, and with the natural world. It encompasses values of respect, generosity, bravery, and wisdom for communal well-being.                  |
-| **Loololma**                                                                     | Hopi (Southwest US)            | Refers to a state of peace, balance, and prosperity, achieved through living in harmony with the natural world and adhering to traditional teachings for the benefit of the community.                      |
-| **Comunn**                                                                       | Gaelic (Scotland, Ireland)     | Literally "community" or "communion." It signifies a deep sense of belonging, shared identity, and mutual support within a close-knit group, often with strong ties to a specific place.                    |
 
-Of these, Ubuntu has become popular enough to be cliché. More notably, several of these concepts comprise entire belief systems:
+Of these, Ubuntu has become popular enough to be almost cliché. More notably, several of these concepts comprise entire belief systems:
 
-| **Term**                                        | **Origin Culture(s)**                | **Explanation**                                                                                                                                                                               |
-| ----------------------------------------------- | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Haudenosaunee (Iroquois) Great Law of Peace** | Iroquois Confederacy (North America) | A foundational constitution and philosophy that promotes peace, unity, and respect among nations. It emphasizes decision-making for the seventh generation and living in harmony with nature. |
-| **Seven Grandfather Teachings**                 | Anishinaabe (North America)          | A moral and ethical framework for living a good life and building a strong community, embodying values like wisdom, love, respect, bravery, honesty, humility, and truth.                     |
-| **Fa'asamoa**                                   | Samoan (Samoa)                       | "The Samoan Way." A comprehensive cultural code that governs all aspects of life, emphasizing communal harmony, respect for elders, reciprocal obligations, and collective responsibility.    |
+| **Term**                                                                                                     | **Origin Culture(s)**                | **Explanation**                                                                                                                                                                               |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Haudenosaunee (Iroquois) [Great Law of Peace](https://en.wikipedia.org/wiki/Great_Law_of_Peace)**          | Iroquois Confederacy (North America) | A foundational constitution and philosophy that promotes peace, unity, and respect among nations. It emphasizes decision-making for the seventh generation and living in harmony with nature. |
+| **[Teachings of the Seven Grandfathers](https://en.wikipedia.org/wiki/Teachings_of_the_Seven_Grandfathers)** | Anishinaabe (North America)          | A moral and ethical framework for living a good life and building a strong community, embodying values like wisdom, love, respect, bravery, honesty, humility, and truth.                     |
+| **[Fa'asamoa](https://en.wikipedia.org/wiki/Fa%CA%BBa_S%C4%81moa)**                                          | Samoan (Samoa)                       | "The Samoan Way." A comprehensive cultural code that governs all aspects of life, emphasizing communal harmony, respect for elders, reciprocal obligations, and collective responsibility.    |
 
-Passed down in rituals, oral traditions, apprenticeships. 
+Because much of this wisdom predates writing (and because some of it is deeply tied to language and country), it was passed down through generations in rituals, oral traditions, apprenticeships and other means. 
+
+Highlights: 
+
+- Stewardship not ownership. 
+- Managing the landscape over time, not private plots for consumption. 
 
 Then Colonialism did its level best to destroy all that hard-won wisdom. 
 
@@ -46,11 +51,11 @@ Recent books offer us great clues, including:
 - Sobonfu Somé's [The Spirit of Intimacy: Ancient African Teachings in the Ways of Relationships](https://www.amazon.com/Spirit-Intimacy-Ancient-Teachings-Relationships-ebook/dp/B0F1H6Y5CD/jerrymichalskisr) (2002) 
 - Here's my [Indigenous Knowledge Canon](https://bra.in/4qzgM6) 
 
+What would you add to this list, and to the ones above? 
+
 ## The bigger picture 
 
-This context is key to [[My Story of Trust]]. 
-
-It is also an important part of [[How Might We Make a Better Future]]? and [[How Might We Blend the Best of the Old and New]]? 
+This post is an important part of [[How Might We Make a Better Future]]? and [[How Might We Blend the Best of the Old and New]]? 
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain.  
