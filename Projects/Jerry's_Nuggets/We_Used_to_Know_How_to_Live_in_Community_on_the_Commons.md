@@ -12,9 +12,9 @@ This was the starting assumption of [[My Story of Trust]].
 
 ## Hard-won wisdom 
 
-Knowing how to live in community, on the Commons, wasn't innate for humans: it was hard-won wisdom. We did manage to kill ourselves off, time after time. We wiped out megafauna, overgrazed, chopped down handy forests, overfished, and in other ways made it hard to stay alive. We saw famines and epidemics. We also attacked one another pretty consistently. Living in harmony with the land and one another takes patience, effort and wisdom. 
+Knowing how to live in community, on the Commons, wasn't innate for humans: it was hard-won wisdom. We did manage to kill ourselves off, time after time. We wiped out megafauna, overgrazed, chopped down handy forests, overfished, and in other ways made it hard to stay alive. We saw famines and epidemics. We also attacked one another pretty consistently, with lethality increasing as weapons improved and forms of social organization allowed for larger armies. 
 
-The core principles of many indigenous traditions around the world revolve around stewardship and community. These include: 
+Living in harmony with the land and one another takes patience, effort and wisdom. The core principles of many indigenous traditions around the world revolve around stewardship and community. These include: 
 
 | **Term**                                                                         | **Origin Culture(s)**          | **Explanation**                                                                                                                                                                                             |
 | -------------------------------------------------------------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@ The core principles of many indigenous traditions around the world revolve aroun
 | **[Dadirri](https://bra.in/8pJJ4g)**                                             | Aboriginal (Australia)         | "Deep listening" and quiet, still awareness. It emphasizes a contemplative approach to understanding the land, community, and oneself, fostering deep connection and respectful engagement.                 |
 | **[Wolakota](https://www.wolakotaproject.org/)**                                 | Lakota Sioux (North America)   | A state of balance, harmony, and peace within oneself, with others, and with the natural world. It encompasses values of respect, generosity, bravery, and wisdom for communal well-being.                  |
 
-Of these, Ubuntu has become popular enough to be almost cliché. More notably, several of these concepts comprise entire belief systems:
+Of these, Ubuntu has become popular enough to be almost cliché. More notably, several more of these concepts comprise entire belief systems:
 
 | **Term**                                                                                                     | **Origin Culture(s)**                | **Explanation**                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -35,27 +35,34 @@ Of these, Ubuntu has become popular enough to be almost cliché. More notably, s
 | **[Teachings of the Seven Grandfathers](https://en.wikipedia.org/wiki/Teachings_of_the_Seven_Grandfathers)** | Anishinaabe (North America)          | A moral and ethical framework for living a good life and building a strong community, embodying values like wisdom, love, respect, bravery, honesty, humility, and truth.                     |
 | **[Fa'asamoa](https://en.wikipedia.org/wiki/Fa%CA%BBa_S%C4%81moa)**                                          | Samoan (Samoa)                       | "The Samoan Way." A comprehensive cultural code that governs all aspects of life, emphasizing communal harmony, respect for elders, reciprocal obligations, and collective responsibility.    |
 
-Because much of this wisdom predates writing (and because some of it is deeply tied to language and country), it was passed down through generations in rituals, oral traditions, apprenticeships and other means. 
+Much of this wisdom predates writing. It was passed down through generations in rituals, oral traditions, cultural practices, apprenticeships and other means. Some of it is deeply tied to language and country, in ways that make it hard — if not impossible — to capture and pass on through traditional Western forms of communication, such as this post. 
 
-Highlights: 
+Some of the more accessible insights that have stuck with me include: 
 
-- [[Stewardship vs. Ownership]]. 
-- Managing the landscape over time, not private plots for consumption. 
+- The cultures I'm citing were more concerned with stewardship than ownership. 
+- Many managed their landscapes collectively over time, as opposed to private plots for commerce and private consumption. 
+- They did their best to bring bad actors back into their communities. Ostracism and death were actions of last resort. 
 
-Then Colonialism did its level best to destroy all that hard-won wisdom. 
+## Coming full circle 
 
-How might we win it back? 
+Alas, Colonialism did its level best to ignore, suppress, or destroy all that hard-won wisdom. 
+
+Now we're struggling with these very issues. We've lost our sense of community and we've despoiled our many Commons. 
+
+Complicated by rise of Generative AI. 
+
+How might we win back what we once knew? Not turn back the clock, but rather blend the best of the old with the best of the new. That's the hopeful quest I'm on. 
 
 Recent books offer us great clues, including: 
 
 - Tyson Yunkaporta's [Sand Talk: How Indigenous Thinking Can Save the World](https://www.amazon.com/dp/B07WG8LKSN/jerrymichalskisr) (2020) and [Right Story, Wrong Story: How to Have Fearless Conversations in Hell](https://www.amazon.com/Right-Story-Wrong-Fearless-Conversations-ebook/dp/B0D3C72FCN/jerrymichalskisr) (2025) 
 - Robin Wall Kimmerer's [Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge and the Teachings of Plants](https://www.amazon.com/gp/product/B00D0V44LC/jerrymichalskisr) (2013)
 - Sobonfu Somé's [The Spirit of Intimacy: Ancient African Teachings in the Ways of Relationships](https://www.amazon.com/Spirit-Intimacy-Ancient-Teachings-Relationships-ebook/dp/B0F1H6Y5CD/jerrymichalskisr) (2002) 
-- Here's my [Indigenous Knowledge Canon](https://bra.in/4qzgM6) 
+- For more, browse my [Indigenous Knowledge Canon](https://bra.in/4qzgM6) 
 
 What would you add to this list, and to the ones above? 
 
-## The bigger picture 
+## Context 
 
 This post is an important part of [[How Might We Make a Better Future]]? and [[How Might We Blend the Best of the Old and New]]? 
 
