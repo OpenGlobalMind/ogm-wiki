@@ -41,15 +41,15 @@ Some of the more accessible insights that have stuck with me include:
 
 - The cultures I'm citing were more concerned with stewardship than ownership. 
 - Many managed their landscapes collectively over time, as opposed to private plots for commerce and private consumption. 
-- They did their best to bring bad actors back into their communities. Ostracism and death were actions of last resort. 
+- They did their best to bring bad actors back into their communities. Ostracism and death were actions of last resort. They favored counsel over cancel. 
 
 ## Coming full circle 
 
 Alas, Colonialism did its level best to ignore, suppress, or destroy all that hard-won wisdom. 
 
-Now we're struggling with these very issues. We've lost our sense of community and we've despoiled our many Commons. 
+Now we're struggling with these very issues: We've lost our sense of community and we've despoiled our many Commons. And we wrack our brains about how it could have happened. 
 
-Complicated by rise of Generative AI. 
+As if this struggle weren't complicated enough, it is compounded by the swift, recent rise of Generative AI. 
 
 How might we win back what we once knew? Not turn back the clock, but rather blend the best of the old with the best of the new. That's the hopeful quest I'm on. 
 
