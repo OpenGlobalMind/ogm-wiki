@@ -55,8 +55,6 @@ As if these struggles weren't complicated enough, they are compounded by the swi
 
 How might we win back what we once knew? Not turn back the clock, but rather blend the best of the old with the best of the new. That's the hopeful quest that I invite you on. 
 
-Rereading that last paragraph, I realize it may sound superficially similar to the heart of MAGA: taking America back to some former great moment. But it’s not. MAGA is nostalgia for a moment that didn’t exist, but a lot of progress that got made since then which is uncomfortable for some people is realistic and uncomfortable and inclusive. At least I believe it does.
-
 Recent books offer us great clues, including: 
 
 - Tyson Yunkaporta's [Sand Talk: How Indigenous Thinking Can Save the World](https://www.amazon.com/dp/B07WG8LKSN/jerrymichalskisr) (2020) and [Right Story, Wrong Story: How to Have Fearless Conversations in Hell](https://www.amazon.com/Right-Story-Wrong-Fearless-Conversations-ebook/dp/B0D3C72FCN/jerrymichalskisr) (2025) 
@@ -71,4 +69,4 @@ What would you add to this list, and to the ones above? Who should we interview 
 This post is an important part of [[How Might We Make a Better Future]]? and [[How Might We Blend the Best of the Old and New]]? 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain.  
+This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/2qEz38) in my Brain.  
