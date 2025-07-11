@@ -14,7 +14,7 @@ This was the starting assumption of [[My Story of Trust]].
 
 Knowing how to live in community, on the Commons, wasn't innate for humans: it was hard-won wisdom. We did manage to kill ourselves off, time after time. We wiped out megafauna, overgrazed, chopped down handy forests, overfished, and in other ways made it hard to stay alive. We saw famines and epidemics. We also attacked one another pretty consistently, with lethality increasing as weapons improved and forms of social organization allowed for larger armies. 
 
-Living in harmony with the land and one another takes patience, effort and wisdom. The core principles of many indigenous traditions around the world revolve around stewardship and community. These include: 
+Living in harmony with the land and one another takes patience, effort and wisdom, particularly the kinds of wisdom that have been passed down through the centuries. For example, the core principles of many indigenous traditions around the world revolve around stewardship and community. These include: 
 
 | **Term**                                                                         | **Origin Culture(s)**          | **Explanation**                                                                                                                                                                                             |
 | -------------------------------------------------------------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -27,7 +27,7 @@ Living in harmony with the land and one another takes patience, effort and wisdo
 | **[Dadirri](https://bra.in/8pJJ4g)**                                             | Aboriginal (Australia)         | "Deep listening" and quiet, still awareness. It emphasizes a contemplative approach to understanding the land, community, and oneself, fostering deep connection and respectful engagement.                 |
 | **[Wolakota](https://www.wolakotaproject.org/)**                                 | Lakota Sioux (North America)   | A state of balance, harmony, and peace within oneself, with others, and with the natural world. It encompasses values of respect, generosity, bravery, and wisdom for communal well-being.                  |
 
-Of these, Ubuntu has become popular enough to be almost cliché. More notably, several more of these concepts comprise entire belief systems:
+Of these, most are unfamiliar to Westerners, though Ubuntu has become popular enough to be almost cliché. More notably, several such concepts comprise entire belief systems:
 
 | **Term**                                                                                                     | **Origin Culture(s)**                | **Explanation**                                                                                                                                                                               |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -43,15 +43,19 @@ Some of the more accessible insights that have stuck with me include:
 - Many managed their landscapes collectively over time, as opposed to private plots for commerce and private consumption. 
 - They did their best to bring bad actors back into their communities. Ostracism and death were actions of last resort. They favored counsel over cancel. 
 
+All of these are fodder for future posts. 
+
 ## Coming full circle 
 
 Alas, Colonialism did its level best to ignore, suppress, or destroy all that hard-won wisdom. 
 
-Now we're struggling with these very issues: We've lost our sense of community and we've despoiled our many Commons. And we wrack our brains about how it could have happened. 
+Now we're struggling with these very issues: We've lost our sense of community and we've despoiled our many Commons. Then we bemoan the situation and wrack our brains about how it could have happened. 
 
-As if this struggle weren't complicated enough, it is compounded by the swift, recent rise of Generative AI. 
+As if these struggles weren't complicated enough, they are compounded by the swift, recent rise of Generative AI, which could help or harm, and is almost certainly an accelerator of change: Will we all go cuddle with our new GenAI BFFs, forgetting about community entirely? Or will GenAI therapists help us reconnect with other humans? Will GenAI help us make more rational use of our resources and spaces? Or will GenAI plunder our remaining Commons at warp speed? 
 
-How might we win back what we once knew? Not turn back the clock, but rather blend the best of the old with the best of the new. That's the hopeful quest I'm on. 
+How might we win back what we once knew? Not turn back the clock, but rather blend the best of the old with the best of the new. That's the hopeful quest that I invite you on. 
+
+Rereading that last paragraph, I realize it may sound superficially similar to the heart of MAGA: taking America back to some former great moment. But it’s not. MAGA is nostalgia for a moment that didn’t exist, but a lot of progress that got made since then which is uncomfortable for some people is realistic and uncomfortable and inclusive. At least I believe it does.
 
 Recent books offer us great clues, including: 
 
@@ -60,7 +64,7 @@ Recent books offer us great clues, including:
 - Sobonfu Somé's [The Spirit of Intimacy: Ancient African Teachings in the Ways of Relationships](https://www.amazon.com/Spirit-Intimacy-Ancient-Teachings-Relationships-ebook/dp/B0F1H6Y5CD/jerrymichalskisr) (2002) 
 - For more, browse my [Indigenous Knowledge Canon](https://bra.in/4qzgM6) 
 
-What would you add to this list, and to the ones above? 
+What would you add to this list, and to the ones above? Who should we interview about this quest? What are your personal “aha” experiences along these lines? 
 
 ## Context 
 
