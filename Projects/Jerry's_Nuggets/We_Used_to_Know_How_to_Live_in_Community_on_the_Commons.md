@@ -1,6 +1,6 @@
 # We Used to Know How to Live in Community, on the Commons 
- (draft) 
-My, how we've grown! \</irony>\ 
+ 
+My, how we've grown! \</irony> 
 
 ![[j3rry_spiff_conceptual_art_illustrating_the_statement_We_Used_8fddefa3-ef0a-4dda-808f-47c8957aca5a_1.png]]
 
