@@ -24,6 +24,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[PowerPoints Should be Playlists]] 
 - [[Healthy Cultures Don't Cancel]] 
 - [[GenAI Is Like a Flesh-Eating Bacterium]] 
+- [[The Creator’s Dilemma]] 
 - [[A Guide to Using Jerry's Brain]] 
 - [[Enumerated Wisdom]] (Braincast) 
 - [[isms]] (Braincast) 
@@ -31,6 +32,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[How Damocles Threatens GenAI]] 
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[Will LLMs Connect Tools for Thinking]]? 
+- Anarchism Is Where to Look 
 - [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
 - [[Microsoft Office Is a Tractor Beam for Software]] 
 - [[Scarcity = Abundance - Trust]] 
@@ -75,7 +77,6 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Snip and the Origins of the Global Financial Crisis]] 
 - [[Impossible Is Just the Most Famous Constraint]] 
 - [[Behind the Reel - The Joy Line]] (contains [[The Joy Line]] ) 
-- [[The Creator’s Dilemma]] 
 - [[The Internet Is Stuck in Mainstream Media Metaphors]] 
 - [[The Unwritten Laws of Books]] 
 - [[How Books Fail Us]] 

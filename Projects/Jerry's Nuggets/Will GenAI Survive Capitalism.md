@@ -16,11 +16,11 @@ We've seen this show before.
 
 I fear the outcomes. 
 
-When too much money chases initially good ideas, bad things tend to happen. 
+When too much money chases initially good ideas, bad things often happen. 
 
 The Commons loses. We lose. 
 
-Capitalism, at least in its current form, is insatiable. And greedy. 
+Capitalism, at least in its current form, is greedy and insatiable. 
 
 Whether we can [fix Capitalism](https://bra.in/2pJEWB) is a subject for future posts. 
 
