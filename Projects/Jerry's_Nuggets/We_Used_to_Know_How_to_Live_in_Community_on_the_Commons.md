@@ -8,7 +8,7 @@ Too many people are convinced that life used to be nasty, brutish, and short. Ou
 
 I no longer believe that story. Over the years, many different thinkers have convinced me that in many places — not everywhere — humans knew how to take care of the landscape and they knew how to take care of one another. We knew how to live in community, on the Commons (which I always capitalize, out of respect, like "Internet," oddly enough). 
 
-This was the starting assumption of [[My Story of Trust]]. 
+This sentence was the starting assumption of [[My Story of Trust]]. 
 
 ## Hard-won wisdom 
 
@@ -64,9 +64,11 @@ Recent books offer us great clues, including:
 
 What would you add to this list, and to the ones above? Who should we interview about this quest? What are your personal “aha” experiences along these lines? 
 
+#community #Commons #indigenouswisdom #lostknowledge
+
 ## Context 
 
 This post is an important part of [[How Might We Make a Better Future]]? and [[How Might We Blend the Best of the Old and New]]? 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/2qEz38) in my Brain.  
+This article is cross-posted on Substack [here](https://rethinkconstraints.substack.com/p/we-used-to-know-how-to-live-in-community), Medium [here](# We Used to Know How to Live in Community, on the Commons) and LinkedIn [here](https://www.linkedin.com/pulse/we-used-know-how-live-community-commons-jerry-michalski-m08sc). It's also [here](https://bra.in/2qEz38) in my Brain.  
