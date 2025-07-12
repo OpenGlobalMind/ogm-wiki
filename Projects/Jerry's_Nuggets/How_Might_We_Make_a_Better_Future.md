@@ -11,6 +11,7 @@ The podcast will focus on how we might make a better future together. It will co
 The "making a better future" episodes: 
 
 - [[What Are Our Next Two Stacks]]? 
+- [[We Used to Know How to Live in Community on the Commons]] 
 - [[Comparing the Old and New Stacks]] 
 - [[Who Holds Parts of the New Stacks]]? 
 
