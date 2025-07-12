@@ -27,4 +27,4 @@ There are many HTML or Markdown presentation apps, but the vast majority of them
 #presentations #PowerPoint #playlists #rethinkingmedia #ideas 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here](https://jerrymichalski.medium.com/we-used-to-know-how-to-live-in-community-on-the-commons-b00fdfd46a36) and LinkedIn [here](). It's also [here]() in my Brain.  
+This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain.  
