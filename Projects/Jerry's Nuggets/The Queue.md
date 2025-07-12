@@ -17,7 +17,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Poems for REX]] (done) 
 - [[How Might We Make a Better Future]]? (podcast series) 
 	- [[What Are Our Next Two Stacks]]? (done) 
-	- [[We Used to Know How to Live in Community on the Commons]] 
+	- [[We Used to Know How to Live in Community on the Commons]] (done) 
 	- [[Comparing the Old and New Stacks]] 
 	- [[Who Holds Parts of the New Stacks]]? 
 - [[How Might We Blend the Best of the Old and New]]? (podcast series) 
