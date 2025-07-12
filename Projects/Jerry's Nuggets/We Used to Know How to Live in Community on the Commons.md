@@ -71,4 +71,4 @@ What would you add to this list, and to the ones above? Who should we interview 
 This post is an important part of [[How Might We Make a Better Future]]? and [[How Might We Blend the Best of the Old and New]]? 
 
 --- 
-This article is cross-posted on Substack [here](https://rethinkconstraints.substack.com/p/we-used-to-know-how-to-live-in-community), Medium [here](# We Used to Know How to Live in Community, on the Commons) and LinkedIn [here](https://www.linkedin.com/pulse/we-used-know-how-live-community-commons-jerry-michalski-m08sc). It's also [here](https://bra.in/2qEz38) in my Brain.  
+This article is cross-posted on Substack [here](https://rethinkconstraints.substack.com/p/we-used-to-know-how-to-live-in-community), Medium [here](https://jerrymichalski.medium.com/we-used-to-know-how-to-live-in-community-on-the-commons-b00fdfd46a36) and LinkedIn [here](https://www.linkedin.com/pulse/we-used-know-how-live-community-commons-jerry-michalski-m08sc). It's also [here](https://bra.in/2qEz38) in my Brain.  
