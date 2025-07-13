@@ -1,7 +1,7 @@
 # On Sensemaking
  (draft) 
 *That elusive thing.* 
-
+![[j3rry_spiff_cartoon_art_illustrating_the_notion_of_groups_of__fed72a4f-81c9-49a5-9c44-4846c6a9ece0_3.png]]
 One of humans' biggest quests has been to understand the world around us. I'm not sure we're all that good at it yet. 
 ## Visions and inspirations 
 Sensemaking has many relatives, including: 
