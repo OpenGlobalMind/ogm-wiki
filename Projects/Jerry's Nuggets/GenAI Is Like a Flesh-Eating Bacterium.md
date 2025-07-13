@@ -29,9 +29,9 @@ Those new jobs weren't obvious to the people populating the eclipsed markets. Th
 
 ## This time is different 
 
-What's different? When GenAI masters a task — say consolidating regional sales spreadsheets and writing a summary report — that task disappears into the machine. It no longer needs to be done by humans. (Though someone should check the results — for now.) The task is still being done, at ever-lower cost, but it doesn't spawn a new task to offset the work loss. 
+What's different? When GenAI masters a task — say consolidating regional sales spreadsheets and writing a summary report — that task disappears into the machine. It no longer needs to be done by humans. (Though someone should check the results — for now.) The task is still being done, at ever-lower cost, but it doesn't spawn a new task to offset the work loss because the work isn't lost at all. 
 
-So GenAI can "eat" tasks the way that necrotizing fasciitis eats human flesh. Alas , the simile is memorable but imperfect: it turns out the bacteria that we call flesh-eating don't bite: they secrete toxins that kill off human cells, making a very deadly mess. No chewing involved. But I bet the simile stays with you a while. And the disappearing of tasks is going to feel very real, very soon. 
+So GenAI can "eat" tasks the way that necrotizing fasciitis eats human flesh. Alas, the simile is memorable but imperfect: it turns out the bacteria that we call flesh-eating don't bite, they secrete toxins that kill off human cells, making a very deadly mess. No chewing involved. But I bet the simile stays with you a while. And the disappearing of tasks is going to feel very real, very soon. 
 
 Problem is, we won't notice it because we're lulled by those previous replacement waves, plus the false confidence from knowing that the new jobs weren't apparent early on. 
 
@@ -39,9 +39,17 @@ It's become cliché to cite Taleb’s [Black Swan](http://www.amazon.com/Black-S
 
 > Consider a turkey that is fed every day. Every single feeding will firm up the bird’s belief that it is the general rule of life to be fed every day by friendly members of the human race “looking out for its best interests,” as a politician would say. On the afternoon of the Wednesday before Thanksgiving, something unexpected will happen to the turkey. It will incur a revision of belief. (The Black Swan)
 
-I have a feeling this is one of those moments for us. This time is different, but we are blind to the change, comforted by all those historic shifts that turned out ok. 
+I have a feeling we're living through a Turkey Moment. This time is different, but we are blind to the change, comforted by all those historic shifts that turned out ok. 
 
 ## Timing matters 
+
+Karl Polanyi's 1944 book [The Great Transformation](https://bra.in/7pWEwo) is one of my favorites because it describes the changes that happened in Britain during the early Industrial Revolution. ([Here's](http://www.youtube.com/watch?v=rSuz01zvOjE) a taste of what I learned from the book.) Polanyi, an economic historian, describes the many efforts taken to try to protect those affected by the onrush of industrialization. 
+
+For  example, around 1590, Queen Elizabeth I refused William Lee's patent application for the [stocking frame](https://en.wikipedia.org/wiki/Stocking_frame) (making stockings was a huge cottage industry, keeping many households afloat), saying: 
+
+> Thou aimest high, Master Lee. Consider thou what the invention could do to my poor subjects. It would assuredly bring to them ruin by depriving them of employment, thus making them beggars.
+
+tktktk 
 
 GenAI's automation of work is happening so quickly that organizations likely don't have a good picture of the extent of the change. So-called [Shadow AI](https://www.ibm.com/think/topics/shadow-ai) masks much of the damage, because employees use the technology but don't say they are. Try tracking that so you can incorporate it into your decision-making, especially if trust is missing. 
 
@@ -53,11 +61,6 @@ A reasonable counter argument is that the new wave of future jobs aren't evident
 
 If such a thing comes to pass around GenAI, I do not promise to eat my hat, but I will be very surprised. 
 
-As the early Industrial Revolution caused rapid change, many tried to protect those affected. Back around 1590, Queen Elizabeth I refused William Lee's patent application for the stocking frame, saying: 
-
-> Thou aimest high, Master Lee. Consider thou what the invention could do to my poor subjects. It would assuredly bring to them ruin by depriving them of employment, thus making them beggars.
-
-Also TGT. 
 ## John Henry, with complications  
 
 In the race between humans and machine intelligence, machine intelligence has huge advantages. Humans, as they age, get a bit smarter, but also get more expensive. They want raises. They are hard to manage. They earn longer vacations. Machine intelligence just gets faster cheaper better. 
