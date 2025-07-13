@@ -23,6 +23,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[How Might We Blend the Best of the Old and New]]? (podcast series) 
 - [[PowerPoints Should be Playlists]] 
 - [[Healthy Cultures Don't Cancel]] 
+- [[Assume Good Faith]] 
 - [[GenAI Is Like a Flesh-Eating Bacterium]] 
 - [[The Creator’s Dilemma]] 
 - [[A Guide to Using Jerry's Brain]] 
@@ -32,7 +33,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[How Damocles Threatens GenAI]] 
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[Will LLMs Connect Tools for Thinking]]? 
-- Anarchism Is Where to Look 
+- Anarchism Has Some  
 - [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
 - [[Microsoft Office Is a Tractor Beam for Software]] 
 - [[Scarcity = Abundance - Trust]] 
@@ -40,7 +41,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Taglines]] (Braincast) 
 - [[Variants of Capitalism]] (Braincast) 
 - [[Leaf-Cutter Ants Can't Digest Leaves]] 
-- [[Fabulous Fungal Metaphors]] (use Claude) 
+- [[Fabulous Fungal Metaphors]] (used Claude) 
 - [[Joy and Jerry Discuss The Big Fungus]] (podcast; contains [[The Noosphere]]) 
 - [[Sitting with the Enemy]] (podcast) 
 - [[One GenAI Scenario]] 
