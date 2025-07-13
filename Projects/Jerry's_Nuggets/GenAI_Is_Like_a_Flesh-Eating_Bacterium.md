@@ -20,28 +20,30 @@ Conventional wisdom holds that every prior wave of automation or innovation wipe
 
 - Cars obsoleted blacksmiths (and many other trades; "[peak horse](https://bra.in/7pDXxr)" in the US seems to have happened in 1915), but brought gas stations, auto repair shops and more. 
 - Airlines replaced most rail and ship travel (well, in the US), but took us farther, faster than ever, while employing quite a few people. 
-- The printing press wiped out scribes, but certainly fed many new industries, not to mention multiple wars and revolutions. 
+- The printing press wiped out scribes, but certainly sparked many new industries, not to mention multiple wars and revolutions. 
 - Electric lights unemployed lamplighters, candle makers and a few whalers, but ushered in a transformative wave of industrialization and allowed us to turn night back into day. 
 
 Each of these revolutions fueled a replacement market with novel jobs. 
 
+Those new jobs weren't obvious to the people populating the eclipsed markets. The first cars were noisy, slow, and unreliable. There were no highways or gas stations. It would have taken a first-rate clairvoyant to foresee the complex and overwhelming vehicular landscape we now take for granted, never mind the variety of jobs needed to keep it moving. 
+
 ## This time is different 
 
-What's different? When GenAI masters a task — say consolidating regional sales spreadsheets and writing a summary report — that task disappears into the machine. It no longer needs to be done by humans. (Though someone should check the results — for now.) The task is still being done, at lower cost, but it doesn't spawn a new task to offset the work loss. 
+What's different? When GenAI masters a task — say consolidating regional sales spreadsheets and writing a summary report — that task disappears into the machine. It no longer needs to be done by humans. (Though someone should check the results — for now.) The task is still being done, at ever-lower cost, but it doesn't spawn a new task to offset the work loss. 
 
-So GenAI can "eat" tasks the way that necrotizing fasciitis eats human flesh. Alas , the metaphor is memorable but imperfect: it turns out the bacteria that we call flesh-eating don't bite: they secrete toxins that kill off human cells, making a very deadly mess. No chewing involved. But I bet the metaphor stays with you a while. And the disappearing of tasks is going to feel very real, very soon. 
+So GenAI can "eat" tasks the way that necrotizing fasciitis eats human flesh. Alas , the simile is memorable but imperfect: it turns out the bacteria that we call flesh-eating don't bite: they secrete toxins that kill off human cells, making a very deadly mess. No chewing involved. But I bet the simile stays with you a while. And the disappearing of tasks is going to feel very real, very soon. 
 
-Problem is, we won't notice it because we're lulled by those previous replacement waves, plus the fact that the new jobs weren't apparent early on. 
+Problem is, we won't notice it because we're lulled by those previous replacement waves, plus the false confidence from knowing that the new jobs weren't apparent early on. 
 
 It's become cliché to cite Taleb’s [Black Swan](http://www.amazon.com/Black-Swan-Impact-Highly-Improbable/dp/1400063515/jerrymichalskisr), but you may remember that he describes how every day is great for the turkey up until just before Thanksgiving. He doesn’t see the one bad day coming: 
 
 > Consider a turkey that is fed every day. Every single feeding will firm up the bird’s belief that it is the general rule of life to be fed every day by friendly members of the human race “looking out for its best interests,” as a politician would say. On the afternoon of the Wednesday before Thanksgiving, something unexpected will happen to the turkey. It will incur a revision of belief. (The Black Swan)
 
-I have a feeling this is one of those moments for us. We are blind to the change, comforted by all those historic shifts that turned out ok. 
+I have a feeling this is one of those moments for us. This time is different, but we are blind to the change, comforted by all those historic shifts that turned out ok. 
 
 ## Timing matters 
 
-This process is happening so quickly that organizations likely don't have a good picture of the extent of the change. So-called [Shadow AI](https://www.ibm.com/think/topics/shadow-ai) masks much of the damage, because employees use the technology but don't say they did. Try tracking that so you can incorporate it into your decision-making, especially if trust is missing. 
+GenAI's automation of work is happening so quickly that organizations likely don't have a good picture of the extent of the change. So-called [Shadow AI](https://www.ibm.com/think/topics/shadow-ai) masks much of the damage, because employees use the technology but don't say they are. Try tracking that so you can incorporate it into your decision-making, especially if trust is missing. 
 
 The mismatched timing is a big part of the problem. 
 
