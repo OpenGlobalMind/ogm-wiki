@@ -1,7 +1,9 @@
 # On Sensemaking
  (draft) 
 *That elusive thing.* 
+
 ![[j3rry_spiff_cartoon_art_illustrating_the_notion_of_groups_of__fed72a4f-81c9-49a5-9c44-4846c6a9ece0_3.png]]
+
 One of humans' biggest quests has been to understand the world around us. I'm not sure we're all that good at it yet. 
 ## Visions and inspirations 
 Sensemaking has many relatives, including: 
@@ -43,7 +45,7 @@ And in speculative (wishful?) non-fiction:
 - 1980: Deleuze and Guattari's [Rhizomal Networks](http://en.wikipedia.org/wiki/Rhizome_(philosophy)) 
 - 1987: Apple's [Knowledge Navigator](https://www.youtube.com/watch?v=umJsITGzXd0) video 
 
-You can browse all of these, in context, in my Brain [here](https://bra.in/2pxbo6). To suggest others, please [write me](mailto:sociate@gmail.com). 
+You can browse all of these, in context, in my Brain [here](https://bra.in/2pxbo6). To suggest others, please [write me](mailto:sociate@gmail.com) or comment here. 
 
 From the tech side, the many different sensemaking efforts I've heard of include: 
 
@@ -54,9 +56,9 @@ From the tech side, the many different sensemaking efforts I've heard of include
 - Personal Knowledge Networks ([PKNs](https://bra.in/2vmaeJ)) 
 - Open Knowledge Networks ([OKNs](https://bra.in/7qw9GD)) 
 
-In my imagination: [[The Big Fungus]]. 
+In my imagination: [[The Big Fungus]]. tktktk 
 
-## A caveat 
+## Some caveats 
 
 Despite (obviously) being a huge fan of sensemaking, I'm also a realist. That means I think many actions we take aren't based on logic, reasoning, and measured debate about actual potential outcomes, but instead are a maelstrom of fear, spin, factoids, misrepresentations, etc. 
 

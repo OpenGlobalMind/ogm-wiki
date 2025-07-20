@@ -43,13 +43,27 @@ I have a feeling we're living through a Turkey Moment. This time is different, b
 
 ## Timing matters 
 
-Karl Polanyi's 1944 book [The Great Transformation](https://bra.in/7pWEwo) is one of my favorites because it describes the changes that happened in Britain during the early Industrial Revolution. ([Here's](http://www.youtube.com/watch?v=rSuz01zvOjE) a taste of what I learned from the book.) Polanyi, an economic historian, describes the many efforts taken to try to protect those affected by the onrush of industrialization. 
+Previous similar shifts happened more slowly, so the traumatic bits had more breathing room to adjust. 
 
-For  example, around 1590, Queen Elizabeth I refused William Lee's patent application for the [stocking frame](https://en.wikipedia.org/wiki/Stocking_frame) (making stockings was a huge cottage industry, keeping many households afloat), saying: 
+Karl Polanyi's 1944 book [The Great Transformation](https://bra.in/7pWEwo) is one of my favorites because it describes the changes that happened in Britain during the early Industrial Revolution. ([Here's](http://www.youtube.com/watch?v=rSuz01zvOjE) a taste of what I learned from the book.) Polanyi, an economic historian, describes the many efforts taken to try to protect those affected by the onrush of industrialization, including a variety of Poor Laws and the [Speenhamland System](http://en.wikipedia.org/wiki/Speenhamland_system), a kind of wage guarantee based on the price of a gallon bread. 
+
+Around 1590, Queen Elizabeth I refused William Lee's patent application for the [stocking frame](https://en.wikipedia.org/wiki/Stocking_frame) (making stockings was a huge cottage industry, keeping many households afloat), saying: 
 
 > Thou aimest high, Master Lee. Consider thou what the invention could do to my poor subjects. It would assuredly bring to them ruin by depriving them of employment, thus making them beggars.
 
-tktktk 
+My, those old times look quaint. 
+
+Civil War 80 percent... tktk
+
+Dario Amodei's warning about white collar work. Entry level jobs going away. 
+
+Jensen Huang's example is long-haul trucking: tktk 
+
+Frontier work now is Agentic AI, where we can leave the AIs alone and they will do the work. tktk. 
+
+Takes ever fewer workers to do the same work. tktk 
+
+Whole categories of work will disappear, and the people who were doing those jobs will have a hard time retraining for something that matches their old income. 
 
 GenAI's automation of work is happening so quickly that organizations likely don't have a good picture of the extent of the change. So-called [Shadow AI](https://www.ibm.com/think/topics/shadow-ai) masks much of the damage, because employees use the technology but don't say they are. Try tracking that so you can incorporate it into your decision-making, especially if trust is missing. 
 
@@ -57,7 +71,7 @@ The mismatched timing is a big part of the problem.
 
 As GenAI spreads unchecked through organizations, it is tearing holes in the workforce. But because [[GenAI Automates Tasks, Not Jobs]] (so far), tktktk. 
 
-A reasonable counter argument is that the new wave of future jobs aren't evident to those whose jobs are about to be wiped out. Blacksmiths couldn't foresee tire busters. Looking higher in the transportation system's effects, the remaking of cities around cars and the effects of the Interstate Highway System were in few people's imaginations. 
+tktktk
 
 If such a thing comes to pass around GenAI, I do not promise to eat my hat, but I will be very surprised. 
 
@@ -72,6 +86,8 @@ Now there's a fancy new power tool on deck, and it has really sharp blades.
 ## Trust implications 
 
 The 
+
+Without trust, we can't collaborate to find better, more adaptable solutions. 
 
 ## Open questions 
 
