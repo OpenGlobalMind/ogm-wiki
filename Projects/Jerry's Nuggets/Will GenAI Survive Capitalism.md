@@ -2,13 +2,11 @@
  (draft)
 *If not, will we?*
 
+Insane amounts of money are chasing Generative AI, and the White House today gave them free rein to do as they wish.
+
+
+
 Capitalism has a way of messing up good things. 
-
-Remember [the weekend in November 2023](https://bra.in/2joE85) when OpenAI's board fired Sam Altman, then everyone resigned, then he was rehired and the board was fired? Weird, wasn't it? Oh, but before he was rehired, Microsoft hired him! Then not. The whole thing was a surreal, real-time soap opera, played out in the public sphere. 
-
-My interpretation of that weekend was that OpenAI was shaking off its higher purpose, and settling in to capitalism. Sort of like an insect, snake or crab shedding the carapace or skin it had outgrown, except not that positive. Later, OpenAI opted to become a for-profit company. 
-
-Earlier, many of the early OpenAI staffers who believed in the company's higher calling left, founding [Anthropic](https://bra.in/6pxBPK), which still seems to hew to the open mission. In the face of the temptations I'm describing, this deserves extra praise. 
 
 We've seen this show before. 
 
@@ -23,6 +21,14 @@ The Commons loses. We lose.
 Capitalism, at least in its current form, is greedy and insatiable. 
 
 Whether we can [fix Capitalism](https://bra.in/2pJEWB) is a subject for future posts. 
+
+## OpenAI's flight
+
+Remember [the weekend in November 2023](https://bra.in/2joE85) when OpenAI's board fired Sam Altman, then everyone resigned, then he was rehired and the board was fired? Weird, wasn't it? Oh, but before he was rehired, Microsoft hired him! Then not. The whole thing was a surreal, real-time soap opera, played out in the public sphere. 
+
+My interpretation of that weekend was that OpenAI was shaking off its higher purpose, and settling in to capitalism. Sort of like an insect, snake or crab shedding the carapace or skin it had outgrown, except not that positive. Later, OpenAI opted to become a for-profit company. 
+
+Earlier, many of the early OpenAI staffers who believed in the company's higher calling left, founding [Anthropic](https://bra.in/6pxBPK), which still seems to hew to the open mission. In the face of the temptations I'm describing, this deserves extra praise. 
 
 #OpenAI, #critiquesofcapitalism, #innovation, #Anthropic, 
 
