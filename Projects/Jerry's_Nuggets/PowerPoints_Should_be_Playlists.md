@@ -2,7 +2,9 @@
  (draft) 
 *Rethinking how ideas live in presentations.* 
 
-Years ago I had a moment you may also have had: I was madly opening all my recent presentations (in my case, using Keynote instead of PowerPoint), looking for the latest version of a slide I had used repeatedly — but not in every deck. I knew I had improved it substantially in ways that would be hard to regenerate. But I didn't remember which pitch contained that latest, greatest version. Been there? 
+![[j3rry_spiff_a_file_cabinet_with_one_drawer_pulled_out_with_on_5000b209-83b3-4bfa-a25b-39e1542d1683_2.png]]
+
+Years ago I had a moment you may also have had: I was madly opening all my recent presentations (in my case, using Keynote instead of PowerPoint), looking for the latest version of a slide I had used repeatedly — but not in every deck. I knew I had improved it substantially in ways that would be hard to regenerate, but I didn't remember which deck contained that latest, greatest version. Been there? 
 
 In order to explain the aha! I had about this problem, I should mention that I have long been a fan of wikis. You're likely familiar with the Wikipedia, the collaboratively edited encyclopedia that made wikis a household word, but you may not know that there was a brief time when many of us thought that we would all be collaborating by editing wikis together. (Some of us also thought social media might be a force for good, but that's a different post.) 
 
@@ -12,11 +14,15 @@ The light-bulb moment I had after my frustrating search for a particular version
 
 ## Early proof of concept  
 
-My friend Kenneth Tyler ran a Wiki he had coded, and understood this idea right away. So he created a "Play" button that I could put on any page on his wiki. When pressed, the button would go full screen, add left and right arrows on screen, and start playing whatever list of wiki pages I had put on the page. Worked like a charm. 
+My friend [Kenneth Tyler](https://www.linkedin.com/in/kenneth-tyler-69898746/), who ran a Wiki he had coded, understood this idea right away. So he created a "Play" button that I could put on any page on his wiki. When pressed, the button would go full screen, add left and right arrows on screen, and start playing whatever list of wiki pages I had put on the page. Worked like a charm. 
 
-We didn't take the experiment any further, but it's easy to imagine how to add themes, transition effects, animations and more, just using basic Web design tools. Alas, Kenneth's Seedwiki is no more, and our experiments have vanished from view. 
+We didn't take the experiment any further, but it's easy to imagine how you would add themes, transition effects, animations and more, just using basic Web design tools. Alas, Kenneth's Seedwiki is no more, and our experiments have vanished from view. 
 
-But that's just the start. Because wikis save every version of every page, you could ask for a particular presentation as it was delivered on a particular day in 2020, for example. And several people could use the same slide 
+But not the idea. 
+
+Because wikis save every version of every page, you could ask for a particular presentation as it was delivered on a particular day in 2020, for example. 
+
+And several people could use the same slide 
 
 This is part of [[Nuggets, Narratives, and Points of View]] and [[Level Up Media]].  
 
