@@ -20,18 +20,18 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 	- [[We Used to Know How to Live in Community on the Commons]] (done) 
 	- [[Comparing the Old and New Stacks]] 
 	- [[Who Holds Parts of the New Stacks]]? 
+- [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[How Might We Blend the Best of the Old and New]]? (podcast series) 
+- [[The Creator’s Dilemma]] 
 - [[PowerPoints Should be Playlists]] 
 - [[Healthy Cultures Don't Cancel]] 
 - [[Assume Good Faith]] 
 - [[GenAI Is Like a Flesh-Eating Bacterium]] 
-- [[The Creator’s Dilemma]] 
 - [[A Guide to Using Jerry's Brain]] 
 - [[Enumerated Wisdom]] (Braincast) 
 - [[isms]] (Braincast) 
 - [[Jerry's Theory of Change]] 
 - [[How Damocles Threatens GenAI]] 
-- [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[Will LLMs Connect Tools for Thinking]]? 
 - Anarchism Has Some  
 - [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
