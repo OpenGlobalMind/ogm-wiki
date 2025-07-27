@@ -23,6 +23,9 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[How Might We Blend the Best of the Old and New]]? (podcast series) 
 - [[The Creator’s Dilemma]] 
+- [[Our Cyborg Future]] 
+- [[The Elephant in the GenAI Room]] 
+- [[MagicLink's Two Fatal Flaws]] 
 - [[PowerPoints Should be Playlists]] 
 - [[Healthy Cultures Don't Cancel]] 
 - [[Assume Good Faith]] 
@@ -31,7 +34,6 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Enumerated Wisdom]] (Braincast) 
 - [[isms]] (Braincast) 
 - [[Jerry's Theory of Change]] 
-- [[How Damocles Threatens GenAI]] 
 - [[Will LLMs Connect Tools for Thinking]]? 
 - Anarchism Has Some  
 - [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
@@ -72,7 +74,6 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - A Chatbot for My Brain? 
 - In What Ways Would I Like GenAI to Enhance My Brain? 
 - [[Tech Owes You an Apology]] 
-- [[Our Cyborg Future]] 
 - [[Upkido]] 
 - [[The Big Sentence]] (contains multiple) 
 - [[Snip and the Origins of the Global Financial Crisis]] 

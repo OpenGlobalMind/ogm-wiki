@@ -2,9 +2,13 @@
 (draft) 
 *Innovative apps must resist the pull of looking like Office.*
 
+![[tractor beam has Enterprise.webp]]
+
 In 1984, Apple's Macintosh brought the [desktop metaphor](https://en.wikipedia.org/wiki/Desktop_metaphor) to the masses. Suddenly, using computers was a lot friendlier than it had been just a month before. Of course, it took a decade or more for this to become broadly known, but the effect was pervasive. It became so pervasive that today it is still hard to get away from the desktop metaphor. In a sense, [the WIMP interface](http://en.wikipedia.org/wiki/WIMP_(computing)) ate our brains. 
 
-In 1989, Microsoft created a marketing bundle of several apps, [initially Word, Excel, and PowerPoint](https://en.wikipedia.org/wiki/Microsoft_Office), inventing the "office suite". This turned out to be a terrific strategy, since Microsoft had more apps than its main competitors, WordPerfect and Lotus, could muster. Over that next decade, Microsoft suite vanquished its competitors, becoming the *de facto* standard for office use.
+In 1989, Microsoft created a marketing bundle of several apps, [initially Word, Excel, and PowerPoint](https://en.wikipedia.org/wiki/Microsoft_Office), inventing the "office suite". This turned out to be a terrific strategy, since Microsoft had more apps than its main competitors, WordPerfect and Lotus, could muster. 
+
+Over that next decade, Microsoft suite vanquished its competitors, becoming the *de facto* standard for office use. What was a virtuous circle for Microsoft was a vicious cycle for WordPerfect and Lotus. 
 
 Later Access, Outlook. Then SharePoint and Teams and other goodies. Now ubiquitous. Became Microsoft's second Golden Goose, alongside Windows and its variants. (In the annals of technology obsolescence trivia, it's worth noting that [Microsoft's bundling Encarta in Office really killed Britannica, not Wikipedia](https://www.wired.com/2012/03/wikipedia-didnt-kill-brittanica-windows-did/).) 
 
