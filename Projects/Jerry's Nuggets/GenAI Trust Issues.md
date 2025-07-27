@@ -8,6 +8,6 @@ The advent of Generative AI raises a series of important questions related to tr
 
 Answers: 
 
-- [[How Damocles Threatens GenAI]] 
+- [[The Elephant in the GenAI Room]] 
 
 

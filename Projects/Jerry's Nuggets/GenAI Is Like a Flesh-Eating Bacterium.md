@@ -27,6 +27,8 @@ Each of these revolutions fueled a replacement market with novel jobs.
 
 Those new jobs weren't obvious to the people populating the eclipsed markets. The first cars were noisy, slow, and unreliable. There were no highways or gas stations. It would have taken a first-rate clairvoyant to foresee the complex and overwhelming vehicular landscape we now take for granted, never mind the variety of jobs needed to keep it moving. 
 
+Many smart folks [like Matt Stoller](https://www.thebignewsletter.com/p/why-are-we-pretending-ai-is-going) are saying we're overreacting. tktk 
+
 ## This time is different 
 
 What's different? When GenAI masters a task — say consolidating regional sales spreadsheets and writing a summary report — that task disappears into the machine. It no longer needs to be done by humans. (Though someone should check the results — for now.) The task is still being done, at ever-lower cost, but it doesn't spawn a new task to offset the work loss because the work isn't lost at all. 
@@ -99,6 +101,8 @@ This post leaves several juicy nuggets on the table that are fodder for future p
 - How *should* we rearrange work? 
 
 Conclusion here. 
+
+Where are you on the GenAI will eat all jobs! to Don't worry, there are always new jobs! spectrum? 
 
 #futureofwork #dangersofAI #automation 
 

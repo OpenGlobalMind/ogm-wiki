@@ -14,7 +14,7 @@
 
 ### GenAI + Future of Work Posts (#GenAI+FoW)
 - [[GenAI Is Like a Flesh-Eating Bacterium]] (includes [[GenAI Automates Tasks, Not Jobs]]) 
-- [[How Damocles Threatens GenAI]] 
+- [[The Elephant in the GenAI Room]] 
 - [[Will GenAI Survive Capitalism]]? (includes [[Multiple Promising Technologies Were Warped by Capitalism]]) 
 - [[Will Capitalism Survive GenAI]]? 
 - [[The GenAI-Jobs-Education Trilemma]] 
@@ -33,6 +33,10 @@
 - [[Upkido]] 
 - [[The Big Sentence]] 
 - [[Our Cyborg Future]] 
+
+## Tech History Posts 
+- [[MagicLink's Two Fatal Flaws]] 
+- 
 
 ### Rethink the Future Podcast Episodes
 - [[Ida and Jerry Explore Unlocking Human Potential]] (done) 
