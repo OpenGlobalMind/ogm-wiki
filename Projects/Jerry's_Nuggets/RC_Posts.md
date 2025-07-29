@@ -1,5 +1,9 @@
 # Rethink Constraints Posts
 
+### Tech History Posts 
+- [[MagicLink's Two Fatal Flaws]] 
+- [[When I Sent My First Wireless Email]] 
+
 ### GenAI Posts (#GenAI)
 - [[GenAI's Mixed Blessings]] (done) 
 - [[Tech Owes You an Apology]] 
@@ -33,10 +37,6 @@
 - [[Upkido]] 
 - [[The Big Sentence]] 
 - [[Our Cyborg Future]] 
-
-## Tech History Posts 
-- [[MagicLink's Two Fatal Flaws]] 
-- 
 
 ### Rethink the Future Podcast Episodes
 - [[Ida and Jerry Explore Unlocking Human Potential]] (done) 

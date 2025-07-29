@@ -77,6 +77,8 @@ tktktk
 
 If such a thing comes to pass around GenAI, I do not promise to eat my hat, but I will be very surprised. 
 
+GenAI will eat many new jobs — but which ones? 
+
 ## John Henry, with complications  
 
 In the race between humans and machine intelligence, machine intelligence has huge advantages. Humans, as they age, get a bit smarter, but also get more expensive. They want raises. They are hard to manage. They earn longer vacations. Machine intelligence just gets faster cheaper better. 
