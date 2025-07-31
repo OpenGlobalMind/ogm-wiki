@@ -2,7 +2,7 @@
 (draft) 
 *Severing ties to long-term outcomes ends badly.*
 
-Early in our Pandemic, compelled by a series of ideas that clicked together in my (wet, onboard, organic) brain, I created three videos to explain how we got into the [Global Financial Crisis](https://en.wikipedia.org/wiki/2008_financial_crisis) of 2008-2009, also known as the Subprime Crisis. 
+Early in our Pandemic, compelled by a series of ideas that clicked together in my brain (the wet, onboard, organic one), I created three videos to explain how we got into the [Global Financial Crisis](https://en.wikipedia.org/wiki/2008_financial_crisis) of 2008-2009, also known as the Subprime Crisis. 
 
 Here's the tl;dr:
 
@@ -12,13 +12,16 @@ Here's the tl;dr:
 	- The major investment banks — Salomon, Lehman and Goldman — went public. Instead of being partnerships where partners' reputations and assets were on the line, long term, they were now playing with [OPM](https://www.urbandictionary.com/define.php?term=OPM). 
 	- "Foreclosure Phil" Gramm and others got rid of [Glass-Steagall](https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation), allowing all banks to speculate. 
 	- Lawrence Summers, Robert Rubin, and Alan Greenspan [kept](https://seekingalpha.com/article/198197-why-derivatives-caused-financial-crisis) Brooksley Born from regulating derivatives. 
+	- Bob Lewis, AIG's Chief Risk Officer, inexplicably approved Credit Default Swaps, which allow you to insure assets (derivatives) you don't own. 
 - The exotic new derivatives offered juicy returns because they were based on flawed assumptions (housing prices will never go down!). 
 - Everyone wanted their money invested in these highly profitable instruments. Failing to join the crowd on this merry-go-round brought you unbearable heat and hate (read or watch The Big Short). 
 - When the system collapsed, the big fish who jumped off the merry-go-round profited nicely; everyone else got hosed. 
 - When Obama came to power, he knew the economy had to recover and grow, so he turned the system over to the banksters to fix what they had broken, aware they would likely profit even more. 
-- We have fixed almost none of the problems that caused the GFC. Nobody did the perp walk. The broken regs and institutions remain broken. 
+- We have fixed almost none of the problems that caused the GFC. Nobody served time. The broken regs and institutions remain broken. Bob Lewis and [others who helped precipitate the crisis](https://bra.in/4j9w2x) didn't suffer for those actions. 
 
-Okay, not the shortest tl;dr ever 😅
+Okay, not the shortest tl;dr ever 😅 
+
+When people protest that [[The System Is Rigged]], its 
 
 For the longer story, you can watch my three videos [here](https://www.youtube.com/playlist?list=PLreQNsM8LqWAGeus-IMnxcBAdeVNJ68Vn) on YouTube, or click on the player below to watch them in this page:
 
