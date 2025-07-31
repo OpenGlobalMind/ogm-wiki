@@ -1,7 +1,7 @@
 # Jerry's Presentation Nuggets
 
 Cyborg 
-- [[Our Cyborg Future]] 
+- [[Preparing for Our Cyborg Future]] 
 - 
 
 GenAI 

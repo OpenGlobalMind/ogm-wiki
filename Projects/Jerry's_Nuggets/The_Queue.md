@@ -24,7 +24,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[How Might We Blend the Best of the Old and New]]? (podcast series) 
 - [[The Creator’s Dilemma]] 
-- [[Our Cyborg Future]] (series)
+- [[Preparing for Our Cyborg Future]] (series)
 	- [[The Origins of Cyborg]] (short, video done, post pending)
 - [[The Elephant in the GenAI Room]] 
 - [[MagicLink's Two Fatal Flaws]] 
