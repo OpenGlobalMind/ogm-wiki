@@ -15,6 +15,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Rethink the Future]] (first podcast episode, done) 
 - [[Useful Thinking Frameworks and Mental Models]] (Braincast) (done) 
 - [[Poems for REX]] (done) 
+- [[Snip and the Origins of the Global Financial Crisis]] 
 - [[How Might We Make a Better Future]]? (podcast series) 
 	- [[What Are Our Next Two Stacks]]? (done) 
 	- [[We Used to Know How to Live in Community on the Commons]] (done) 
@@ -23,7 +24,8 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[How Might We Blend the Best of the Old and New]]? (podcast series) 
 - [[The Creator’s Dilemma]] 
-- [[Our Cyborg Future]] 
+- [[Our Cyborg Future]] (series)
+	- [[The Origins of Cyborg]] (short, video done, post pending)
 - [[The Elephant in the GenAI Room]] 
 - [[MagicLink's Two Fatal Flaws]] 
 - [[PowerPoints Should be Playlists]] 
@@ -76,7 +78,6 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Tech Owes You an Apology]] 
 - [[Upkido]] 
 - [[The Big Sentence]] (contains multiple) 
-- [[Snip and the Origins of the Global Financial Crisis]] 
 - [[Impossible Is Just the Most Famous Constraint]] 
 - [[Behind the Reel - The Joy Line]] (contains [[The Joy Line]] ) 
 - [[The Internet Is Stuck in Mainstream Media Metaphors]] 
