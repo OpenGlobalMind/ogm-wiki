@@ -1,4 +1,11 @@
-# Our Cyborg Future
+# Preparing for Our Cyborg Future 
+ (draft) 
+subtitle
+
+Pages: 
+
+- [[The Origins of Cyborg]] 
+- [[Why Cyborg]]? 
 
 - How did generative AI get so smart?
 - What are Tools for Thinking?

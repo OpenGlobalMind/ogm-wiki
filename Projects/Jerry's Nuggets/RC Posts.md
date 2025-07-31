@@ -36,7 +36,7 @@
 - [[Foobarism]] 
 - [[Upkido]] 
 - [[The Big Sentence]] 
-- [[Our Cyborg Future]] 
+- [[Preparing for Our Cyborg Future]] 
 
 ### Rethink the Future Podcast Episodes
 - [[Ida and Jerry Explore Unlocking Human Potential]] (done) 
