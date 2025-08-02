@@ -1,4 +1,4 @@
-# MagicLink's Two Fatal Flaws  
+# General Magic's Two Fatal Flaws  
 (draft) 
 *Were — remarkably — its two major innovations* 
 

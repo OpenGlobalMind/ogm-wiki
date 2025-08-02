@@ -26,8 +26,17 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[The Creator’s Dilemma]] 
 - [[Preparing for Our Cyborg Future]] (series)
 	- [[The Origins of Cyborg]] (short, video done, post pending)
+	- [[Why Cyborg]]? 
+	- [[I've Been a Cyborg for 27+ Years]] 
+	- [[What Cyborg Doesn't Mean]] 
+	- [[Augment or Replace]] 
+	- [[What Does Our Cyborg Future Look Like]]?
+	- [[How Might This Cyborg Future Change Us]]?
+	- [[What Does It Mean to be a Good Cyborg]]? 
+	- [[My Struggles to Go Cyborg]] 
+	- [[New Forms of Intelligence]] 
 - [[The Elephant in the GenAI Room]] 
-- [[MagicLink's Two Fatal Flaws]] 
+- [[General Magic's Two Fatal Flaws]] 
 - [[PowerPoints Should be Playlists]] 
 - [[Healthy Cultures Don't Cancel]] 
 - [[Assume Good Faith]] 
@@ -65,9 +74,10 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - The Coming Displacement (start w ag worker shift)
 - [[On GenAI's Origins]] 
 - [[GenAI Gives Us Superpowers]] 
-- [[Does GenAI Obsolete Notetaking]]? 
-- [[Does GenAI Obsolete Tools for Thinking]]? 
-- [[Does GenAI Obsolete Reading]]? 
+- GenAI's Effects (series) 
+	- [[Does GenAI Obsolete Notetaking]]? 
+	- [[Does GenAI Obsolete Tools for Thinking]]? 
+	- [[Does GenAI Obsolete Reading]]? 
 - [[How the Robocar Trifecta Would Improve Our Cities]] 
 - Instrumenting Ideas (Animating?) 
 - [[We Separated Work, Play and Learning]] 

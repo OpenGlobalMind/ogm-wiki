@@ -1,8 +1,8 @@
 # Preparing for Our Cyborg Future 
  (draft) 
-subtitle
+*How comfortable are you with this future?* 
 
-Pages: 
+The Nuggets:
 
 - [[The Origins of Cyborg]] 
 - [[Why Cyborg]]? 

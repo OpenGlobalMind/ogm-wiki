@@ -3,7 +3,11 @@
 The advent of Generative AI raises a series of important questions related to trust, including: 
 
 - Can I Trust GenAI's Answers?
+- Can Our Clients Trust GenAI's Answers?
+- Is GenAI Stealing All Our Ideas? 
 - Will GenAI Take My Job? 
+- Should I Tell Anyone I'm Using GenAI? 
+- 
 
 
 Answers: 

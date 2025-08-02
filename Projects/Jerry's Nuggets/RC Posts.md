@@ -1,7 +1,7 @@
 # Rethink Constraints Posts
 
 ### Tech History Posts 
-- [[MagicLink's Two Fatal Flaws]] 
+- [[General Magic's Two Fatal Flaws]] 
 - [[When I Sent My First Wireless Email]] 
 
 ### GenAI Posts (#GenAI)
