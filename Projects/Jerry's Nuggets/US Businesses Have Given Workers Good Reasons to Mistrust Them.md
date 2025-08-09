@@ -1,4 +1,4 @@
-# US Managers Have Given Workers Good Reasons to Mistrust Them
+# US Businesses Have Given Workers Good Reasons to Mistrust Them
 
 It's not easy to be calm in today's US workforce. 
 

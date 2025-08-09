@@ -12,7 +12,7 @@ The Nuggets:
 - [[What Does Our Cyborg Future Look Like]]?
 - [[How Might This Cyborg Future Change Us]]?
 - [[What Does It Mean to be a Good Cyborg]]? 
-- [[My Struggles to Go Cyborg]] 
+- [[My Struggles to Go Full AI Cyborg]] 
 - [[New Forms of Intelligence]] 
 - [[The Sweet Spot Is Becoming a Great Cyborg]] 
 

@@ -33,16 +33,17 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 	- [[What Does Our Cyborg Future Look Like]]?
 	- [[How Might This Cyborg Future Change Us]]?
 	- [[What Does It Mean to be a Good Cyborg]]? 
-	- [[My Struggles to Go Cyborg]] 
+	- [[My Struggles to Go Full AI Cyborg]] 
 	- [[New Forms of Intelligence]] 
 	- [[The Sweet Spot Is Becoming a Great Cyborg]] 
-- [[The Elephant in the GenAI Room]] 
-- [[GenAI Trust Issues]] 
+- [[GenAI Trust Issues]] (series) 
+	- [[The Elephant in the GenAI Room]] 
+	- [[GenAI Is Like a Flesh-Eating Bacterium]] 
+	- 
 - [[General Magic's Two Fatal Flaws]] 
 - [[PowerPoints Should be Playlists]] 
 - [[Healthy Cultures Don't Cancel]] 
 - [[Assume Good Faith]] 
-- [[GenAI Is Like a Flesh-Eating Bacterium]] 
 - [[A Guide to Using Jerry's Brain]] 
 - [[Enumerated Wisdom]] (Braincast) 
 - [[isms]] (Braincast) 
