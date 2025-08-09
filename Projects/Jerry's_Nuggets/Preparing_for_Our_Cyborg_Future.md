@@ -14,6 +14,7 @@ The Nuggets:
 - [[What Does It Mean to be a Good Cyborg]]? 
 - [[My Struggles to Go Cyborg]] 
 - [[New Forms of Intelligence]] 
+- [[The Sweet Spot Is Becoming a Great Cyborg]] 
 
 - How did generative AI get so smart?
 - What are Tools for Thinking?
