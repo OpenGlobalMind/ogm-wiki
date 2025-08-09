@@ -35,7 +35,9 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 	- [[What Does It Mean to be a Good Cyborg]]? 
 	- [[My Struggles to Go Cyborg]] 
 	- [[New Forms of Intelligence]] 
+	- [[The Sweet Spot Is Becoming a Great Cyborg]] 
 - [[The Elephant in the GenAI Room]] 
+- [[GenAI Trust Issues]] 
 - [[General Magic's Two Fatal Flaws]] 
 - [[PowerPoints Should be Playlists]] 
 - [[Healthy Cultures Don't Cancel]] 
