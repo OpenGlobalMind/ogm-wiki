@@ -39,9 +39,10 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[GenAI Trust Issues]] (series) 
 	- [[The Elephant in the GenAI Room]] 
 	- [[GenAI Is Like a Flesh-Eating Bacterium]] 
-	- 
+- [[An Antifragile Sense of Nation]] 
 - [[General Magic's Two Fatal Flaws]] 
 - [[PowerPoints Should be Playlists]] 
+- [[Pull on This Thread]] 
 - [[Healthy Cultures Don't Cancel]] 
 - [[Assume Good Faith]] 
 - [[A Guide to Using Jerry's Brain]] 
