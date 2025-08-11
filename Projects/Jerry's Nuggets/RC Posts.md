@@ -23,6 +23,9 @@
 - [[Will Capitalism Survive GenAI]]? 
 - [[The GenAI-Jobs-Education Trilemma]] 
 
+## What If We Trusted You Posts (#wiwty)
+- [[What If We Trusted You (NeoBook)]] 
+
 ### Rethink the Future Posts 
 - [[On Sensemaking]] 
 - [[Level Up Media]] 
