@@ -1,12 +1,9 @@
 /* Base Styles */
 
 body {
-  font-size: 1.125rem;
   font-size: 1.0rem;
-  line-height: 1.6;
   line-height: 1.3;
   font-weight: 400;
-  font-family: Georgia, Times New Roman, serif;
   font-family: "Roboto", "Trebuchet MS", Arial, sans-serif;
   color: #333;
   background: #FEFEFE;
