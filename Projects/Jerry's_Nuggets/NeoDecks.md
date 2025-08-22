@@ -4,9 +4,9 @@
 
 The 
 
-[[NeoDecks Vibecoding]] 
+Making NeoDecks functional will require some code, so see [[NeoDecks Vibecoding]]. 
 
-See [[NeoDecks are Mushrooms of The Big Fungus]]. 
+For more context, see [[NeoDecks are Mushrooms of The Big Fungus]]. 
 
 The first NeoDeck starts here. 
 
