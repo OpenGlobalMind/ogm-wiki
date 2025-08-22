@@ -1,5 +1,6 @@
 # NeoBooks Introduction
 
+![[Book locked in Carbonite (Gemini).png]]
 Books are prized, recognizable cultural artifacts. Our libraries, personal and public, are our greatest monuments to the things we've learned. The smartest people put their knowledge inside books, right? 
 
 They do, but that's where the problems begin. 
