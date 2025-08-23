@@ -17,7 +17,7 @@ There are many theories of change. We've observed that when people who "know bet
 
 The problem is that many people who could use help don't have time to figure out how to help themselves. They are too busy making ends meet, which is really difficult. Or they are separated from each other, unmotivated, and maybe even angry.
 ### Storytelling 
-Let's tell the stories of what has worked, in ways that are memorable, retellable, honest, brief, and shareable. Alongside cute cat or dancing parakeet videos, why not learn how to make sidewalks absorb rainwater, tktktk, or tktktk? 
+Let's tell the stories of what has worked, in ways that are memorable, retellable, honest, brief, and shareable. Alongside cute cat or dancing parakeet videos, why not learn how to make [sidewalks absorb rainwater](https://www.youtube.com/watch?v=ar7IRr4YwpE), [[Build an Edible Landscape|edible landscapes]], or tktktk? 
 
 Their vocabulary of possibilities might be greatly increased if they could quickly absorb a series of stories of what's working in other places. Then they could figure out which stories they like, share them with their friends, picks project, and then adapt the best of what works for others to their own current situation.
 
@@ -37,6 +37,6 @@ Here's the whole process, spelled out as an equation:
 
 > Storytelling + Taking a Person by the Hand + Resources on Tap, not on Top = Lasting Change
 
-Based on these ideas, we've started the [[Storytelling of What Works]] in one-minute videos.
+Based on these ideas, we've started the [[Storytelling of What Works]] by posting short videos.
 
 ### Lasting Change 

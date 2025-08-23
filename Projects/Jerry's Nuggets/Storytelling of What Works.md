@@ -1,7 +1,6 @@
-# # Storytelling of What Works
+# Storytelling of What Works
  (draft) 
-
- _To make easily understood, potentially inspiring stories available to people who want to improve their lives or neighborhoods._
+_Let's make easily understood, potentially inspiring stories available to people who want to improve their lives or neighborhoods._
 
 All too often, well-intentioned organizations and individuals try to help communities that really need help by imposing plans, processes, tools and structures that the helpers "know" work. But those change efforts often stall or slip.
 
@@ -15,8 +14,8 @@ One useful format is Tik-Tok; another is YouTube Shorts. We'll start with the la
 
 - What Are These Shorts?
 - [[Shorts to Revitalize Cities]] 
-- [Shorts about History](https://wiki.rel8.dev/Shorts%20about%20History)
+- [[Shorts about History]] 
 - Shorts to
-- [Shorts to Communicate Better](https://wiki.rel8.dev/Shorts%20to%20Communicate%20Better)
+- [[Shorts to Communicate Better]] 
 
-All these Shorts are mapped in [Jerry's Brain](https://wiki.rel8.dev/jerry%27s_brain), here.
+All these Shorts are mapped in [[Jerry's Brain]], here.
