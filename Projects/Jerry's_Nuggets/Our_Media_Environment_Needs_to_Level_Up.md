@@ -10,3 +10,5 @@ Design for Addiction Characterizes the Largest Platforms
 
 Our Lack of Shared Memory Makes Us Easy to Spin 
 
+We Overprotect Ideas 
+
