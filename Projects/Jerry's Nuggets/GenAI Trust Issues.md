@@ -1,12 +1,10 @@
-# GenAI Trust Issues
+# GenAI's Trust Issues
+ (draft) 
 
 
 Our appetite for AI. Watching it grow since late 1980s. Double-edged sword. Story about noir cyberpunk series. Clients having trouble thinking about it. Plates were full before it showed up. So played it safe, went slowly. 
 
 What if AI leapfrogs us to a deeper place? 
-
-
-
 ### Q: Do you think most people are stuck feeling like navigating all this tech disruption is impossible. And if so, what’s the first mindset shift that could change that? 
 
 I'm an optimist that GenAI nets quite positive in the longer run. But everything depends on how you approach it. Two stops and a start. 
