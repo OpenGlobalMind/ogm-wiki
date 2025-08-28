@@ -1,4 +1,6 @@
 # Principles of Design from Trust
+ (draft) 
+
 
 [[Assume Good Faith]]  
 [[Be Undefended, Not Defenseless]]  
@@ -10,6 +12,7 @@
 [[Move Upstream Until Your Actions Can be Effective]]  
 [[Not Naïve Trust]]  
 [[Nothing About Us Without Us]]  
+[[Nurture the Commons]] 
 [[Some Risk Stimulates Interdependence]]  
 [[Subsidiarity]] (local knows best)  
 [[Trust Is Participatory]]  

@@ -6,7 +6,7 @@ My, how we've grown! \</irony>
 
 Too many people are convinced that life used to be nasty, brutish, and short. Our lifespans were short, the narrative goes. Violence was everywhere, with humans barely staying alive on a hostile landscape. Then "civilization" saved us, starting with agriculture, which forced us to stay put. 
 
-I no longer believe that story. Over the years, many different thinkers have convinced me that in many places — not everywhere — humans knew how to take care of the landscape and they knew how to take care of one another. We knew how to live in community, on the Commons (which I always capitalize, out of respect, like "Internet," oddly enough). 
+I no longer believe that story. Over the years, many different thinkers have convinced me that in many places — not everywhere — humans knew how to take care of the landscape and they knew how to take care of one another. We knew how to live in community, on [[The Commons|the Commons]] (which I always capitalize, out of respect, like "Internet," oddly enough). 
 
 This sentence was the starting assumption of [[My Story of Trust]]. 
 
