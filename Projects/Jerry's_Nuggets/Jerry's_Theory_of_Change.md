@@ -2,9 +2,9 @@
  (draft) 
 *How the world gets better — and worse.* 
 
-[[Storytelling + Relationships + Resources = Lasting Change]] 
+This sentence holds many assumptions and suggests many actions: [[Storytelling + Relationships + Resources = Lasting Change]]. 
 
-[[Our Media Environment Needs to Level Up]] 
+Misinformation is rampant. The news media are mostly broken. Social media is eating our brains. [[Our Media Environment Needs to Level Up]]. 
 
-[[Principles of Design from Trust]] 
+One framework for redesigning systems for the better is [[Design from Trust]]. Here are the [[Principles of Design from Trust]] 
 

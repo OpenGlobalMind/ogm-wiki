@@ -21,6 +21,7 @@ To level up media, let's:
 - Present Using [[NeoDecks]] 
 - Curate [[The Big Fungus]] together 
 - [[Turbocharge Pattern Languages]] 
+- Neuter Social Media's Addictive Business Model 
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain. 

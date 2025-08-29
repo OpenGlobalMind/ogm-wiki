@@ -1,11 +1,12 @@
 # NeoBooks Introduction
 
 ![[Book locked in Carbonite (Gemini).png]]
+
 Books are prized, recognizable cultural artifacts. Our libraries, personal and public, are our greatest monuments to the things we've learned. The smartest people put their knowledge inside books, right? 
 
 They do, but that's where the problems begin. 
 
-Alas, books are inert. They are snapshots, frozen in time, like Han Solo locked in Carbonite. Worse, they offer no means for authors to learn from their readers or to invite readers into conversations. Or for readers to meet one another and join (or form!) communities of interest. Or for readers to see and participate in the thinking behind the books. Or for readers to spin off "books" of their own, perhaps re-using parts of relevant works. 
+Alas, books are inert. They are snapshots, frozen in time, like Han Solo locked in Carbonite. Worse, they offer no means for authors to learn from their readers or to invite readers into conversations. Or for readers to meet one another and join (or form!) communities of interest. Or for readers to see and participate in the thinking behind the books. Or for readers to spin off "books" of their own, perhaps re-using parts of relevant works. Or for participants to "instrument" those ideas in books that are "instrumentable." 
 
 Even worse, the Digital Rights Management software that wraps most eBooks makes it hard for us to put their information to use effectively in the world. (To go deeper, see [[IP Overprotection]].)
 
