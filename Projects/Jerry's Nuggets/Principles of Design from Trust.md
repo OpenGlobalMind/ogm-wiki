@@ -1,6 +1,6 @@
 # Principles of Design from Trust
  (draft) 
-
+*Guidelines for building a better world.* 
 
 [[Assume Good Faith]]  
 [[Be Undefended, Not Defenseless]]  
