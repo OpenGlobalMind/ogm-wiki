@@ -8,9 +8,9 @@ That's the idea behind Upkido, a practice that seeks to improve everything it to
 
 Some readers will notice right away that "improve" isn't the most solid word to build a practice on. What I think will be an improvement may not seem like one to you, never mind to other parties affected by the "improvement." So we should be careful here. 
 
+The [[Principles of Design from Trust]] are very helpful here. 
 
-
-See [[Principles of Design from Trust]] and [[Jerry's Theory of Change]]. 
+and [[Jerry's Theory of Change]]. 
 
 See [our fledgling website](https://www.upkido.com/) for more. 
 
