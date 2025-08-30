@@ -1,6 +1,10 @@
-# Some Risk Stimulates Interdependence
+# Don't Design All Risks Out
+
+
 
 Risk connects us. 
+
+Some Risk Stimulates Interdependence
 
 See [[Contrarian Hans Monderman]]. 
 

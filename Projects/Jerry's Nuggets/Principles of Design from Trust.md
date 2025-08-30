@@ -6,6 +6,7 @@
 [[Be Undefended, Not Defenseless]]  
 [[Choose Abundance]]  
 [[Citizens, Not Consumers]]  
+[[Don't Design All Risks Out]]  
 [[Knowledge Should Accumulate]]  
 [[Lifting as We Climb]]  
 [[Make the Right Thing Easy To Do]]  
@@ -13,7 +14,6 @@
 [[Not Naïve Trust]]  
 [[Nothing About Us Without Us]]  
 [[Nurture the Commons]] 
-[[Some Risk Stimulates Interdependence]]  
 [[Subsidiarity]] (local knows best)  
 [[Trust Is Participatory]]  
 
