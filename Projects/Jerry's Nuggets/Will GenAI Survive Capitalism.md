@@ -12,7 +12,7 @@ Capitalism has a way of messing up good things.
 
 We've seen this show before. 
 
-[[Multiple Promising Technologies Were Warped by Capitalism]]
+[[Multiple Promising Technologies Were Warped by Capitalism]] 
 
 I fear the outcomes. 
 
@@ -30,7 +30,7 @@ Remember [the bizarre weekend in November 2023](https://bra.in/2joE85) when Open
 
 My interpretation of that weekend was that OpenAI was shaking off its higher purpose, and settling in to capitalism. Sort of like an insect, snake or crab shedding the carapace or skin it had outgrown, except not that positive. Later, OpenAI opted to become a for-profit company. 
 
-Earlier, many of the early OpenAI staffers who believed in the company's higher calling left, founding [Anthropic](https://bra.in/6pxBPK), which still seems to hew to the open mission. In the face of the temptations I'm describing, this deserves extra praise. 
+The Crazy Weekend wasn't the only sign of this shedding: Earlier, many of the early OpenAI staffers who believed in the company's higher calling quit, founding [Anthropic](https://bra.in/6pxBPK), which still seems to hew to the open mission. In the face of the temptations I'm describing, this deserves extra praise. 
 
 #OpenAI, #critiquesofcapitalism, #innovation, #Anthropic, 
 

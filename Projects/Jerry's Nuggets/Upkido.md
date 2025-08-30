@@ -6,7 +6,9 @@ What do you get when you cross uplift (or Upward Spiral) with the Japanese marti
 
 That's the idea behind Upkido, a practice that seeks to improve everything it touches. 
 
-"Improve" isn't the most solid word to build a practice on. What I think will be an improvement may not be that to you, never mind to other parties affected by the "improvement." So we should be careful here. 
+Some readers will notice right away that "improve" isn't the most solid word to build a practice on. What I think will be an improvement may not seem like one to you, never mind to other parties affected by the "improvement." So we should be careful here. 
+
+
 
 See [[Principles of Design from Trust]] and [[Jerry's Theory of Change]]. 
 

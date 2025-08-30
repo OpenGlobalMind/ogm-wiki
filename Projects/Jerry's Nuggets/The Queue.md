@@ -24,6 +24,10 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[How Might We Blend the Best of the Old and New]]? (podcast series) 
 - [[The Creator’s Dilemma]] 
+- [[Principles of Design from Trust]] 
+- [[GenAI Trust Issues]] (series) 
+	- [[The Elephant in the GenAI Room]] 
+	- [[GenAI Is Like a Flesh-Eating Bacterium]] 
 - [[Preparing for Our Cyborg Future]] (series)
 	- [[The Origins of Cyborg]] (short, video done, post pending)
 	- [[Why Cyborg]]? 
@@ -36,9 +40,6 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 	- [[My Struggles to Go Full AI Cyborg]] 
 	- [[New Forms of Intelligence]] 
 	- [[The Sweet Spot Is Becoming a Great Cyborg]] 
-- [[GenAI Trust Issues]] (series) 
-	- [[The Elephant in the GenAI Room]] 
-	- [[GenAI Is Like a Flesh-Eating Bacterium]] 
 - [[An Antifragile Sense of Nation]] 
 - [[General Magic's Two Fatal Flaws]] 
 - [[PowerPoints Should be Playlists]] 
