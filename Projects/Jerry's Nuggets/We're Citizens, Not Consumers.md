@@ -1,4 +1,4 @@
-# Citizens, Not Consumers
+# We're Citizens, Not Consumers
 
 
 
