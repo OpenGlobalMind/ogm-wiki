@@ -10,14 +10,14 @@ This page is about the "from Trust" part, which requires a set of groundrules th
 
 Please note that a design principle for this page is to keep the Principles enumerated here compact, brief, memorable, and practical. It doesn't include things like "Apply the Golden Rule" or "Treat Others Well" on purpose: the principles have to be somewhat non-obvious and add considerably to the general concept of Design from Trust.
 
-That said, here's' the starting set (listed alphabetically): 
+That said, here's' the starting set of Principles (listed alphabetically): 
 
 - [[Assume Good Faith]]  
 - [[Be Undefended, Not Defenseless]]  
 - [[Choose Abundance]]  
 - [[Don't Design All Risks Out]]  
 - [[Knowledge Should Accumulate]]  
-- [[Lifting as We Climb]]  
+- [[Lift as We Climb]]  
 - [[Make the Right Thing Easy To Do]]  
 - [[Move Upstream Until Your Actions Can be Effective]]  
 - [[Not Naïve Trust]] 
