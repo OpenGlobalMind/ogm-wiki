@@ -1,4 +1,4 @@
-# Lifting as We Climb
+# Lift as We Climb
 
 Suffragist and Civil Rights activist [Mary Church Terrell](https://en.wikipedia.org/wiki/Mary_Church_Terrell) fought Jim Crow laws across the US South. One of her sayings, "lifting as we climb," is a terrific way of expanding the reach and equity of any beneficial movement. 
 
