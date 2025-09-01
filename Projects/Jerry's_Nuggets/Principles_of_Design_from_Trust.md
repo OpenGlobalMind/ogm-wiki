@@ -27,7 +27,7 @@ That said, here's' the starting set of Principles (listed alphabetically):
 - [[Trust Is Participatory]]  
 - [[We're Citizens, Not Consumers]]  
 
-If you liked this list and want to have a fun time, browse these [Role Models for DfT Principles](https://bra.in/2p6kQq) (Brain link)  
+If you liked this list and want to have a fun time, browse the [Role Models for DfT Principles](https://bra.in/2p6kQq) (Brain link) from which this list was harvested. 
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain. 
