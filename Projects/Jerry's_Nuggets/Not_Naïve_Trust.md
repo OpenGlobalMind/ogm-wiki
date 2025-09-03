@@ -4,7 +4,7 @@
 
 In simpler times, when we lived in villages and didn't travel much from them, we grew up knowing whom to trust and not to trust. A few lucky people still live in villages like that, but for most humans, those times are long past, and as a result, we've had to figure out how to deal with strangers. 
 
-It turns out that we — a complicated, collective, multi-layered we, crusty with history — designed most of our institutions around the assumption that pretty much everyone might be a bad actor. As a result, we created systems that invite mistrust, disconnect us from responsibility and one another, and have been dragging civilization down. 
+It turns out that over many, many years we — a complicated, collective, multi-layered we, crusty with history — started designing our institutions around the assumption that pretty much everyone might be a bad actor. As a result, we created systems that invite mistrust, disconnect us from responsibility and one another, and have been dragging civilization down. 
 
 [[Design from Trust]] is interesting and needed because it seems we-many took this opposite path. Not Naïve Trust is one of its [[Principles of Design from Trust|core principles]]. 
 
