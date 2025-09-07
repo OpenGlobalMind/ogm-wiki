@@ -2,20 +2,19 @@
  (draft) 
 
 
-Our appetite for AI. Watching it grow since late 1980s. Double-edged sword. Story about noir cyberpunk series. Clients having trouble thinking about it. Plates were full before it showed up. So played it safe, went slowly. 
-
-What if AI leapfrogs us to a deeper place? 
 ### Q: Do you think most people are stuck feeling like navigating all this tech disruption is impossible. And if so, what’s the first mindset shift that could change that? 
 
 I'm an optimist that GenAI nets quite positive in the longer run. But everything depends on how you approach it. Two stops and a start. 
 
-**Stop thinking this is all on you**. There are too many issues and possibilities, with too many implications. Find your way to group mind, collective intelligence, scenius. And it's not just your mind plus all your staff's: there's a new hybrid intelligence in the room, too. What does intelligence look like when all three are humming in harmony? I find that really exciting, though I can see that it might be really scary, too. So take your time. 
+**Stop thinking this is all on you**. There are too many issues and possibilities, with too many implications. Find your way to group mind, collective intelligence: [scenius](https://www.youtube.com/watch?v=cA8xObrgD7s). Let go of the need to have all the answers. Instead, share that load with others on the same quest, and create conditions that will encourage such magic to emerge. 
+
+By the way, it's not just your mind plus all your staff's: there's a new hybrid intelligence in the room, too. What does intelligence look like when all three are humming in harmony? I find that really exciting, though I can see that it might be really scary, too. So take your time. 
 
 **Stop thinking that GenAI is either a flesh-eating bacterium that will end humanity, or the most idealized scientist who will do your bidding and fix humanity**. There's a bit of both, but GenAI is more like a tireless Australian shepherd that can talk and has 50 PhDs. 
 
 **Start thinking how to leap over the many trust hurdles present. Together.** So you can get the most out of its potential to help. 
 
-Self-leadership. People are being more open. Leaders need to be brave. Courage/Brene Brown. 
+Self-leadership. People are being more open. Leaders need to be brave. Courage/Brené Brown. Less foolhardy, more wholehearted. 
 
 Do we need to have keynotes just around the vulnerability? the human piece? We defend what worked, don't let go easily. We're so adaptable and so loyal to our beliefs. We need a Wayze for AI strategy! Ethan Mollick 
 
@@ -35,19 +34,9 @@ But **the elephant in the room** is whether your own job will be wiped out by AI
 
 GenAI eats tasks, not jobs. 
 
-### Q: How much does every individual trust themselves on this journey. I feel that we are made for this moment. We are innately creative, adaptive, and capable of leading with curiosity instead of fear. How do you think that individual courage can scale into collective transformation? 
-
-Yes! 
-
-### Q: One person shared: “Billions are being invested in AI technology — but far less in understanding humanity.” Jerry, from your perspective, how can leaders balance the trust they place in AI with an equally strong investment in understanding the humans it’s meant to serve? 
-
-The 
-
 ### Q: Around this idea of Augment or Replace – Will AI help us become ‘super humans’ — or will it replace us? How do you see trust shaping which of those futures we end up living?
 
 The 
-
-### Q: From speaker David Allison, a Human Values Research Pioneer. David says: “Once you can pinpoint the precise shared values that matter to people—the values most affected by AI—you can craft engagement strategies that align with what they already care about.” How have you seen shared values help build trust and adoption in practice?
 
 
 First, this is all about how you approach it. Your intentions are telegraphed through your actions. 
