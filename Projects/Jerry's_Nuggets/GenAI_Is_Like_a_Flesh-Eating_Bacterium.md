@@ -14,7 +14,7 @@ It's this last extreme possibility that has me worried, for several reasons. The
 
 In the 90s, I got a cold call from a researcher who was investigating the future of paper. When we talked, [Adina Levin](https://www.linkedin.com/in/adina-levin-b771/), who became a good friend, proceeded to ask me great questions, which I tried to answer to the best my perspective allowed. Each time I thought she was done asking questions, she'd ask another good one. 
 
-Our conversation made me notice that the "paperless society" was a mirage on the horizon: every time we'd wipe out one use of paper (sent a paper check recently?), another would pop up. If you look back at the Amazonification of shopping, you'll wish you'd invested in cardboard makers. 
+Our conversation made me notice that the "paperless society" was a mirage on the horizon: every time we'd wipe out one use of paper (sent a paper check recently?), another would pop up. If you look back at the Amazonification of shopping, you'll wish you'd invested in cardboard makers when Amazon was just an innocent creek. 
 
 Conventional wisdom holds that every prior wave of automation or innovation wiped out some jobs, but created new ones: 
 
@@ -25,9 +25,9 @@ Conventional wisdom holds that every prior wave of automation or innovation wipe
 
 Each of these revolutions fueled a replacement market with novel jobs. 
 
-Those new jobs weren't obvious to the people populating the eclipsed markets. The first cars were noisy, slow, and unreliable. There were no highways or gas stations. It would have taken a first-rate clairvoyant to foresee the complex and overwhelming vehicular landscape we now take for granted, never mind the variety of jobs needed to keep it moving. 
+Those new jobs weren't obvious to the people populating the eclipsed markets. The first cars were noisy, slow, and unreliable (see [Red Flag Laws](https://en.wikipedia.org/wiki/Red_flag_traffic_laws)). There were no freeways or gas stations. It would have taken a first-rate clairvoyant to foresee the complex and overwhelming vehicular landscape we now take for granted — and are trying to undo — never mind the variety of jobs needed to keep it moving. 
 
-Many smart folks [like Matt Stoller](https://www.thebignewsletter.com/p/why-are-we-pretending-ai-is-going) are saying we're overreacting. tktk 
+Many smart folks [like Matt Stoller](https://www.thebignewsletter.com/p/why-are-we-pretending-ai-is-going) are saying the doomsayers are overreacting. I hear them, but I'm still worried, partly because we're still early in this shift, yet people are drawing broad conclusions already. This post isn't meant as a conclusion, but as a warning about a phenomenon we should keep an eye on, because it affects how we act over time. 
 
 ## This time is different 
 
@@ -41,7 +41,7 @@ It's become cliché to cite Taleb’s [Black Swan](http://www.amazon.com/Black-S
 
 > Consider a turkey that is fed every day. Every single feeding will firm up the bird’s belief that it is the general rule of life to be fed every day by friendly members of the human race “looking out for its best interests,” as a politician would say. On the afternoon of the Wednesday before Thanksgiving, something unexpected will happen to the turkey. It will incur a revision of belief. (The Black Swan)
 
-I have a feeling we're living through a Turkey Moment. This time is different, but we are blind to the change, comforted by all those historic shifts that turned out ok. 
+I like "revision of belief." It's like "rapid unscheduled disassemblies" at SpaceX. I have a feeling we're living through a Turkey Moment. This time is different, but we are blind to the change. 
 
 ## Timing matters 
 
@@ -67,7 +67,7 @@ Takes ever fewer workers to do the same work. tktk
 
 Whole categories of work will disappear, and the people who were doing those jobs will have a hard time retraining for something that matches their old income. 
 
-GenAI's automation of work is happening so quickly that organizations likely don't have a good picture of the extent of the change. So-called [Shadow AI](https://www.ibm.com/think/topics/shadow-ai) masks much of the damage, because employees use the technology but don't say they are. Try tracking that so you can incorporate it into your decision-making, especially if trust is missing. 
+GenAI's automation of work is happening so quickly that organizations likely don't have a good picture of the extent of the change. So-called [Shadow AI](https://www.ibm.com/think/topics/shadow-ai) masks much of the damage: employees use the technology but don't say they are. Try tracking that so you can incorporate it into your decision-making, especially if trust is missing. 
 
 The mismatched timing is a big part of the problem. 
 
@@ -104,7 +104,9 @@ This post leaves several juicy nuggets on the table that are fodder for future p
 
 Conclusion here. 
 
-Where are you on the GenAI will eat all jobs! to Don't worry, there are always new jobs! spectrum? 
+This situation reminds me of [Kranzberg](https://en.wikipedia.org/wiki/Melvin_Kranzberg)'s First Law of Technology (of [six](https://bra.in/3j8B5k)): Technology is neither good nor bad; nor is it neutral. 
+
+Where are you on the "GenAI will eat all jobs! to Don't worry, there are always new jobs!" spectrum? 
 
 #futureofwork #dangersofAI #automation 
 
