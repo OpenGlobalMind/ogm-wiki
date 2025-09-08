@@ -45,17 +45,25 @@ I like "revision of belief." It's like "rapid unscheduled disassemblies" at Spac
 
 ## Timing matters 
 
-Previous similar shifts happened more slowly, so the traumatic bits had more breathing room to adjust. 
+Previous, similar shifts in employment happened more slowly, so the traumatic bits had more breathing room to adjust. 
 
-Karl Polanyi's 1944 book [The Great Transformation](https://bra.in/7pWEwo) is one of my favorites because it describes the changes that happened in Britain during the early Industrial Revolution. ([Here's](http://www.youtube.com/watch?v=rSuz01zvOjE) a taste of what I learned from the book.) Polanyi, an economic historian, describes the many efforts taken to try to protect those affected by the onrush of industrialization, including a variety of Poor Laws and the [Speenhamland System](http://en.wikipedia.org/wiki/Speenhamland_system), a kind of wage guarantee based on the price of a gallon bread. 
-
-Around 1590, Queen Elizabeth I refused William Lee's patent application for the [stocking frame](https://en.wikipedia.org/wiki/Stocking_frame) (making stockings was a huge cottage industry, keeping many households afloat), saying: 
+Take, for example, the Industrial Revolution. Around 1590, Queen Elizabeth I refused William Lee's patent application for the [stocking frame](https://en.wikipedia.org/wiki/Stocking_frame) (making stockings was a huge cottage industry, keeping many households afloat through piecework), saying: 
 
 > Thou aimest high, Master Lee. Consider thou what the invention could do to my poor subjects. It would assuredly bring to them ruin by depriving them of employment, thus making them beggars.
 
+Karl Polanyi's [The Great Transformation](https://bra.in/7pWEwo) (1944) is one of my favorite history books ([here's](http://www.youtube.com/watch?v=rSuz01zvOjE) a taste of what it taught me). It describes the changes that happened in Britain during the early Industrial Revolution. Polanyi, an economic historian, describes the many efforts taken to try to protect those affected by the onrush of industrialization, including a variety of Poor Laws and the [Speenhamland System](http://en.wikipedia.org/wiki/Speenhamland_system), a kind of wage guarantee based on the price of a gallon bread. They didn't work very well. Industrialization ran roughshod toward a future of "dark satanic mills."
+
+A more recent statistic I like to cite: At the time of the US Civil War (say 1865), roughly 80 percent of the population was engaged in growing or raising food. By World War I (1918), that number drops to 20 percent. Factories and offices (and agricultural progress) pulled most of the country off the farm. Today, it's 1.5 percent. The shift away from farm work really changed America, but happened over a century. 
+
 My, those old times look quaint. 
 
-Civil War 80 percent... tktk
+GenAI's automation of work is happening so quickly that tktktk. 
+
+What's worse, organizations likely don't have a good picture of the extent of the change today. So-called [Shadow AI](https://www.ibm.com/think/topics/shadow-ai) masks much of the damage: employees use the technology [but don't say they are](https://www.axios.com/2025/05/29/secret-chatgpt-workplace). How do you incorporate that data into your decision-making, especially if trust is missing? 
+
+The mismatched timing is a big part of the problem. 
+
+## Which jobs? 
 
 Dario Amodei's warning about white collar work. Entry level jobs going away. 
 
@@ -65,11 +73,7 @@ Frontier work now is Agentic AI, where we can leave the AIs alone and they will 
 
 Takes ever fewer workers to do the same work. tktk 
 
-Whole categories of work will disappear, and the people who were doing those jobs will have a hard time retraining for something that matches their old income. 
-
-GenAI's automation of work is happening so quickly that organizations likely don't have a good picture of the extent of the change. So-called [Shadow AI](https://www.ibm.com/think/topics/shadow-ai) masks much of the damage: employees use the technology but don't say they are. Try tracking that so you can incorporate it into your decision-making, especially if trust is missing. 
-
-The mismatched timing is a big part of the problem. 
+Whole categories of work will disappear, and the people who were doing those jobs will have a hard time retraining for something that matches their old income. [[The GenAI Job Reentry Dilemma]]. 
 
 As GenAI spreads unchecked through organizations, it is tearing holes in the workforce. But because [[GenAI Automates Tasks, Not Jobs]] (so far), tktktk. 
 
