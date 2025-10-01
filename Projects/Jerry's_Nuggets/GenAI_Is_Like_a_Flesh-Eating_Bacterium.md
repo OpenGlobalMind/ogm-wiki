@@ -2,7 +2,9 @@
 (draft) 
 *How this wave of innovation isn't like the others.* 
 
-Before diving in, a declaration: I love what Generative AI is capable of doing, and am optimistic we can figure out how to use it intelligently. That said... 
+Before diving in, two declarations: First, I love what Generative AI is capable of doing, and am optimistic we can figure out how to use it intelligently. Second, we're all trying to sense our way into the future; this is one such attempt, meant as observations, not clairvoyance.
+
+That said... 
 
 ![[j3rry_spiff_a_realistic_cube_of_steak_has_a_few_chunks_bitten_a9e2a45f-d54c-4a94-bed4-7b8a88a109a2_0.png]]
 
@@ -41,7 +43,7 @@ It's become cliché to cite Taleb’s [Black Swan](http://www.amazon.com/Black-S
 
 > Consider a turkey that is fed every day. Every single feeding will firm up the bird’s belief that it is the general rule of life to be fed every day by friendly members of the human race “looking out for its best interests,” as a politician would say. On the afternoon of the Wednesday before Thanksgiving, something unexpected will happen to the turkey. It will incur a revision of belief. (The Black Swan)
 
-I like "revision of belief." It's like "rapid unscheduled disassemblies" at SpaceX. I have a feeling we're living through a Turkey Moment. This time is different, but we are blind to the change. 
+I like "revision of belief." It's like the "rapid unscheduled disassemblies" at SpaceX. I have a feeling we're living through a Turkey Moment. This time is different, but we are blind to the change. 
 
 ## Timing matters 
 
@@ -51,13 +53,13 @@ Take, for example, the Industrial Revolution. Around 1590, Queen Elizabeth I ref
 
 > Thou aimest high, Master Lee. Consider thou what the invention could do to my poor subjects. It would assuredly bring to them ruin by depriving them of employment, thus making them beggars.
 
-Karl Polanyi's [The Great Transformation](https://bra.in/7pWEwo) (1944) is one of my favorite history books ([here's](http://www.youtube.com/watch?v=rSuz01zvOjE) a taste of what it taught me). It describes the changes that happened in Britain during the early Industrial Revolution. Polanyi, an economic historian, describes the many efforts taken to try to protect those affected by the onrush of industrialization, including a variety of Poor Laws and the [Speenhamland System](http://en.wikipedia.org/wiki/Speenhamland_system), a kind of wage guarantee based on the price of a gallon bread. They didn't work very well. Industrialization ran roughshod toward a future of "dark satanic mills."
+Karl Polanyi's [The Great Transformation](https://bra.in/7pWEwo) (1944) is one of my favorite history books ([here's](http://www.youtube.com/watch?v=rSuz01zvOjE) a taste of what it taught me). It describes the changes that happened in Britain during the early Industrial Revolution. Polanyi, an economic historian, describes the many efforts taken to try to protect those affected by the onrush of industrialization, including a variety of Poor Laws and the [Speenhamland System](http://en.wikipedia.org/wiki/Speenhamland_system), a kind of wage guarantee based on the price of a gallon bread. They didn't work very well. Industrialization ran roughshod toward a future of "dark satanic mills," which provoked their own waves of reform laws. 
 
-A more recent statistic I like to cite: At the time of the US Civil War (say 1865), roughly 80 percent of the population was engaged in growing or raising food. By World War I (1918), that number drops to 20 percent. Factories and offices (and agricultural progress) pulled most of the country off the farm. Today, it's 1.5 percent. The shift away from farm work really changed America, but happened over a century. 
+A more recent statistic I like to cite: At the time of the US Civil War (say 1865), roughly 80 percent of the population was engaged in growing or raising food. By World War I (1918), that number drops to 20 percent. Factories and offices (and agricultural progress) pulled most of the country off the farm in half a century. Today, the number is 1.5 percent. The shift away from farm work really changed America. 
 
 My, those old times look quaint. 
 
-GenAI's automation of work is happening so quickly that tktktk. 
+GenAI's automation of work is happening so quickly that many folks are jumping to conclusions based on slim early data coming from companies that have experimented with it. 
 
 What's worse, organizations likely don't have a good picture of the extent of the change today. So-called [Shadow AI](https://www.ibm.com/think/topics/shadow-ai) masks much of the damage: employees use the technology [but don't say they are](https://www.axios.com/2025/05/29/secret-chatgpt-workplace). How do you incorporate that data into your decision-making, especially if trust is missing? 
 
