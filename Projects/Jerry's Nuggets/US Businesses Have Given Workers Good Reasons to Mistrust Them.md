@@ -13,13 +13,14 @@ American workers have good reason to suspect that Management is trying to get ri
 - [Globalization](https://bra.in/4qVJEJ) was great for cheap consumer goods, bad for US workers. Nobody appeared to care. 
 - Policy makers [replaced](https://bra.in/6j45Qg) "Citizens" with "Consumers," thus changing policy goals from assuring citizens' rights to "everyday low prices!" 
 - No US Government, Democratic or Republican, moved significantly to help displaced workers. 
+- Digital surveillance is everywhere. 
 - Part-time work (where employers aren't liable for benefits) has been replacing full-time (though the data is squishy, because employers keep creating unusual working relationships). 
 - The shifts to part-time status are often involuntary. 
-- Worse, part-time workers often face [Zero-Hour Contracts](https://en.wikipedia.org/wiki/Zero-hour_contract) (no paid hours guaranteed) and [On-Call Worker Scheduling](https://bra.in/9vGyb9) (no pre-set schedule, so you can't take a second job). 
+- Worse, part-time workers often face [Zero-Hour Contracts](https://en.wikipedia.org/wiki/Zero-hour_contract) (no paid hours guaranteed), [On-Call Worker Scheduling](https://bra.in/9vGyb9) (no pre-set schedule, so you can't take a second job), and [wage theft](https://en.wikipedia.org/wiki/Wage_theft). 
 - Universities have been shifting teaching staff to [Contingent Faculty](https://en.wikipedia.org/wiki/Adjunct_professor), while bloating administrative expenses and amenities. They now compete as country clubs and sports franchises. 
 - Life in the modern Gig Economy, often seen as a life raft in difficult economic times, is very [precarious](https://bra.in/7jLJ4N). It's a very leaky life raft. 
 - US companies have consistently shifted risks onto workers, with no consideration in return. Long-haul truckers aren't paid for wait time at terminals. Flight attendants' pay clock only starts once the doors close on the plane. Teachers, health care workers and meatpackers are often not paid for essential prep time. 
 
 Here's this messy nexus [in my Brain](https://bra.in/2j3Dgr). 
 
-This is some of the evidence of how [[The Social Contract Is Broken]].  
+This is some of the evidence of how the social contract is broken. 
