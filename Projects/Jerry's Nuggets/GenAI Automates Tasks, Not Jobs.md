@@ -2,11 +2,11 @@
 (draft) 
 *But knock away enough tasks...* 
 
-In the late 1980s/early 1990s, I was a technology research analyst serving clients in the Advanced Technology Groups of major multinationals. My topic of focus then was neural networks, and in that field, the area of handwriting recognition looked like it might fit neural networks really well. 
+In the late 1980s/early 1990s, I was a technology research analyst serving clients in the Advanced Technology Groups of major multinationals. My topic of focus then was neural networks. Back then, the area of handwriting recognition looked like it might fit neural networks really well. 
 
 Reality proved to be more complicated. Accurate handwriting recognition turned out to be an amalgam of problems, such as ignoring the palm touching the screen; parsing words, then characters; disambiguating between conflicting meanings, and much more. Neural nets were a breakthrough for some of those elements, but needed to be integrated with other methods before reliable handwriting reco made it to market. 
 
-Much more recently, I was using radiology as an example of a field that Generative AI might sweep through. That is, until I read [this article](https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists), which did a great job of describing the complexities that make it unlikely that radiology will be taken over by GenAI in the near future. 
+Much more recently, I was thinking radiology was a great example of a field that Generative AI might sweep through. That is, until I read [this article](https://www.worksinprogress.news/p/why-ai-isnt-replacing-radiologists), which did a great job of describing the complexities that make it unlikely that radiology will be taken over by GenAI in the near future. 
 
 So I've been using tasks as a unit of measure, not jobs. However, that doesn't mean jobs aren't in trouble. 
 
