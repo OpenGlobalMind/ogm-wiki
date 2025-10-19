@@ -13,7 +13,6 @@ More recently, I was thinking radiology was a great example of a field that Gene
 Scaling back my ambitions for technology's advance, I've been using *tasks* as a unit of measure for that progress, not jobs. And it seems hard to argue that tasks aren't being knocked off by GenAI, one after the other. 
 
 However, that doesn't mean jobs aren't in trouble. 
-
 ## Stepping through the process 
 
 The first such task you successfully automate is likely a small victory. You've mastered this new technology enough to knock out a piece of drudge work. Huzzah! 
@@ -28,8 +27,13 @@ Each task that you automate punches a hole in people's job descriptions. If you'
 
 In the workplace setting, how many tasks can we remove from your job description before we need to redesign your job dramatically? 
 
+## Are we that flexible?
 
+We're already seeing the bow wave of this change in large-scale job shifts, such as Salesforce saying tktktk and tktktk. 
 
+Augment vs replace. 
+
+We've been making sure people stay in their lanes and hit their KPIs or 
 ## But, but...
 
 Experienced readers will have noted that this process should move quickly in high-trust organizations, but may bog down in low-trust ones. 

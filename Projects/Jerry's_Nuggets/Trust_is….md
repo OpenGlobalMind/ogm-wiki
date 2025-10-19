@@ -2,27 +2,29 @@
 
 Trust is foundational, specific, built over time, indirect, emergent, transitive, contagious, fragile and complicated. Let’s look at each in turn. 
 
-**Foundational**: We are social creatures. We wouldn’t make it very far without other humans. Many of our brains have been overtaken by a narrative that life is nasty, brutish and short, and that if only we all pursue our greedy self-interest, an invisible hand will guide the larger economy to an equilibrium. That’s all hogwash. 
+**Foundational**: We are social creatures. We wouldn’t make it very far without other humans. Many of our brains have been occupied by a narrative that life is nasty, brutish and short, and that if only we all pursue our greedy self-interest, an invisible hand will guide the larger economy to an equilibrium. That’s all hogwash. 
 
 Again, we are social creatures, born to learn and cooperate. The invisible hand is a convenient fiction, invented to make an unstable system seem more stable. Trust is the catalyst that enables that cooperation. Without collaboration, the system is inherently unstable. 
 
-**Specific**: For example, I would trust my friend David Reed with my vote on any issue in the realm of telecommunications. He could confidently vote my proxy in that domain. But I have no idea if I could trust him to cook a dinner for 10 people. 
+**Specific**: For example, I would trust my friend David Reed with my vote on any issue in the realm of telecommunications. He could confidently vote my proxy in that domain. But I have no idea if I could trust him to cook a dinner for 6 people. 
 
-Shift domains and your quanta of trust shift. I know several absent-minded friends you wouldn’t want to trust with small children. 
+Shift domains and your quanta of trust shift. I have several absent-minded friends you wouldn’t want to trust with small children. 
 
 If you do a brief inventory of your relationships along the axis of trust, you’ll quickly discover surprises, on the upside as well as the down. Some of your friends or colleagues will suddenly pop out as being remarkably trustworthy; others will reveal a pattern that is the opposite.
 
-**Built over time**: Since a large aspect of trust is predictability, doing things consistently over time is a time-honored way of becoming trustworthy. 
+**Built over time**: Since a large aspect of trust is predictability, doing things consistently over time is a well-known way of becoming trustworthy. 
+
+This may sound counterintuitive, but a few accidents or mistakes along the way will deepen trust — but only if they're dealt with well. Lack of bumps in the road means we don't know how the other party will react when things go off the rails. (See Fragile, below.)
 
 **Indirect**: “I’m going to make you trust me” isn’t a particularly clever thing to say. It sounds doomed from the start, doesn’t it? Much better that I did various things that demonstrated my trustworthiness, especially if I never mentioned how trustworthy they made me seem. That latter move would be another faux pas. 
 
-Like community and happiness, trust doesn’t thrive when you aim straight at it. You have to take an oblique approach. 
+Like community and happiness, trust doesn’t thrive when you make it explicit. You have to take an [oblique](https://en.wikipedia.org/wiki/Oblique_Strategies) approach. 
 
 **Emergent**: Just like you shouldn’t aim right at trust, you also can’t order trust into being. It shows up when conditions are right. It unfolds. Blossoms. Grows. Thrives. And often implodes. 
 
 You can’t take trust for granted.
 
-**Transitive**: When one of my trusted friends recommends I talk with someone, I set up that conversation right away. When they send me articles they think I should read, I read them. 
+**Transitive**: When one of my trusted contacts recommends I talk with someone, I set up that conversation right away. When they send me articles they think I should read, I try hard to read them. 
 
 Personal recommendations are typically the most powerful path for new things to become familiar things. 
 
