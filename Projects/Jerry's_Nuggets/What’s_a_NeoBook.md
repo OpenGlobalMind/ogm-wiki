@@ -2,6 +2,8 @@
 (draft) 
 *Rethinking how ideas have sex.* 
 
+If you deduced "new" and "book," you're on the right path, but tktktk.
+
 First, a NeoBook looks like a book, which is a recognizable cultural artifact. Smart people put their knowledge inside books, right? 
 
 But the book aspect of a NeoBook is just a starting point, a familiar frame of reference. From there, things get really interesting, because:
