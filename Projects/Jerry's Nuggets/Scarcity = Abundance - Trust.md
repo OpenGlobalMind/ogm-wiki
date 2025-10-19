@@ -16,6 +16,8 @@ To start, here's a virtual talk I gave in the Early Pandemic for the [ExO](https
 
 I've put the video's transcript [[Scarcity = Abundance - Trust (transcript)|here]]. See it in full context in my Brain, [here](https://bra.in/4p6QZP). 
 
+Tragedy of the Commons. 
+
 
 
 The Ur-post lives here. 
