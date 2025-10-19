@@ -20,4 +20,4 @@ This book has a double introduction because it is a new kind of book, a NeoBook,
 
 [[DfT Back Matter]]  
 
-This book is intertwingled with [[WIWTY Book Contents (the ToC)]]. 
+This book is intertwingled with a parallel NeoBook, which you can browse at [[WIWTY Book Contents (the ToC)]]. 
