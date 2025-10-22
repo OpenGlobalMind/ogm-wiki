@@ -1,6 +1,8 @@
-# Stewardship vs. Ownership
+# Let's Help Ideas Have Sex
  (draft) 
- *Must we own everything separately?* 
+*These days, they're stuck.* 
+
+[[Books and PDFs Are Where Ideas Go to Die]]. 
 
 The 
 

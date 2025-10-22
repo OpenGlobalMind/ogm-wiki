@@ -2,7 +2,7 @@
  (draft) 
 *How-to?*
 
-See [[Implementing Design from Trust]]. 
+See [[Implementing Design from Trust]], [[Principles of Design from Trust]]. 
 
 The 
 

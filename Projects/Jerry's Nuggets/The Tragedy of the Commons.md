@@ -1,6 +1,6 @@
-# Stewardship vs. Ownership
+# The Tragedy of the Commons
  (draft) 
- *Must we own everything separately?* 
+*A tragic meme that ate our brainz.* 
 
 The 
 

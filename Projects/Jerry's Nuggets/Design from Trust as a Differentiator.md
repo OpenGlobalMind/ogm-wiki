@@ -1,4 +1,4 @@
-# Design from Trust Is a Differentiator
+# Design from Trust as a Differentiator
  (draft) 
 *Want your org to stand apart? Try trust.* 
 

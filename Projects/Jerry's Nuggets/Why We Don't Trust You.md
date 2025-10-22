@@ -1,6 +1,6 @@
-# Stewardship vs. Ownership
+# Why We Don't Trust You
  (draft) 
- *Must we own everything separately?* 
+*Some pretty good reasons!* 
 
 The 
 
