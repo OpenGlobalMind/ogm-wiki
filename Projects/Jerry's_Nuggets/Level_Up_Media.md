@@ -23,5 +23,7 @@ To level up media, let's:
 - [[Turbocharge Pattern Languages]] 
 - Neuter Social Media's Addictive Business Model 
 
+See our wishlist of [[ATproto Apps]]. 
+
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain. 
