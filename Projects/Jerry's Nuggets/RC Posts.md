@@ -83,14 +83,15 @@ Join my Substack
 
 ### Design from Trust Posts (#DesignfromTrust)
 - [[My Story of Trust]] (done) 
-- [[Designing a Better Future]] 
+- [[Designing a Better Future Together]] 
+- [[How We Receive Matters]] 
 - [[Scarcity = Abundance - Trust]] 
 - [[Design from Trust in my External Brain]] (a Tour) 
 - [[People are Generally More Trustworthy Than We Think They Are]] 
 - [[Be Undefended, Not Defenseless]] 
 - [[Not Naïve Trust]] 
 - [[Trust's Many Facets]] 
-- In Today's Political Climate 
+- In Today's Political 
 - [[We Are Often Blind to Design from Trust]] 
 - [[The 2 Oh Shit!s]] 
 - [[Why You Love Design from Trust Already]] 
