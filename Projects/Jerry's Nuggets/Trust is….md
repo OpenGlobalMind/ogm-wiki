@@ -54,7 +54,7 @@ See Fragile, above.
 
 **Complicated**: So trust is Fragile, Indirect, Emergent and all sorts of things nobody’s trained us to be good at. Why bother? Because it's Foundational. 
 
-Ah, one more, building on Fragile again. 
+Ah, one more. 
 
 **Stronger after it breaks**: Amplifying on Fragile and Built Over Time above, you can screw something up and raise your trust in others' eyes. It all depends on how you deal with the screwup. 
 
