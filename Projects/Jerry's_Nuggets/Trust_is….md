@@ -2,6 +2,8 @@
  (draft) 
 *Complicated, central, and fun!* 
 
+![[Gemini_Generated_Image_jvl5hyjvl5hyjvl5.png]]
+
 Trust is foundational, specific, built over time, indirect, emergent, transitive, contagious, fragile and complicated. Let’s look at each in turn. 
 
 **Foundational**: We are social creatures. We wouldn’t make it very far without other humans. 
@@ -19,6 +21,8 @@ If you do a brief inventory of your relationships along the axis of trust, you�
 **Built over time**: Since a large aspect of trust is predictability, doing things consistently over time is a well-known way of becoming trustworthy. 
 
 This may sound counterintuitive, but a few accidents or mistakes along the way will deepen trust — but only if they're dealt with well. Lack of bumps in the road means we don't know how the other party will react when things go off the rails. (See Fragile, below.)
+
+![[j3rry_spiff_using_only_symbols_wave_forms_and_patterns_illust_150aff98-cd21-4559-888e-73a4bbbf3372_0.png]]
 
 **Indirect**: “I’m going to make you trust me” isn’t a particularly clever thing to say. It sounds doomed from the start, doesn’t it? Much better that I did various things that demonstrated my trustworthiness, especially if I never mentioned how trustworthy they made me seem. That latter move would be another faux pas. 
 
@@ -40,7 +44,7 @@ Trust has a resonance you can sometimes feel, outside of normal channels of comm
 
 Mistrust is also contagious. You've likely been in a room where things are going great, then someone really sticks their foot in it. They say or do something that cracks the trust in the room. Maybe they reveal a secret inappropriately, or dress someone down very harshly who doesn't deserve it. You see body language shift, people lean back and cross their arms. The excitement dies down. Trust vanishes. 
 
-**Fragile**: We’re all aware how easy it is to lose trust, to break the bonds of credibility that let others believe and follow us. It’s frustrating, because there isn’t an amount of money you can pay to create trust with certainty. 
+**Fragile**: We’re all aware how easy it is to lose trust, to break the bonds of credibility that let others believe and follow us. It’s frustrating, because there isn’t an amount of money you can pay to create trust with certainty (see Indirect and Emergent). 
 
 **Internal**: Trust is about your intentions and beliefs. You can try to wallpaper over these by faking trustworthiness, but the internal work is essential. The truth works its way out. 
 
@@ -48,13 +52,17 @@ That said, there are many companies ready and willing to help your enterprise ap
 
 See Fragile, above.
 
-**Complicated**: So trust is fragile, indirect, emergent and all sorts of things nobody’s trained us to be good at. Why bother? Because it's Foundational. 
+**Complicated**: So trust is Fragile, Indirect, Emergent and all sorts of things nobody’s trained us to be good at. Why bother? Because it's Foundational. 
 
 Ah, one more, building on Fragile again. 
 
-**Stronger after it breaks**: Amplifying on Built Over Time, you can screw something up and raise your trust in others' eyes. It all depends on how you deal with the screwup. If you dodge and obfuscate, you reveal yourself as even less trustworthy than others thought. But if you admit the problem, share openly how you're fixing it and make sure it never shows up again, you may end up being more trustworthy than before the problem showed up, when things were hunky-dory. 
+**Stronger after it breaks**: Amplifying on Built Over Time, you can screw something up and raise your trust in others' eyes. It all depends on how you deal with the screwup. 
 
-In my more cynical moments I argue that [without crises](https://atlc.org/members/resources/four_stages_community.html), trust isn’t tested, so trust is likely not as strong as it could be. Unfortunately, prosperity breeds complacency.
+If you dodge and obfuscate, you reveal yourself as even less trustworthy than others thought. But if you admit the problem, share openly how you're fixing it and take steps to make sure it never shows up again, you may end up being more trustworthy than before the problem showed up, when things were hunky-dory. 
+
+In my more cynical moments I argue that [without crises](https://atlc.org/members/resources/four_stages_community.html), trust isn’t tested, so trust is likely not as strong as it could be. 
+
+Unfortunately, prosperity breeds complacency.
 
 To explore that point, imagine for a moment that you lived in the former East Germany, where one citizen in ten was an informant, reporting others’ actions to the Stasi, the state police. At the surface level, East Germany was clearly a broken, low-trust society. But the way most people got by was through the grey or black markets, more specifically through personal, informal networks of care. 
 
