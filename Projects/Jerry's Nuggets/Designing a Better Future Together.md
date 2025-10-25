@@ -22,11 +22,13 @@ Then I found the thread that connected their initiatives: trust. Now, trust is i
 
 tl;dr 
 
-Believe it or not, my catalyst for insight was the word "consumer." 
+Believe it or not, my catalyst for insight was the word "[consumer](https://www.youtube.com/watch?v=4VfeuITmNUk)." 
 
-Somehow, over the past multiple decades, we lost faith in humans. Then we designed all our institutions as if everyone was a bad actor. 
+[Somehow](https://wiki.openglobalmind.com/projects/jerry's_nuggets/my_story_of_trust), over the past multiple decades (and centuries), we lost faith in humans. Then we designed all our institutions as if everyone was a bad actor. 
 
-This wasn't always so. Long ago, we figured out how to live in community, on the Commons. 
+What's worse, we adapted, we got used to it. We take mistrust completely for granted now. We've normalized it so well that mistrust is the default setting and we're startled when that setting switches. 
+
+This wasn't always so. Long ago, we figured out [[We Used to Know How to Live in Community on the Commons|how to live in community, on the Commons]]. It was hard-won wisdom, and we've forgotten most of it. 
 
 Not naïve trust. 
 
@@ -35,17 +37,22 @@ Reality check.
 It seems trust is in tatters these days. 
 
 But trust:
-- Is cheaper than control 
+- Is [[Trust Is Cheaper Than Control|cheaper than control]]  
 - Builds community 
-- Unlocks our genius 
-- Begets abundance 
-- Feels great 
+- Unlocks genius 
+- Begets [abundance](https://www.youtube.com/watch?v=rlo8d7F5hdo&feature=youtu.be) 
+- Differentiates you 
+- Feels great (even when it's scary) 
 
-Requires thoughtful design. 
+It's also fragile. And [[Trust is…|more]]. 
 
-Principles of DfT. 
+Requires thoughtful (re)design. You can't just bolt it on. 
 
-Trust is the (only) way forward. We have an opportunity to redesign everything from trust. 
+Building on the [Principles of Design from Trust](https://bra.in/5jkNwq), tktktk. 
+
+Lovely ideas spill out when you flip the telescope, such as [[Scarcity = Abundance - Trust]] and [[The Joy Line]]. Well, and Design from Trust 😁. 
+
+[[Trust Is the (Only) Way Forward|Trust is the (only) way forward]]. We have an opportunity to redesign everything from trust. 
 
 If we do this right, we might get a [Betterverse](https://www.thebetterverse.org/). 
 

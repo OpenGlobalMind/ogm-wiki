@@ -1,16 +1,20 @@
 # Trust is...
+ (draft) 
+*Complicated, central, and fun!* 
 
 Trust is foundational, specific, built over time, indirect, emergent, transitive, contagious, fragile and complicated. Let’s look at each in turn. 
 
-**Foundational**: We are social creatures. We wouldn’t make it very far without other humans. Many of our brains have been occupied by a narrative that life is nasty, brutish and short, and that if only we all pursue our greedy self-interest, an invisible hand will guide the larger economy to an equilibrium. That’s all hogwash. 
+**Foundational**: We are social creatures. We wouldn’t make it very far without other humans. 
 
-Again, we are social creatures, born to learn and cooperate. The invisible hand is a convenient fiction, invented to make an unstable system seem more stable. Trust is the catalyst that enables that cooperation. Without collaboration, the system is inherently unstable. 
+Alas, many of our brains have been occupied by a narrative that life is nasty, brutish and short, and that if only we all pursue our greedy self-interest, an invisible hand will guide the larger economy to an equilibrium. That’s all hogwash. 
 
-**Specific**: For example, I would trust my friend David Reed with my vote on any issue in the realm of telecommunications. He could confidently vote my proxy in that domain. But I have no idea if I could trust him to cook a dinner for 6 people. 
+Again, we are social creatures, born to learn and cooperate. The invisible hand is a convenient fiction, invented to make an unstable system seem more stable. Trust is the catalyst that enables that cooperation. Without collaboration, the system is inherently unstable. Trust is central. 
 
-Shift domains and your quanta of trust shift. I have several absent-minded friends you wouldn’t want to trust with small children. 
+**Specific**: I would trust my friend David Reed with my vote on any issue in the realm of telecommunications. He could confidently vote my proxy in that domain. But I have no idea if I could trust him to cook a dinner for 6 people. 
 
-If you do a brief inventory of your relationships along the axis of trust, you’ll quickly discover surprises, on the upside as well as the down. Some of your friends or colleagues will suddenly pop out as being remarkably trustworthy; others will reveal a pattern that is the opposite.
+Shift domains and your quanta of trust shift. I have several absent-minded friends you wouldn’t want to trust with small children. They'd forget them at the park. 
+
+If you do a brief inventory of your relationships along the axis of trust, you’ll quickly discover surprises, on the upside as well as the down. Some of your friends or colleagues will suddenly pop out as being remarkably trustworthy; others will reveal a pattern that is the opposite. But those variances may happen within individuals, so that one person is highly trustworthy in one area and not so much in another. 
 
 **Built over time**: Since a large aspect of trust is predictability, doing things consistently over time is a well-known way of becoming trustworthy. 
 
@@ -32,7 +36,9 @@ Sometimes personal recommendations fail, as happened to investors convinced that
 
 **Contagious**: Have you had the experience, on entering a group’s conversation, of realizing that they’re operating at a very deep level of trust? Has this inspired you to say or do things you normally wouldn’t? 
 
-Trust has a resonance you can sometimes feel, outside of normal channels of communication.
+Trust has a resonance you can sometimes feel, outside of normal channels of communication. 
+
+Mistrust is also contagious. You've likely been in a room where things are going great, then someone really sticks their foot in it. They say or do something that cracks the trust in the room. Maybe they reveal a secret inappropriately, or dress someone down very harshly who doesn't deserve it. You see body language shift, people lean back and cross their arms. The excitement dies down. Trust vanishes. 
 
 **Fragile**: We’re all aware how easy it is to lose trust, to break the bonds of credibility that let others believe and follow us. It’s frustrating, because there isn’t an amount of money you can pay to create trust with certainty. 
 
@@ -42,11 +48,13 @@ That said, there are many companies ready and willing to help your enterprise ap
 
 See Fragile, above.
 
-**Complicated**: So trust is fragile, indirect, emergent and all sorts of things nobody’s trained us to be good at. Why bother? tktktk
+**Complicated**: So trust is fragile, indirect, emergent and all sorts of things nobody’s trained us to be good at. Why bother? Because it's Foundational. 
 
-I can screw something up and raise my trust. It all depends on how I deal with the screwup. If I dodge and obfuscate, I reveal myself as even less trustworthy than you thought. But if I admit the problem, share openly how I’m fixing it and make sure it never shows up again, I may end up being more trustworthy than before the problem showed up, when things were hunky-dory. 
+Ah, one more, building on Fragile again. 
 
-In fact, in my more cynical moments I argue that without crises, trust isn’t tested, so on average, trust is likely not as strong as it could be. Unfortunately, prosperity breeds complacency.
+**Stronger after it breaks**: Amplifying on Built Over Time, you can screw something up and raise your trust in others' eyes. It all depends on how you deal with the screwup. If you dodge and obfuscate, you reveal yourself as even less trustworthy than others thought. But if you admit the problem, share openly how you're fixing it and make sure it never shows up again, you may end up being more trustworthy than before the problem showed up, when things were hunky-dory. 
+
+In my more cynical moments I argue that [without crises](https://atlc.org/members/resources/four_stages_community.html), trust isn’t tested, so trust is likely not as strong as it could be. Unfortunately, prosperity breeds complacency.
 
 To explore that point, imagine for a moment that you lived in the former East Germany, where one citizen in ten was an informant, reporting others’ actions to the Stasi, the state police. At the surface level, East Germany was clearly a broken, low-trust society. But the way most people got by was through the grey or black markets, more specifically through personal, informal networks of care. 
 
@@ -54,3 +62,7 @@ Because the possible punishments for stepping outside the official system includ
 
 This is one reason soldiers miss war.
 
+For more background, browse around these [trust definitions and models](https://bra.in/4jY6RA). 
+
+--- 
+This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
