@@ -83,6 +83,8 @@ Join my Substack
 
 ### Design from Trust Posts (#DesignfromTrust)
 - [[My Story of Trust]] (done) 
+- [[Trust is…]] 
+- [[Trust Is Cheaper Than Control]] 
 - [[Designing a Better Future Together]] 
 - [[How We Receive Matters]] 
 - [[Scarcity = Abundance - Trust]] 
