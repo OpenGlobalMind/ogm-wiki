@@ -1,16 +1,16 @@
 # Trust is...
  
-*Complicated, central, and fun!* 
+*Complicated and foundational* 
 
 ![[Gemini_Generated_Image_jvl5hyjvl5hyjvl5.png]]
 
-Trust is foundational, specific, built over time, indirect, emergent, transitive, contagious, fragile and complicated. Let’s look at each in turn. 
+Trust is foundational, specific, built over time, indirect, emergent, transitive, contagious, fragile, internal, and complicated. Let’s look at each in turn. 
 
 **Foundational**: We are social creatures. We wouldn’t make it very far without other humans. 
 
-Alas, many of our brains have been occupied by a narrative that life is nasty, brutish and short, and that if only we all pursue our greedy self-interest, an invisible hand will guide the larger economy to an equilibrium. That’s all hogwash. 
+Get three or more people in a room or on a project and trust issues show up with them. Raise the stakes, and trust issues jump to the front of the line. 
 
-Again, we are social creatures, born to learn and cooperate. The invisible hand is a convenient fiction, invented to make an unstable system seem more stable. Trust is the catalyst that enables that cooperation. Without collaboration, the system is inherently unstable. Trust is central. 
+The story of humanity is one of betrayals and cooperations. Whether we can trust a particular person or group is one of our key concerns, often because we'd like to be on the right side of those betrayals and cooperations. 
 
 **Specific**: I would trust my friend David Reed with my vote on any issue in the realm of telecommunications. He could confidently vote my proxy in that domain. But I have no idea if I could trust him to cook a dinner for 6. 
 
@@ -32,7 +32,7 @@ Like community and happiness, trust doesn’t thrive when you make it your expli
 
 You can’t take trust for granted.
 
-**Transitive**: When one of my trusted contacts recommends I talk with someone, I set up that conversation right away, and I start that conversation leaning in to discovering the thing my contact thought I would groove on. When they send me articles or videos they think I should see, I try hard to absorb them (though that stack is outta control). 
+**Transitive**: When one of my trusted contacts recommends I talk with someone, I set up that conversation right away, and I start that conversation leaning in to discovering the thing my contact thought I would groove on. When they send me articles or videos they think I should see, I try hard to absorb them (emphasis on *try*). 
 
 Personal recommendations are typically the most powerful path for new things to become familiar things. 
 
@@ -64,15 +64,9 @@ If you dodge and obfuscate, you reveal yourself as even less trustworthy than ot
 
 In my more cynical moments I argue that [without crises](https://atlc.org/members/resources/four_stages_community.html), trust isn’t tested, so trust is likely not as strong as it could be. 
 
-Unfortunately, prosperity breeds complacency.
-
-To explore that point, let's explore its opposite. Imagine for a moment that you lived in the former East Germany, where one citizen in seven was an informant, reporting others’ actions to the [Stasi](https://bra.in/5j89Rb), the state police. At the surface level, East Germany was clearly a broken, low-trust society. But the way most citizens got by was through the grey or black markets, more specifically through personal, informal, underground networks of care. 
-
-Because the possible punishments for stepping outside the official system include imprisonment or worse, the stakes in these underground networks are very high. Those high stakes pressure-test trust between individuals. They anneal it and strengthen it, to the point where once the high stakes are gone and life is more “normal,” say after the fall of the Iron Curtain, people may become nostalgic for the bygone era, however dysfunctional it may have been ("[Ostalgie](https://en.wikipedia.org/wiki/Ostalgie)"). 
-
-This bonding pressure of high-stakes environments is one reason soldiers miss war. High stakes lead to high trust. Prosperity can't hold a candle to that. 
-
 For more background on trust, browse around these [trust definitions and models](https://bra.in/4jY6RA). 
+
+#trust #designfromtrust #community #society 
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
