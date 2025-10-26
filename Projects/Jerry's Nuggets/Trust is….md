@@ -69,4 +69,4 @@ For more background on trust, browse around these [trust definitions and models]
 #trust #designfromtrust #community #society 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/trust-is?r=1173&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true), Medium [here](https://jerrymichalski.medium.com/trust-is-c5e71c6b49a5) and LinkedIn [here](https://www.linkedin.com/pulse/trust-jerry-michalski-gcgyc). It's also [here](https://bra.in/3pxm86) in [[Jerry's Brain|my Brain]]. 
