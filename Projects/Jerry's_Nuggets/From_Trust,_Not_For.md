@@ -10,4 +10,7 @@ Picking the Goldilocks-sized dialog box is what Gebbia means by Design for Trust
 
 In contrast, Design from Trust begins from the assumption that most people who will use the good or service are trustworthy. Most, but [[Not Naïve Trust|not everyone]]. Starting from trust leads to radically different designs, which are often uncomfortable to humans raised in an environment where distrust is the norm, and where distrust permeates the design of most institutions we take for granted. 
 
-In 2018 I posted [this video](https://www.youtube.com/watch?v=nVgqsElvISM) explaining the difference. 
+In 2018 I posted [this video](https://www.youtube.com/watch?v=nVgqsElvISM) explaining the difference: 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nVgqsElvISM?si=rjQr1k5qd3LQlCdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

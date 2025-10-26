@@ -14,9 +14,9 @@ What do the following have in common?
 
 They all share a dependence on trust. 
 
-The idea for Design from Trust lit up in my brain around 2012, when I realized that many of my longtime role models — the people who innovated the things I listed above — had a couple profound things in common. 
+The idea for Design from Trust lit up in my brain around 2012, when I realized that many of my longtime role models — the people who innovated the things I listed above — had several profound things in common. 
 
-First, I realized most of them were contrarians. The message they were carrying was difficult enough for their peers to hear that they were often dissed or marginalized in their disciplines. Give people with no collateral loans? No way! Let any fool on the planet edit the Wikipedia? Are you nuts? Remove traffic lights? Seriously? You see what I mean. 
+First, I realized most of them were contrarians. The message each of them was carrying was difficult enough for their peers to hear that they were often dissed or marginalized in their disciplines. Give people with no collateral loans? No way! Let any fool on the planet edit the Wikipedia? Are you nuts? Remove traffic lights? Seriously? You see what I mean. 
 
 Then I found the thread that connected their initiatives: trust. Now, trust is involved in any system that has more than two humans in it, so I don't mean trust broadly, but rather a more specific take on it that I came to call Design from Trust. 
 
@@ -41,12 +41,12 @@ But trust:
 - Builds community 
 - Unlocks genius 
 - Begets [abundance](https://www.youtube.com/watch?v=rlo8d7F5hdo&feature=youtu.be) 
-- Differentiates you 
+- Differentiates you (especially in low-trust times)
 - Feels great (even when it's scary) 
 
 It's also fragile. And [[Trust is…|more]]. 
 
-Requires thoughtful (re)design. You can't just bolt it on. 
+Designing from ([[From Trust, Not For|not for]]) trust requires thoughtful (re)design and a "mirror." You can't just bolt it on. 
 
 Building on the [Principles of Design from Trust](https://bra.in/5jkNwq), tktktk. 
 
