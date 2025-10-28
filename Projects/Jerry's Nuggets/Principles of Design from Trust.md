@@ -14,15 +14,16 @@ That said, here's' the starting set of Principles (listed alphabetically):
 
 - [[Assume Good Faith]]  
 - [[Be Undefended, Not Defenseless]]  
+- [[Nurture the Commons]] 
 - [[Choose Abundance]]  
 - [[Don't Design All Risks Out]]  
 - [[Knowledge Should Accumulate]]  
 - [[Lift as We Climb]]  
+- [[Work with the System, Not Against It]] 
 - [[Make the Right Thing Easy To Do]]  
 - [[Move Upstream Until Your Actions Can be Effective]]  
 - [[Not Naïve Trust]] 
 - [[Nothing About Us Without Us]]  
-- [[Nurture the Commons]] 
 - [[Subsidiarity]] (local knows best)  
 - [[Trust Is Participatory]]  
 - [[We're Citizens, Not Consumers]]  
