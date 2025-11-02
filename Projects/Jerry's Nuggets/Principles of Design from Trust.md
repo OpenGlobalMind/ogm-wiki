@@ -17,6 +17,7 @@ That said, here's' the starting set of Principles (listed alphabetically):
 - [[Nurture the Commons]] 
 - [[Choose Abundance]]  
 - [[Don't Design All Risks Out]]  
+- [[Serve, Don’t Stalk]] 
 - [[Knowledge Should Accumulate]]  
 - [[Lift as We Climb]]  
 - [[Work with the System, Not Against It]] 

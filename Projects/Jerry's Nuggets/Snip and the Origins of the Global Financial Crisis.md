@@ -2,15 +2,15 @@
 (draft) 
 *Severing ties to long-term outcomes ends badly.*
 
-Early in our Pandemic, compelled by a series of ideas that clicked together in my brain (the wet, onboard, organic one), I created three videos to explain how we got into the [Global Financial Crisis](https://en.wikipedia.org/wiki/2008_financial_crisis) of 2008-2009, also known as the Subprime Crisis. 
+Early in our Pandemic, compelled by a series of ideas that clicked together in my brain (the wet, onboard, organic one),and inspired the the book and film versions of [The Big Short](https://bra.in/2j3kAr), I created three videos to explain how we got into the [Global Financial Crisis](https://en.wikipedia.org/wiki/2008_financial_crisis) of 2008-2009, which started as the Subprime Crisis, then snowballed. 
 
 Here's the tl;dr:
 
 - Many different parties at many different times "snipped" the long-term relations that held the financial system together. For example: 
-	- Bankers who knew and helped their clients (think Jimmy Stewart in [It's a Wonderful Life](http://en.wikipedia.org/wiki/It's_a_Wonderful_Life)) through the life of a loan got replaced by transactional layers (loan originators immediately sell mortgages to securities houses, which dice and package them up into hybrid securities) and nearly incomprehensible financial instruments. 
-	- The ratings houses — Moody's, Fitch, and Standard & Poor's — started rating most anything as AAA (least risk), fearing the next house would say yes if they said no. 
+	- Bankers who knew and helped their clients through the life of a loan (think Jimmy Stewart in [It's a Wonderful Life](http://en.wikipedia.org/wiki/It's_a_Wonderful_Life)) got replaced by transactional layers (loan originators immediately sell mortgages to securities houses, which dice and package them up into hybrid securities) and nearly incomprehensible financial instruments. 
+	- The ratings houses — Moody's, Fitch, and Standard & Poor's — started rating most anything as AAA (least risk), fearing the next house would say yes if they said no to any incoming security they had to rate. 
 	- The major investment banks — Salomon, Lehman and Goldman — went public. Instead of being partnerships where partners' reputations and assets were on the line, long term, they were now playing with [OPM](https://www.urbandictionary.com/define.php?term=OPM). 
-	- "Foreclosure Phil" Gramm and others got rid of [Glass-Steagall](https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation), allowing all banks to speculate. 
+	- "Foreclosure Phil" Gramm and others got rid of [Glass-Steagall](https://en.wikipedia.org/wiki/Glass%E2%80%93Steagall_legislation), allowing (forcing) all banks to speculate. 
 	- Lawrence Summers, Robert Rubin, and Alan Greenspan [kept](https://seekingalpha.com/article/198197-why-derivatives-caused-financial-crisis) Brooksley Born from regulating derivatives. 
 	- Bob Lewis, AIG's Chief Risk Officer, inexplicably approved Credit Default Swaps, which allow you to insure assets (derivatives) you don't own. 
 - The exotic new derivatives offered juicy returns because they were based on flawed assumptions (housing prices will never go down!). 
