@@ -8,7 +8,9 @@ I'm focusing the Rethink the Future podcast on ways of co-creating a better futu
 
 A longtime TEDx licensee and motive power behind TEDxBend, Moe gave a talk at TEDxSalem that sparked this podcast conversation. It's titled [Loving Men: Rethinking Women’s Role in Defining Masculinity](https://www.youtube.com/watch?v=n7KVrxjkmic). 
 
+Moe and I let this conversation range freely, so we could bring different facets of the dynamics for boys and men into focus and see how they influence one another. You can watch the episode here: 
 
+video here 
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
