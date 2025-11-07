@@ -86,6 +86,7 @@ Join my Substack
 - [[Trust is…]] (done) 
 - [[Trust Is Cheaper Than Control]] 
 - [[Designing a Better Future Together]] 
+- [[But Trust Doesn’t Scale]]! 
 - [[How We Receive Matters]] 
 - [[Scarcity = Abundance - Trust]] 
 - [[Design from Trust in my External Brain]] (a Tour) 
