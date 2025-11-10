@@ -2,6 +2,8 @@
  (draft) 
 *Through Design from Trust.* 
 
+![[j3rry_spiff_an_urban_planner_sketches_herself_into_a_wide-ang_bc3c653c-7085-4e1e-89bf-3e719b83ca48_2.png]]
+
 What do the following have in common? 
 - The Internet 
 - [Horse whispering](https://en.wikipedia.org/wiki/Natural_horsemanship) 
@@ -65,15 +67,19 @@ I can't blame you for being skeptical. It's certainly time for a reality check i
 
 First, **Design from Trust is not naïve trust.** The world definitely has bad actors, some of whom are really smart and well organized. But we shouldn't let them dictate how we design our world. It's important to know how to defend yourself, which then lets you choose to be undefended, not defenseless. 
 
-Second, you may also be thinking: **Trust doesn't scale!** What's true here is that using industrial methods to create trust doesn't scale. We are humans, not robots (yet). Partly, we've lost our perspective on large-scale social trust because we've been designing for efficiency, scale and profit, deprecating meaning and connection. Trust does scale, but it does so organically and adaptively, by giving people design options they opt into and make their own, not by imposing "best practices" from outside. 
+Second, you may also be thinking: **Trust doesn't scale!** What's true here is that using industrial methods to create trust doesn't scale. We are humans, not robots (yet). Partly, we've lost our perspective on large-scale social trust because we've been designing most everything for efficiency, scale and profit, deprecating meaning and connection. Trust does scale, but it does so organically and adaptively, by giving people design options they opt into and make their own, not by imposing "best practices" from outside. 
 
-Third, **the alternatives to a trust-based future all suck**. I don't have a rigorous, exhaustive framework that encompasses all futures we face, but the futures on offer today do seem bleak. 
+Third, **the alternatives to a trust-based future all suck**. I haven't found a rigorous, exhaustive framework that encompasses all the futures we might face, but the futures on offer today do seem bleak. For example: 
 
-The default path we're on takes us into autocratic surveillance societies, with new intelligences emerging that will be motivated by consumerism instead of social good, plus a high likelihood of self-inflicted, traumatic climate disruptions. 
+[New Optimists](https://bra.in/8jXrV2) tell us to worry less: Things are better! While I agree that mortality rates, poverty and other statistics have improved, I can't help but believe (speaking of reality checks) that the default path we're on takes us into autocratic surveillance societies, with new intelligences emerging that will be motivated by consumerism instead of social good, plus a high likelihood of self-inflicted, traumatic climate disruptions. 
 
-The [broligarchs](https://bra.in/7j8XRk) who say "[we have to get off this rock!](https://bra.in/3vAB8a)" seem oblivious that trust is essential to becoming a multiplanetary species. Without trust, you don't want to be on the first thousand cramped rockets full of settlers. Besides, there's plenty to do on our lovely planet. 
+[Tech Utopians](https://bra.in/5jLadN) are also optimistic: Tech will fix it! Look at the cool things in the [Fourth Industrial Revolution](https://bra.in/2q5QrK)! Alas, I fear tech has helped bring about many of the problems I'm talking about here, and the people guiding tech have usually followed efficiency, scale and profit over building a [convivial](https://bra.in/6pKr4B) world. Generative AI does have the potential to help us design a better world, but only if we solve for the many trust issues it kicks up. 
 
-The "trustless" crypto vision 
+Zuckerberg: the Metaverse vision
+
+The [broligarchs](https://bra.in/7j8XRk) who say "[we have to get off this rock!](https://bra.in/3vAB8a)" seem oblivious that trust is essential to becoming a multiplanetary species. Without trust, you don't want to be on the first thousand cramped rockets full of settlers. Besides, there's plenty to do to heal our lovely planet. 
+
+The "trustless" crypto vision seems quite naïve: we're going to bid initiatives up using cryptocurrencies, and that's going to add up to a desirable, well-oiled society? Do you trust how "facts" were added to the shared ledger? Do you trust that nobody's violating the principles that make crypto work? 
 
 Shifting to the positive, consider the benefits of leveraging authentic trust. 
 
@@ -105,7 +111,7 @@ Questions DfT addresses:
 - How might we rebuilt trust and retake control over the design of our cities and institutions? 
 - 
 
-Lovely ideas spill out when you flip the trust telescope, such as [[Scarcity = Abundance - Trust]] and [[The Joy Line]]. Well, and Design from Trust 😁. 
+Lovely, useful ideas spill out when you flip the trust telescope, such as [[Scarcity = Abundance - Trust]], [[The Joy Line]], and, well, Design from Trust 😁. 
 
 If we do this right, we might collectively construct a [Betterverse](https://www.thebetterverse.org/). 
 
