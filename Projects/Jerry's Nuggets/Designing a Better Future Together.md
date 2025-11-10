@@ -33,11 +33,11 @@ What's crazy about Design from Trust is that redesigning systems with it then af
 
 Instead of designing systems as if everyone is a bad actor, DfT flips the script, and deals with the bad actors later. 
 
+> Design from Trust redesigns systems from an assumption that most people who will touch the system are good actors.
+
 ## The role of risk 
 
 Instead of designing out all risks, DfT lets some risks engage participants and inspire them to contribute significantly to the systems' healthy functioning. If pedestrians, bicyclists and drivers don't slow down, make eye contact, and pace-match through intersections, Traffic Calming fails. If nobody steps forward at an Unconference and names a topic for conversation, there won't be any sessions. 
-
-> Design from Trust redesigns systems from an assumption that most people who will touch the system are good actors.
 
 Leaving some risk in the system puts some responsibility for the system's success in participants' hands. 
 
