@@ -84,8 +84,8 @@ Join my Substack
 ### Design from Trust Posts (#DesignfromTrust)
 - [[My Story of Trust]] (done) 
 - [[Trust is…]] (done) 
-- [[Trust Is Cheaper Than Control]] 
 - [[The Alternatives to Sorting Out Trust All Suck]] 
+- [[Trust Is Cheaper Than Control]] 
 - [[Designing a Better Future Together]] 
 - [[But Trust Doesn’t Scale]]! 
 - [[How We Receive Matters]] 
