@@ -85,6 +85,7 @@ Join my Substack
 - [[My Story of Trust]] (done) 
 - [[Trust is…]] (done) 
 - [[Trust Is Cheaper Than Control]] 
+- [[The Alternatives to Sorting Out Trust All Suck]] 
 - [[Designing a Better Future Together]] 
 - [[But Trust Doesn’t Scale]]! 
 - [[How We Receive Matters]] 
