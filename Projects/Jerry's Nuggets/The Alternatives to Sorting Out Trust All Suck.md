@@ -29,4 +29,4 @@ Which are your favorites? Which have I missed? Where are you on the hopeful-to-h
 #visionsofthefuture #trust #designfromtrust 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
+This article is cross-posted on Substack [here](https://rethinkconstraints.substack.com/p/the-alternatives-to-sorting-out-trust), Medium [here](https://jerrymichalski.medium.com/the-alternatives-to-sorting-out-trust-all-suck-716866ede15a) and LinkedIn [here](). It's also [here](https://bra.in/8vmNAJ) in [[Jerry's Brain|my Brain]]. 

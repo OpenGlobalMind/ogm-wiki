@@ -84,7 +84,7 @@ Join my Substack
 ### Design from Trust Posts (#DesignfromTrust)
 - [[My Story of Trust]] (done) 
 - [[Trust is…]] (done) 
-- [[The Alternatives to Sorting Out Trust All Suck]] 
+- [[The Alternatives to Sorting Out Trust All Suck]] (done) 
 - [[Trust Is Cheaper Than Control]] 
 - [[Wikipedia Started as the Nupedia]] 
 - [[Design from Trust Is Widespread Already]] 
