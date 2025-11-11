@@ -86,6 +86,8 @@ Join my Substack
 - [[Trust is…]] (done) 
 - [[The Alternatives to Sorting Out Trust All Suck]] 
 - [[Trust Is Cheaper Than Control]] 
+- [[Wikipedia Started as the Nupedia]] 
+- [[Design from Trust Is Widespread Already]] 
 - [[Designing a Better Future Together]] 
 - [[Scarcity = Abundance - Trust]] 
 - [[The Joy Line]] 
@@ -100,7 +102,6 @@ Join my Substack
 - [[We Are Often Blind to Design from Trust]] 
 - [[The 2 Oh Shit!s]] 
 - [[Why You Love Design from Trust Already]] 
-- [[Design from Trust Is Widespread Already]] 
 - [[Pointing Out the Pattern]] 
 - [[Design from Mistrust]] 
 - [[Reality Check]] 

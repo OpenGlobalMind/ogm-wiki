@@ -22,6 +22,10 @@ Finally, the [broligarchs](https://bra.in/7j8XRk) who say "[we have to get off t
 
 Besides, there's plenty to do here to heal our lovely planet.  
 
+Notably missing from my view of public discourse are other, more interesting voices' visions, such as those from [ecofeminism](https://bra.in/5vPre9), [indigenous ways of knowing](https://bra.in/3pD4rp), [Commoning](https://bra.in/3qnQNW), and the many [communities trying hard to fix the world's problems](https://bra.in/2pJkyB). They don't seem to get the attention that the ones I've cited get, yet they should be influencing our conversations about the future we design together. 
+
+Which are your favorites? Which have I missed? Where are you on the hopeful-to-hopeless spectrum? 
+
 #visionsofthefuture #trust #designfromtrust 
 
 --- 
