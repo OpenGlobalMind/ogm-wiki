@@ -89,11 +89,11 @@ Covering all these angles in depth would turn this post into a paper or a book, 
 
 Designing from ([[From Trust, Not For|not for]]) trust requires thoughtful (re)design — and a "mirror." 
 
-[[Design from Trust Is Widespread Already]] 
-
 [[Wikipedia Started as the Nupedia]] 
 
-Because it involves trust, you can't just bolt DfT on existing systems and expect it to work, the way you might be able to apply a practice like [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking).  The first problem, which you've likely noticed from everything I've said above, is that we're often blind to the ways in which we're breaking trust. The "mirrors" I just mentioned are other people who are ahead of you on the Design from Trust path, and can point out those hard-to-see contradictions. 
+Because it involves trust, you can't just bolt DfT on existing systems and expect it to work, the way you might be able to apply a practice like [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking).  
+
+The first problem, which you've likely noticed from everything I've said above, is that we're often blind to the ways in which we're breaking trust. The "mirrors" I just mentioned are other people who are ahead of you on the Design from Trust path, and can point out those hard-to-see contradictions. 
 
 Just seeing the contradictions isn't enough. 
 
@@ -121,7 +121,7 @@ If we do this right, we might collectively construct a [Betterverse](https://www
 
 ## Where to
 
-DfT already exists in the world, just not under this name. 
+DfT already exists in the world, just not under this name. [[Design from Trust Is Widespread Already]] 
 
 DfT isn't yet a book, a methodology, or a workshop, but it wants to be all of these. 
 
