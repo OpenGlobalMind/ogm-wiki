@@ -22,5 +22,7 @@ Finally, the [broligarchs](https://bra.in/7j8XRk) who say "[we have to get off t
 
 Besides, there's plenty to do here to heal our lovely planet.  
 
+#visionsofthefuture #trust #designfromtrust 
+
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 

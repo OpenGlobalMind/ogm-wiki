@@ -2,9 +2,9 @@
  (draft) 
 *Believe it or not, trust has favorable economics.* 
 
-Systems and institutions that are [[Design from Trust|Designed from Trust]] have economic advantages. For example: 
+Systems and institutions that are [Designed from Trust](https://www.designfromtrust.com/) have economic advantages. For example: 
 
-- Intersections that implement traffic calming avoid all the technology costs we assume are necessary for safety, enforcement and punishment. 
+- Intersections that implement traffic calming avoid the technology and operations costs we assume are necessary for traffic safety, enforcement and punishment. 
 - Schools built around self-directed education tktktk. 
 - Conferences using Open Space Technology don't have to worry if their expensive keynote speaker doesn't show up, because they don't need one! Instead, participants are riveted by having to step up and step in to create the essence of the conference themselves. 
 - Organizations using open content or open source software like Wikipedia (and Wikimedia) don't have to pay licenses, use Digital Rights Management software and enforce it all. 
