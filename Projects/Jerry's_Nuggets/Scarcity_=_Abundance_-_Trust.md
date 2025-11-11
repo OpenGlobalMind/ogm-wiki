@@ -20,9 +20,5 @@ I've put the video's transcript [[Scarcity = Abundance - Trust (transcript)|here
 
 [[Stewardship vs. Ownership]]. 
 
-The Ur-post lives here. 
-
-— [[Jerry Michalski]]
-
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain. 

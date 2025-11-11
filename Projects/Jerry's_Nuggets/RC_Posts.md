@@ -87,15 +87,16 @@ Join my Substack
 - [[The Alternatives to Sorting Out Trust All Suck]] 
 - [[Trust Is Cheaper Than Control]] 
 - [[Designing a Better Future Together]] 
+- [[Scarcity = Abundance - Trust]] 
+- [[The Joy Line]] 
 - [[But Trust Doesn’t Scale]]! 
 - [[How We Receive Matters]] 
-- [[Scarcity = Abundance - Trust]] 
 - [[Design from Trust in my External Brain]] (a Tour) 
 - [[People are Generally More Trustworthy Than We Think They Are]] 
 - [[Be Undefended, Not Defenseless]] 
 - [[Not Naïve Trust]] 
 - [[Trust's Many Facets]] 
-- In Today's Political 
+- Trust In Today's Political Arena 
 - [[We Are Often Blind to Design from Trust]] 
 - [[The 2 Oh Shit!s]] 
 - [[Why You Love Design from Trust Already]] 
