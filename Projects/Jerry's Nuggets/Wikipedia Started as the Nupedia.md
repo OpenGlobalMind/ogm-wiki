@@ -6,11 +6,11 @@
 
 [Design from Trust](https://www.designfromtrust.com/) isn't a tweak of existing systems, it's a rethink. Systems that are designed from trust are different enough from the systems they replace to be surprising, sometimes to the point of defying conventional logic and making people squirm. Understanding why these redesigns work and why they initially make us uncomfortable is key to solving the trust crisis we face today. Wikipedia makes a great, familiar example. 
 
-Wikipedia wasn't always a Wiki. It started life innocently enough in 2000 as the Nupedia, the brainchild of Jimmy Wales, who wanted to create a free online encyclopedia for the world's benefit. 
+Wikipedia wasn't always a Wiki. It started life innocently enough in 2000 as the [Nupedia](https://en.wikipedia.org/wiki/Nupedia), the brainchild of Jimmy Wales, who wanted to create a free online encyclopedia for the world's benefit. 
 
 Jimmy hired Larry Sanger and the two went about the very ambitious project of writing an encyclopedia the way a publisher might: they recruited volunteer editors and assigned them to their domains of expertise (think German, geography, biology, tech, economics, art...). Then they instituted a seven-step editorial process to ensure each article's quality. 
 
-Progress was slow. After some 18 months, they had published fewer than 20 articles. Production of a whole encyclopedia seemed out of reach. 
+Progress was slow. After a year, they had published 21 articles. Production of a whole encyclopedia seemed out of reach. 
 
 As the Nupedia crew struggled to birth reliable articles, Wales and Sanger learned about Wikis, which embodied a completely different philosophy about who could be trusted with knowledge creation. The programmer Ward Cunningham had invented Wikis in 1994 (wiki-wiki means "quick" in Hawaiian), so that he and his colleagues would have a quick, HyperCard-inspired way to build websites rich with internal links. (A pioneer of [Pattern Languages](https://en.wikipedia.org/wiki/Pattern_language) in software, Ward's first substantial Wiki was the [Portland Pattern Repository](https://en.wikipedia.org/wiki/Portland_Pattern_Repository).) 
 
