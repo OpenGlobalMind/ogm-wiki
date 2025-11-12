@@ -85,7 +85,7 @@ Join my Substack
 - [[My Story of Trust]] (done) 
 - [[Trust is…]] (done) 
 - [[The Alternatives to Sorting Out Trust All Suck]] (done) 
-- [[Wikipedia Started as the Nupedia]] 
+- [[Wikipedia Started as the Nupedia]] (done) 
 - [[Trust Is Cheaper Than Control]] 
 - [[Design from Trust Is Widespread Already]] 
 - [[Designing a Better Future Together]] 

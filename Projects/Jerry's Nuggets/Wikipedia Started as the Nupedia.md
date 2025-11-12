@@ -36,7 +36,7 @@ Critics predicted Wikipedia would drown in vandalism. Instead, the community's d
 
 What happened with Wikipedia happens whenever we redesign systems from trust. Unfortunately, we don't learn how to Design from Trust in school, so a key task in this series of posts is to help you ID such systems. After that, with some more training, you can build your own, and we'll all benefit. 
 
-The Wikipedia story reveals a pattern: when you trust people with meaningful responsibility — even when conventional wisdom says you shouldn't — they often rise to meet it. This is Design from Trust in action.
+The Wikipedia story reveals a pattern: when you trust people with meaningful responsibility — even when conventional wisdom says you shouldn't — they often rise to meet it. This is Design from Trust in action. 
 
 ---
 Some complications: 
@@ -44,5 +44,7 @@ Some complications:
 - The recent rise of GenAI chatbots that like to give full answers instead of offering links to where the answers live will likely contribute to continued drops in traffic for Wikipedia. Ironically, the Wikipedia corpus has long been an important training element for GenAI. 
 - Wikipedia's history is not all bright and shiny; you can explore its dark side [here](https://bra.in/8v2YLe). 
 
+#Wikipedia #Nupedia #designfromtrust #design 
+
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
+This article is cross-posted on Substack [here](https://rethinkconstraints.substack.com/p/wikipedia-started-as-the-nupedia), Medium [here](https://jerrymichalski.medium.com/wikipedia-started-as-the-nupedia-c6c3f1fbc51b) and LinkedIn [here](https://www.linkedin.com/pulse/wikipedia-started-nupedia-jerry-michalski-vrb6c). It's also [here](https://bra.in/9vm3bJ) in [[Jerry's Brain|my Brain]]. 
