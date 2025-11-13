@@ -14,7 +14,7 @@ Here's a playlist of four videos that go deeper into why trust costs less:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=lP_wDV8ux-4lx1b_&amp;list=PLreQNsM8LqWCe6iQnA_84PbtOqsJ9c5w3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-It saddens me that we have so normalized the costs of mistrust that we don't notice them. This sequence of posts is my attempt to dislodge that from our collective consciousness. 
+It saddens me that we have so normalized the costs of mistrust that we don't notice them. This sequence of posts is my attempt to dislodge that misconception from our collective consciousness. 
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain. 
