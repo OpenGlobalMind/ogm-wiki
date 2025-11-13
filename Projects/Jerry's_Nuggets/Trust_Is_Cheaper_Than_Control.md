@@ -2,6 +2,8 @@
  
 *Believe it or not, trust pays off.* 
 
+![[Generated Image November 13, 2025 - 3_34PM.png]]
+
 Systems and institutions that are [Designed from Trust](https://www.designfromtrust.com/) have economic advantages. For example: 
 
 - Intersections that implement **[[Contrarian Hans Monderman|traffic calming]]** avoid the technology and operations costs we assume are necessary for traffic safety, enforcement and punishment, like stoplights, traffic cameras, and radar guns. 
@@ -17,4 +19,4 @@ Here's a playlist of four videos that go deeper into why trust costs less:
 It saddens me that we have so normalized the costs of mistrust that we don't notice them. This sequence of posts is my attempt to dislodge that misconception from our collective consciousness. 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain. 
+This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/9pDQDn) in my Brain. 
