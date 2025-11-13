@@ -89,6 +89,7 @@ Join my Substack
 - [[Trust Is Cheaper Than Control]] 
 - [[Design from Trust Is Widespread Already]] 
 - [[Designing a Better Future Together]] 
+- [[Trust Just Feels Better]] 
 - [[Scarcity = Abundance - Trust]] 
 - [[The Joy Line]] 
 - [[But Trust Doesn’t Scale]]! 
@@ -98,7 +99,7 @@ Join my Substack
 - [[Be Undefended, Not Defenseless]] 
 - [[Not Naïve Trust]] 
 - [[Trust's Many Facets]] 
-- Trust In Today's Political Arena 
+- [[Trust In Today's Political Arena]] 
 - [[We Are Often Blind to Design from Trust]] 
 - [[The 2 Oh Shit!s]] 
 - [[Why You Love Design from Trust Already]] 
