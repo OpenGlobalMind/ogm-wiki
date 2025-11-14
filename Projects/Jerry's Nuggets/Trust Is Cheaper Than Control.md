@@ -18,5 +18,7 @@ Here's a playlist of four videos that go deeper into why trust costs less:
 
 It saddens me that we have so normalized the costs of mistrust that we don't notice them. This sequence of posts is my attempt to dislodge that misconception from our collective consciousness. 
 
+#trust #mistrust #design #designfromtrust 
+
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/9pDQDn) in my Brain. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/trust-is-cheaper-than-control), Medium [here](https://jerrymichalski.medium.com/trust-is-cheaper-than-control-bb18a3b6c856) and LinkedIn [here](https://www.linkedin.com/pulse/trust-cheaper-than-control-jerry-michalski-yponc). It's also [here](https://bra.in/9pDQDn) in my Brain. 
