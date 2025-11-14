@@ -18,11 +18,13 @@ You can browse the bigger collection of examples of Design from Trust I curate i
 
 I'll be describing those connective threads more shortly, in these posts. Subscribe or follow if you'd like to see how it goes. 
 
+## Naming the common patterns 
+
 Design from Trust describes the thread, tracing a reliable process for transformative change that builds back community, trust and purpose. It isn't a theory waiting to be tested. It's not a think-tank proposal or an academic framework hoping for real-world validation. It's already working in the real world, at scale, in high-stakes situations. You've probably experienced it yourself — you just didn't know what to call it.
 
 If you edited Wikipedia, you participated in a system that assumes contribution over vandalism. When you used open source code (like the Internet and the Web!), you relied on a system designed around collaboration without contracts. When you took that Lyft to the airport to stay at an Airbnb in Paris, you used commercial systems that are built on trust. These aren't small pilot programs. They're functioning systems that millions of people use successfully.
 
-The breakthrough isn't inventing Design from Trust. People have been implementing it for decades, some for centuries. The breakthrough is recognition: seeing that these seemingly unrelated successes share a common architecture, a set of principles that can be articulated and applied systematically. I'll be describing those principles and methods here. 
+The breakthrough isn't inventing Design from Trust. People have been implementing it for decades, some for centuries. The breakthrough is recognition: seeing that these seemingly unrelated successes share a common architecture, a set of principles that can be articulated and applied systematically. I'll be describing those principles and methods here, too. 
 
 Once you see the pattern, you can't unsee it. Suddenly you recognize it everywhere: in the honor code that actually works, in the workplace without managers, in the intersection without stoplights that's somehow safer than the one with them. You start to understand why these systems succeed where traditional command-and-control approaches fail.
 
