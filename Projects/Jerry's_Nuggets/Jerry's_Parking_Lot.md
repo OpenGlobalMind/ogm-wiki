@@ -54,7 +54,7 @@ Connect the dots, and suddenly you're not looking at interesting experiments sca
 
 The tool is already built. We just need to recognize it as a tool."
 
-## Option 3: Direct and Bold (Expanded)
+## Option 3: Direct and Bold (Expanded and used in Widespread)
 
 "Design from Trust isn't a theory waiting to be tested. It's not a think-tank proposal or an academic framework hoping for real-world validation. It's already working in the real world, at scale, in high-stakes situations. You've probably experienced it yourself—you just didn't know what to call it.
 
