@@ -34,5 +34,7 @@ The architecture is proven. The question isn't whether it works. We know it work
 
 When trust is at a deep ebb, organizations that offer real trust will stand out. People are hungry for trustworthy systems and organizations. 
 
+#trust #designfromtrust 
+
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
+This article is cross-posted on Substack [here](https://rethinkconstraints.substack.com/p/design-from-trust-is-widespread-already), Medium [here](https://jerrymichalski.medium.com/design-from-trust-is-widespread-already-055731903025) and LinkedIn [here](https://www.linkedin.com/pulse/design-from-trust-widespread-already-jerry-michalski-aikwe). It's also [here](https://bra.in/8jYrgA) in [[Jerry's Brain|my Brain]]. 

@@ -87,11 +87,13 @@ Join my Substack
 - [[The Alternatives to Sorting Out Trust All Suck]] (done) 
 - [[Wikipedia Started as the Nupedia]] (done) 
 - [[Trust Is Cheaper Than Control]] (done) 
-- [[Design from Trust Is Widespread Already]] 
+- [[Design from Trust Is Widespread Already]] (done) 
 - [[Designing a Better Future Together]] 
 - [[Trust Just Feels Better]] 
 - [[Scarcity = Abundance - Trust]] 
 - [[The Joy Line]] 
+- [[Jerry's Trust Summary]] 
+- Post Capitalism? Fix Capitalism? 
 - [[But Trust Doesn’t Scale]]! 
 - [[How We Receive Matters]] 
 - [[Design from Trust in my External Brain]] (a Tour) 
@@ -129,6 +131,7 @@ Join my Substack
 ### Open Global Mind Posts
 - [[The OGM Birth Story]] 
 - [[OGM Effects (if we succeed)]] 
+- [[Running a QFT on Curiosity]] 
 
 ### Constraint Tales 
 - [[Examples of Design from Trust]] (series) 
