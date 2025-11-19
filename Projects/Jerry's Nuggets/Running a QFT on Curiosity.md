@@ -1,5 +1,6 @@
 # Running a QFT on Curiosity
-
+ (created by ChatGPT 5.1)
+ 
 Here’s a facilitator-ready explanation of the Right Question Institute’s **Question Formulation Technique (QFT)**—structured so you can _use it directly_ to run a **90-minute Zoom session on the theme “Have we lost our curiosity?”** I’ll give you:
 
 1. **A crisp explanation of QFT**

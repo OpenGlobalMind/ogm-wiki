@@ -59,7 +59,7 @@ Discovering the thread that connects my contrarians brought me to believe not on
 
 ## Reality check
 
-Whoa, whoa, whoa!, I hear your brain say: has Jerry read the news? It seems trust is in tatters these days. Aren't there bad actors out there? Don't people around the world seem hungrier for change than for trust? Don't trusting societies always lose to violent ones? How do you scale trust? Isn't Design from Trust the most naïve program anyone's ever put forth? 
+Whoa, whoa, whoa!, I hear your brain say: has Jerry read the news? It seems trust is in tatters these days. Aren't there bad actors out there? Don't people around the world seem hungrier for change than for trust? Don't trusting societies always lose to violent ones? Isn't Generative AI making this all more difficult? And how do you scale trust? Isn't Design from Trust the most naïve program anyone's ever put forth? 
 
 I can't blame you for being skeptical. It's certainly time for a reality check in this post, and it's easy to see how DfT might seem an idealist's dream. Allow me to build a case for it. 
 
@@ -67,7 +67,7 @@ First, **Design from Trust is not naïve trust.** The world definitely has bad a
 
 Second, you may also be thinking: **Trust doesn't scale!** What's true here is that using industrial methods to create trust doesn't scale. We are humans, not robots (yet). Partly, we've lost our perspective on large-scale social trust because we've been designing most everything for efficiency, scale and profit, deprecating meaning and connection. Trust does scale, but it does so organically and adaptively, by giving people design options they opt into and make their own, not by imposing "best practices" from outside. 
 
-Third, **[[The Alternatives to Sorting Out Trust All Suck|the alternatives to sorting out trust all suck]]**. From relying on technology to fix our problems to living in the Metaverse or colonizing Mars because we've spoiled our planet, I don't see a vision out there that leads to a society worth loving. 
+Third, **[[The Alternatives to Sorting Out Trust All Suck|the alternatives to sorting out trust all suck]]**. From relying on technologists to fix our problems to living in the Metaverse or colonizing Mars because we've spoiled our planet, I don't see a vision out there that leads to a society worth loving. 
 
 Shifting to the positive, consider the benefits of leveraging authentic trust. 
 
@@ -87,11 +87,11 @@ Covering all these angles in depth would turn this post into a paper or a book, 
 
 ## How
 
-Designing from ([[From Trust, Not For|not for]]) trust requires thoughtful (re)design — and a "mirror." 
+Designing from ([[From Trust, Not For|not for]]) trust isn't a patch. It requires thoughtful (re)design — and a "mirror." 
 
-[[Wikipedia Started as the Nupedia]] 
+Wikipedia illustrates this need for thoughtful redesign nicely. It [[Wikipedia Started as the Nupedia|started life as the Nupedia project]], which resembled traditional publishing. When that effort wasn't working, the project team had a caterpillar-to-butterfly moment that was neither obvious nor easy, but which led to its finding a way to the organic, explosive growth that gave us the modern Wikipedia. 
 
-Because it involves trust, you can't just bolt DfT on existing systems and expect it to work, the way you might be able to apply a practice like [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking).  
+Because it involves trust, you can't just bolt Design from Trust onto existing systems and expect it to work, the way you might be able to apply a practice like [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking).  
 
 The first problem, which you've likely noticed from everything I've said above, is that we're often blind to the ways in which we're breaking trust. The "mirrors" I just mentioned are other people who are ahead of you on the Design from Trust path, and can point out those hard-to-see contradictions. 
 
