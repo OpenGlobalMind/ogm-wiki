@@ -93,7 +93,7 @@ Join my Substack
 - [[Scarcity = Abundance - Trust]] 
 - [[The Joy Line]] 
 - [[Jerry's Trust Summary]] 
-- Post Capitalism? Fix Capitalism? 
+- [[Post Capitalism Fix Capitalism]]? 
 - [[But Trust Doesn’t Scale]]! 
 - [[How We Receive Matters]] 
 - [[Design from Trust in my External Brain]] (a Tour) 
@@ -204,8 +204,8 @@ Apps atop shared warm data
 ### Current Events Posts 
 - [[This Kamala Moment]] (done) 
 - [[The Dark Side of Rethinking Constraints]] 
+- [[Kayfabe, OODA, DARVO - Why Democrats Are Clueless]] 
 - Charting a Positive Way Forward 
-- Progressives aren’t playing the right game yet 
 - DFT as a path forward 
 
 ## Trump Field Manual 

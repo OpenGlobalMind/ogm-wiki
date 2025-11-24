@@ -67,7 +67,7 @@ First, **Design from Trust is not naïve trust.** The world definitely has bad a
 
 Second, you may also be thinking: **Trust doesn't scale!** What's true here is that using industrial methods to create trust doesn't scale. We are humans, not robots (yet). Partly, we've lost our perspective on large-scale social trust because we've been designing most everything for efficiency, scale and profit, deprecating meaning and connection. Trust does scale, but it does so organically and adaptively, by giving people design options they opt into and make their own, not by imposing "best practices" from outside. 
 
-Third, **[[The Alternatives to Sorting Out Trust All Suck|the alternatives to sorting out trust all suck]]**. From relying on technologists to fix our problems to living in the Metaverse or colonizing Mars because we've spoiled our planet, I don't see a vision out there that leads to a society worth loving. 
+Third, **[[The Alternatives to Sorting Out Trust All Suck|the alternatives to sorting out trust all suck]]**. From relying on technologists to fix our problems to living in the Metaverse or colonizing Mars because we've spoiled our planet, I don't see a plausible vision out there that leads to a society worth loving. 
 
 Shifting to the positive, consider the benefits of leveraging authentic trust. 
 
@@ -83,17 +83,23 @@ Trust:
 
 It's also fragile. And [[Trust is…|more]]. 
 
-Covering all these angles in depth would turn this post into a paper or a book, so I'll be writing posts about them all, plus the many other issues I'm just touching on here. Follow or subscribe if you'd like to join the journey. [Contact me](mailto:sociate@gmail.com) if you'd like to explore these issues for your organization. 
+Covering all these angles in depth would turn this post into a paper or a book, so I'll be writing posts about them all, plus the many other issues I'm just brushing here. Follow or subscribe if you'd like to join the journey. [Contact me](mailto:sociate@gmail.com) if you'd like to explore these issues for your organization. 
 
 ## How
 
-Designing from ([[From Trust, Not For|not for]]) trust isn't a patch. It requires thoughtful (re)design — and a "mirror." 
+Designing from ([[From Trust, Not For|not for]]) trust usually isn't a patch to existing systems. It requires thoughtful (re)design — and a "mirror" — as well as following a set of principles.  
 
 Wikipedia illustrates this need for thoughtful redesign nicely. It [[Wikipedia Started as the Nupedia|started life as the Nupedia project]], which resembled traditional publishing. When that effort wasn't working, the project team had a caterpillar-to-butterfly moment that was neither obvious nor easy, but which led to its finding a way to the organic, explosive growth that gave us the modern Wikipedia. 
 
+In this case, the inventors of Wikis did the thoughtful design. Wikipedians adopted and inherited it. 
+
+About those "mirrors...."
+
 Because it involves trust, you can't just bolt Design from Trust onto existing systems and expect it to work, the way you might be able to apply a practice like [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking).  
 
-The first problem, which you've likely noticed from everything I've said above, is that we're often blind to the ways in which we're breaking trust. The "mirrors" I just mentioned are other people who are ahead of you on the Design from Trust path, and can point out those hard-to-see contradictions. 
+Unfortunately, we're often blind to the ways in which we're breaking trust, in large part because we've normalized those practices. For example, 
+
+The "mirrors" I just mentioned are experienced guides, which might be other people who are ahead of you on the Design from Trust path, and can point out those hard-to-see contradictions. 
 
 Just seeing the contradictions isn't enough. 
 
@@ -102,6 +108,8 @@ When we *can* see them, many of the solutions DfT proposes seem counterintuitive
 Shift your way of seeing, then shape. 
 
 Building on the [Principles of Design from Trust](https://bra.in/5jkNwq), tktktk. 
+
+Needs stories. 
 
 ## Outcomes 
 
