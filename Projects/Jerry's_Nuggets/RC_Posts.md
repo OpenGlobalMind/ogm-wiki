@@ -88,7 +88,9 @@ Join my Substack
 - [[Wikipedia Started as the Nupedia]] (done) 
 - [[Trust Is Cheaper Than Control]] (done) 
 - [[Design from Trust Is Widespread Already]] (done) 
+- [[From Trust, Not For]] 
 - [[Designing a Better Future Together]] 
+- [[Design from Trust Requires Thoughtful Design]] 
 - [[Trust Just Feels Better]] 
 - [[Scarcity = Abundance - Trust]] 
 - [[The Joy Line]] 
@@ -110,11 +112,9 @@ Join my Substack
 - [[Design from Mistrust]] 
 - [[Reality Check]] 
 - [[Design from Trust as a Differentiator]] 
-- [[From Trust, Not For]] 
 - [[Trust Is the (Only) Way Forward]] 
 - [[Undermining Trust Is a Strategy]] 
 - [[The Big Picture - Effects of Design from Trust]] 
-- [[Design from Trust Requires Thoughtful Design]] 
 - [[Design from Trust is Corruptible]] 
 - [[Examples of Design from Trust]] (series) 
 - [[Benefits of Design from Trust|On the Benefits of Design from Trust]] 
