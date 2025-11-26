@@ -91,6 +91,7 @@ Join my Substack
 - [[From Trust, Not For]] 
 - [[Designing a Better Future Together]] 
 - [[Design from Trust Requires Thoughtful Design]] 
+- We Normalized Mistrust 
 - [[Trust Just Feels Better]] 
 - [[Scarcity = Abundance - Trust]] 
 - [[The Joy Line]] 
