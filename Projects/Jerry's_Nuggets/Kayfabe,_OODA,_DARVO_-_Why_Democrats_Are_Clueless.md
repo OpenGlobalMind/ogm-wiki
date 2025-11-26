@@ -12,3 +12,7 @@ Three concepts will help me explain this: Kayfabe, OODA and DARVO. I'm afraid mo
 
 [[DARVO]] 
 
+How the sausage gets made. 
+
+Trying to attract speaking opportunities... 
+
