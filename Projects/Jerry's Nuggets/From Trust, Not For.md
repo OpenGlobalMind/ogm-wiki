@@ -12,7 +12,7 @@ The latter is design with the intention of getting users of the good or service 
 
 UX (User Experience) design choices such as finding the Goldilocks-sized dialog box are what Gebbia means by Design for Trust. Tuning design so it facilitates trust is a useful practice and likely increased participants' trust in the system, as well as the number of transactions the system attracts. But it doesn't shift the usual producer-consumer relationship. 
 
-Thoughtful Design *for* Trust (like Goldilocks-sized dialog boxes) is likely a necessary tactic used within the larger, systems-level framework of Design *from* Trust. 
+Thoughtful Design *for* Trust (like Goldilocks-sized dialog boxes) is a useful tactic within the larger, systems-level framework of Design *from* Trust. 
 
 Design from Trust is a systems-level intervention. It begins with the assumption that *most* (not all) people who will use the good or service are trustworthy. Starting with the assumption of good intent leads to radically different designs [[Wikipedia Started as the Nupedia|such as the Wikipedia]], which allows *anyone* to edit, rather than relying on traditional editing structures. These designs are often uncomfortable to humans raised in an environment where distrust is the norm, and where distrust permeates the design of most of the institutions we take for granted. 
 
@@ -22,7 +22,7 @@ In 2018 I posted [this video](https://www.youtube.com/watch?v=nVgqsElvISM) expla
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/nVgqsElvISM?si=rjQr1k5qd3LQlCdU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Ultimately, the shift from *for* to *from* is the shift from a feature-level improvement to a fundamental redesign of human systems.
+Ultimately, the shift from *for* to *from* is the shift from a feature-level improvement to a fundamental redesign of human systems. 
 
 #trust #design #designfromtrust #designfortrust 
 
