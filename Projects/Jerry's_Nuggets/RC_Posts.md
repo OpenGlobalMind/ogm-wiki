@@ -30,7 +30,8 @@
 - [[On Sensemaking]] 
 - [[Level Up Media]] 
 - [[What Are Our Next Two Stacks]]? 
-- [[We Used to Know How to Live in Community on the Commons]] 
+- [[We Used to Know How to Live in Community on the Commons]] (done) 
+- [[Snip and the Origins of the Global Financial Crisis]] 
 - [[Microsoft Office Is a Tractor Beam for Software]] 
 - [[Fabulous Fungal Metaphors]] 
 - [[PlaceboPhone]] 
