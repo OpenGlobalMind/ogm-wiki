@@ -89,7 +89,7 @@ Join my Substack
 - [[Wikipedia Started as the Nupedia]] (done) 
 - [[Trust Is Cheaper Than Control]] (done) 
 - [[Design from Trust Is Widespread Already]] (done) 
-- [[From Trust, Not For]] 
+- [[From Trust, Not For]] (done) 
 - [[Designing a Better Future Together]] 
 - [[Design from Trust Requires Thoughtful Design]] 
 - We Normalized Mistrust 

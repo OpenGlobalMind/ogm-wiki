@@ -27,4 +27,4 @@ Ultimately, the shift from *for* to *from* is the shift from a feature-level imp
 #trust #design #designfromtrust #designfortrust 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/6qZrZB) in [[Jerry's Brain|my Brain]]. 
+This article is cross-posted on Substack [here](https://rethinkconstraints.substack.com/p/its-design-from-trust-not-for), Medium [here](https://jerrymichalski.medium.com/its-design-from-trust-not-for-e484b022b048) and LinkedIn [here](https://www.linkedin.com/pulse/its-design-from-trust-jerry-michalski-jry9c). It's also [here](https://bra.in/6qZrZB) in [[Jerry's Brain|my Brain]]. 
