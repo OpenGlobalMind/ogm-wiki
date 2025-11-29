@@ -25,21 +25,23 @@ You see what I mean.
 
 Then, slowly, I discovered the thread that connected their initiatives, which I called Design from Trust (and abbreviate as DfT). 
 
-**Design from Trust redesigns systems from an assumption that most people who will touch the system have good intent.** They want to enjoy the system's benefits, and may even wish to help improve it. Instead of designing systems as if everyone is potentially a bad actor, DfT flips the script, and deals with the bad actors later. 
+**Design from Trust redesigns systems from an assumption that most people who will touch the system have good intent.** They want to enjoy the system's benefits, and may even wish to help improve it. Instead of designing systems as if everyone is potentially a bad actor, limiting everyone's behavior and discouraging them from engaging positively, DfT flips the script, and deals with the bad actors later. 
 
-Trust has countless facets, from improving interpersonal trust to building high-trust teams, using transparency to increase trust, designing the *appearance* of trust (why bank buildings used to have Greek columns), and revealing and fixing defects in a system to raise long-term trust. The facet that Design from Trust focuses on is systems design that depends on trust. 
+Trust has countless facets, from improving interpersonal trust to building high-trust teams, using transparency to increase trust, designing the *appearance* of trust (why bank buildings used to have Greek columns out front), and revealing and fixing defects in a system to raise long-term trust. The facet that Design from Trust focuses on is systems design that depends on trust. 
 
-What's crazy about DfT is that redesigning systems with it has positive effects on many of the other facets; trust compounds. For example, empowering everyone to stop the assembly line builds high-trust teams and improves product quality. Hosting Unconferences (instead of programming every moment of an event with famous speakers, fancy panels, and guided exercises) is a gesture of trust to your participants, and engages them by sharing the responsibility for the event with them. Adopting Open Source software or Workplace Democracy directly increases transparency — and trust. Addressing problems in a system's *design* can resolve problems that are "downstream." 
+What's crazy about DfT is that redesigning systems with it has positive effects on many of the other facets: trust compounds and rebounds. For example, empowering everyone to stop the assembly line builds high-trust teams and improves product quality. Hosting Unconferences (instead of programming every moment of an event with famous speakers, fancy panels, and highly facilitated exercises) is a gesture of trust to your participants, and engages them by sharing the responsibility for the event with them. Adopting Open Source software or Workplace Democracy directly increases transparency — and trust. Addressing problems in a system's *design* can resolve problems that are "downstream." 
 
 Most systems telegraph their distrust through their design, through the glaring or subtle elements that tell us to stay in our lane, not question the system, or obey a signal instead of connecting with others. That starts a downward spiral, since many people treated as untrustworthy won't have many reasons to behave better. We respond to the way we are treated. Approach me looking for the best in me and I'll try to live up to your expectations; approach me as if I'm a thief or criminal and I'm likely to disconnect, or worse. 
 
 ## The role of risk 
 
-Instead of designing out all risks, Design from Trust lets some risks engage participants and inspire them to contribute significantly to the systems' healthy functioning. For example, if pedestrians, bicyclists and drivers don't slow down, make eye contact, and pace-match through intersections, [[Contrarian Hans Monderman|Traffic Calming]] fails. If nobody steps forward at an [[Contrarian Harrison Owen|Unconference]] and names a topic for conversation, there won't be any sessions. 
+Instead of designing out all risks, Design from Trust lets some risks engage participants and inspire them to contribute significantly to the systems' healthy functioning. For example, if pedestrians, bicyclists and drivers don't slow down, make eye contact, and pace-match through intersections, [[Contrarian Hans Monderman|Traffic Calming]] fails and people get hurt. Yet they do those things. If nobody steps forward at an [[Contrarian Harrison Owen|Unconference]] and names a topic for conversation, there won't be any sessions. Yet they do step forward. 
 
 Leaving some risk in the system puts some responsibility for the system's success in participants' hands. 
 
 This sharing of risk and responsibility not only works, it transforms participants subtly. The shift from being an audience member to co-creating the event's content and value is a gift of agency, a thing our consumerist, command-and-control world has stolen from us. Letting anyone edit the world's encyclopedia is a way of metaphorically leaving the key in the door, inviting people to help. It is a gesture of trust. 
+
+> *The shift from being an audience member to co-creating the event's content and value is a gift of agency, a thing our consumerist, command-and-control world has stolen from us.* 
 
 I think our souls react favorably to these gestures of trust. Our souls are then hungry for a bit more of this elixir, but they don't know where to turn. Design from Trust is the thread that connects these systems so we can find other systems that share these traits, and even better: so we can redesign all systems using the same principles. 
 
@@ -47,7 +49,7 @@ I think our souls react favorably to these gestures of trust. Our souls are then
 
 Believe it or not, my catalyst for these insights was the single word "[consumer](https://www.youtube.com/watch?v=4VfeuITmNUk)." 
 
-[Somehow](https://wiki.openglobalmind.com/projects/jerry's_nuggets/my_story_of_trust), over the past multiple decades (and centuries), we lost faith in humans. Then we designed most of our institutions as if everyone was a bad actor. (The "we" I mean is complex, and involves many different actors at many different times, collectively designing, tweaking and implementing the major systems we use every day, from education to transportation, elections, publishing and entertainment.) 
+[Somehow](https://wiki.openglobalmind.com/projects/jerry's_nuggets/my_story_of_trust), over the past multiple decades (and centuries), we lost faith in humans. Then we designed most of our institutions as if everyone was a bad actor. (The "we" I mean is complex, and involves many different actors at many different times, collectively designing, tweaking and implementing the major systems we use every day, from education to transportation, elections, publishing, entertainment, and more.) 
 
 What's worse, we adapted. We got used to it. We take mistrust completely for granted now. We've normalized it so thoroughly that mistrust is our default setting and [[The 2 Oh Shit!s|we're startled]] when that setting switches. (Years later, I realized that we "[consumerized](https://bra.in/2joMDY)" almost every aspect of our lives.) 
 
@@ -67,7 +69,7 @@ First, **Design from Trust is not naïve trust.** The world definitely has bad a
 
 Second, you may also be thinking: **Trust doesn't scale!** What's true here is that using industrial methods to create trust doesn't scale. We are humans, not robots (yet). Partly, we've lost our perspective on large-scale social trust because we've been designing most everything for efficiency, scale and profit, deprecating meaning and connection. Trust does scale, but it does so organically and adaptively, by giving people design options they opt into and make their own, not by imposing "best practices" from outside. 
 
-Third, **[[The Alternatives to Sorting Out Trust All Suck|the alternatives to sorting out trust all suck]]**. From relying on technologists to fix our problems to living in the Metaverse or colonizing Mars because we've spoiled our planet, I don't see a plausible vision out there that leads to a society worth loving. 
+Third, **[[The Alternatives to Sorting Out Trust All Suck|the alternatives to sorting out trust all suck]]**. From relying on technologists to fix our problems to donning goggles and living in the Metaverse or colonizing Mars because we've spoiled our planet, I don't see a plausible, popular vision out there that leads to a society worth loving. 
 
 Shifting to the positive, consider the benefits of leveraging authentic trust. 
 
@@ -77,7 +79,7 @@ Trust:
 - Is [[Trust Is Cheaper Than Control|cheaper than control]]  
 - Connects people, builds community 
 - Unlocks genius 
-- Begets [abundance](https://www.youtube.com/watch?v=rlo8d7F5hdo&feature=youtu.be) 
+- Begets [abundance](https://www.youtube.com/watch?v=rlo8d7F5hdo) 
 - Differentiates organizations (especially in low-trust times)
 - Feels great, even when it's scary 
 
@@ -89,13 +91,15 @@ Covering all these angles in depth would turn this post into a paper or a book, 
 
 Designing from ([[From Trust, Not For|not for]]) trust usually isn't a patch to existing systems. It requires thoughtful (re)design — and a "mirror" — as well as following a set of principles.  
 
-Wikipedia illustrates this need for thoughtful redesign nicely. It [[Wikipedia Started as the Nupedia|started life as the Nupedia project]], which resembled traditional publishing. When that effort wasn't working, the project team had a caterpillar-to-butterfly moment that was neither obvious nor easy, but which led to its finding a way to the organic, explosive growth that gave us the modern Wikipedia. 
+Wikipedia illustrates this need for thoughtful redesign nicely. It [[Wikipedia Started as the Nupedia|started life as the Nupedia project]], which resembled traditional publishing. When that effort wasn't working, the project team had a caterpillar-to-butterfly moment that was neither obvious nor easy, but which led to the team's finding a way to the organic, explosive growth that gave us the modern Wikipedia. 
 
-In this case, the inventors of Wikis did the thoughtful design. Wikipedians adopted and inherited it. 
+In this case, the inventors of Wikis did the thoughtful Design from Trust; Wikipedians adopted and inherited it, then enhanced it as they solved problems that smaller wiki sites hadn't hit. 
 
 About those "mirrors...."
 
-Because it involves trust, you can't just bolt Design from Trust onto existing systems and expect it to work, the way you might be able to apply a practice like [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking).  
+Because it involves trust, you can't just bolt Design from Trust onto existing systems and expect it to work. 
+
+In contrast, [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking), which predates Design from Trust and has roots in Human-Centered Design, doesn't need mirrors. Because it relies on empathic observation and rapid prototyping, you can train groups in any setting to use Design Thinking, and they will produce interesting results. 
 
 Unfortunately, we're often blind to the ways in which we're breaking trust, in large part because we've normalized those practices. For example, 
 
