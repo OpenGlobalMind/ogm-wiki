@@ -212,11 +212,11 @@ Apps atop shared warm data
 
 ## Trump Field Manual 
 - Trump's Playbook 
-- Gorgeous George, Kayfabe and Trump II 
+- [[Kayfabe, OODA, DARVO - Why Democrats Are Clueless]] 
 - [[Misunderestimating Donald Trump Is Very Dangerous]] - point to old video series 
 - [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
-- [[Trump Through the Trust Lens]] 
 - [[On Trump and Constraints]] 
+- [[Trump Through the Trust Lens]] 
 
 
 ### Rethink Society Posts (#RethinkSociety)
