@@ -54,5 +54,3 @@ The academic concepts and HCD/Empathic Design principles were synthesized, codif
 ### 💡 Key Takeaway
 
 Design Thinking is not _derived solely_ from Empathic Design, but rather **Human-Centered Design** is the broad umbrella that covers the foundational principles (including Empathy). Empathic Design is a **critical set of methods** that contributed directly to the first, and arguably most important, stage of the modern Design Thinking process—**Empathize**.
-
-Would you like me to elaborate on the **five stages** of the modern Design Thinking process (Empathize, Define, Ideate, Prototype, Test)?

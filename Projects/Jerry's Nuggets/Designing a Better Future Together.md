@@ -91,29 +91,23 @@ Covering all these angles in depth would turn this post into a paper or a book, 
 
 Designing from ([[From Trust, Not For|not for]]) trust usually isn't a patch to existing systems. It requires thoughtful (re)design — and a "mirror" — as well as following a set of principles.  
 
-Wikipedia illustrates this need for thoughtful redesign nicely. It [[Wikipedia Started as the Nupedia|started life as the Nupedia project]], which resembled traditional publishing. When that effort wasn't working, the project team had a caterpillar-to-butterfly moment that was neither obvious nor easy, but which led to the team's finding a way to the organic, explosive growth that gave us the modern Wikipedia. 
+Wikipedia illustrates this need for thoughtful redesign nicely. It wasn't originally a wiki at all. It [[Wikipedia Started as the Nupedia|started life as the Nupedia project]], modeled on traditional publishing. When that effort wasn't working, the project team had a caterpillar-to-butterfly moment that was neither obvious nor easy, but which led to the team's finding a way to the organic, explosive growth that gave us the modern Wikipedia. 
 
-In this case, the inventors of Wikis did the thoughtful Design from Trust; Wikipedians adopted and inherited it, then enhanced it as they solved problems that smaller wiki sites hadn't hit. 
+In this case, the inventors of Wikis did the thoughtful Design from Trust; Wikipedians adopted and inherited it, then enhanced it as they solved problems that smaller wiki sites hadn't yet hit. 
 
 About those "mirrors...."
 
-Because it involves trust, you can't just bolt Design from Trust onto existing systems and expect it to work. 
+Because it involves trust, you can't just bolt Design from Trust onto existing systems and expect it to work. It needs a feedback loop from experienced guides I think of as "mirrors," because one of their more important tasks is to reflect things back that you may not want to see. These mirrors might be experienced DfT facilitators, or perhaps just other people who are ahead of you on the Design from Trust path, and can point out those hard-to-see contradictions. 
 
-In contrast, [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking), which predates Design from Trust and has roots in Human-Centered Design, doesn't need mirrors. Because it relies on empathic observation and rapid prototyping, you can train groups in any setting to use Design Thinking, and they will produce interesting results. 
+Unfortunately, we're often blind to the ways in which we're breaking trust, in large part because we've normalized those practices. For example, we think of advertising as a very normal part of many business models, including fueling several of the most influential companies on the planet. Alas, advertising bakes in several breaches of trust: companies dumpster-dive our data, analyze it to discover what causes us to buy, then fill our world with offers and enticements, often (usually?) for things we don't need. And we've normalized it. 
 
-Unfortunately, we're often blind to the ways in which we're breaking trust, in large part because we've normalized those practices. For example, 
+In contrast, [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking), which predates Design from Trust and has roots in Human-Centered Design, doesn't need mirrors. Because it relies on empathic observation and rapid prototyping, you can train groups in any setting to use Design Thinking, and they will produce interesting results... but likely not transformative results.  
 
-The "mirrors" I just mentioned are experienced guides, which might be other people who are ahead of you on the Design from Trust path, and can point out those hard-to-see contradictions. 
-
-Just seeing the contradictions isn't enough. 
-
-When we *can* see them, many of the solutions DfT proposes seem counterintuitive or downright crazy. 
-
-Shift your way of seeing, then shape. 
+Just seeing the contradictions isn't enough. You have to shift your thinking, because from today's default frame of mind, many of the solutions DfT proposes seem counterintuitive or downright crazy, as I described earlier. A real shift allows you then to shape the new dynamics you want to create, then set it all in motion. 
 
 Building on the [Principles of Design from Trust](https://bra.in/5jkNwq), tktktk. 
 
-Needs stories. 
+Needs stories. Braindrops. 
 
 ## Outcomes 
 
