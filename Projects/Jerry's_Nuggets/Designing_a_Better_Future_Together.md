@@ -99,15 +99,17 @@ About those "mirrors...."
 
 Because it involves trust, you can't just bolt Design from Trust onto existing systems and expect it to work. It needs a feedback loop from experienced guides I think of as "mirrors," because one of their more important tasks is to reflect things back that you may not want to see. These mirrors might be experienced DfT facilitators, or perhaps just other people who are ahead of you on the Design from Trust path, and can point out those hard-to-see contradictions. 
 
-Unfortunately, we're often blind to the ways in which we're breaking trust, in large part because we've normalized those practices. For example, we think of advertising as a very normal part of many business models, including fueling several of the most influential companies on the planet. Alas, advertising bakes in several breaches of trust: companies dumpster-dive our data, analyze it to discover what causes us to buy, then fill our world with offers and enticements, often (usually?) for things we don't need. And we've normalized it. 
+Mirrors are necessary because we're often blind to the ways in which we're breaking trust, in large part because we've normalized those practices. For example, we think of advertising as a very normal part of many business models, so much so that ads fuel several of the largest, most influential companies on the planet. Alas, advertising bakes in multiple breaches of trust: companies dumpster-dive our data, analyze it to discover what causes us to buy, then fill our world with offers and enticements, often (usually?) for things we don't need. And we've normalized it. 
 
-In contrast, [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking), which predates Design from Trust and has roots in Human-Centered Design, doesn't need mirrors. Because it relies on empathic observation and rapid prototyping, you can train groups in any setting to use Design Thinking, and they will produce interesting results... but likely not transformative results.  
+In contrast, [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking), which predates Design from Trust, doesn't need mirrors because it relies on empathic observation and rapid prototyping. You can train groups in practically any setting to use Design Thinking, and they will produce interesting results... but likely not transformative results, and sometimes results that reinforce existing dysfunctions. 
 
-Just seeing the contradictions isn't enough. You have to shift your thinking, because from today's default frame of mind, many of the solutions DfT proposes seem counterintuitive or downright crazy, as I described earlier. A real shift allows you then to shape the new dynamics you want to create, then set it all in motion. 
+Design from Trust brings Design Thinking the moral compass that it lacks.  
 
-Building on the [Principles of Design from Trust](https://bra.in/5jkNwq), tktktk. 
+In Design from Trust, just **seeing** the contradictions isn't enough. You have to **shift** your thinking, because from today's default frame of mind, many of the solutions DfT proposes seem counterintuitive or downright crazy, as I described earlier. A real shift allows you then to **shape** the new dynamics you want to create, then **set** it all in motion. More on this "4S" (See • Shift • Shape • Set) process in future posts. 
 
-Needs stories. Braindrops. 
+Underpinning the 4S change model are the [Principles of Design from Trust](https://bra.in/5jkNwq), which start with [[Assume Good Faith]] (or Intent). More on these soon, too. 
+
+Finally, because Design from Trust is the common thread connecting very different movements and industries, your ability to see it improves the more stories you hear of DfT examples. I've started telling these stories [[Introducing My Contrarians|here]] and [[Shorts to Revitalize Cities|here]] and would love to spark others' extending this catalog. 
 
 ## Outcomes 
 
