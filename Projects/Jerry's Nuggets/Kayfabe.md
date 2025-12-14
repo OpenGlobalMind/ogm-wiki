@@ -16,9 +16,9 @@ Pro wrestlers have a crazy variety of names and personas, including in [Lucha Li
 
 [Gorgeous George](https://en.wikipedia.org/wiki/Gorgeous_George) was one of the most famous Heels from the US scene in the 1950s. Dressed in gold tights and cape with curly blond locks, he would preen and fuss tktk in the ring, working everyone up. Crowds loved him. 
 
-This may seem timeworn now, but he was a pioneer. And guess who admired his act and borrowed it? None other than a gifted boxer named Muhammad Ali. 
+His act may seem timeworn now, but he was a pioneer. And guess who admired his act and borrowed it? None other than a gifted boxer named Muhammad Ali. 
 
-Remember Ali's mugging, preening and dancing? His amazing interviews? "I'm too handsome to get hit"? His poetry, the precursor to rap? tktktk 
+Remember Ali's mugging, preening and dancing in the ring? His amazing interviews? "I'm too handsome to get hit"? His poetry, the precursor to rap? Ali built on Gorgeous George's fan connection and took it to modern places. tktktk 
 
 Now guess who admired both Ali and Gorgeous George, and borrowed from both. 
 
@@ -28,3 +28,4 @@ Kayfabe or... Reality TV. The Apprentice.
 
 Now rethink both Trump Administrations as Kayfabe and Reality TV. 
 
+Vince McMahon's widow Linda McMahon is Trump's current Secretary of Education. 
