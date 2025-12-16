@@ -24,3 +24,9 @@ That's sort of funny, but the situation wasn't, nor was its outcome.
 Kerry and his advisors were incapable of replying firmly and quickly. When they finally got around to replying, Republicans were happy to bat them around like a cat playing with a ball of yarn. And when the audience was tiring of the episode, a new missile would come out of the OODA launcher. 
 
 It wasn't just Kerry. You can see the OODA Loop at play in campaigns ever since, and it has gotten much worse in the era of disinformation and deepfakes. 
+
+## The first 100 days of Trump II 
+
+In fact, the first 100 days of Trump's second administration may go down in history as the apex OODA move in the political sphere. 
+
+tktktk
