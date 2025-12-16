@@ -26,6 +26,7 @@ Now guess who admired both Ali and Gorgeous George, and borrowed from both.
 
 Kayfabe or... Reality TV. The Apprentice. 
 
-Now rethink both Trump Administrations as Kayfabe and Reality TV. 
+Now rethink both Trump Administrations as being rooted in Kayfabe and Reality TV. 
 
 Vince McMahon's widow Linda McMahon is Trump's current Secretary of Education. 
+
