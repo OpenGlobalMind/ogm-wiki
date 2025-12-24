@@ -1,4 +1,4 @@
-In pro wrestling, [Kayfabe](https://en.wikipedia.org/wiki/Kayfabe) is the shared fiction that what's happening in the ring is real. (If this is your first notice that this action tktk is real, my apologies.)
+In pro wrestling, [Kayfabe](https://en.wikipedia.org/wiki/Kayfabe) is the shared fiction that what's happening in the ring is real. (If this is your first notice that pro wrestling isn't real, my apologies.) 
 
 As pro wrestling has grown and matured — a word I will use with tongue planted firmly in cheek — it has also gone meta, spilling out of the ring into our everyday world, spawning a durable, popular soap opera with villains and heroes, plot twists, betrayals and more. It's all kayfabe. 
 
@@ -14,19 +14,18 @@ Now you might think pro wrestling was just a way for Trump to get attention and 
 
 Pro wrestlers have a crazy variety of names and personas, including in [Lucha Libre](https://en.wikipedia.org/wiki/Lucha_libre) across Latin America or the [wrestling Cholitas](https://www.youtube.com/watch?v=pxum-hdUdRI) of Bolivia. The most popular wrestlers fall into one of two types: they are either [Faces](https://en.wikipedia.org/wiki/Face_(professional_wrestling)) ("babyface" heroes) or [Heels](https://en.wikipedia.org/wiki/Heel_(professional_wrestling)) (villains). 
 
-[Gorgeous George](https://en.wikipedia.org/wiki/Gorgeous_George) was one of the most famous Heels from the US scene in the 1950s. Dressed in gold tights and cape with curly blond locks, he would preen and fuss tktk in the ring, working everyone up. Crowds loved him. 
+[Gorgeous George](https://en.wikipedia.org/wiki/Gorgeous_George) was one of the most famous Heels from the US scene in the 1950s. Dressed in gold tights and cape with curly blond locks, he would be preceded by an attendant who would pretend to sanitize the ring and spray it with Chanel "#10," then George would preen and fuss in the ring, working everyone up. His act was novel and perfect for TV, which was taking off then. [Crowds loved to hate him](https://www.youtube.com/watch?v=YyGqLSQjXnc). 
 
 His act may seem timeworn now, but he was a pioneer. And guess who admired his act and borrowed it? None other than a gifted boxer named Muhammad Ali. 
 
-Remember Ali's mugging, preening and dancing in the ring? His amazing interviews? "I'm too handsome to get hit"? His poetry, the precursor to rap? Ali [built on Gorgeous George's fan connection](https://www.youtube.com/watch?v=QNJaRlYdAjA) and took it to modern places.  
+Remember Ali's mugging, preening and dancing in the ring? His amazing interviews? "I'm too handsome to get hit"? His poetry, the precursor to rap? Ali [built on Gorgeous George's fan connection](https://www.youtube.com/watch?v=QNJaRlYdAjA) and modernized it.  
 
-Now guess who admired both Ali and Gorgeous George, and borrowed from both. Yup: Donald J. Trump. 
+Now guess who had a lot of experience at ringside (for both boxing and pro wrestling), admired both Ali and Gorgeous George, and borrowed from both to create his act. Yup: Donald J. Trump. 
+
+And the story gets even more interesting. 
 
 ## Mix in Reality TV
 
-Kayfabe or... Reality TV. The Apprentice. 
+Reality TV is a type of Kayfabe, and obeys the same rules. Now factor in Donald Trump's eleven-year run with The Apprentice, both as further training in Kayfabe and as a major free publicity stunt to position him as a genius businessman. 
 
-Now rethink both Trump Administrations as being rooted in Kayfabe and Reality TV. 
-
-Vince McMahon's widow Linda McMahon is Trump's current Secretary of Education. 
-
+Now rethink both Trump Administrations as being rooted in Kayfabe and Reality TV, while Democrats and the Press were trying to preserve reality and democracy. See the mismatch? 

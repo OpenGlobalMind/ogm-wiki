@@ -1,5 +1,5 @@
 # Designing a Better Future Together
- (draft) 
+ 
 *Through Design from Trust.* 
 
 ![[j3rry_spiff_an_urban_planner_sketches_herself_into_a_wide-ang_bc3c653c-7085-4e1e-89bf-3e719b83ca48_2.png]]
