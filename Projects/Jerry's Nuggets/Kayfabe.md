@@ -18,9 +18,9 @@ Pro wrestlers have a crazy variety of names and personas, including in [Lucha Li
 
 His act may seem timeworn now, but he was a pioneer. And guess who admired his act and borrowed it? None other than a gifted boxer named Muhammad Ali. 
 
-Remember Ali's mugging, preening and dancing in the ring? His amazing interviews? "I'm too handsome to get hit"? His poetry, the precursor to rap? Ali built on Gorgeous George's fan connection and took it to modern places. tktktk 
+Remember Ali's mugging, preening and dancing in the ring? His amazing interviews? "I'm too handsome to get hit"? His poetry, the precursor to rap? Ali [built on Gorgeous George's fan connection](https://www.youtube.com/watch?v=QNJaRlYdAjA) and took it to modern places.  
 
-Now guess who admired both Ali and Gorgeous George, and borrowed from both. 
+Now guess who admired both Ali and Gorgeous George, and borrowed from both. Yup: Donald J. Trump. 
 
 ## Mix in Reality TV
 

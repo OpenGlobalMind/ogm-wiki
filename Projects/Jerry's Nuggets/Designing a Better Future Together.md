@@ -111,17 +111,21 @@ Underpinning the 4S change model are the [Principles of Design from Trust](https
 
 Finally, because Design from Trust is the common thread connecting very different movements and industries, your ability to see it improves the more stories you hear of DfT examples. I've started telling these stories [[Introducing My Contrarians|here]] and [[Shorts to Revitalize Cities|here]] and would love to spark others' extending this catalog. 
 
+Storytelling is key to our collective growth. 
+
 ## Outcomes 
 
-You may have noticed that Design from Trust addresses many topical questions. For example, how might we: 
+Design from Trust addresses many topical questions. For example, it can help us: 
 
-- Build lasting trust with our clients and customers (and employees and suppliers)? 
-- Break the grip of addictive social media and surveillance capitalism? 
-- Rebuild trust and retake control over the design of our living spaces and institutions? 
-- Bridge the political divides that separate us? 
-- Repair our failing systems, from education and governance to health care, urban design and more?
-- Help people connect to meaning and purpose? 
-- Make the best use of Generative AI to create positive futures? 
+- Build authentic, durable trust with our clients and customers (and employees and suppliers). 
+- Break the grip of addictive social media and surveillance capitalism. 
+- Rebuild trust in institutions (by changing them, not by marketing them better). 
+- Retake control over the design of our living spaces and institutions. 
+- Bridge the political divides that separate us. 
+- Repair our failing systems, from education and governance to health care, urban design and more. 
+- Help people connect to meaning and purpose. 
+- Help young folk find their way into promising adulthood. 
+- Make the best use of Generative AI to create positive futures. 
 
 Lovely, useful ideas spill out when you flip your assumptions about trust, such as [Scarcity = Abundance - Trust](https://www.youtube.com/watch?v=rlo8d7F5hdo&feature=youtu.be), [The Joy Line](https://www.youtube.com/watch?v=vkjEOigXUrk), and, well, Design from Trust itself 😁. 
 
@@ -129,11 +133,11 @@ If we do this right, we might collectively construct a [Betterverse](https://www
 
 ## Where to
 
-DfT already exists in the world, just not under this name. [[Design from Trust Is Widespread Already]] 
+Design from Trust [[Design from Trust Is Widespread Already|already exists in the world]], just not under this name. 
 
 DfT isn't yet a book, a methodology, or a workshop, but it wants to be all of these. 
 
 More at [DesignfromTrust.com](https://www.designfromtrust.com/) and in this private LinkedIn group (please knock to join). 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
+This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/9qwy8J) in [[Jerry's Brain|my Brain]]. 
