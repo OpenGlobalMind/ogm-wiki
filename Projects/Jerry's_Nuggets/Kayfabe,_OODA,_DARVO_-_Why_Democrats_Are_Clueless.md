@@ -40,6 +40,8 @@ Except if you're in on the joke.
 
 How the sausage gets made. 
 
+I posted these six videos in 2020. 
+
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
