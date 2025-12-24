@@ -137,7 +137,11 @@ Design from Trust [[Design from Trust Is Widespread Already|already exists in th
 
 DfT isn't yet a book, a methodology, or a workshop, but it wants to be all of these. 
 
-More at [DesignfromTrust.com](https://www.designfromtrust.com/) and in this private LinkedIn group (please knock to join). 
+I cross-post actively from my corner of the OGM Wiki to my [Substack](https://rethinkconstraints.substack.com/), [LinkedIn](http://www.linkedin.com/in/jerrymichalski) and [Medium](https://jerrymichalski.medium.com/) accounts. Don't follow me on them all, you'll go crazy. 
+
+You'll note that this post builds on several recent posts. In fact, this particular post is foundational to the Design from Trust idea, and I'll be "upgrading" it over time (in the NeoBook spirit; details later). 
+
+I'll also keep updating [DesignfromTrust.com](https://www.designfromtrust.com/). If you'd like to be in conversation on this topic, please join [this private LinkedIn group](https://www.linkedin.com/groups/12279655/) (follow the link to request access). 
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/9qwy8J) in [[Jerry's Brain|my Brain]]. 
