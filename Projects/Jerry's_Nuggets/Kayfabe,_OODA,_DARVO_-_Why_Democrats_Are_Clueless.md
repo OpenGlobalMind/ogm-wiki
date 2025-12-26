@@ -4,16 +4,20 @@
 
 I'm deeply concerned for the American Left. I'm afraid it has little clue what game is afoot. Progressives keep bringing knives to gunfights. 
 
-Actually, that's the wrong analogy. tktktk
+Actually, that's the wrong analogy, because it seems to suggest that Lefties need to up the violence to win. tktktk
 
-The most glaring and memorable example of Democratic cluelessness I can think of is Hilary Clinton's debates with Donald Trump during the 2016 Election cycle. Clinton studied the issues and showed up to win debates. Trump didn't. 
+I'm going to be blunt and political in this post, tktktk. 
+
+For me, the most glaring and memorable example of Democratic cluelessness happened during the 2016 Election cycle, in Hilary Clinton's debates with Donald Trump. Clinton studied the issues and showed up to win debates. Trump did not. 
 
 I'm guessing Trump knows he's likely to lose any legitimate debate against an Ivy-League trained opponent. So instead, he 
 
 owned the media cycle for some three days. 
 showed his followers he understood modern power. 
 
-In 2024, Joe Biden showed up for a debate; Donald Trump showed up for a [cage match](https://en.wikipedia.org/wiki/Professional_wrestling_match_types#Steel_cage_match). Democrats had learned nothing at all. 
+Trump having side conversation with his followers. 
+
+In 2024, Joe Biden showed up for a debate; Donald Trump showed up for a [cage match](https://en.wikipedia.org/wiki/Professional_wrestling_match_types#Steel_cage_match), which he won. Democrats had learned nothing at all. 
 
 ## Three concepts worth knowing
 
@@ -36,11 +40,17 @@ The OODA Loop is a strategy you can use for good or evil, but Keyfabe and DARVO 
 
 Except if you're in on the joke. 
 
+I posted these six videos in 2020. 
+
+## On trust 
+
+The 
+
 ## Going meta 
 
 How the sausage gets made. 
 
-I posted these six videos in 2020. 
+This post just scratches the surface of what's needed for a rethought Democratic party to reemerge. 
 
 
 --- 
