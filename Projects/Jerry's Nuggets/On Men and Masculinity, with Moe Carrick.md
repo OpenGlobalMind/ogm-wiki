@@ -30,47 +30,24 @@ Redefining masculinity is not a niche project. It shapes democracy, families, co
 
 ## Links and Resources  
 
-Moe Carrick: [https://moementum.com/  
-](https://moementum.com/)Moe on LinkedIn: [https://www.linkedin.com/in/moecarrick/  
-](https://www.linkedin.com/in/moecarrick/)Jerry’s website: [https://jerrymichalski.com](https://jerrymichalski.com)Jerry’s Brain: [https://bra.in/jerry](https://bra.in/jerry)Design from Trust: [https://designfromtrust.com](https://designfromtrust.com)
+[Moe Carrick](https://www.linkedin.com/in/moecarrick/)'s [Moementum](https://moementum.com/ ) 
+[Jerry Michalski](https://jerrymichalski.com) and [Jerry’s Brain](https://bra.in/jerry)
+[Design from Trust](https://designfromtrust.com) 
 
 ## Referenced  
 
-Ambition  
-+ [https://en.wiktionary.org/wiki/ambition](https://en.wiktionary.org/wiki/ambition)
-
-Fight or Flight (or Freeze) Response  
-+ [http://en.wikipedia.org/wiki/Fight-or-flight_response](http://en.wikipedia.org/wiki/Fight-or-flight_response)
-
-Jonathan (Jon) Haidt  
-+ [http://en.wikipedia.org/wiki/Jonathan_Haidt](http://en.wikipedia.org/wiki/Jonathan_Haidt)
-
-The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness (2024)  
-+[https://www.amazon.com/Anxious-Generation-Rewiring-Childhood-Epidemic-ebook/dp/B0C9F37G28/jerrymichalskisr](https://www.amazon.com/Anxious-Generation-Rewiring-Childhood-Epidemic-ebook/dp/B0C9F37G28/jerrymichalskisr)
-
-Margaret Travers Symons  
-+ [https://en.wikipedia.org/wiki/Margaret_Travers_Symons](https://en.wikipedia.org/wiki/Margaret_Travers_Symons)
-
-The Mask You Live in (2013)  
-+ [http://therepresentationproject.org/film/the-mask-you-live-in/](http://therepresentationproject.org/film/the-mask-you-live-in/)
-
-Loving Men: Rethinking Women’s Role in Defining Masculinity | Moe Carrick | TEDxSalem  
-+ [https://www.youtube.com/watch?v=n7KVrxjkmic](https://www.youtube.com/watch?v=n7KVrxjkmic)
-
-Shelley Taylor  
-+ [https://en.wikipedia.org/wiki/Shelley_E._Taylor](https://en.wikipedia.org/wiki/Shelley_E._Taylor)
-
-Tend and Befriend Response (2000)  
-+ [http://en.wikipedia.org/wiki/Tend_and_befriend](http://en.wikipedia.org/wiki/Tend_and_befriend)
-
-The Athena Doctrine: How Women (and the Men Who Think Like Them) Will Rule the Future (2013)  
-+ [http://www.amazon.com/Athena-Doctrine-Women-Think-Future/dp/111845295X/](http://www.amazon.com/Athena-Doctrine-Women-Think-Future/dp/111845295X/)
-
-The Decline of Men?  
-+ Loving Men: Rethinking Women’s Role in Defining Masculinity | Moe Carrick | TEDxSalem
-
-Wonder Woman (2017 film)  
-+ [https://en.wikipedia.org/wiki/Wonder_Woman_(2017_film)](https://en.wikipedia.org/wiki/Wonder_Woman_\(2017_film\))**
+- [Ambition](https://en.wiktionary.org/wiki/ambition)  
+- [Fight or Flight (or Freeze) Response](http://en.wikipedia.org/wiki/Fight-or-flight_response) 
+- [Jonathan (Jon) Haidt](http://en.wikipedia.org/wiki/Jonathan_Haidt) 
+	- [The Anxious Generation: How the Great Rewiring of Childhood Is Causing an Epidemic of Mental Illness (2024)](https://www.amazon.com/Anxious-Generation-Rewiring-Childhood-Epidemic-ebook/dp/B0C9F37G28/jerrymichalskisr) 
+- [Margaret Travers Symons](https://en.wikipedia.org/wiki/Margaret_Travers_Symons) 
+- [The Mask You Live in (2013)](http://therepresentationproject.org/film/the-mask-you-live-in/) 
+- [Loving Men: Rethinking Women’s Role in Defining Masculinity | Moe Carrick | TEDxSalem](https://www.youtube.com/watch?v=n7KVrxjkmic) 
+- [Shelley Taylor](https://en.wikipedia.org/wiki/Shelley_E._Taylor 
+- [Tend and Befriend Response (2000)](http://en.wikipedia.org/wiki/Tend_and_befriend) 
+- [The Athena Doctrine: How Women (and the Men Who Think Like Them) Will Rule the Future (2013)](http://www.amazon.com/Athena-Doctrine-Women-Think-Future/dp/111845295X/) 
+- [The Decline of Men?](https://bra.in/2j3GAr)  
+- [Wonder Woman (2017 film)](https://en.wikipedia.org/wiki/Wonder_Woman_\(2017_film\)) 
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/2j8xrb) in [[Jerry's Brain|my Brain]]. 
