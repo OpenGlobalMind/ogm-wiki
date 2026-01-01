@@ -2,6 +2,20 @@
 
 Texts to use. 
 
+## About mirrors 
+
+About those "mirrors...."
+
+Because it involves trust, you can't just bolt Design from Trust onto existing systems and expect it to work. It needs a feedback loop from experienced guides I think of as "mirrors," because one of their more important tasks is to reflect things back that you may not want to see. These mirrors might be experienced DfT facilitators, or perhaps just other people who are ahead of you on the Design from Trust path, and can point out those hard-to-see contradictions. 
+
+Mirrors are necessary because we're often blind to the ways in which we're breaking trust, in large part because we've normalized those practices. For example, we think of advertising as a very normal part of many business models, so much so that ads fuel several of the largest, most influential companies on the planet. Alas, advertising bakes in multiple breaches of trust: companies dumpster-dive our data, analyze it to discover what causes us to buy, then fill our world with offers and enticements, often (usually?) for things we don't need. And we've normalized it. 
+
+In contrast, [Design Thinking](https://en.wikipedia.org/wiki/Design_thinking), which predates Design from Trust, doesn't need mirrors because it relies on empathic observation and rapid prototyping. You can train groups in practically any setting to use Design Thinking, and they will produce interesting results... but likely not transformative results, and sometimes results that reinforce existing dysfunctions. 
+
+Design from Trust brings Design Thinking the moral compass that it lacks.  
+
+
+
 Sonnet 4.5:
 ## Option 1: The Hidden Pattern
 
