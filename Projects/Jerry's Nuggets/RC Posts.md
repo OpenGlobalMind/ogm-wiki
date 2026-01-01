@@ -90,7 +90,7 @@ Join my Substack
 - [[Trust Is Cheaper Than Control]] (done) 
 - [[Design from Trust Is Widespread Already]] (done) 
 - [[From Trust, Not For]] (done) 
-- [[Designing a Better Future Together]] 
+- [[Design from Trust - How to Build Better Futures]] 
 - [[Design from Trust Requires Thoughtful Design]] 
 - We Normalized Mistrust 
 - [[Trust Just Feels Better]] 
