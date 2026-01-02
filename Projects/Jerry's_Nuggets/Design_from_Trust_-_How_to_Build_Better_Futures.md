@@ -29,13 +29,15 @@ Then, slowly, I discovered the thread that connected their initiatives, an appro
 
 ## Trust compounds and rebounds 
 
-Trust has countless facets, from improving interpersonal trust to building high-trust teams, using transparency to increase trust, designing the *appearance* of trust (why bank buildings used to have Greek columns out front and a big, visible safe inside), and revealing and fixing defects in a system to raise long-term trust. The facet that Design from Trust focuses on is systems design as it relates to trust. 
+Trust has countless facets, from improving interpersonal trust to building high-trust teams, using transparency to increase trust, designing the *appearance* of trust (why bank buildings used to have Greek columns out front and a big, visible safe inside), and revealing and fixing defects in a system to raise long-term trust (versus denying that there's anything wrong). 
+
+The facet that Design from Trust focuses on is systems design as it relates to trust. 
 
 What's crazy about DfT is that redesigning systems in this way has positive effects on many of the other facets: trust compounds and rebounds. For example, empowering everyone to stop the assembly line builds high-trust teams and improves product quality. Hosting Unconferences (instead of programming every moment of an event with famous speakers, fancy panels, and highly facilitated exercises) is a gesture of trust to your participants, and engages them by sharing the responsibility for the event with them. How's that for audience "engagement"? Adopting Open Source software or Workplace Democracy directly increases transparency — and trust. Addressing problems in a system's *design* can resolve "downstream" problems that resist other approaches.  
 
 Most systems telegraph their distrust through their design, through the glaring or subtle elements that tell us to stay in our lane, not question the system, or obey a signal instead of connecting with others. That starts a downward spiral, since many people treated as untrustworthy won't have many reasons to behave better. We respond to the way we are treated. Approach me looking for the best in me and I'll try to live up to your expectations; approach me as if I'm a thief or criminal and I'm likely to disconnect, or worse. 
 
-
+For example, researchers at Boston University Medical Center discovered that [redesigning](https://www.bu.edu/fammed/projectred/) the hospital's discharge process to assume patient wanted to get healthy but got tangled in the many details (as opposed to assuming they were not going to comply) reduced readmissions by 30 percent. 
 
 ## Risk is useful 
 
@@ -67,11 +69,13 @@ Discovering the thread that connects my contrarians brought me to believe not on
 
 ## Reality check
 
-Whoa, whoa, whoa!, I hear your brain say: has Jerry read the news? It seems trust is in tatters these days. Aren't there bad actors out there? Don't people around the world seem hungrier for change than for trust? Don't trusting societies always lose to violent ones? Isn't Generative AI making this all more difficult? And how do you scale trust? Isn't Design from Trust the most naïve program anyone's ever put forth? 
+Whoa, whoa, whoa!, I hear your brain say: has Jerry read the news? It seems trust is in tatters these days. Aren't there a lot of bad actors out there? Don't people around the world seem hungrier for change than for trust? Don't trusting societies always lose to violent ones? Isn't Generative AI making this all more difficult? And how do you scale trust? Isn't Design from Trust the most naïve program anyone's ever put forth? 
 
 I can't blame you for being skeptical. It's certainly time for a reality check in this post, and it's easy to see how DfT might seem an idealist's dream. Allow me to build a case for it. 
 
-First, **Design from Trust is not naïve trust.** The world definitely has bad actors, some of whom are really smart and well organized. But we shouldn't let them dictate how we design our world. It's important to know how to defend yourself, which then lets you choose to be undefended (a gesture of trust), not defenseless. Also, what *some* of the bad actors want is to be heard, or to belong. Design from Trust gives them that, which may help turn them into good actors. 
+First, **Design from Trust is not naïve trust.** The world definitely has bad actors, some of whom are really smart and well organized. But we shouldn't let them dictate how we design our world, which is somehow where we've ended up. 
+
+When you do meet the bad actors, two points: 1) It's important to know how to defend yourself, which then lets you choose to be undefended (a gesture of trust), not defenseless; and 2) What *some* of the bad actors want is to be heard, or to belong. Design from Trust gives them that, which may help turn them into good actors. 
 
 Second, you may also be thinking: **Trust doesn't scale!** What's true here is that using industrial methods to create trust doesn't scale. We are humans, not robots (yet). Partly, we've lost our perspective on large-scale social trust because we've been designing most everything for efficiency, scale and profit, deprecating meaning and connection. Trust does scale, but it does so organically and adaptively, by giving people design options they opt into and make their own, not by imposing "best practices" from outside. 
 
