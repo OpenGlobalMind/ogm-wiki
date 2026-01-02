@@ -32,9 +32,9 @@ Redefining masculinity is not a niche project. It shapes democracy, families, co
 
 ## Links and Resources  
 
-[Moe Carrick](https://www.linkedin.com/in/moecarrick/)'s [Moementum](https://moementum.com/ ) 
-[Jerry Michalski](https://jerrymichalski.com) and [Jerry’s Brain](https://bra.in/jerry)
-[Design from Trust](https://designfromtrust.com) 
+- [Moe Carrick](https://www.linkedin.com/in/moecarrick/)'s [Moementum](https://moementum.com/ ) 
+- [Jerry Michalski](https://jerrymichalski.com) and [Jerry’s Brain](https://bra.in/jerry)
+- [Design from Trust](https://designfromtrust.com) 
 
 ## Referenced  
 
