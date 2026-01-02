@@ -44,7 +44,7 @@ Redefining masculinity is not a niche project. It shapes democracy, families, co
 - [Margaret Travers Symons](https://en.wikipedia.org/wiki/Margaret_Travers_Symons) 
 - [The Mask You Live in (2013)](http://therepresentationproject.org/film/the-mask-you-live-in/) 
 - [Loving Men: Rethinking Women’s Role in Defining Masculinity | Moe Carrick | TEDxSalem](https://www.youtube.com/watch?v=n7KVrxjkmic) 
-- [Shelley Taylor](https://en.wikipedia.org/wiki/Shelley_E._Taylor 
+- [Shelley Taylor](https://en.wikipedia.org/wiki/Shelley_E._Taylor) 
 - [Tend and Befriend Response (2000)](http://en.wikipedia.org/wiki/Tend_and_befriend) 
 - [The Athena Doctrine: How Women (and the Men Who Think Like Them) Will Rule the Future (2013)](http://www.amazon.com/Athena-Doctrine-Women-Think-Future/dp/111845295X/)
 - [The Decline of Men?](https://bra.in/2j3GAr)  
