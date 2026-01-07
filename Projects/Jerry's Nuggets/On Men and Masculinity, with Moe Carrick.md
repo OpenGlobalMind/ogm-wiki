@@ -51,4 +51,4 @@ Redefining masculinity is not a niche project. It shapes democracy, families, co
 - [Wonder Woman (2017 film)](https://en.wikipedia.org/wiki/Wonder_Woman_\(2017_film\)) 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/2j8xrb) in [[Jerry's Brain|my Brain]]. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/on-men-and-masculinity-with-moe-carrick), Medium [here](https://jerrymichalski.medium.com/on-men-and-masculinity-with-moe-carrick-cf99c99df190) and LinkedIn [here](https://www.linkedin.com/pulse/men-masculinity-moe-carrick-jerry-michalski-ygdec/). It's also [here](https://bra.in/2j8xrb) in [[Jerry's Brain|my Brain]]. 
