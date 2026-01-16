@@ -8,9 +8,9 @@ The "Design" side will depend on what field you're working in, from meeting faci
 
 This page is about the "from Trust" part, which requires a set of groundrules that can spark and maintain trust. If you're thinking this is a challenging mission, you're right. So consider this a malleable first pass. 
 
-Please note that a design principle for this page is to keep the Principles enumerated here compact, brief, memorable, and practical. It doesn't include things like "Apply the Golden Rule" or "Treat Others Well" on purpose: the principles have to be somewhat non-obvious and add considerably to the general concept of Design from Trust.
+Please note that a design principle for this page is to keep the DrT Principles compact, brief, memorable, and practical. That's why the list doesn't include things like "Apply the Golden Rule" or "Treat Others Well": the Principles have to be somewhat non-obvious and add considerably to the general concept of Design from Trust.
 
-That said, here's' the starting set of Principles (listed alphabetically): 
+That said, here's the starting set of Principles (listed alphabetically): 
 
 - [[Assume Good Faith]]  
 - [[Be Undefended, Not Defenseless]]  
@@ -29,7 +29,7 @@ That said, here's' the starting set of Principles (listed alphabetically):
 - [[Trust Is Participatory]]  
 - [[We're Citizens, Not Consumers]]  
 
-If you liked this list and want to have a fun time, browse the [Role Models for DfT Principles](https://bra.in/2p6kQq) (Brain link) from which this list was harvested. 
+If you liked this list and want to have a fun time, browse the [Role Models for DfT Principles](https://bra.in/2p6kQq) (Brain link) from which I harvested this list. 
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain. 
