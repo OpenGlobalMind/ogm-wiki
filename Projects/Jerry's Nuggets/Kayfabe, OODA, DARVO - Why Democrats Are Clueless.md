@@ -32,15 +32,18 @@ Three concepts will help me explain this: Kayfabe, OODA and DARVO. I'm afraid mo
 ## Mix and match
 
 Of course, 
+
+The OODA Loop is a strategy you can use for good or evil. Kayfabe is a shared fiction. DARVO is very definitely a betrayal of trust. 
+
+Except if you're in on the joke. 
+
+Flood the Zone. 
+
 ## Trump's Playbook 
 
 Trump's favorite tactics. 
 
-The OODA Loop is a strategy you can use for good or evil, but Keyfabe and DARVO are very definitely betrayals of trust. 
-
-Except if you're in on the joke. 
-
-I posted these six videos in 2020. 
+I posted [these six videos](https://www.youtube.com/playlist?list=PLreQNsM8LqWAJFWfH3UCRo3QLxV8-wtol) in 2020. 
 
 ## On trust 
 

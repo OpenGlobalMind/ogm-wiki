@@ -1,6 +1,6 @@
 # Will GenAI Survive Capitalism?
  (draft)
-*If not, will we?*
+*Other useful technologies haven't fared so well.*
 
 Insane amounts of money are chasing Generative AI, 
 
