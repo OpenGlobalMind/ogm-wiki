@@ -2,6 +2,8 @@
 
 Texts to use. 
 
+Don't trusting societies always lose to violent ones? 
+
 ## About mirrors 
 
 About those "mirrors...."

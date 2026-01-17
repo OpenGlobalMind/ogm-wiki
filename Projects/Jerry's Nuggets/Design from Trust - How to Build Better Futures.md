@@ -17,6 +17,8 @@ What do the following have in common?
 
 They all share a particular dependence on trust, an insight it took me over a decade to see and articulate. 
 
+Unfortunately, most systems today are designed from mistrust — and it's quietly breaking our society. This is the story of a solution. 
+
 Somewhere around 2012, it dawned on me that most of my longtime role models and inspirations — the people who innovated the various systems I just listed (and [many more](https://bra.in/4pxQ56)) — had several profound things in common. 
 
 First, I realized that most of my role models were contrarians. They swam against the main stream. Each of the contrarians was carrying a message difficult enough for their peers to hear that they were often marginalized or ridiculed by those peers. Their insights ran against their discipline's standing conventional wisdom: Let *any* worker stop the assembly line? We'll never get anything built! Give people with *no* collateral loans? No way! Let *any fool* on the planet edit the Wikipedia? Are you nuts? *Remove* traffic lights? Seriously? 
@@ -71,7 +73,7 @@ Discovering the thread that connects my contrarians brought me to believe not on
 
 ## Reality check
 
-Whoa, whoa, whoa!, I hear your brain say: has Jerry read the news? It seems trust is in tatters these days. Aren't there a lot of bad actors out there? Don't people around the world seem hungrier for change than for trust? Don't trusting societies always lose to violent ones? Isn't Generative AI making this all more difficult? And how do you scale trust? Isn't Design from Trust the most naïve program anyone's ever put forth? 
+Whoa, whoa, whoa!, I hear your brain say: has Jerry read the news? It seems trust is in tatters these days. Aren't there a lot of bad actors out there? Don't people around the world seem hungrier for change than for trust? Isn't Generative AI making this all more difficult? And how do you scale trust? Isn't Design from Trust the most naïve program anyone's ever put forth? 
 
 I can't blame you for being skeptical. It's certainly time for a reality check in this post, and it's easy to see how DfT might seem an idealist's dream. Allow me to build a case for it. 
 
@@ -81,9 +83,15 @@ When you do meet the bad actors, two points: 1) It's important to know how to de
 
 Second, you may also be thinking: **Trust doesn't scale!** What's true here is that using industrial methods to create trust doesn't scale. We are humans, not robots (yet). Partly, we've lost our perspective on large-scale social trust because we've been designing most everything for efficiency, scale and profit, deprecating meaning, connection, and interdependence. Trust does scale, but it does so organically and adaptively, by giving people design options they opt into and make their own, not by imposing "best practices" (or worse, misguided edicts) from on high. 
 
-People are screaming for change because the current systems aren't giving them a future worth fighting for. The social contract is broken everywhere, and we are [involuntarily renegotiating it](https://bra.in/2jkMaZ). Unfortunately, we have little sense of how to make it better, because we have completely alienated ourselves from the principles that would help us do so. Our default is mistrust. So instead, [we turn the old dials to 11](https://www.youtube.com/watch?v=1fbMQ5Z2lN4), adding intensity, surveillance, and laws that make little sense, and then wonder why people are still upset and the statistics don't improve. 
+People are screaming for change around the world because the current systems aren't giving them a future worth fighting for. The social contract is broken everywhere, and we are [involuntarily renegotiating it](https://bra.in/2jkMaZ). 
 
-Third, **[[The Alternatives to Sorting Out Trust All Suck|the alternatives to sorting out trust all suck]]**. From assuming that technologists will fix our problems, to donning goggles and living in the Metaverse, or colonizing Mars because we've spoiled our planet, I don't see a plausible, popular vision out there that leads to a society worth loving. 
+Unfortunately, we have little sense of how to make our situations better, because we have completely alienated ourselves from the principles that would help us do so. Our default assumption has become mistrust, which is very corrosive. So instead, [we turn the old dials to 11](https://www.youtube.com/watch?v=1fbMQ5Z2lN4), adding intensity, surveillance, and laws that make little sense, and then wonder why people are still upset and the statistics don't improve. 
+
+Third, **[[The Alternatives to Sorting Out Trust All Suck|the alternatives to sorting out trust all suck]]**. From assuming that technologists will fix our problems, to donning goggles and living in the Metaverse, or colonizing Mars because we've spoiled our planet, I don't see a plausible, popular vision out there that leads to a society worth loving. Trust offers credible, desirable ways forward. 
+
+And fourth, **in today's geopolitical arena, trust is being undermined relentlessly**. From journalism and science to elections and foreigners, mistrust is rampant. It's a rhetorical war, and trust is losing. 
+
+That's a lot of reality. 
 
 Shifting to the positive, consider the benefits of leveraging authentic trust. 
 
@@ -100,6 +108,7 @@ Trust:
 - **Begets [abundance](https://www.youtube.com/watch?v=rlo8d7F5hdo)**:  
   
 - **Differentiates organizations** (especially in low-trust times): 
+  
 - **Feels great, even when it's scary**: 
 
 Trust is also fragile. And [[Trust is…|more]]. 
