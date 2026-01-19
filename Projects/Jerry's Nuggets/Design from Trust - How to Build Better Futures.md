@@ -57,6 +57,8 @@ This sharing of risk and responsibility not only works, it transforms participan
 
 I think our souls recognize these gestures of trust and react favorably to them. Our souls are then hungry for a bit more of this elixir, but they don't know where to turn. Design from Trust is the thread that connects these systems, so we can find other systems that share these traits, and even better: so we can redesign dysfunctional systems using consistent principles. 
 
+Trust works not because people are perfect, but because agency awakens responsibility.
+
 ## History 
 
 Believe it or not, my catalyst for these insights was the single word "[consumer](https://www.youtube.com/watch?v=4VfeuITmNUk)." Here's how that story unfolded for me. 
@@ -99,17 +101,17 @@ Shifting to the positive, consider the benefits of leveraging authentic trust.
 
 Trust: 
 
-- **Is [[Trust Is Cheaper Than Control|cheaper than control]]**: Beyond the costs of surveillance and enforcement, much of people's energy in coercive systems is about avoidance or circumvention. Imagine instead most everyone willingly working toward the systems' goals while trying to improve the system.  
+- **Is [[Trust Is Cheaper Than Control|cheaper than control]]**: Surveillance, security and enforcement are expensive. What's worse, people in coercive systems spend a lot of energy avoiding and circumventing the control systems. Imagine instead that most everyone willingly working toward the systems' goals while trying to improve the system.  
   
 - **Connects people, builds community**: Design from Trust usually relies on humans collaborating, and usually in a way that feels good and creates shared assets, such as vacant rooms now available for rent, a World Wide Web that allows for innovation, and curious kids who aspire to be good citizens.  
   
-- **Unlocks genius**: Control typically means making sure everyone "swims in their own lane." Having sharp boundaries lets you see who is failing and whom to reward. But it also keeps people from offering the skills that aren't on their job description. 
+- **Unlocks genius**: Control typically means making sure everyone "swims in their own lane." Having sharp boundaries lets you see who is failing and whom to reward. But it also keeps people from offering the skills that aren't on their job description. And that's where genius lies. Making it available is a huge payoff. 
   
-- **Begets [abundance](https://www.youtube.com/watch?v=rlo8d7F5hdo)**:  
+- **Begets [abundance](https://www.youtube.com/watch?v=rlo8d7F5hdo)**: Control systems typically create scarcity. If a school requires a particular PhD to teach, then doesn't pay well, you may be short of high-quality teachers. Releasing that constraint suddenly creates an abundance of teachers. The question then is finding your way to the right one.  
   
-- **Differentiates organizations** (especially in low-trust times): 
+- **Differentiates organizations** (especially in low-trust times): A low point in global trust may seem a poor time to pitch trust, but it will make organizations that get it right stand out as if they're painted in neon colors. 
   
-- **Feels great, even when it's scary**: 
+- **Feels great, even when it's scary**: After you learned how Wikipedia works, then got over the "this is nuts!" reaction, how did you feel? Were you pleased to be part of it? Did you want more things in your life that work that way? 
 
 Trust is also fragile. And [[Trust is…|more]]. 
 
