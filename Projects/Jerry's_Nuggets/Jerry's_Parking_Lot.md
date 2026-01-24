@@ -4,6 +4,20 @@ Texts to use.
 
 Don't trusting societies always lose to violent ones? 
 
+Designing from trust usually isn't a patch to existing systems. It requires thoughtful (re)design that follows a set of principles.  
+
+Wikipedia illustrates this need for thoughtful redesign nicely. It wasn't originally a wiki at all. It [[Wikipedia Started as the Nupedia|started life as the Nupedia project]], modeled on traditional publishing. When that effort wasn't working, the project team had a caterpillar-to-butterfly moment that was neither obvious nor easy, but which led to the team's finding a way to the organic, explosive growth that gave us the modern Wikipedia. 
+
+In this case, the inventors of the Wiki did the thoughtful Design from Trust; Wikipedians adopted and inherited it, then enhanced it as they solved problems that smaller wiki sites hadn't yet hit, as well as features peculiar to a global encyclopedia. 
+
+In Design from Trust, just seeing the contradictions isn't enough. You have to shift your thinking, because from today's default frame of mind, many of the solutions DfT proposes seem counterintuitive or just a bit crazy, as I described earlier. A real shift in your perspective allows you then to shape the new dynamics you want to create, then set it all in motion. 
+
+Underpinning this change model are the [Principles of Design from Trust](https://bra.in/5jkNwq), which start with [[Assume Good Faith]] (or Intent). More on these soon, too. 
+
+Finally, because Design from Trust is the common thread connecting very different movements and industries, your ability to see it improves the more stories you hear of DfT examples. I've started telling these stories [[Introducing My Contrarians|here]] and [[Shorts to Revitalize Cities|here]] and would love to spark others' extending this catalog. 
+
+Storytelling is key to our collective growth. 
+
 ## About mirrors 
 
 About those "mirrors...."
