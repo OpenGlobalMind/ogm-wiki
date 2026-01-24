@@ -2,6 +2,20 @@
 
 Texts to use. 
 
+Design from Trust addresses many topical questions. For example, it can help us: 
+
+- Build authentic, durable trust with our clients and customers (and employees and suppliers). 
+- Break the grip of addictive social media and surveillance capitalism. 
+- Rebuild trust in institutions (by changing them, not by marketing them better). 
+- Retake control over the design of our living spaces and institutions. 
+- Bridge the political divides that separate us. 
+- Repair our failing systems, from education and governance to health care, urban design and more. 
+- Help people connect to meaning and purpose. 
+- Help young folk find their way into promising adulthood. 
+- Make the best use of Generative AI to create positive futures. 
+
+
+
 Don't trusting societies always lose to violent ones? 
 
 Designing from trust usually isn't a patch to existing systems. It requires thoughtful (re)design that follows a set of principles.  
