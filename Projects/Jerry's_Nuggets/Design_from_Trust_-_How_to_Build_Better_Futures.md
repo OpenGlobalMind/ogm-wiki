@@ -19,7 +19,7 @@ They all share a particular dependence on trust, an insight it took me over a de
 
 Unfortunately, most systems today are designed from mistrust — and it's quietly breaking our society. This is the story of a solution. 
 
-Somewhere around 2012, it dawned on me that most of my longtime role models and inspirations — the people who innovated the various systems I just listed (and [many more](https://bra.in/4pxQ56)) — had several profound things in common. 
+Around 2012, I had a realization that most of my longtime role models and inspirations — the people who innovated the various systems I just listed (and [many more](https://bra.in/4pxQ56)) — had several profound things in common. 
 
 First, I realized that most of my role models were contrarians. They swam against the main stream. Each of the contrarians was carrying a message difficult enough for their peers to hear that they were often marginalized or ridiculed by those peers. Their insights ran against their discipline's standing conventional wisdom: Let *any* worker stop the assembly line? We'll never get anything built! Give people with *no* collateral loans? No way! Let *any fool* on the planet edit the Wikipedia? Are you nuts? *Remove* traffic lights? Seriously? 
 
@@ -47,17 +47,15 @@ For example, researchers at Boston University Medical Center discovered that [re
 
 ## Risk is Useful 
 
-Modern design seems allergic to risk, perhaps a rational response to a very litigious society. We have ended up in a society that tries to stamp out all risks, like catching all the embers that threaten to turn into a wildfire. Except in doing so, we've created brittle systems with heightened risks.  
+Modern design seems allergic to risk, perhaps a rational response to a very litigious society. We have ended up in a society that tries to stamp out all risks, like catching all the embers that threaten to turn into a wildfire. Except in doing so, we've created brittle systems with heightened risks. Think of playgrounds where we've removed all challenging equipment to prevent injuries, only to discover that kids who never learn to navigate risk become more prone to serious accidents later. 
 
 Instead of designing out all risks, Design from Trust harnesses some risks to engage participants and inspire them to contribute significantly to the systems' healthy functioning. For example, if pedestrians, bicyclists and drivers don't slow down, make eye contact, and pace-match through intersections, [[Contrarian Hans Monderman|Traffic Calming]] fails and people get hurt. Yet people step up, figure out their roles, and traffic flows naturally. Similarly, if nobody steps forward at an [[Contrarian Harrison Owen|Unconference]] and names a topic for conversation, there won't be any sessions. Yet they do step forward, and they do engage in conversations that are unusual for highly controlled events. 
 
 Leaving some risk in the system puts some responsibility for the system's success in participants' hands. 
 
-This sharing of risk and responsibility not only works, it transforms participants subtly. The shift from being an audience member to co-creating the event's content and value is a gift of agency, a thing our consumerist, command-and-control world has stolen from us. 
+This sharing of risk and responsibility not only works, it transforms participants subtly. *The shift from being an audience member to co-creating the event's content and value is a gift of agency, a thing our consumerist, command-and-control world has stolen from us.* 
 
-> *The shift from being an audience member to co-creating the event's content and value is a gift of agency, a thing our consumerist, command-and-control world has stolen from us.* 
-
-Letting anyone edit the world's encyclopedia is a way of metaphorically leaving the key in the door, inviting people to help. It is a gesture of trust. As Wikipedia's founder Jimmy Wales puts it in his [recent book](https://www.amazon.com/Seven-Rules-Trust-Blueprint-Building-ebook/dp/B0F1BXDQ7F/jerrymichalskisr) about trust, "Not thinking about something you rely on its the ultimate expression of trust." 
+Letting anyone edit the world's encyclopedia is a way of metaphorically leaving the key in the door, inviting people to help. It is a gesture of trust. As Wikipedia's founder Jimmy Wales puts it in his [recent book](https://www.amazon.com/Seven-Rules-Trust-Blueprint-Building-ebook/dp/B0F1BXDQ7F/jerrymichalskisr) about trust, "Not thinking about something you rely on is the ultimate expression of trust." 
 
 I think our souls recognize these gestures of trust and react favorably to them. Our souls are then hungry for a bit more of this elixir, but they don't know where to turn. Design from Trust is the thread that connects these systems, so we can find other systems that share these traits, and even better: so we can redesign dysfunctional systems using consistent principles. 
 
@@ -67,7 +65,7 @@ Trust works not because people are perfect, but because agency awakens responsib
 
 Believe it or not, my catalyst for these insights was the single word "[consumer](https://www.youtube.com/watch?v=4VfeuITmNUk)." Here's how that story unfolded for me. 
 
-[Somehow](https://wiki.openglobalmind.com/projects/jerry's_nuggets/my_story_of_trust), over the past multiple decades (and centuries) and for a variety of reasons, we lost faith in humans. Then we began to design most of our institutions as if everyone was a bad actor. (The "we" I mean is complex, involving many different parties at many different times, each designing, tweaking and implementing the major systems we use every day, from education to transportation, elections, publishing, finance, and more.) 
+I began noticing how [somehow](https://wiki.openglobalmind.com/projects/jerry's_nuggets/my_story_of_trust), over the past many decades and for a variety of reasons, we lost faith in humans. Then we began to design most of our institutions as if everyone was a bad actor. (The "we" I mean is complex, involving many different parties at many different times, each designing, tweaking and implementing the major systems we use every day, from education to transportation, elections, publishing, finance, and more.) 
 
 What's worse, we adapted. We got used to it. We take mistrust completely for granted now. We've normalized it so thoroughly that mistrust is our default setting and [[The 2 Oh Shit!s|we're startled]] when that setting switches. (Years later, I realized that we "[consumerized](https://bra.in/2joMDY)" almost every aspect of our lives.) 
 
@@ -103,7 +101,7 @@ These are all serious challenges that any trust-based approach must acknowledge.
 
 Trust: 
 
-- **Is [[Trust Is Cheaper Than Control|cheaper than control]]**: Surveillance, security and enforcement are expensive. What's worse, people in coercive systems spend a lot of energy avoiding and circumventing the control systems. Imagine instead that most everyone willingly working toward the systems' goals while trying to improve the system.  
+- **Is [[Trust Is Cheaper Than Control|cheaper than control]]**: Surveillance, security and enforcement are expensive. What's worse, people in coercive systems spend a lot of energy avoiding and circumventing the control systems. Imagine instead most everyone willingly working toward the systems' goals while trying to improve the system.  
   
 - **Connects people, builds community**: Design from Trust usually relies on humans collaborating, and usually in a way that feels good and creates shared assets, such as vacant rooms now available for rent, a World Wide Web that allows for innovation, and curious kids who aspire to be good citizens.  
   
@@ -123,7 +121,7 @@ Covering all these benefits in depth would turn this post into a white paper or 
 
 I need to be honest: Design from ([[From Trust, Not For|not for]]) Trust isn't yet a step-by-step methodology you can pull off the shelf. What I'm offering here is pattern recognition: the ability to see the common architecture in successful trust-based systems so you can recognize opportunities to build or redesign with these principles.
 
-That said, some patterns are emerging about what it takes to shift to DfT:
+That said, some **patterns are emerging** about what it takes to shift to DfT:
 
 **You need a catalyst moment.** Wikipedia's [[Wikipedia Started as the Nupedia|shift from Nupedia to wiki]] wasn't incremental. It was a fundamental reconception. The same is true for most DfT transformations. You can't just "add trust" to an existing mistrustful system. You typically need to question the core assumptions and rebuild from there. 
 
@@ -134,13 +132,13 @@ That said, some patterns are emerging about what it takes to shift to DfT:
 - Where do we police boundaries that might dissolve?
 - What risks are we eliminating that might actually engage people?
 
-**You need to flip the default.** In traditional healthcare, the default assumption is that patients won't comply. In the Boston University redesign, the default became that patients want to get healthy but need help navigating complexity. That single flip—changing what you assume unless proven otherwise—unlocks entirely different solutions.
+**You need to flip the default.** In traditional healthcare, the default assumption is that patients won't comply. In the Boston University redesign, the default became that patients want to get healthy but need help navigating complexity. That single flip — changing what you assume unless proven otherwise — unlocks entirely different solutions.
 
 **You need principles, not rules.** The [Principles of Design from Trust](https://bra.in/5jkNwq) start with "Assume Good Faith" and build from there. These aren't a checklist; they're a lens that helps you see new possibilities.
 
-**You need examples to train your eye.** The more DfT examples you encounter—from traffic calming to unconferences to workplace democracy—the better you get at spotting the pattern and imagining applications in your own domain. That's why I'm collecting these stories [here](/projects/jerry%27s_nuggets/introducing_my_contrarians) and [here](/projects/jerry%27s_nuggets/shorts_to_revitalize_cities).
+**You need examples to train your eye.** The more DfT examples you encounter — from traffic calming to unconferences to workplace democracy — the better you get at spotting the pattern and imagining applications in your own domain. That's why I'm collecting these stories [here](/projects/jerry%27s_nuggets/introducing_my_contrarians) and [here](/projects/jerry%27s_nuggets/shorts_to_revitalize_cities). I'd love to hear your stories of Design from Trust. 
 
-What I can't yet give you is "The 7 Steps to Design from Trust" or "The DfT Playbook." This is partly because the approach is young, but also because in Design from Trust, just seeing the contradictions isn't enough. You have to shift your thinking, because from today's default frame of mind, many of the solutions DfT proposes seem counterintuitive or just a bit crazy, as I described earlier. A real shift in your perspective allows you then to shape the new dynamics you want to create, then set it all in motion. 
+What I can't yet give you is "The 7 Steps to Design from Trust" or "The DfT Playbook." This is partly because the approach is young. It's also because in Design from Trust, just seeing the contradictions isn't enough. You have to shift your thinking, because from today's default frame of mind, many of the solutions DfT proposes seem counterintuitive or just a bit crazy, as I described earlier. A real shift in your perspective allows you then to shape the new dynamics you want to create, then set it all in motion. 
 
 What I _can_ offer is consultation to help you see where trust-based design might transform your systems, and a growing community exploring these questions together, as I mentioned in the previous section. 
 
@@ -156,15 +154,13 @@ Here's what changes when you design from trust:
 
 **Institutions regain legitimacy** not through better PR but through actual redesign. People don't trust institutions because the institutions keep breaking trust through their design. Fix the design — make it transparent, participatory, accountable — and trust follows. You can't market your way out of a trust problem caused by design from mistrust. 
 
-**Communities heal divides** not through dialogue alone but through shared work on trust-based systems. When people collaborate on a Wikipedia article, participate in an unconference, or navigate a traffic-calmed intersection together, they're practicing trust across whatever lines usually separate them. It's not that DfT solves polarization directly: It creates contexts where collaboration becomes possible despite differences. 
+**Communities heal divides** not through dialogue alone but through shared work on trust-based systems. When people collaborate on a Wikipedia article, participate in an unconference, or navigate a traffic-calmed intersection together, they're practicing trust across whatever lines usually separate them. It's not that DfT solves polarization directly — it creates contexts where collaboration becomes possible despite differences. 
 
 **Innovation accelerates** when you unlock the genius currently trapped behind role boundaries and permission structures. Open source software didn't just make code free; it released the latent talent of thousands who had ideas but lacked institutional permission to contribute. What else becomes possible when we stop asking permission and start offering platforms?
 
 **Systems become antifragile** because distributed trust is more resilient than centralized control. Wikipedia survives vandalism better than Encyclopedia Britannica survived market changes. Systems designed from trust adapt because they have thousands of people invested in their success, not just a few paid gatekeepers.
 
 I'm not claiming Design from Trust solves everything. But I am claiming it unlocks solutions to problems that resist conventional approaches. The question isn't whether these outcomes are possible: We can already see them working in the examples I've shared. The question is whether we can learn to see the pattern clearly enough to apply it more broadly.
-
-## What DfT Can't Do
 
 Design from Trust isn't a silver bullet. It can't force trust in places where bad faith is dominant. It can't replace the need for accountability. It won't work in contexts where immediate safety requires top-down control (emergency rooms, air traffic control). What it CAN do is redesign systems that have defaulted to mistrust unnecessarily, creating the conditions where trust becomes possible. 
 
@@ -178,9 +174,9 @@ If we do this right, we might collectively construct a [Betterverse](https://www
 
 DfT isn't yet a book, a methodology, or a workshop, but it wants to be all of these. 
 
-I cross-post actively from my corner of the OGM Wiki to my [Substack](https://rethinkconstraints.substack.com/), [LinkedIn](http://www.linkedin.com/in/jerrymichalski) and [Medium](https://jerrymichalski.medium.com/) accounts. Don't follow me on them all, you'll go crazy. 
+I cross-post actively from my corner of the OGM Wiki to my [Substack](https://rethinkconstraints.substack.com/), [LinkedIn](http://www.linkedin.com/in/jerrymichalski) and [Medium](https://jerrymichalski.medium.com/) accounts. Don't follow me on them all, you'll go crazy. Pick the one you visit the most. 
 
-You'll note that this post builds on several recent posts of mine. In fact, this particular post is foundational to the Design from Trust idea. Because of that, I'll be updating it over time. I'll also keep updating [DesignfromTrust.com](https://www.designfromtrust.com/). If you'd like to be in conversation on this topic, please join [this private LinkedIn group](https://www.linkedin.com/groups/12279655/) (follow the link to request access). 
+This particular post is foundational to the Design from Trust idea, building on several recent posts of mine. Because it's foundational, I'll be updating it often. I'll also keep updating [DesignfromTrust.com](https://www.designfromtrust.com/). If you'd like to be in conversation on this topic, please join [this private LinkedIn group](https://www.linkedin.com/groups/12279655/) (follow the link to request access). 
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/9qwy8J) in [[Jerry's Brain|my Brain]]. 
