@@ -45,7 +45,7 @@ Most systems telegraph their distrust through their design, through the glaring 
 
 For example, researchers at Boston University Medical Center discovered that [redesigning](https://www.bu.edu/fammed/projectred/) the hospital's discharge process to assume patients wanted to get healthy but got tangled in the many details (as opposed to assuming they were not going to comply) reduced readmissions by 30 percent. 
 
-## Risk is Useful 
+## Risk is Useful 🫣 
 
 Modern design seems allergic to risk, perhaps a rational response to a very litigious society. We have ended up in a society that tries to stamp out all risks, like catching all the embers that threaten to turn into a wildfire. Except in doing so, we've created brittle systems with heightened risks. Think of playgrounds where we've removed all challenging equipment to prevent injuries, only to discover that kids who never learn to navigate risk become more prone to serious accidents later. 
 
@@ -168,6 +168,8 @@ Lovely, useful ideas spill out when you flip your assumptions about trust, such 
 
 If we do this right, we might collectively construct a [Betterverse](https://www.thebetterverse.org/). 
 
+#trust #designfromtrust #strategy 
+
 ----
 
 ## Where to now?
@@ -179,4 +181,4 @@ I cross-post actively from my corner of the OGM Wiki to my [Substack](https://re
 This particular post is foundational to the Design from Trust idea, building on several recent posts of mine. Because it's foundational, I'll be updating it often. I'll also keep updating [DesignfromTrust.com](https://www.designfromtrust.com/). If you'd like to be in conversation on this topic, please join [this private LinkedIn group](https://www.linkedin.com/groups/12279655/) (follow the link to request access). 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/9qwy8J) in [[Jerry's Brain|my Brain]]. 
+This article is cross-posted on Substack [here](https://rethinkconstraints.substack.com/p/design-from-trust-how-to-build-better), Medium [here](https://jerrymichalski.medium.com/design-from-trust-how-to-build-better-futures-3983d3067e28) and LinkedIn [here](https://www.linkedin.com/pulse/design-from-trust-how-build-better-futures-jerry-michalski-lxv4f/). It's also [here](https://bra.in/9qwy8J) in [[Jerry's Brain|my Brain]]. 
