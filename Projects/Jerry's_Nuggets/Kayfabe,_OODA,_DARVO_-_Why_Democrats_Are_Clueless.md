@@ -8,7 +8,7 @@ Actually, that's the wrong analogy, because it seems to suggest that Lefties nee
 
 I'm going to be blunt and political in this post, tktktk. 
 
-For me, the most glaring and memorable example of Democratic cluelessness happened during the 2016 Election cycle, in Hilary Clinton's debates with Donald Trump. Clinton studied the issues and showed up to win debates. Trump did not. 
+For me, the most memorable example of Democratic cluelessness happened during the 2016 Election cycle, in Hilary Clinton's debates with Donald Trump. Clinton studied the issues and showed up to win debates. Trump did not. 
 
 I'm guessing Trump knows he's likely to lose any legitimate debate against an Ivy-League trained opponent. So instead, he 
 
@@ -21,7 +21,7 @@ In 2024, Joe Biden showed up for a debate; Donald Trump showed up for a [cage ma
 
 ## Three concepts worth knowing
 
-Three concepts will help me explain this: Kayfabe, OODA and DARVO. I'm afraid most Lefties are unfamiliar with these terms, and the increasingly powerful Far Right is familiar with at least two of them — as they commit the third. Please suspend your disbelief for a moment while I explain. 
+Three concepts will help me explain this: Kayfabe, OODA and DARVO. I'm afraid most Lefties are unfamiliar with these terms, and the increasingly powerful Far Right is familiar with at least two of them — as they repeatedly commit the third. Please suspend your disbelief for a moment while I explain. 
 
 [[Kayfabe]] 
 
@@ -43,7 +43,7 @@ Flood the Zone.
 
 Trump's favorite tactics. 
 
-I posted [these six videos](https://www.youtube.com/playlist?list=PLreQNsM8LqWAJFWfH3UCRo3QLxV8-wtol) in 2020. 
+I posted [these six videos](https://www.youtube.com/playlist?list=PLreQNsM8LqWAJFWfH3UCRo3QLxV8-wtol) in 2020, right after the electoral cycle that saw Trump replaced by Biden. 
 
 ## On trust 
 

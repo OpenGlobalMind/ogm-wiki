@@ -21,7 +21,7 @@ Unfortunately, most systems today are designed from mistrust — and it's quietl
 
 Around 2012, I had a realization that most of my longtime role models and inspirations — the people who innovated the various systems I just listed (and [many more](https://bra.in/4pxQ56)) — had several profound things in common. 
 
-First, I realized that most of my role models were contrarians. They swam against the main stream. Each of the contrarians was carrying a message difficult enough for their peers to hear that they were often marginalized or ridiculed by those peers. Their insights ran against their discipline's standing conventional wisdom: Let *any* worker stop the assembly line? We'll never get anything built! Give people with *no* collateral loans? No way! Let *any fool* on the planet edit the Wikipedia? Are you nuts? *Remove* traffic lights? Seriously? 
+First, I realized that most of my role models were contrarians. They swam against the main stream. Each of the contrarians was carrying a message difficult enough for their peers to hear that they were often marginalized or ridiculed by those peers. Their insights ran against their discipline's standing conventional wisdom: Let *any* worker stop the assembly line? We'll never get anything built! Give loans to people with *no* collateral? No way! Let *any fool* on the planet edit the Wikipedia? Are you nuts? *Remove* traffic lights? Seriously? 
 
 You see what I mean. 
 
