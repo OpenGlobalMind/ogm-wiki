@@ -12,3 +12,9 @@ Never met [that woman](https://www.youtube.com/shorts/grtXPwqt9EM). Never been t
 
 Now, President Clinton also [denied things](https://www.youtube.com/watch?v=vH_7Zfdqx48), but he was Junior Varsity in comparison. He was playing semantic tricks to avoid responsibility for his bad behavior, then got pinned to the wall by evidence. 
 
+## Institutional DARVO 
+
+Stop the Steal 
+
+>And yet, in another echo of the 1850s, MAGA Republicans are reversing victim and offender, blaming the people under assault for the violence. Trump officials insist that community watch groups and protesters are engaging in “domestic terrorism.” — Letters from an American, [Jan. 31, 2026](https://heathercoxrichardson.substack.com/p/january-31-2026)
+
