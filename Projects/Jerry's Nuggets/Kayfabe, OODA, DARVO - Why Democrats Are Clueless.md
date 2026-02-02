@@ -1,10 +1,10 @@
-# Kayfabe, OODA, DARVO: Why Democrats Are Clueless
+# Kayfabe • OODA • DARVO: Why Democrats Are Clueless
  (draft) 
-*The US Left and media don't know what hit them.*  
+*The US Left and the media don't know what hit them.*  
 
 I'm deeply concerned for the American Left. I'm afraid it has little clue what game is afoot. Progressives keep bringing knives to gunfights. 
 
-Actually, that's the wrong analogy, because it seems to suggest that Lefties need to up the violence to win. tktktk
+Actually, that's the wrong analogy, because it seems to suggest that Lefties need to up the violence to win. As you'll see, figuring out a winning strategy isn't simple at all, but it almost certainly doesn't involve cranking up the hatred, lies, and violence. 
 
 I'm going to be blunt and political in this post, tktktk. 
 
@@ -19,7 +19,7 @@ Trump having side conversation with his followers.
 
 In 2024, Joe Biden showed up for a debate; Donald Trump showed up for a [cage match](https://en.wikipedia.org/wiki/Professional_wrestling_match_types#Steel_cage_match), which he won. Democrats had learned nothing at all. 
 
-## Three concepts worth knowing
+## Three concepts that are too obscure
 
 Three concepts will help me explain this: Kayfabe, OODA and DARVO. I'm afraid most Lefties are unfamiliar with these terms, and the increasingly powerful Far Right is familiar with at least two of them — as they repeatedly commit the third. Please suspend your disbelief for a moment while I explain. 
 
