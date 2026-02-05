@@ -12,15 +12,7 @@ In Freestyle Chess, human+AI teams beat either one alone.
 
 Work will be like that. 
 
-Being a human amid all this change is difficult. 
-
-It's hard to know what frontiers GenAI will shatter next. 
-
-The alternative to going Cyborg is being replaced completely by software. 
-
-It's possible to internalize GenAI deeply. 
-
-Doing so requires several kinds of trust. 
+It's possible to internalize GenAI deeply, melding with it, becoming a Cyborg. 
 
 Orchestrating individual Cyborgs to play together well will pay off even better. 
 
@@ -28,5 +20,13 @@ They will create powerful collective intelligence.
 
 Organizations that do so will have unfair advantages. 
 
-Creating a workplace that can achieve this requires trust, experimentation, flexibility, planning and principles. 
+Being a human amid all this change is difficult. 
+
+It's hard to know what frontiers GenAI will shatter next. 
+
+The alternative to going Cyborg is being replaced completely by software. 
+
+Becoming a Cyborg requires several kinds of trust, from trust in the AI to trust that your employer won't fire you. 
+
+Creating a workplace that can achieve all this requires trust, experimentation, flexibility, planning and principles. 
 
