@@ -14,7 +14,10 @@ The [Sword of Damocles](https://en.wikipedia.org/wiki/Damocles#Sword_of_Damocles
 ![[Westall - Damocles.jpg]]
 Damocles, by Richard Westall (1812)
 
-The 
+When the sword drops, 
+
+> No matter where you work, my hunch is this is coming for you.
+> — Paul Ford, [The A.I. Disruption We’ve Been Waiting for Has Arrived](https://www.nytimes.com/2026/02/18/opinion/ai-software.html)
 
 #futureofwork #generativeai #trustatwork 
 

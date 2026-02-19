@@ -17,8 +17,9 @@
 - [[Proposing a GenAI Compact]] 
 
 ### GenAI + Future of Work Posts (#GenAI+FoW)
-- [[GenAI Is Like a Flesh-Eating Bacterium]] (includes [[GenAI Automates Tasks, Not Jobs]]) 
+- [[GenAI Automates Tasks, Not Jobs]] 
 - [[The Elephant in the GenAI Room]] 
+- [[GenAI Is Like a Flesh-Eating Bacterium]] (includes [[GenAI Automates Tasks, Not Jobs]]) 
 - [[The Future isn't AI - It’s CHI]] 
 - [[Will GenAI Survive Capitalism]]? (includes [[Multiple Promising Technologies Were Warped by Capitalism]]) 
 - [[Will Capitalism Survive GenAI]]? 

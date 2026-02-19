@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a project plan and workflow for the first call for [[Weaving the World]].
+This is a project plan and workflow for the first call for [[Weaving the World (old plan)]].
 
 ## Status
 
