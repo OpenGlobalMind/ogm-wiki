@@ -1,6 +1,6 @@
 # The Future isn't AI. It’s CHI.
 (draft) 
-*Collective Hybrid Intelligence.* 
+*Collective Hybrid Intelligence. Which requires trust.* 
 
 We are all feeling the ground shift.
 
@@ -14,7 +14,7 @@ But what if we flipped the script?
 
 ## I’ve been a "Cyborg" for 28 years
 
-Long before ChatGPT, I began melding my mind with software called **[TheBrain](https://en.wikipedia.org/wiki/TheBrain)**. I didn't use it to replace my thinking; I used it to *[extend](https://www.jerrysbrain.com/)* it. TheBrain's latest update infuses GenAI into the software; I'm now working at the frontier of human curation and machine intelligence. 
+Long before ChatGPT, I began melding my mind with software called **[TheBrain](https://en.wikipedia.org/wiki/TheBrain)**. I didn't use it to replace my thinking; I used it to *[extend](https://www.jerrysbrain.com/)* it. TheBrain's latest update infuses GenAI deep into the software; I'm now working at the frontier of human curation and machine intelligence. 
 
 When you truly partner with software — when you move from "user" to "Cyborg" — you don't get replaced. You get what they discovered in **[Advanced Chess](https://en.wikipedia.org/wiki/Advanced_chess)**: A human+machine team that outperforms any AI (or human) alone.
 
@@ -27,7 +27,6 @@ As an Aikido practitioner, I love that "CHI" echoes **_Ki_**—the flow of energ
 - **AI** is a tool that crunches data, extending our capacities.
     
 - **CHI** is a _flow_ of intelligence between humans and machines, orchestrated by trust.
-    
 
 ## The Trust Key
 

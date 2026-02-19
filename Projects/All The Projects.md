@@ -2,5 +2,5 @@
 
 _Being a compendium of all the projects we know of in OGM_
 
-[[Weaving the World]]
+[[Weaving the World (old plan)]]
 

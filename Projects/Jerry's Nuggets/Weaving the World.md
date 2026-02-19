@@ -1,10 +1,8 @@
-# The GenAI-Jobs-Education Trilemma
+# Weaving the World
  (draft) 
-*What happens when AI eats your job?* 
+*Subhed.* 
 
 The 
-
-Because [[GenAI Automates Tasks, Not Jobs]] tktktk. 
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
