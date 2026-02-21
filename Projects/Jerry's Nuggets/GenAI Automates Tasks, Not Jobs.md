@@ -1,3 +1,12 @@
+---
+type: nugget
+status: draft
+format: series
+topic: 
+  - GenAI
+  - Future of Work
+queue_order: 3
+---
 # GenAI Automates Tasks, Not Jobs 
 (draft) 
 *But knock out enough tasks...* 
