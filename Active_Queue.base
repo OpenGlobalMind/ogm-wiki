@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - type == "nugget"
+    order:
+      - file.name
+      - status
+      - format
+      - topic
+    sort: []

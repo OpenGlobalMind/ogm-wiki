@@ -1,1 +1,10 @@
-{}
+{
+  "type": "nugget",
+  "status": "draft",
+  "format": "series",
+  "topic": [
+    "GenAI",
+    "Future of Work"
+  ],
+  "queue_order": 4
+}

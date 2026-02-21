@@ -1,3 +1,12 @@
+---
+type: nugget
+status: draft
+format: series
+topic:
+  - GenAI
+  - Future of Work
+queue_order: 4
+---
 # The Elephant in the GenAI Room 
 (draft) 
 *It's about trust.* 
