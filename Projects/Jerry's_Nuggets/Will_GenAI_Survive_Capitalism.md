@@ -1,3 +1,14 @@
+---
+type: nugget
+status: draft
+format:
+topic:
+  - GenAI
+  - Context
+  - Strategy
+queue_order:
+date posted:
+---
 # Will GenAI Survive Capitalism?
  (draft)
 *Other useful technologies haven't fared so well.*

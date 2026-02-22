@@ -1,3 +1,14 @@
+---
+type: nugget
+status: draft
+format:
+topic:
+  - GenAI
+  - CHI
+  - Collaboration
+queue_order:
+date posted:
+---
 # The Future isn't AI. It’s CHI.
 (draft) 
 *Collective Hybrid Intelligence. Which requires trust.* 

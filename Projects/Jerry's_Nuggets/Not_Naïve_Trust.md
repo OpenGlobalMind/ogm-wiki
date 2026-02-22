@@ -1,3 +1,12 @@
+---
+type: nugget
+status: draft
+format:
+topic:
+  - Design from Trust
+queue_order:
+date posted:
+---
 # Not Naïve Trust
  (draft) 
 *We're not all trustworthy, but we're definitely not all bad actors.* 

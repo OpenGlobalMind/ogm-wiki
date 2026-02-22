@@ -1,3 +1,12 @@
+---
+type: nugget
+status: done
+format:
+topic:
+  - Design from Trust
+queue_order:
+date posted: 2026-01-24
+---
 # Design from Trust: How to Build Better Futures
  
 *Getting beyond today's default setting of mistrust.* 

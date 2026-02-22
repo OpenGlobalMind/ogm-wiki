@@ -1,1 +1,11 @@
-{}
+{
+  "type": "nugget",
+  "status": "draft",
+  "format": null,
+  "topic": [
+    "Context",
+    "Strategy"
+  ],
+  "queue_order": null,
+  "date posted": null
+}

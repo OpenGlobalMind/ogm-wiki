@@ -1,3 +1,13 @@
+---
+type: nugget
+status: idea
+format:
+topic:
+  - Context
+  - Jerry's Brain
+queue_order:
+date posted:
+---
 # Weaving the World
  (draft) 
 *Subhed.* 

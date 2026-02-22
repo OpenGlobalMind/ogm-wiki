@@ -1,3 +1,13 @@
+---
+type: nugget
+status: idea
+format:
+topic:
+  - Next Stacks
+  - Strategy
+queue_order:
+date posted:
+---
 # I'll Have What She's Having 
  (draft) 
 *On making things contagious, not mandatory.* 

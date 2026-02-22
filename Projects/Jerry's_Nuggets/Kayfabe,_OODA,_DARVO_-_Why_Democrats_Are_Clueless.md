@@ -1,3 +1,13 @@
+---
+type: nugget
+status: draft
+format:
+topic:
+  - Context
+  - Strategy
+queue_order:
+date posted:
+---
 # Kayfabe • OODA • DARVO: Why Democrats Are Clueless
  (draft) 
 *The US Left and the media don't know what hit them.*  
