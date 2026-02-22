@@ -1,3 +1,12 @@
+---
+type: nugget
+status: draft
+format:
+topic:
+  - History
+queue_order:
+date posted:
+---
 # When I Sent My First Wireless Email 
  (draft) 
 *A miracle then, ho-hum now.*  

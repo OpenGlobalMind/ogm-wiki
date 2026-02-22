@@ -9,4 +9,14 @@ views:
       - status
       - format
       - topic
-    sort: []
+      - date posted
+    sort:
+      - property: status
+        direction: DESC
+  - type: cards
+    name: Cards
+    filters:
+      and:
+        - type == "nugget"
+  - type: table
+    name: Kanban

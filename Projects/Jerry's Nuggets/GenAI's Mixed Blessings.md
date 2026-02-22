@@ -1,3 +1,13 @@
+---
+type: nugget
+status: done
+format: series
+topic:
+  - GenAI
+  - Creativity
+queue_order:
+date posted: 2024-07-10
+---
 # GenAI's Mixed Blessings
 
 One of the harbingers of Generative AI's recent explosion on the world stage was the 2016 Go match between Lee Sedol, the world's top-ranked Go player, and AlphaGo, a neural network trained on historic Go games ([Go](http://en.wikipedia.org/wiki/Go_(board_game)) is an ancient board game more complicated than chess). The New York Times just posted [this thoughtful interview](https://www.nytimes.com/2024/07/10/world/asia/lee-saedol-go-ai.html?unlocked_article_code=1.6E0.nYgx.dwnjoCDEc1wR&smid=url-share) with him (gift link).

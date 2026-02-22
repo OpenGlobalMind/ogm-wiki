@@ -1,6 +1,15 @@
+---
+type: nugget
+status: draft
+format:
+topic:
+  - Design from Trust
+queue_order:
+date posted:
+---
 # Design from Trust Requires Thoughtful Design
 (draft)
-
+*Subhed.* 
 
 [[Design from Trust]] doesn't spring forth naturally and spontaneously. It isn't the default condition for human societies. 
 
@@ -16,3 +25,6 @@ Most of the examples I've just cited are pre-literate, which means these insight
 
 [[Portland's Tale of Woe Around Drug Decriminalization]]
 
+
+--- 
+This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
