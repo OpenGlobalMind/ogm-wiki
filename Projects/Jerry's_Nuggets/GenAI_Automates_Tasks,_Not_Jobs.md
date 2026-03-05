@@ -2,10 +2,11 @@
 type: nugget
 status: draft
 format: series
-topic: 
+topic:
   - GenAI
   - Future of Work
 queue_order: 3
+date posted:
 ---
 # GenAI Automates Tasks, Not Jobs 
 (draft) 
@@ -13,7 +14,7 @@ queue_order: 3
 
 ![[Punctured Resumes.jpg]]
 
-In the early 1990s, I was a technology-trends research analyst serving clients in the Advanced Technology Groups of major multinationals. My beat then was neural networks, a field that was reviving after being put in a [coma](https://www.youtube.com/watch?v=ASBOZMIngE8) for a couple of decades by the book [Perceptrons](https://en.wikipedia.org/wiki/Perceptrons_(book)). In the early 90s, the thorny problem of handwriting recognition looked like it might yield to neural networks really well. 
+In the early 1990s, I was a technology-trends research analyst serving clients in the Advanced Technology Groups of major multinationals. My beat then was neural networks, a field that was reviving after being put in a [coma](https://www.youtube.com/watch?v=ASBOZMIngE8) for a decade or two by the book [Perceptrons](https://en.wikipedia.org/wiki/Perceptrons_(book)). In the early 90s, the thorny problem of handwriting recognition looked like it might yield to neural networks really well. 
 
 Reality proved to be way more complicated. Accurate handwriting recognition turned out to be an amalgam of problems, such as ignoring the palm touching the screen; [parsing](https://en.wikipedia.org/wiki/Parsing) words, then characters; disambiguating between conflicting meanings and contexts; and much more. Neural nets were a breakthrough for some of those elements, but needed to be integrated with other methods before reliable handwriting reco made it to market — never mind how puny CPUs of that era look from our vantage point today. 
 

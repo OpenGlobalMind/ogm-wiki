@@ -75,7 +75,7 @@ Join my Substack
 - The Many Flavors of Capitalism 
 
 ### Jerry's Brain Posts 
-- On Curating a 27-Year-Old Mind Map 
+- On Curating a 28-Year-Old Mind Map 
 - [[Enumerated Wisdom]] 
 - [[isms]] 
 - Taglines 
