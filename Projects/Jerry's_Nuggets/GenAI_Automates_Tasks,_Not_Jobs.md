@@ -43,7 +43,7 @@ In the workplace setting, how many tasks can we remove from your job description
 
 We're already seeing the bow wave of this change in large-scale job shifts, such as Salesforce saying tktktk and tktktk. 
 
-Entry-level jobs being knocked out, which I've seen called the "Junior Extinction," a phrase that chills the blood. 
+Entry-level jobs being knocked out, which is earning the moniker "the Junior Extinction," a phrase that chills the blood. 
 
 Augment vs replace. 
 
