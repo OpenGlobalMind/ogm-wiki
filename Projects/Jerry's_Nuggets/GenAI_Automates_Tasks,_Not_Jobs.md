@@ -47,7 +47,7 @@ Entry-level jobs being knocked out, which is earning the moniker "the Junior Ext
 
 Augment vs replace. 
 
-We've been making sure people stay in their lanes and hit their KPIs or 
+We've been making sure people stay in their lanes and hit their KPIs or tktktk
 ## But, but...
 
 Experienced readers will have noted that this process should move quickly in high-trust organizations, but may bog down in low-trust ones. 
