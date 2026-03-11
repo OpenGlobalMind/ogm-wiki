@@ -25,5 +25,15 @@ Timing is everything.
 
 If the lag time of training is longer than the lag time of the automation cycle, this dynamic will get ugly, quickly. 
 
+### When your career disappears 
+
+Per Aditya Agarwal's article, [A Claude Catharsis](https://archive.is/3m3GI): 
+
+> There’s something deeply disorienting about watching the pillars of your professional identity, what you built and how you built it, get reproduced in a weekend by a tool that doesn’t need to eat or sleep.
+
+Yet right after, he writes: 
+
+> But here’s the thing about disorientation: It passes. And what replaced my sadness was something I didn’t expect: a kind of wild, almost reckless energy.
+
 ## About retraining...
 
