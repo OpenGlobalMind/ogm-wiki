@@ -35,5 +35,9 @@ Yet right after, he writes:
 
 > But here’s the thing about disorientation: It passes. And what replaced my sadness was something I didn’t expect: a kind of wild, almost reckless energy.
 
+Even better: 
+
+> I wasn’t watching myself become obsolete. I was watching the constraints I’d accepted my whole career dissolve.
+
 ## About retraining...
 
