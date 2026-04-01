@@ -1,0 +1,546 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="fs_path" content="/GWRE Site Rebuild.md">
+    
+    <title>GWRE Site Rebuild - OGM Wiki</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/ogm-wiki/markpub_static/css/style.css">
+    <link rel="stylesheet" href="/ogm-wiki/markpub_static/css/custom.css">
+    <link rel="stylesheet" href="https://unpkg.com/bluesky-comments@0.12.0/dist/bluesky-comments.css">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+    <script src="/ogm-wiki/lunr-index-1775056793.6432061.js"></script>
+    <script>var index = lunr.Index.load(lunr_index)</script>
+    
+    
+    <script src="/ogm-wiki/lunr-posts-1775056793.6432061.js"></script>
+    <script> function randomPageLink() { return "/ogm-wiki"+lunr_posts[Math.floor(Math.random() * lunr_posts.length)].link; } </script>
+    
+  </head>
+<body>
+  <div id="header">
+    <span id="hamburger-btn"
+    class="hidden">&#9776;</span><a class="button is-light" id="header-link" href="/ogm-wiki/index.html">OGM Wiki</a>
+  </div>
+
+  <div class="container" id="flex-container">
+    <div id="side-column">
+      <div>
+        <button id="hide-btn">Hide</button>
+        <button id="move-btn" class="hidden">Move to Sidebar</button>
+      </div>
+      <p>This site is a <a class="wikilink" href="/ogm-wiki/Admin_and_Help/System_Pages/Work_In_Progress.html">Work In Progress</a></p>
+<h3>Site Navigation</h3>
+<div class="navlinks">
+<ul>
+<li><a class="wikilink" href="/ogm-wiki/README.html">HOME</a></li>
+<li><a href="/ogm-wiki/search.html">SEARCH</a></li>
+<li><a href="/ogm-wiki/all-pages.html">ALL PAGES</a></li>
+<li><a href="/ogm-wiki/recent-pages.html">RECENT CHANGES</a></li>
+</ul>
+</div>
+<div class="navlinks">
+  <button onclick="location.href=`${randomPageLink()}`">
+    RANDOM PAGE
+  </button>
+</div>
+<p><a class="wikilink" href="/ogm-wiki/Projects/NeoBooks_In_Progress.html">NeoBooks In Progress</a></p>
+<p><a class="wikilink" href="/ogm-wiki/NeoBooks_Ops/Creating_a_NeoBook_(start_here).html">Creating a NeoBook (start here)</a></p>
+<p><a class="wikilink" href="/ogm-wiki/Admin_and_Help/Admin_and_Help.html">Admin and Help</a></p>
+
+    </div>
+
+    <div id="main-column">
+      
+      <div> <!-- edit this page button -->
+	<p style="float:right; margin:.5em .5em
+	.5em"><a target="_blank" href="https://github.com/openglobalmind/ogm-wiki/edit/main/GWRE Site Rebuild.md"
+	class="edit-this-page-button">Edit on GitHub</a></p>
+	<br clear="all">
+      </div> <!-- edit this page button -->
+      
+      <h1>Global Warming Real Estate — Site Rebuild Plan</h1>
+<p><em>Compiled April 2026 · Built with Jerry Michalski + Claude</em></p>
+<hr />
+<h2>Overview</h2>
+<p><strong>Site:</strong> https://www.globalwarmingrealestate.com/ <strong>Platform:</strong> Google Sites (staying put) <strong>Original:</strong> Created 2006 by Jerry Michalski <strong>Tone:</strong> Deadpan, enthusiastic, early-Colbert. Satirical real estate for a warming world. Never winks. Never breaks character. <strong>Context:</strong> Rebuilt to reflect Trump-era climate rollbacks as business opportunity, plus expanded product/service offerings.</p>
+<hr />
+<h2>Site architecture</h2>
+<h3>Navigation order</h3>
+<ol>
+<li>Home</li>
+<li>H2O Motors</li>
+<li>Conversion Kits <em>(new)</em></li>
+<li>Arctic Riviera <em>(new)</em></li>
+<li>Properties</li>
+<li>Testimonials</li>
+<li>Flood Insurance?</li>
+<li>From the Field <em>(new — reader submissions)</em></li>
+</ol>
+<hr />
+<h2>Site-wide settings</h2>
+<table>
+<thead>
+<tr>
+<th align="left">Setting</th>
+<th align="left">Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Theme</td>
+<td align="left">Simple, then customize</td>
+</tr>
+<tr>
+<td align="left">Primary color</td>
+<td align="left"><code>#1B4F72</code> (deep ocean blue)</td>
+</tr>
+<tr>
+<td align="left">Background</td>
+<td align="left"><code>#FAFAF8</code> (warm off-white)</td>
+</tr>
+<tr>
+<td align="left">Header font</td>
+<td align="left">Playfair Display (or Georgia)</td>
+</tr>
+<tr>
+<td align="left">Body font</td>
+<td align="left">DM Sans (or Raleway)</td>
+</tr>
+<tr>
+<td align="left">Nav pages</td>
+<td align="left">All 8 visible</td>
+</tr>
+<tr>
+<td align="left">Footer</td>
+<td align="left">Show — include author credit</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Footer text:</strong></p>
+<blockquote>
+<p>A work of irony by Jerry Michalski · globalwarmingrealestate.com · Est. 2006 · Updated as conditions warrant, which is frequently.</p>
+</blockquote>
+<hr />
+<h2>Page 1: Home</h2>
+<p><strong>Hero title:</strong> If you don't believe the science... <strong>Hero subtitle:</strong> maybe you see a business opportunity. <strong>Hero image:</strong> Midjourney prompt below.</p>
+<h3>Content blocks</h3>
+<p><strong>Opening pitch (text block):</strong></p>
+<blockquote>
+<p>Imagine the possibilities: new beachfront property blocks, then miles, inland. At today's shoreline, every lobby can be an aquarium. First-floor windows convert to luxurious front doors — with docks. And for getting around, find your dream waterborne SUV at H2O Motors.</p>
+<p>The good news? Recent policy developments have significantly accelerated the timeline on these opportunities. Whether you're a skeptic, an optimist, or simply a realist who has decided to profit from the inevitable — Global Warming Real Estate is your full-service partner in forward-looking coastal acquisition.</p>
+<p>Change is coming sooner than you think. And frankly, faster than we projected in 2006.</p>
+</blockquote>
+<p><strong>Policy Update callout box</strong> (give a light blue background <code>#E8F4F8</code>; label: <em>INVESTOR ALERT — Q1 2025</em>):</p>
+<blockquote>
+<p>The recent rollback of coastal building restrictions, withdrawal from international emissions frameworks, and dramatic acceleration of fossil fuel permitting represent what our analysts are calling a "once-in-a-civilization opportunity window." We have updated our 10-year sea level projections accordingly. Clients in Miami's back blocks: your patience is about to be rewarded.</p>
+</blockquote>
+<p><strong>3-column photo strip:</strong></p>
+<ul>
+<li>Image 1 (real estate agent in floodwater) → <em>Investment strategy: short the shoreline, buy a few blocks in.</em></li>
+<li>Image 2 (flooded lobby with fish) → <em>Every lobby an aquarium!</em></li>
+<li>Image 3 (vintage travel poster) → <em>Invest in tomorrow's beachfront today.</em></li>
+</ul>
+<p><strong>Buttons:</strong> "Browse Properties" → Properties page | "Find Your H2O Vehicle" → H2O Motors</p>
+<p><strong>Footer note:</strong> <em>This work of irony (in case you missed it) by Jerry Michalski.</em></p>
+<h3>Midjourney prompts — Home</h3>
+<ol>
+<li><code>Aerial view of a partially submerged suburban neighborhood, cheerful real estate FOR SALE signs sticking out of floodwater, sunny day, warm golden light, photorealistic, shot from drone --ar 16:9</code></li>
+<li><code>Professional real estate agent in a business suit standing knee-deep in ocean water in front of a flooded luxury home, smiling and pointing at the property, holding a clipboard, golden hour lighting, photorealistic --ar 3:2</code></li>
+<li><code>Vintage-style travel poster aesthetic, "INVEST IN TOMORROW'S BEACHFRONT TODAY," illustrated flooded city skyline with palm trees and sailboats where office buildings used to be, retro colors --ar 2:3</code></li>
+</ol>
+<hr />
+<h2>Page 2: H2O Motors</h2>
+<p><strong>Hero title:</strong> H2O Motors <strong>Hero subtitle:</strong> The SUV you'll actually need.</p>
+<h3>Content blocks</h3>
+<p><strong>Logo/badge image</strong> (centered, above intro copy)</p>
+<p><strong>Brand intro (text block):</strong></p>
+<blockquote>
+<p>For decades, Americans were told they needed four-wheel drive for the road ahead. At H2O Motors, we simply updated that promise for the road under water.</p>
+<p>Our lineup ranges from the entry-level H2O Civic — perfect for the daily flood commute — to the flagship H2O Suburban XL, featuring a 400-horsepower twin outboard, heated leather seating for eight, and a rooftop cargo rack rated for kayaks, paddleboards, or the belongings you grabbed on the way out.</p>
+</blockquote>
+<p><strong>The Fleet (table — 5 columns, 5 rows):</strong></p>
+<table>
+<thead>
+<tr>
+<th align="left">Model</th>
+<th align="left">Range</th>
+<th align="left">Passengers</th>
+<th align="left">Tagline</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">H2O Civic</td>
+<td align="left">200 mi</td>
+<td align="left">4</td>
+<td align="left"><em>For the practical flooder</em></td>
+</tr>
+<tr>
+<td align="left">H2O Explorer</td>
+<td align="left">320 mi</td>
+<td align="left">6</td>
+<td align="left"><em>Because your old SUV is now a reef</em></td>
+</tr>
+<tr>
+<td align="left">H2O Suburban XL</td>
+<td align="left">450 mi</td>
+<td align="left">8</td>
+<td align="left"><em>The family didn't downsize. The neighborhood did.</em></td>
+</tr>
+<tr>
+<td align="left">H2O Rivian collab</td>
+<td align="left">500 mi</td>
+<td align="left">5</td>
+<td align="left"><em>Electric. Amphibious. Inevitable.</em></td>
+</tr>
+</tbody>
+</table>
+<p><strong>2-column image spread:</strong> showroom interior (left) + family in SUV on flooded street (right)</p>
+<p><strong>Financing (text block):</strong></p>
+<blockquote>
+<p>H2O Motors financing: We partner with institutions that have, wisely, already moved their headquarters inland. APR as low as 3.9% for qualified buyers. Flood maps accepted as collateral.</p>
+<p>Schedule a test drive. Bring your own life jacket, or borrow one of ours — complimentary with every test drive over 30 minutes.</p>
+</blockquote>
+<h3>Midjourney prompts — H2O Motors</h3>
+<ol>
+<li><code>A luxury SUV that is also a boat, sleek automotive design merged seamlessly with a speedboat hull, parked in a flooded suburban driveway, chrome logo on the bow, photorealistic product photography, warm evening light --ar 16:9</code></li>
+<li><code>Showroom interior with gleaming amphibious vehicles on display, polished concrete floors reflecting the vehicles, well-dressed salespeople, large windows showing a flooded cityscape outside, architectural photography style --ar 16:9</code></li>
+<li><code>Glossy automotive brochure-style image: a family of four in a large amphibious SUV cruising through a flooded city street, children waving from the sunroof, skyscrapers in background, golden light, aspirational mood --ar 3:2</code></li>
+<li><code>H2O Motors logo concept: a circular badge merging a car silhouette with a wave, chrome and navy blue, automotive brand identity style, white background --ar 1:1</code></li>
+</ol>
+<hr />
+<h2>Page 3: Conversion Kits <em>(new)</em></h2>
+<p><strong>Hero title:</strong> Conversion Kits <strong>Hero subtitle:</strong> Because adaptation is just renovation by another name.</p>
+<h3>Content blocks</h3>
+<p><strong>Intro (text block):</strong></p>
+<blockquote>
+<p>Your home was built for the world that existed. We sell the parts for the world that's coming.</p>
+<p>At Global Warming Real Estate, we've always believed that rising waters represent not a crisis but a renovation opportunity. Our Conversion Kits division was founded on a simple premise: with the right hardware, your existing property can transition gracefully from "terrestrial dwelling" to "waterfront residence" without the inconvenience of moving.</p>
+<p>All kits are engineered for standard American residential construction. Installation is straightforward. The timeline is flexible — though our supply chain team recommends not waiting until you can hear the water.</p>
+</blockquote>
+<p><strong>Kit 1 &amp; 2 (2-column layout):</strong></p>
+<p><em>Kit 1 — SKU: WDC-1 — Window-to-Door Conversion Kit</em></p>
+<blockquote>
+<p>The one that started it all. Reinforced hinged frame, marine-grade weatherstripping, integrated dock bracket (accommodates vessels up to 24 ft), and a tasteful brass kickplate engraved with your house number. Finishes: Driftwood, Barnacle, and Optimist White.</p>
+</blockquote>
+<p><em>Kit 2 — SKU: LAC-2 — Lobby Aquarium Conversion Kit</em></p>
+<blockquote>
+<p>When water enters a lobby uninvited, it's a flood. When water enters a lobby by design, it's an amenity. Includes tempered glass partitions, submersible LED lighting, salt or freshwater filtration, and a curated starter pack of climate-appropriate fish species — all of which, we note with no particular irony, are moving northward anyway.</p>
+<p><em>Optional add-on: The LAC-2 Concierge Package includes a small brass plaque reading "Atrium" for the lobby entrance, because framing matters.</em></p>
+</blockquote>
+<p><strong>Kit 3 &amp; 4 (2-column layout):</strong></p>
+<p><em>Kit 3 — SKU: RDH-3 — Rooftop Dock &amp; Helipad Kit</em></p>
+<blockquote>
+<p>When the first floor is fully aquatic and the second floor is managing, the roof becomes your primary outdoor entertaining space. Converts any standard flat or low-pitch roof into a functional dock with cleats, bumpers, and lighting, plus an optional helipad circle. Regulatory approval varies by municipality; most municipalities are currently focused on other things.</p>
+</blockquote>
+<p><em>Kit 4 — SKU: SBR-4 — Staircase-to-Boat-Ramp Retrofit</em></p>
+<blockquote>
+<p>A gentle aluminum ramp replaces the bottom three to five steps, angled for easy kayak or dinghy loading. Non-slip surface. Weight-rated to 800 lbs. Compatible with all H2O Motors models.</p>
+</blockquote>
+<p><strong>Kit 5 — Full Transition Package (full-width featured section):</strong></p>
+<blockquote>
+<p>Kits 1 through 4, bundled. Plus: a consultation with one of our Transition Specialists, who will walk through your property and identify which features are worth preserving, which are charmingly nautical already, and which should simply be allowed to become reef habitat. Includes a complimentary property re-appraisal reflecting your new waterfront status.</p>
+<p><em>Note: The Full Transition Package is our most popular product in Miami, Houston, and — as of last quarter — Scottsdale.</em></p>
+</blockquote>
+<p><strong>Pricing table:</strong></p>
+<table>
+<thead>
+<tr>
+<th align="left">SKU</th>
+<th align="left">Product</th>
+<th align="left">Includes</th>
+<th align="left">Price</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">WDC-1</td>
+<td align="left">Window-to-Door Conversion Kit</td>
+<td align="left">Hinged frame, weatherstripping, dock bracket, brass kickplate</td>
+<td align="left">$4,200 per window</td>
+</tr>
+<tr>
+<td align="left">LAC-2</td>
+<td align="left">Lobby Aquarium Conversion Kit</td>
+<td align="left">Glass partitions, submersible LED, filtration, starter fish</td>
+<td align="left">$18,500 per lobby</td>
+</tr>
+<tr>
+<td align="left">LAC-2C</td>
+<td align="left">LAC-2 Concierge Add-on</td>
+<td align="left">Brass "Atrium" plaque, installation, dignity</td>
+<td align="left">$340 flat</td>
+</tr>
+<tr>
+<td align="left">RDH-3</td>
+<td align="left">Rooftop Dock &amp; Helipad Kit</td>
+<td align="left">Cleats, bumpers, lighting, optional helipad circle</td>
+<td align="left">$31,000 flat / +$8k pitched roof</td>
+</tr>
+<tr>
+<td align="left">SBR-4</td>
+<td align="left">Staircase-to-Boat-Ramp Retrofit</td>
+<td align="left">Aluminum ramp, non-slip surface, mounting hardware</td>
+<td align="left">$6,800 (3–5 steps standard)</td>
+</tr>
+<tr>
+<td align="left">FTP-BUNDLE</td>
+<td align="left">Full Transition Package</td>
+<td align="left">All four kits + Specialist consultation + re-appraisal</td>
+<td align="left">Contact for quote</td>
+</tr>
+</tbody>
+</table>
+<p><em>Warranty note: All kits carry a 10-year warranty against manufacturing defects. They do not carry a warranty against the broader forces motivating their existence.</em> <em>Scottsdale surcharge: +12% for inland desert properties. You know why.</em></p>
+<p><strong>Closing (text block):</strong></p>
+<blockquote>
+<p>Questions? Contact our team. We respond quickly. We have a sense of urgency about this.</p>
+</blockquote>
+<p><strong>Buttons:</strong> "Browse Properties" → Properties | "Find Your H2O Vehicle" → H2O Motors</p>
+<h3>Midjourney prompts — Conversion Kits</h3>
+<ol>
+<li><code>A beautiful renovated home exterior where ground-floor windows have been converted to elegant French doors with a wooden dock attached, calm floodwater surrounding the house, golden afternoon light, architectural photography style, aspirational home improvement magazine aesthetic --ar 16:9</code></li>
+<li><code>Close-up product photograph of a beautifully crafted marine-grade window-door conversion frame, brass hardware, dock bracket attachment, displayed on a white background like a high-end hardware catalog, studio lighting --ar 3:2</code></li>
+<li><code>Stunning interior of a flooded ground-floor lobby converted into a luxury aquarium, colorful tropical fish swimming past the original crown molding and chandelier, warm interior lighting, Architectural Digest style photography --ar 16:9</code></li>
+<li><code>Aerial view of a residential rooftop that has been converted into a dock, a small motorboat tied up, two people having cocktails on deck chairs, flooded suburban neighborhood below, golden hour, aspirational lifestyle photography --ar 3:2</code></li>
+<li><code>Interior of a home where the bottom of a traditional wooden staircase has been replaced with a smooth aluminum boat ramp descending into calm indoor floodwater, tasteful nautical decor, warm lighting, Better Homes and Gardens aesthetic --ar 3:2</code></li>
+<li><code>A happy couple standing on the rooftop dock of their converted home, holding glasses of wine, watching the sunset over a flooded neighborhood, their H2O Motors SUV tied up at the second-floor window below, aspirational real estate photography --ar 16:9</code></li>
+</ol>
+<hr />
+<h2>Page 4: Arctic Riviera <em>(new)</em></h2>
+<p><strong>Hero title:</strong> Arctic Riviera <strong>Hero subtitle:</strong> Sun. Permafrost. Opportunity.</p>
+<h3>Content blocks</h3>
+<p><strong>Market intro (text block):</strong></p>
+<blockquote>
+<p>For generations, Siberia, northern Canada, and Greenland were considered... suboptimal. We are pleased to announce that this is changing rapidly.</p>
+<p>The Arctic Riviera represents the most exciting new real estate market since the Florida land boom of the 1920s — with better fundamentals and considerably more ice melt. What was once a frozen wasteland is now a frozen wasteland with infrastructure potential, navigable shipping lanes, and, soon, a surprisingly pleasant July.</p>
+</blockquote>
+<p><strong>Full-width image:</strong> Arctic coastline with melt-water lakes, marina under construction. <em>Caption: The Northwest Passage Waterfront: the hottest new shipping corridor. Seasonal marina coming 2031.</em></p>
+<p><strong>Featured listings (text block):</strong></p>
+<blockquote>
+<p><strong>Nunavut Pied-à-Terre</strong> — 40 acres, formerly permafrost, now merely cold. Tundra views. One previous owner (polar bear, relocated).</p>
+<p><strong>Greenland Gold Coast</strong> — glacier-adjacent lot, southwest facing. "Glacier-adjacent" window closing — act now.</p>
+<p><strong>Northwest Passage Waterfront</strong> — the hottest new shipping corridor. Seasonal marina coming 2031.</p>
+</blockquote>
+<p><strong>Vintage travel poster image</strong> (centered, portrait format — no caption needed)</p>
+<h3>Midjourney prompts — Arctic Riviera</h3>
+<ol>
+<li><code>Luxury real estate brochure cover: a beautiful modern glass house on a dramatic Arctic tundra landscape, midnight sun, wildflowers in foreground, melting iceberg in background distance, aspirational lifestyle photography --ar 3:2</code></li>
+<li><code>Aerial view of a pristine Arctic coastline in summer, turquoise melt-water lakes, green tundra patches, a small marina under construction, shot from above, optimistic tone --ar 16:9</code></li>
+<li><code>Vintage travel poster style: "THE ARCTIC RIVIERA — OPENING SOON," illustrated polar bear in sunglasses on a beach chair, melting glacier in background, retro 1950s tourism poster colors and typography --ar 2:3</code></li>
+</ol>
+<hr />
+<h2>Page 5: Properties</h2>
+<p><strong>Hero title:</strong> Our Portfolio <strong>Hero subtitle:</strong> The best time to buy was yesterday. The second best time is before the next IPCC report.</p>
+<h3>Content blocks</h3>
+<p><strong>Policy Update callout (deregulation-specific):</strong></p>
+<blockquote>
+<p><strong>Deregulation Briefing:</strong> Recent rollbacks to coastal construction setback rules in Florida, Louisiana, and Texas have opened previously restricted parcels for development. Our team has mapped every affected parcel. Contact us for the full briefing — complimentary for qualified investors.</p>
+</blockquote>
+<p><strong>Full-width vintage map image</strong> <em>Caption: Blue contour lines indicate projected shoreline, 2050. Properties highlighted in gold represent current inventory.</em></p>
+<p><strong>Investment thesis (text block):</strong></p>
+<blockquote>
+<p>Our investment thesis is simple: the ocean is moving inland. This is, generally speaking, bad for people who live on the current coast. It is, generally speaking, quite good for people who own property a few blocks — or a few miles — behind them.</p>
+<p>We call this strategy "Short the Shoreline." It requires no special expertise, no exotic financial instruments, and no particular optimism about the future. Only a clear-eyed understanding of hydrology.</p>
+</blockquote>
+<h3>Midjourney prompts — Properties</h3>
+<ol>
+<li><code>Vintage antique real estate map of the eastern United States coastline, hand-drawn cartographic style, with rising sea level contour lines drawn in blue, compass rose, aged paper texture, editorial illustration --ar 16:9</code></li>
+<li><code>Split image: left side shows a normal suburban house, right side shows the same house partially submerged with a dock attached to the second-floor window, before-and-after real estate photo format --ar 16:9</code></li>
+</ol>
+<hr />
+<h2>Page 6: Testimonials</h2>
+<p><strong>Hero title:</strong> Satisfied Investors <strong>Hero subtitle:</strong> Don't just take our word for it.</p>
+<h3>Seed testimonials (use until real submissions arrive)</h3>
+<blockquote>
+<p><em>"I bought three blocks inland from the Miami coast in 2019. My neighbors laughed. They are no longer my neighbors — they are my kayaking companions."</em> — <strong>D. Fairweather</strong>, Retired, Homestead FL</p>
+</blockquote>
+<blockquote>
+<p><em>"Our firm shorted the entire Gulf Coast in 2022. The returns have been, and I don't use this word lightly, biblical."</em> — <strong>C. Tidewater</strong>, Managing Partner, Littoral Capital Group</p>
+</blockquote>
+<blockquote>
+<p><em>"When my financial advisor told me to diversify into elevated terrain, I thought he was being dramatic. He was not being dramatic."</em> — <strong>P. Highground</strong>, Former Beach House Owner</p>
+</blockquote>
+<blockquote>
+<p><em>"I purchased an H2O Suburban XL before I needed one. I needed one sooner than expected."</em> — <strong>B. Stormfront</strong>, H2O Motors Customer of the Year, 2027**</p>
+<p><em>*projected</em></p>
+</blockquote>
+<p><strong>Submit your story CTA:</strong> Text: <em>Are you a satisfied Global Warming Real Estate investor with a story to share?</em> Button: "Submit Your Story" → links to Google Form (see below) Small print: <em>All submissions subject to editorial review. Stories may be lightly edited for clarity and deadpan effect.</em></p>
+<h3>Midjourney prompts — Testimonials</h3>
+<ol>
+<li><code>Professional LinkedIn-style headshot of a smiling middle-aged person in business attire, neutral background, confident expression, photorealistic --ar 1:1</code> <em>(run 4 variations for the 4 seed testimonials)</em></li>
+<li><code>Split image: left side shows a normal suburban house, right side shows the same house partially submerged with a dock attached to the second-floor window, before-and-after real estate photo format --ar 16:9</code></li>
+</ol>
+<hr />
+<h2>Page 7: Flood Insurance?</h2>
+<p><strong>Hero title:</strong> Flood Insurance? <strong>Hero subtitle:</strong> A thought experiment.</p>
+<h3>Content blocks</h3>
+<p><strong>Main argument (text block):</strong></p>
+<blockquote>
+<p>Flood insurance was invented in 1968, when floods were considered unusual. We trust you see where we're going with this.</p>
+<p>Here at Global Warming Real Estate, we don't advise against flood insurance. We simply invite you to consider the math. If a premium is priced to cover an unlikely event, and the event becomes likely, the premium must — eventually — reflect that. At which point you are essentially pre-paying for your own misfortune on a monthly basis.</p>
+</blockquote>
+<p><strong>Full-width chart illustration image</strong> <em>Caption: Premium increases, 2000–2040. Projected. But honestly, look at that line.</em></p>
+<p><strong>Alternative strategy + disclaimer (text block):</strong></p>
+<blockquote>
+<p><strong>Alternative investment strategy:</strong> Take the annual flood insurance premium. Invest it in properties two blocks further inland. In ten years, review your portfolio. You're welcome.</p>
+<p><em>Note: This page does not constitute financial or risk management advice. Nothing on this site does. That should be obvious.</em></p>
+</blockquote>
+<h3>Midjourney prompts — Flood Insurance</h3>
+<ol>
+<li><code>A surreal image of a large stack of insurance paperwork floating in floodwater, a rubber duck sitting on top, photorealistic with deadpan humor, neutral flat lighting --ar 3:2</code></li>
+<li><code>Infographic-style illustration: a rising water line chart that is also a bar chart, with tiny houses drowning at different heights, deadpan editorial illustration style, clean lines --ar 16:9</code></li>
+</ol>
+<hr />
+<h2>Page 8: From the Field <em>(new — reader submissions)</em></h2>
+<p><strong>Purpose:</strong> Living log of curated reader testimonials, newest first. Signals the site is alive.</p>
+<p><strong>Page intro text:</strong></p>
+<blockquote>
+<p>The following testimonials were submitted by visitors to this site. They have been lightly edited for clarity. We have not verified the underlying investments, property values, or flood events. We found this unnecessary.</p>
+</blockquote>
+<p><strong>Format for each entry:</strong></p>
+<ul>
+<li>Quote in italics</li>
+<li>Bold name (first name + last initial only), City/Region, product involved, year, outcome word</li>
+</ul>
+<p><strong>Update cadence:</strong> Whenever you feel like it. Even one new entry every few months keeps the page feeling current.</p>
+<hr />
+<h2>Google Form: Investor Story Submission</h2>
+<p><strong>Create at:</strong> forms.google.com → Blank form</p>
+<p><strong>Form title:</strong> Share Your Story — Global Warming Real Estate</p>
+<h3>Fields</h3>
+<table>
+<thead>
+<tr>
+<th align="left">Field</th>
+<th align="left">Type</th>
+<th align="left">Required</th>
+<th align="left">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">First name</td>
+<td align="left">Short text</td>
+<td align="left">Yes</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Last initial</td>
+<td align="left">Short text</td>
+<td align="left">Yes</td>
+<td align="left">Hint: "We display initials only, for discretion."</td>
+</tr>
+<tr>
+<td align="left">City / Region</td>
+<td align="left">Short text</td>
+<td align="left">Yes</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Title or role</td>
+<td align="left">Short text</td>
+<td align="left">No</td>
+<td align="left">Hint: "Optional. Adds credibility."</td>
+</tr>
+<tr>
+<td align="left">Your story</td>
+<td align="left">Paragraph</td>
+<td align="left">Yes</td>
+<td align="left">Hint: "2–4 sentences ideal. Deadpan preferred but not required."</td>
+</tr>
+<tr>
+<td align="left">Product involved</td>
+<td align="left">Dropdown</td>
+<td align="left">No</td>
+<td align="left">Options: Real estate · H2O Motors · Conversion Kit · Arctic Riviera · General</td>
+</tr>
+<tr>
+<td align="left">Approximate year of investment</td>
+<td align="left">Short text</td>
+<td align="left">No</td>
+<td align="left"></td>
+</tr>
+<tr>
+<td align="left">Outcome, in one word</td>
+<td align="left">Short text</td>
+<td align="left">No</td>
+<td align="left">Hint: "We reserve the right to use this as a pull quote."</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Confirmation message:</strong></p>
+<blockquote>
+<p>Thank you. Your submission has been received. We will review it, and if selected, feature it on the site. The editorial standards here are high, but the bar for deadpan is surprisingly accessible.</p>
+</blockquote>
+<p><strong>After creating:</strong> Form → Send → Link icon → copy URL → paste into "Submit Your Story" button on Testimonials page.</p>
+<hr />
+<h2>Curation workflow</h2>
+<ol>
+<li><strong>Check responses</strong> in the linked Google Sheet (Form → Responses → View in Sheets). "Outcome in one word" is your quick filter.</li>
+<li><strong>Publish the best ones</strong> to the From the Field page — paste as a new text block at the top (newest first).</li>
+<li><strong>Promote standouts</strong> to the Featured section on the main Testimonials page. The seed testimonials are placeholders; real ones are better.</li>
+<li><strong>Light editing is fine:</strong> tighten a sentence, fix a typo, cut a flat ending. Don't rewrite in your own voice.</li>
+<li><strong>Share externally:</strong> a great submission is worth posting to Bluesky/Mastodon with a link back. That's how the site grows.</li>
+</ol>
+<h3>What to publish</h3>
+<ul>
+<li>Deadpan, specific, doesn't try too hard</li>
+<li>Real locations, real years, plausible professions</li>
+<li>Any mention of H2O Motors or a conversion kit by name</li>
+<li>One-word outcomes like: Biblical · Vindicated · Damp · Instructive · Anticipated · Prudent</li>
+</ul>
+<h3>What to skip</h3>
+<ul>
+<li>Anything that winks at the camera</li>
+<li>One-word outcomes like "LOL"</li>
+<li>Submissions that need more than light editing</li>
+</ul>
+<hr />
+<h2>Sitewide graphic ideas (bonus)</h2>
+<ul>
+<li><strong>The Elevation Index</strong> — mock chart showing property values vs. feet above sea level, updated "quarterly"</li>
+<li><strong>The Opportunity Clock</strong> — like a doomsday clock, but labeled "years until your current waterfront is three blocks in"</li>
+<li><strong>Before/After slider</strong> — current coastal cities vs. 2075 projected, with property price annotations</li>
+</ul>
+<p><strong>Opportunity Clock Midjourney prompt:</strong> <code>An authoritative-looking wall clock, but the face reads "YEARS UNTIL BEACHFRONT" instead of hours, scientific institution aesthetic, slightly ominous, editorial illustration style --ar 1:1</code></p>
+<hr />
+<h2>Maintenance notes</h2>
+<ul>
+<li><strong>Policy Update callout</strong> (Home + Properties pages): refresh quarterly or whenever a major deregulation event occurs. This does the heaviest lifting on the Trump-era angle.</li>
+<li><strong>From the Field</strong>: update whenever submissions warrant. Even infrequent updates keep the site alive.</li>
+<li><strong>H2O Motors fleet</strong>: add new models as the joke evolves. An H2O Cybertruck entry is inevitable.</li>
+<li><strong>Arctic Riviera listings</strong>: swap in new "properties" as Arctic news develops. The Northwest Passage is genuinely opening — the jokes write themselves.</li>
+</ul>
+<hr />
+<p><em>Site originally created 2006 · Rebuilt 2026 · All content satirical · All projections, unfortunately, directionally accurate</em></p>
+
+      
+    </div>
+  </div>
+  <script src="/ogm-wiki/markpub_static/js/script.js"></script>
+  
+  <footer class="footer">
+  <div class="content has-text-centered">
+    
+    <div><strong>OGM Wiki</strong> by the Open Global Mind community.</div>
+    
+    
+    <div>Central repository at <a href="https://github.com/openglobalmind/ogm-wiki">GitHub/openglobalmind/ogm-wiki</a>.</div>
+    
+    
+    <div>Licensed under <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</div>
+    
+    <div><em>Site last updated on Wednesday, April 01, 2026 at 15:19 UTC.</em></div>
+  </div>
+</footer>
+</body>
+</html>

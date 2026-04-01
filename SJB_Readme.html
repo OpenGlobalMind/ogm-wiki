@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="fs_path" content="/SJB Readme.md">
+    
+    <title>SJB Readme - OGM Wiki</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/ogm-wiki/markpub_static/css/style.css">
+    <link rel="stylesheet" href="/ogm-wiki/markpub_static/css/custom.css">
+    <link rel="stylesheet" href="https://unpkg.com/bluesky-comments@0.12.0/dist/bluesky-comments.css">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+    <script src="/ogm-wiki/lunr-index-1775056793.6432061.js"></script>
+    <script>var index = lunr.Index.load(lunr_index)</script>
+    
+    
+    <script src="/ogm-wiki/lunr-posts-1775056793.6432061.js"></script>
+    <script> function randomPageLink() { return "/ogm-wiki"+lunr_posts[Math.floor(Math.random() * lunr_posts.length)].link; } </script>
+    
+  </head>
+<body>
+  <div id="header">
+    <span id="hamburger-btn"
+    class="hidden">&#9776;</span><a class="button is-light" id="header-link" href="/ogm-wiki/index.html">OGM Wiki</a>
+  </div>
+
+  <div class="container" id="flex-container">
+    <div id="side-column">
+      <div>
+        <button id="hide-btn">Hide</button>
+        <button id="move-btn" class="hidden">Move to Sidebar</button>
+      </div>
+      <p>This site is a <a class="wikilink" href="/ogm-wiki/Admin_and_Help/System_Pages/Work_In_Progress.html">Work In Progress</a></p>
+<h3>Site Navigation</h3>
+<div class="navlinks">
+<ul>
+<li><a class="wikilink" href="/ogm-wiki/README.html">HOME</a></li>
+<li><a href="/ogm-wiki/search.html">SEARCH</a></li>
+<li><a href="/ogm-wiki/all-pages.html">ALL PAGES</a></li>
+<li><a href="/ogm-wiki/recent-pages.html">RECENT CHANGES</a></li>
+</ul>
+</div>
+<div class="navlinks">
+  <button onclick="location.href=`${randomPageLink()}`">
+    RANDOM PAGE
+  </button>
+</div>
+<p><a class="wikilink" href="/ogm-wiki/Projects/NeoBooks_In_Progress.html">NeoBooks In Progress</a></p>
+<p><a class="wikilink" href="/ogm-wiki/NeoBooks_Ops/Creating_a_NeoBook_(start_here).html">Creating a NeoBook (start here)</a></p>
+<p><a class="wikilink" href="/ogm-wiki/Admin_and_Help/Admin_and_Help.html">Admin and Help</a></p>
+
+    </div>
+
+    <div id="main-column">
+      
+      <div> <!-- edit this page button -->
+	<p style="float:right; margin:.5em .5em
+	.5em"><a target="_blank" href="https://github.com/openglobalmind/ogm-wiki/edit/main/SJB Readme.md"
+	class="edit-this-page-button">Edit on GitHub</a></p>
+	<br clear="all">
+      </div> <!-- edit this page button -->
+      
+      <h1>STUMP JERRY'S BRAINS — Framer Asset Kit</h1>
+<h2>StumpJerrysBrains.com</h2>
+<hr />
+<h2>What's in this kit</h2>
+<pre><code>sjb-framer-kit/
+│
+├── FRAMER-GUIDE.md          ← START HERE — full build guide
+│
+├── svgs/
+│   ├── brain-web-hero.svg   ← Hero background (set opacity 7-8%)
+│   ├── node-diagram.svg     ← Story section illustration
+│   ├── thebrain-mockup.svg  ← Brain demo section mock-up
+│   └── wordmark.svg         ← Logo wordmark (two versions)
+│
+├── css/
+│   └── tokens.css           ← All design tokens + animations
+│                               (paste into Framer custom code)
+│
+├── components/
+│   └── framer-code-snippets.js  ← Four ready-to-paste Framer
+│                                   code components:
+│                                   · Ticker animation
+│                                   · FAQ accordion
+│                                   · Chamfered primary button
+│                                   · Animated brain web
+│
+└── copy/
+    └── site-copy.md         ← Every word on the site, organized
+                                by section, ready to paste into
+                                Framer text layers
+</code></pre>
+<p>Also included in your downloads:</p>
+<ul>
+<li><strong>index.html</strong> — The complete, working prototype of the site
+(drop on netlify.com/drop to publish in 60 seconds)</li>
+<li><strong>framer-asset-kit.html</strong> — Visual reference for all components
+(open in browser while building in Framer)</li>
+<li><strong>StumpJerrysBrains_StrategyPlan.docx</strong> — The full strategy document</li>
+</ul>
+<hr />
+<h2>The short version</h2>
+<ol>
+<li>Read FRAMER-GUIDE.md</li>
+<li>Start with a blank Framer canvas (not a template)</li>
+<li>Add fonts + color tokens (Phase 1 of the guide)</li>
+<li>Drag SVGs from this kit onto the canvas</li>
+<li>Paste copy from site-copy.md into text layers</li>
+<li>Add code components from framer-code-snippets.js</li>
+<li>Apply scroll animations to each section</li>
+<li>Publish</li>
+</ol>
+<p>Total build time: ~5.5 hours if comfortable with Framer.</p>
+<hr />
+<h2>Design palette (quick reference)</h2>
+<table>
+<thead>
+<tr>
+<th align="left">Name</th>
+<th align="left">Hex</th>
+<th align="left">Use</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Ink</td>
+<td align="left">#0A0A0A</td>
+<td align="left">Backgrounds, text, borders</td>
+</tr>
+<tr>
+<td align="left">Paper</td>
+<td align="left">#FAF7F2</td>
+<td align="left">Page background</td>
+</tr>
+<tr>
+<td align="left">Cream</td>
+<td align="left">#F5F0E8</td>
+<td align="left">Text on dark</td>
+</tr>
+<tr>
+<td align="left">Canary</td>
+<td align="left">#F7C948</td>
+<td align="left">Accent, CTAs, ticker</td>
+</tr>
+<tr>
+<td align="left">Ember</td>
+<td align="left">#E8531A</td>
+<td align="left">CTA hover, 's' in logo</td>
+</tr>
+<tr>
+<td align="left">Navy</td>
+<td align="left">#1A3A5C</td>
+<td align="left">Story + How It Works sections</td>
+</tr>
+<tr>
+<td align="left">Teal</td>
+<td align="left">#2A9D8F</td>
+<td align="left">TheBrain color, labels</td>
+</tr>
+<tr>
+<td align="left">Mid</td>
+<td align="left">#8A7F70</td>
+<td align="left">Secondary text</td>
+</tr>
+</tbody>
+</table>
+<h2>Fonts</h2>
+<table>
+<thead>
+<tr>
+<th align="left">Font</th>
+<th align="left">Use</th>
+<th align="left">Weights</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Bebas Neue</td>
+<td align="left">Headlines, prices</td>
+<td align="left">(single weight)</td>
+</tr>
+<tr>
+<td align="left">Syne</td>
+<td align="left">UI, cards, body</td>
+<td align="left">400, 700, 800</td>
+</tr>
+<tr>
+<td align="left">IBM Plex Mono</td>
+<td align="left">Labels, metadata</td>
+<td align="left">400, 500</td>
+</tr>
+<tr>
+<td align="left">Playfair Display</td>
+<td align="left">Provocation, quotes</td>
+<td align="left">italic 400, italic 700</td>
+</tr>
+</tbody>
+</table>
+<p>All are free via Google Fonts.
+Add in Framer: Site Settings → Fonts → Add Google Font.</p>
+<hr />
+<p>StumpJerrysBrains.com · Jerry Michalski · 2026</p>
+
+      
+    </div>
+  </div>
+  <script src="/ogm-wiki/markpub_static/js/script.js"></script>
+  
+  <footer class="footer">
+  <div class="content has-text-centered">
+    
+    <div><strong>OGM Wiki</strong> by the Open Global Mind community.</div>
+    
+    
+    <div>Central repository at <a href="https://github.com/openglobalmind/ogm-wiki">GitHub/openglobalmind/ogm-wiki</a>.</div>
+    
+    
+    <div>Licensed under <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</div>
+    
+    <div><em>Site last updated on Wednesday, April 01, 2026 at 15:19 UTC.</em></div>
+  </div>
+</footer>
+</body>
+</html>

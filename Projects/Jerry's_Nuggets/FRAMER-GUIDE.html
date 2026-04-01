@@ -1,0 +1,574 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <meta name="fs_path" content="/Projects/Jerry's Nuggets/FRAMER-GUIDE.md">
+    
+    <title>FRAMER-GUIDE - OGM Wiki</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/ogm-wiki/markpub_static/css/style.css">
+    <link rel="stylesheet" href="/ogm-wiki/markpub_static/css/custom.css">
+    <link rel="stylesheet" href="https://unpkg.com/bluesky-comments@0.12.0/dist/bluesky-comments.css">
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+    <script src="/ogm-wiki/lunr-index-1775056793.6432061.js"></script>
+    <script>var index = lunr.Index.load(lunr_index)</script>
+    
+    
+    <script src="/ogm-wiki/lunr-posts-1775056793.6432061.js"></script>
+    <script> function randomPageLink() { return "/ogm-wiki"+lunr_posts[Math.floor(Math.random() * lunr_posts.length)].link; } </script>
+    
+  </head>
+<body>
+  <div id="header">
+    <span id="hamburger-btn"
+    class="hidden">&#9776;</span><a class="button is-light" id="header-link" href="/ogm-wiki/index.html">OGM Wiki</a>
+  </div>
+
+  <div class="container" id="flex-container">
+    <div id="side-column">
+      <div>
+        <button id="hide-btn">Hide</button>
+        <button id="move-btn" class="hidden">Move to Sidebar</button>
+      </div>
+      <p>This site is a <a class="wikilink" href="/ogm-wiki/Admin_and_Help/System_Pages/Work_In_Progress.html">Work In Progress</a></p>
+<h3>Site Navigation</h3>
+<div class="navlinks">
+<ul>
+<li><a class="wikilink" href="/ogm-wiki/README.html">HOME</a></li>
+<li><a href="/ogm-wiki/search.html">SEARCH</a></li>
+<li><a href="/ogm-wiki/all-pages.html">ALL PAGES</a></li>
+<li><a href="/ogm-wiki/recent-pages.html">RECENT CHANGES</a></li>
+</ul>
+</div>
+<div class="navlinks">
+  <button onclick="location.href=`${randomPageLink()}`">
+    RANDOM PAGE
+  </button>
+</div>
+<p><a class="wikilink" href="/ogm-wiki/Projects/NeoBooks_In_Progress.html">NeoBooks In Progress</a></p>
+<p><a class="wikilink" href="/ogm-wiki/NeoBooks_Ops/Creating_a_NeoBook_(start_here).html">Creating a NeoBook (start here)</a></p>
+<p><a class="wikilink" href="/ogm-wiki/Admin_and_Help/Admin_and_Help.html">Admin and Help</a></p>
+
+    </div>
+
+    <div id="main-column">
+      
+      <div> <!-- edit this page button -->
+	<p style="float:right; margin:.5em .5em
+	.5em"><a target="_blank" href="https://github.com/openglobalmind/ogm-wiki/edit/main/Projects/Jerry's Nuggets/FRAMER-GUIDE.md"
+	class="edit-this-page-button">Edit on GitHub</a></p>
+	<br clear="all">
+      </div> <!-- edit this page button -->
+      
+      <h1>STUMP JERRY'S BRAINS — Framer Build Guide</h1>
+<h2>Everything you need to go from blank canvas to live site</h2>
+<hr />
+<h2>STARTING POINT: Which Template?</h2>
+<p><strong>Use a blank canvas. Not a template.</strong></p>
+<p>Here's why: every Framer template comes with its own component library,
+spacing conventions, and color system that you'll spend more time fighting
+than using. This site has a very specific visual identity — Bebas Neue
+display type, the warm paper/ink palette, the editorial layout. Starting
+blank takes 20 minutes of setup and saves hours of fighting someone else's
+opinions.</p>
+<p>The one exception: if you want Framer's CMS for future blog posts or
+case studies, start with their blank "CMS Starter" — it adds CMS
+scaffolding without imposing a design.</p>
+<hr />
+<h2>PHASE 1: PROJECT SETUP (20 min)</h2>
+<h3>1.1 Create the project</h3>
+<ul>
+<li>Framer dashboard → New Project → Blank Canvas</li>
+<li>Name: StumpJerrysBrains</li>
+<li>Connect your domain immediately: Site Settings → Domains →
+Add stumpjerrysbrain.com (and www redirect)</li>
+</ul>
+<h3>1.2 Add fonts</h3>
+<p>Site Settings → Fonts → Add Google Font. Add these four:</p>
+<ul>
+<li><strong>Bebas Neue</strong> (no weight options — it only comes in one)</li>
+<li><strong>Syne</strong> — select weights: 400, 700, 800</li>
+<li><strong>IBM Plex Mono</strong> — select weights: 400, 500</li>
+<li><strong>Playfair Display</strong> — select: italic 400, italic 700</li>
+</ul>
+<h3>1.3 Add color variables</h3>
+<p>Site Settings → Variables → Colors. Create these tokens
+(name them exactly — you'll reference them throughout):</p>
+<table>
+<thead>
+<tr>
+<th align="left">Token name</th>
+<th align="left">Hex value</th>
+<th align="left">Role</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">ink</td>
+<td align="left">#0A0A0A</td>
+<td align="left">Primary background, text</td>
+</tr>
+<tr>
+<td align="left">paper</td>
+<td align="left">#FAF7F2</td>
+<td align="left">Page background</td>
+</tr>
+<tr>
+<td align="left">cream</td>
+<td align="left">#F5F0E8</td>
+<td align="left">Text on dark</td>
+</tr>
+<tr>
+<td align="left">canary</td>
+<td align="left">#F7C948</td>
+<td align="left">Accent, CTAs, ticker</td>
+</tr>
+<tr>
+<td align="left">ember</td>
+<td align="left">#E8531A</td>
+<td align="left">CTA hover, logo 's', booking bg</td>
+</tr>
+<tr>
+<td align="left">navy</td>
+<td align="left">#1A3A5C</td>
+<td align="left">Story section, How It Works bg</td>
+</tr>
+<tr>
+<td align="left">teal</td>
+<td align="left">#2A9D8F</td>
+<td align="left">TheBrain color, labels</td>
+</tr>
+<tr>
+<td align="left">mid</td>
+<td align="left">#8A7F70</td>
+<td align="left">Secondary text, metadata</td>
+</tr>
+</tbody>
+</table>
+<h3>1.4 Add global custom code</h3>
+<p>Site Settings → Custom Code → Head Tag. Paste this:</p>
+<pre><code class="language-html">&lt;link rel="preconnect" href="https://fonts.googleapis.com"&gt;
+&lt;link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&amp;family=Syne:wght@400;700;800&amp;family=IBM+Plex+Mono:wght@400;500&amp;family=Playfair+Display:ital,wght@1,400;1,700&amp;display=swap" rel="stylesheet"&gt;
+&lt;style&gt;
+body { cursor: none; }
+.cursor { position:fixed; width:12px; height:12px; background:#e8531a; border-radius:50%; pointer-events:none; z-index:9999; transition:transform 0.1s; mix-blend-mode:multiply; top:0; left:0; }
+.cursor-ring { position:fixed; width:36px; height:36px; border:1.5px solid #e8531a; border-radius:50%; pointer-events:none; z-index:9998; opacity:0.5; top:0; left:0; }
+@keyframes ticker-scroll { from { transform:translateX(0); } to { transform:translateX(-50%); } }
+&lt;/style&gt;
+</code></pre>
+<p>Site Settings → Custom Code → End of Body. Paste this:</p>
+<pre><code class="language-html">&lt;div class="cursor" id="sjb-cursor"&gt;&lt;/div&gt;
+&lt;div class="cursor-ring" id="sjb-ring"&gt;&lt;/div&gt;
+&lt;script&gt;
+(function(){
+  var c=document.getElementById('sjb-cursor'),r=document.getElementById('sjb-ring');
+  if(!c||!r)return;
+  var mx=0,my=0,rx=0,ry=0;
+  document.addEventListener('mousemove',function(e){mx=e.clientX;my=e.clientY;});
+  (function tick(){
+    c.style.transform='translate('+(mx-6)+'px,'+(my-6)+'px)';
+    rx+=(mx-rx-18)*0.12;ry+=(my-ry-18)*0.12;
+    r.style.transform='translate('+rx+'px,'+ry+'px)';
+    requestAnimationFrame(tick);
+  })();
+})();
+&lt;/script&gt;
+</code></pre>
+<h3>1.5 Set up canvas breakpoints</h3>
+<p>In Framer's toolbar, set breakpoints:</p>
+<ul>
+<li>Desktop: 1440px (design primary here)</li>
+<li>Tablet:  768px</li>
+<li>Mobile:  390px</li>
+</ul>
+<hr />
+<h2>PHASE 2: IMPORT THE SVG ASSETS (5 min)</h2>
+<p>All SVGs are in the /svgs folder of this kit. Import them into Framer:</p>
+<p><strong>Method A (drag &amp; drop):</strong> Open your Framer canvas. Drag SVG files
+directly from Finder/Explorer onto the canvas. Framer imports them
+as editable vector layers.</p>
+<p><strong>Method B (insert menu):</strong> Press I (insert) → Image → select SVG file.</p>
+<p><strong>What to do with each SVG:</strong></p>
+<table>
+<thead>
+<tr>
+<th align="left">File</th>
+<th align="left">Where to use</th>
+<th align="left">Notes</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">brain-web-hero.svg</td>
+<td align="left">Hero section background</td>
+<td align="left">Set opacity to 7-8%. Position: absolute, cover the hero frame.</td>
+</tr>
+<tr>
+<td align="left">node-diagram.svg</td>
+<td align="left">"The Story" section</td>
+<td align="left">Place in right column alongside body copy.</td>
+</tr>
+<tr>
+<td align="left">thebrain-mockup.svg</td>
+<td align="left">Brain Demo section</td>
+<td align="left">Place in right column. Add a dark frame around it to simulate the app window chrome.</td>
+</tr>
+<tr>
+<td align="left">wordmark.svg</td>
+<td align="left">Anywhere you need the logo at large sizes</td>
+<td align="left">The HTML/CSS file renders this in type; SVG version is for export/print.</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>PHASE 3: BUILD THE PAGE SECTIONS</h2>
+<p>Work top to bottom. Each section is a full-width Frame with
+Auto Layout (vertical). Here's the build order and key settings:</p>
+<h3>NAV</h3>
+<ul>
+<li>Frame: 100% width, fixed position (pin to top), z-index 100</li>
+<li>Background: #0A0A0A at 92% opacity, backdrop blur 10px</li>
+<li>Layout: horizontal flex, space-between, align center</li>
+<li>Padding: 1.2rem 4rem</li>
+<li>Border bottom: 1px, #FFFFFF at 6% opacity</li>
+<li>Brand text: Bebas Neue, 1.4rem, cream. "Jerry's" = canary, final "s" = ember</li>
+<li>Nav links: IBM Plex Mono, 0.72rem, uppercase, letter-spacing 15%, mid color</li>
+<li>CTA: same as primary button (canary background)</li>
+</ul>
+<h3>HERO</h3>
+<ul>
+<li>Frame: 100vw, min-height 100vh, background: ink</li>
+<li>Layout: 2-column grid (1fr 1fr), padding 8rem 4rem 5rem, gap 4rem</li>
+<li>Import brain-web-hero.svg as absolute background layer, opacity 7%</li>
+</ul>
+<p>Left column:</p>
+<ul>
+<li>"Do you miss thinking?" → Playfair Display italic, canary, ~2.8rem</li>
+<li>"STUMP / JERRY'S / BRAINS" → Bebas Neue, cream, clamp(4.5rem, 11vw, 10rem), line-height 0.88
+→ The 's' at end: separate text element in ember, same font/size</li>
+<li>Tagline: IBM Plex Mono, mid, 1rem, line-height 1.7</li>
+<li>CTA row: primary button + ghost text link, flex row, gap 2rem</li>
+<li>Add Framer scroll animations to each element (staggered fadeUp)</li>
+</ul>
+<p>Right column (Provenance Card):</p>
+<ul>
+<li>Frame with border: 1px solid rgba(255,255,255,0.1)</li>
+<li>Background: rgba(26,58,92,0.4), backdrop blur 4px</li>
+<li>Left accent: 4px wide Frame, full height, gradient canary→ember</li>
+<li>Label: IBM Plex Mono, teal, 0.65rem</li>
+<li>Quote: Playfair Display italic, cream, 1.3rem</li>
+<li>Stats row: 3-column, Bebas Neue numbers in canary, IBM Plex Mono labels in mid</li>
+</ul>
+<h3>TICKER</h3>
+<ul>
+<li>Frame: 100% width, overflow hidden</li>
+<li>Background: canary</li>
+<li>Border top + bottom: 2px solid ink</li>
+<li>Inner content: Use the Ticker Code Component from components/framer-code-snippets.js
+OR manually: create a horizontal flex row, duplicate items 2x,
+apply CSS animation: ticker-scroll 36s linear infinite</li>
+</ul>
+<h3>THE STORY (Provenance Section)</h3>
+<ul>
+<li>Frame: 100vw, background: ink, padding 7rem 4rem</li>
+<li>Layout: 2-column grid (1fr 1fr), gap 6rem</li>
+</ul>
+<p>Left column:</p>
+<ul>
+<li>Section label: IBM Plex Mono, 0.68rem, ember, uppercase, letter-spacing 0.3em</li>
+<li>Large heading: Bebas Neue, cream, ~5rem, line-height 0.95
+The word "Ideas" should be canary color</li>
+</ul>
+<p>Right column:</p>
+<ul>
+<li>Body paragraphs: Syne, 1.05rem, cream at 68% opacity, line-height 1.8</li>
+<li>Manifesto stack: 4 rows, each with a border-bottom 1px rgba(255,255,255,0.08)
+Row structure: number (IBM Plex Mono, ember, small) + title (Syne 700, cream, 1.25rem)
+Sub-text: Syne 400, mid, 0.85em, block</li>
+</ul>
+<h3>HOW IT WORKS</h3>
+<ul>
+<li>Frame: 100vw, background: navy, padding 6rem 4rem</li>
+<li>Section label: IBM Plex Mono, teal</li>
+<li>Heading: Bebas Neue, cream, ~5rem</li>
+<li>Steps: 4-column grid (last step spans full width)
+Each step: padding 2.5rem 2rem, border-right 1px rgba(255,255,255,0.08)
+Glyph: Bebas Neue, 3rem, ember
+Title: Syne 800, cream, 1.05rem
+Description: Syne 400, 0.88rem, cream at 50% opacity</li>
+</ul>
+<h3>BRAIN DEMO</h3>
+<ul>
+<li>Frame: 100vw, background: navy, padding 6rem 4rem</li>
+<li>Layout: 2-column (1fr 1.5fr), gap 5rem</li>
+<li>Left: copy (section label teal, heading Bebas cream, body Syne)</li>
+<li>Right: import thebrain-mockup.svg
+Wrap in a dark frame with:
+<ul>
+<li>Background: #0d1117</li>
+<li>Border: 1px rgba(255,255,255,0.1)</li>
+<li>Border radius: 4px
+Add a titlebar strip at top: background #1c2128, flex row,
+three dot circles (red/yellow/green), monospace filename text</li>
+</ul>
+</li>
+</ul>
+<h3>OFFERS</h3>
+<ul>
+<li>Frame: 100vw, background: paper, padding 7rem 4rem</li>
+</ul>
+<p>Tier rows (NOT cards — use horizontal rows):</p>
+<ul>
+<li>Each row: 2-column grid (180px left / 1fr right)</li>
+<li>Full-width border top+bottom: 1.5px solid ink</li>
+<li>Rows share bottom borders (margin-bottom: -1.5px to merge them)</li>
+<li>Hover: transform translate(-3px, -3px) + box-shadow 3px 3px 0 ink</li>
+</ul>
+<p>Left cell (price column):</p>
+<ul>
+<li>Background: rgba(0,0,0,0.04), border-right 1.5px ink</li>
+<li>Tier tag: IBM Plex Mono, 0.6rem, ember, uppercase</li>
+<li>Price: Bebas Neue, 2.5rem, ink (canary on featured dark row)</li>
+<li>Note: IBM Plex Mono, 0.62rem, mid</li>
+</ul>
+<p>Right cell:</p>
+<ul>
+<li>Name: Syne 800, 1.2rem, ink</li>
+<li>Essence: IBM Plex Mono, 0.72rem, teal, italic</li>
+<li>Description: Syne 400, 0.9rem, #444</li>
+<li>Teams pill: IBM Plex Mono 0.65rem, ember, border 1px dashed ember, padding 0.25rem 0.55rem</li>
+</ul>
+<p>Featured (Core) row: background ink, text cream, adjust colors accordingly</p>
+<p>Brain on Call box:</p>
+<ul>
+<li>Background: cream</li>
+<li>Border: 1px rgba(0,0,0,0.12)</li>
+<li>Horizontal layout: label (Bebas navy, 1.4rem) + body text + CTA button</li>
+<li>Padding: 1.5rem 2rem</li>
+</ul>
+<h3>TESTIMONIALS</h3>
+<ul>
+<li>Frame: 100vw, background: cream</li>
+<li>Border top + bottom: 2px solid ink</li>
+<li>3-column card grid</li>
+<li>Each card: border 1.5px ink, white background, padding 2rem</li>
+<li>Large decorative quote mark: Playfair Display, 5.5rem, canary, positioned absolute</li>
+<li>Quote text: Playfair italic, 1rem, line-height 1.65</li>
+<li>Attribution: IBM Plex Mono, 0.72rem, mid; name in ink</li>
+</ul>
+<h3>FAQ</h3>
+<ul>
+<li>Frame: 100vw, background: paper, padding 6rem 4rem</li>
+<li>Layout: 2-column (1fr 2fr), gap 5rem</li>
+<li>Left: sidebar with section label, large Bebas heading, body note</li>
+<li>Right: Use the FAQ Code Component from framer-code-snippets.js
+OR build manually with Framer's built-in accordion interaction</li>
+</ul>
+<h3>BOOKING</h3>
+<ul>
+<li>Frame: 100vw, background: ember, padding 7rem 4rem</li>
+<li>Layout: 2-column (1.2fr 1fr), gap 5rem</li>
+<li>Left: Bebas Neue title in white, body copy in white at 78%</li>
+<li>Right: white form box
+Clip path on form box: polygon(0 0, calc(100% - 16px) 0, 100% 16px, 100% 100%, 16px 100%, 0 calc(100% - 16px))
+Note: Framer doesn't support clip-path natively.
+Either: (a) use a Code Override, or (b) skip the chamfer and use a plain rectangle</li>
+</ul>
+<h3>FOOTER</h3>
+<ul>
+<li>Frame: 100vw, background: ink, padding 3rem 4rem</li>
+<li>Horizontal flex, space-between, wrap</li>
+<li>Brand wordmark text (same color rules as nav)</li>
+<li>Links: IBM Plex Mono, 0.72rem, mid, uppercase, hover canary</li>
+<li>Copyright: full-width row below, border-top 1px rgba(255,255,255,0.07), IBM Plex Mono 0.68rem mid</li>
+</ul>
+<hr />
+<h2>PHASE 4: SCROLL ANIMATIONS</h2>
+<p>For every major section element:</p>
+<ol>
+<li>Select the Frame or text layer</li>
+<li>Right panel → Appearance → Scroll Effects</li>
+<li>Set: Initial opacity 0, Final opacity 1</li>
+<li>Set: Initial Y offset 24px, Final Y offset 0px</li>
+<li>Trigger: "When enters viewport" at 10% threshold</li>
+<li>Duration: 0.7s, Ease: ease-out</li>
+<li>For staggered reveals (e.g. manifesto lines), add increasing delay:
+line 1: 0s, line 2: 0.1s, line 3: 0.2s, line 4: 0.3s</li>
+</ol>
+<p>Hero elements use entrance animations (not scroll), set in the Framer
+Animate panel with a page-load trigger.</p>
+<hr />
+<h2>PHASE 5: CODE COMPONENTS</h2>
+<p>For the three components that need code:</p>
+<p><strong>Ticker:</strong> Assets panel → + → New Code File → Ticker.tsx
+Paste the TICKER_COMPONENT code from framer-code-snippets.js
+Drag onto canvas in the ticker section.</p>
+<p><strong>FAQ Accordion:</strong> Same process → FAQ.tsx → paste FAQ_COMPONENT
+Drag into the right column of the FAQ section.</p>
+<p><strong>Chamfered Button:</strong> Same → ButtonPrimary.tsx → paste BUTTON_COMPONENT
+Use wherever you need the primary CTA button.</p>
+<p><strong>Animated Brain Web:</strong> BrainWeb.tsx → paste BRAINWEB_COMPONENT
+Place inside hero frame as absolute layer.</p>
+<hr />
+<h2>PHASE 6: FORM SETUP</h2>
+<p>Framer has a built-in Form component. Use it for the booking form:</p>
+<ol>
+<li>Insert → Form → drag into the booking section right column</li>
+<li>Add fields: name, email, text (conference), select (format), textarea</li>
+<li>Connect to: either Framer's built-in form submissions (Site Settings → Forms)
+or use a Typeform/Tally embed for more control</li>
+<li>Redirect on submit: a simple "Thanks — I'll be in touch" message is fine.
+No need for a separate page.</li>
+</ol>
+<p><strong>Recommended:</strong> Use Tally.so for the form. It's free, looks clean,
+can be embedded as an iframe, and sends to email + Notion/Airtable.
+It keeps the form functional even if Framer's hosting changes.</p>
+<hr />
+<h2>PHASE 7: SEO + META</h2>
+<p>Site Settings → SEO:</p>
+<ul>
+<li>Title: Stump Jerry's Brains — Ask Something That Matters</li>
+<li>Description: Live, virtual sensemaking sessions for conferences.
+Jerry Michalski brings 28 years of connected thinking to your
+hardest questions. Ask something that matters.</li>
+</ul>
+<p>For the OG image (social share preview — 1200×630px):
+Create in Figma (free):</p>
+<ul>
+<li>Background: #0A0A0A</li>
+<li>"STUMP JERRY'S BRAINS" in Bebas Neue, ~130pt, cream
+Final 's' in ember</li>
+<li>Subtitle: "Ask Something That Matters" in IBM Plex Mono, 24pt, canary</li>
+<li>Small brain-web SVG in bottom-right corner</li>
+<li>Export as PNG → upload to Site Settings → SEO → Social Image</li>
+</ul>
+<hr />
+<h2>PHASE 8: PUBLISH</h2>
+<ol>
+<li>Framer toolbar → Publish → Connect stumpjerrysbrain.com</li>
+<li>SSL is handled automatically by Framer</li>
+<li>Set up the www redirect in your domain registrar's DNS settings
+(Framer's help docs cover this for every major registrar)</li>
+</ol>
+<p>First publish checklist:
+[ ] Fonts loading correctly in preview
+[ ] Ticker animating smoothly
+[ ] FAQ accordion opening/closing
+[ ] Scroll reveals triggering
+[ ] Form submitting (test with a real submission)
+[ ] OG image showing correctly (use opengraph.xyz to preview)
+[ ] Mobile layout not broken at 390px
+[ ] Custom cursor not showing on mobile (add media query to disable)</p>
+<hr />
+<h2>QUICK REFERENCE: HTML PROTOTYPE → FRAMER MAPPING</h2>
+<p>The HTML prototype (index.html) is your design source of truth.
+If you're ever unsure how something should look, open it in Chrome
+and use DevTools to inspect the exact values.</p>
+<p>Key things to check in DevTools:</p>
+<ul>
+<li>Right-click any element → Inspect → Computed tab → see all CSS values</li>
+<li>The Elements panel shows the exact HTML structure</li>
+<li>Network tab → Fonts → confirms which fonts are loading</li>
+</ul>
+<p>The HTML file can also be hosted as-is on Netlify (drag the file to
+netlify.com/drop) as a live preview while the Framer build is in progress.
+This gives you something real to share with collaborators or clients
+before the Framer site is complete.</p>
+<hr />
+<h2>ESTIMATED BUILD TIME</h2>
+<table>
+<thead>
+<tr>
+<th align="left">Phase</th>
+<th align="left">Time</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left">Setup (fonts, colors, code)</td>
+<td align="left">20 min</td>
+</tr>
+<tr>
+<td align="left">Import SVG assets</td>
+<td align="left">10 min</td>
+</tr>
+<tr>
+<td align="left">Nav + Hero</td>
+<td align="left">45 min</td>
+</tr>
+<tr>
+<td align="left">Ticker + Story section</td>
+<td align="left">30 min</td>
+</tr>
+<tr>
+<td align="left">How It Works + Brain Demo</td>
+<td align="left">30 min</td>
+</tr>
+<tr>
+<td align="left">Offers tier stack</td>
+<td align="left">40 min</td>
+</tr>
+<tr>
+<td align="left">Testimonials + FAQ + Booking + Footer</td>
+<td align="left">45 min</td>
+</tr>
+<tr>
+<td align="left">Scroll animations</td>
+<td align="left">20 min</td>
+</tr>
+<tr>
+<td align="left">Code components</td>
+<td align="left">30 min</td>
+</tr>
+<tr>
+<td align="left">Form setup + SEO + OG image</td>
+<td align="left">20 min</td>
+</tr>
+<tr>
+<td align="left">Mobile responsive fixes</td>
+<td align="left">30 min</td>
+</tr>
+<tr>
+<td align="left"><strong>Total</strong></td>
+<td align="left"><strong>~5.5 hours</strong></td>
+</tr>
+</tbody>
+</table>
+<p>This assumes you're comfortable with Framer's canvas. If it's your
+first Framer project, add 2 hours for getting oriented.</p>
+<hr />
+<h2>ONE LAST THING</h2>
+<p>The HTML prototype is production-quality and fully self-contained.
+If you want to launch immediately while building the Framer version
+properly: drop index.html on Netlify Drop (netlify.com/drop) right
+now. It will be live in 60 seconds at a Netlify subdomain.
+Point your domain at it while you build in Framer.
+No shame in shipping the HTML version first.</p>
+
+      
+    </div>
+  </div>
+  <script src="/ogm-wiki/markpub_static/js/script.js"></script>
+  
+  <footer class="footer">
+  <div class="content has-text-centered">
+    
+    <div><strong>OGM Wiki</strong> by the Open Global Mind community.</div>
+    
+    
+    <div>Central repository at <a href="https://github.com/openglobalmind/ogm-wiki">GitHub/openglobalmind/ogm-wiki</a>.</div>
+    
+    
+    <div>Licensed under <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</div>
+    
+    <div><em>Site last updated on Wednesday, April 01, 2026 at 15:19 UTC.</em></div>
+  </div>
+</footer>
+</body>
+</html>
