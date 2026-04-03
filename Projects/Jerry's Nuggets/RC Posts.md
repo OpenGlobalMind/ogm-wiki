@@ -132,6 +132,12 @@ Join my Substack
 - [[Oh Advertisers 1]] (done) 
 - [[Oh Advertisers 2]] (done) 
 
+### Rel8 Posts
+ - [[Introducing Rel8]] 
+ - [[Rel8 Founding Steward's Charter]] 
+ - [[Rel8]] 
+ - [[Rel8 Manifesto]] 
+ 
 ### Open Global Mind Posts
 - [[The OGM Birth Story]] 
 - [[OGM Effects (if we succeed)]] 
