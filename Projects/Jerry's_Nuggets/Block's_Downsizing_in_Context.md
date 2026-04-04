@@ -15,6 +15,7 @@ This post is a frame for several subsequent posts, which will tackle parts of th
 - Knock enough tasks out of your job description and you and your employer better be flexible! 
 - And if your job can mostly be automated now, is your *career* doomed? 
 - If so, how can you train up for a new career before GenAI automates your *next* field? 
+- Retraining/reskilling takes time. Too much time. 
 - Also, how can organizations create the high-trust environment needed to lean in to AI together? 
 
 There are plenty of GenAI skeptics in the world, some of my friends included. But I'm convinced that GenAI is going to rock our worlds in ways we're not prepared for. So far, given what I know about the forces of Capitalism and business, I'm in the camp that believes we're headed toward the Great Unemployment and the undermining of Capitalism as we know it. 
