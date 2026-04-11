@@ -7,7 +7,7 @@ queue_order:
 date posted:
 ---
 
-# Post Capitalism? Fix Capitalism?
+# Trust Is the Crucial Constraint
  (draft) 
 *Subhed.* 
 

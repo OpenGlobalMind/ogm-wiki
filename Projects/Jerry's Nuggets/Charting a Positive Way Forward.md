@@ -7,7 +7,7 @@ queue_order:
 date posted:
 ---
 
-# Post Capitalism? Fix Capitalism?
+# Charting a Positive Way Forward
  (draft) 
 *Subhed.* 
 

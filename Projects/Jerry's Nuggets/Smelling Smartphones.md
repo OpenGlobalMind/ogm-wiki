@@ -5,9 +5,9 @@ format:
 topic: 
 queue_order: 
 date posted:
----
+--- 
 
-# Post Capitalism? Fix Capitalism?
+# Smelling Smartphones
  (draft) 
 *Subhed.* 
 

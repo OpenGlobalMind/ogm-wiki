@@ -1,4 +1,9 @@
 # Rethink Constraints Posts
+Rethink Constraints is the name of Jerry's Substack. These are posts, past and future, sorted by topic. 
+
+### Stump Jerry's Brain Posts
+- [[Behold, Stump Jerry's Brains]]! 
+- [[My Quantified Self Aha]]! 
 
 ### Tech History Posts 
 - [[General Magic's Two Fatal Flaws]] 
@@ -23,9 +28,9 @@
 - [[The Future isn't AI - It’s CHI]] 
 - [[Will GenAI Survive Capitalism]]? (includes [[Multiple Promising Technologies Were Warped by Capitalism]]) 
 - [[Will Capitalism Survive GenAI]]? 
-- [[The GenAI-Jobs-Education Trilemma]] 
+- [[The GenAI Job Reentry Dilemma]] 
 
-## What If We Trusted You Posts (#wiwty)
+### What If We Trusted You Posts (#wiwty)
 - [[What If We Trusted You (NeoBook)]] 
 
 ### Rethink the Future Posts 
@@ -50,16 +55,14 @@
 - [[Jerry's Theory of Change]] 
 - [[Joy and Jerry Discuss The Big Fungus]] 
 - [[Sitting with the Enemy]] (Daryl Davis interview) 
-- Interview with Pia Mancini 
 - Who to invite around [[On Sensemaking]]? 
 
+### Next Stacks Posts
+- [[What Are Our Next Two Stacks]]? 
+
 ### Meta Posts
-Help me shape this offer 
-Wrestling With Where I Fit 
-Virtual Brain Immersions 
-[[Pick Jerry's Brain]] 
-KM demo or idea challenge? 
-Join my Substack
+- [[Wrestling With Where I Fit]] 
+- [[Pick Jerry's Brain]] 
 
 ### Context Posts 
 - On Constraints and Strategy 
@@ -72,7 +75,7 @@ Join my Substack
 - [[On the Nature of Constraints]] 
 - [[On Sensemaking]] 
 - [[Getting My Kite Out of Storage]] (about my new speaking reel) 
-- The Many Flavors of Capitalism 
+- [[Variants of Capitalism]] 
 
 ### Jerry's Brain Posts 
 - On Curating a 28-Year-Old Mind Map 
@@ -94,7 +97,7 @@ Join my Substack
 - [[From Trust, Not For]] (done) 
 - [[Design from Trust - How to Build Better Futures]] 
 - [[Design from Trust Requires Thoughtful Design]] 
-- We Normalized Mistrust 
+- [[We Normalized Mistrust]]  
 - [[Trust Just Feels Better]] 
 - [[Scarcity = Abundance - Trust]] 
 - [[The Joy Line]] 
@@ -127,7 +130,7 @@ Join my Substack
 - [[Design Thinking and Design from Trust]] 
 - [[Design from Trust as a Methodology]] 
 - Context: [[The Big Sentence]] 
-- Trust Is the Crucial Constraint 
+- [[Trust Is the Crucial Constraint]] 
 - [[Writing a NeoBook About Design from Trust]] 
 - [[Oh Advertisers 1]] (done) 
 - [[Oh Advertisers 2]] (done) 
@@ -156,7 +159,7 @@ Join my Substack
 - [[The Dark Side of Innovation]] 
 - [[My Innovations]] (series) 
 - [[Dark Innovation]] (series) 
-- Beyond the Innovator's Dilemma (extending Christensen’s model)
+- [[Beyond the Innovator's Dilemma]] (extending Christensen’s model)
 - [[Types of Innovation]] (Braindrop) 
 - [[Other Kinds of Innovation]] (record my 2020 Prezi) 
 
@@ -169,6 +172,7 @@ Join my Substack
 - [[Does Ethical Capitalism Pencil Out]]? 
 - [[Rethinking My Own Constraints]] 
 - [[Impossible Is Just the Most Famous Constraint]] 
+- [[It's an Aleph]] 
 
 ### NeoBooks Posts
 - [[PowerPoints Should be Playlists]] 
@@ -186,13 +190,12 @@ Join my Substack
 - [[Jerry's Presentation Nuggets]] 
 - [[Knowledge Should Accumulate]] 
 Other thinkers on this idea. Fellow travelers 
-Bonfires on the Horizon 
-[[On Sensemaking]] 
+- [[Bonfires on the Horizon]] 
+- [[On Sensemaking]] 
 AI role in collective intelligence 
 - [[The History of Sensemaking]] (all those initiatives!) 
-- Smelling the Web (my IDM service) 
-- Smelling Smartphones (my CIE service)
-Apps atop shared warm data 
+- [[Smelling the Web]] (my IDM service) 
+- [[Smelling Smartphones]] (my CIE service)
 
 ### [[The Big Fungus]] Posts (#TheBigFungus)
 - [[Fabulous Fungal Metaphors]] (use Claude)
@@ -215,11 +218,11 @@ Apps atop shared warm data
 - [[This Kamala Moment]] (done) 
 - [[The Dark Side of Rethinking Constraints]] 
 - [[Kayfabe, OODA, DARVO - Why Democrats Are Clueless]] 
-- Charting a Positive Way Forward 
-- DFT as a path forward 
+- [[Charting a Positive Way Forward]] 
+- [[DFT FTW]] (as a path forward) 
 
-## Trump Field Manual 
-- Trump's Playbook 
+### Trump Field Manual 
+- [[Trump's Playbook]] 
 - [[Kayfabe, OODA, DARVO - Why Democrats Are Clueless]] 
 - [[Misunderestimating Donald Trump Is Very Dangerous]] - point to old video series 
 - [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 

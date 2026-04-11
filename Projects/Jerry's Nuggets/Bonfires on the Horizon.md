@@ -7,7 +7,7 @@ queue_order:
 date posted:
 ---
 
-# Post Capitalism? Fix Capitalism?
+# Bonfires on the Horizon
  (draft) 
 *Subhed.* 
 

@@ -1,15 +1,12 @@
 ---
-type: nugget 
-status: idea 
-format: 
-topic: 
-queue_order: 
-date posted:
+status: stub
+series: []
+tags: []
+posted:
 ---
-
-# Post Capitalism? Fix Capitalism?
+# We Normalized Mistrust
  (draft) 
-*Subhed.* 
+*So well we don't notice it.* 
 
 The 
 

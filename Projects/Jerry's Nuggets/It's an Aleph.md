@@ -7,7 +7,7 @@ queue_order:
 date posted:
 ---
 
-# Post Capitalism? Fix Capitalism?
+# It's an Aleph
  (draft) 
 *Subhed.* 
 

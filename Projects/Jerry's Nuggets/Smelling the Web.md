@@ -7,7 +7,7 @@ queue_order:
 date posted:
 ---
 
-# Post Capitalism? Fix Capitalism?
+# Smelling the Web
  (draft) 
 *Subhed.* 
 

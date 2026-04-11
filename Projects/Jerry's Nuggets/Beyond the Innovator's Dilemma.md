@@ -7,7 +7,7 @@ queue_order:
 date posted:
 ---
 
-# Post Capitalism? Fix Capitalism?
+# Beyond the Innovator's Dilemma
  (draft) 
 *Subhed.* 
 

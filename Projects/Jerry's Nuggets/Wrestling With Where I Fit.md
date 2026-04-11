@@ -6,8 +6,7 @@ topic:
 queue_order: 
 date posted:
 ---
-
-# Post Capitalism? Fix Capitalism?
+# Wrestling With Where I Fit
  (draft) 
 *Subhed.* 
 
