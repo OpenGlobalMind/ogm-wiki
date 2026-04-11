@@ -15,6 +15,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Rethink the Future]] (first podcast episode, done) 
 - [[Useful Thinking Frameworks and Mental Models]] (Braincast) (done) 
 - [[Poems for REX]] (done) 
+- [[A Guide to Using Jerry's Brain]] 
 - [[Snip and the Origins of the Global Financial Crisis]] 
 - [[How Might We Make a Better Future]]? (podcast series) 
 	- [[What Are Our Next Two Stacks]]? (done) 
@@ -46,7 +47,6 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Pull on This Thread]] 
 - [[Healthy Cultures Don't Cancel]] 
 - [[Assume Good Faith]] 
-- [[A Guide to Using Jerry's Brain]] 
 - [[Enumerated Wisdom]] (Braincast) 
 - [[isms]] (Braincast) 
 - [[Jerry's Theory of Change]] 
