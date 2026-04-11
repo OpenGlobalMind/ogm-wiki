@@ -1,3 +1,12 @@
+---
+type: nugget 
+status: idea 
+format: 
+topic: 
+queue_order: 
+date posted:
+---
+
 # Post Capitalism? Fix Capitalism?
  (draft) 
 *Subhed.* 

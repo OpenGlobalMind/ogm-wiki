@@ -51,7 +51,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[isms]] (Braincast) 
 - [[Jerry's Theory of Change]] 
 - [[Will LLMs Connect Tools for Thinking]]? 
-- Anarchism Has Some  
+- [[Lessons from Anarchism]]  
 - [[Trump II Is Teaching a Masters Class in Rethinking Constraints]] 
 - [[Microsoft Office Is a Tractor Beam for Software]] 
 - [[Scarcity = Abundance - Trust]] 

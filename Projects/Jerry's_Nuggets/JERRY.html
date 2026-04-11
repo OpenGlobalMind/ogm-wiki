@@ -16,11 +16,11 @@
     <link rel="stylesheet" href="https://unpkg.com/bluesky-comments@0.12.0/dist/bluesky-comments.css">
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
-    <script src="/ogm-wiki/lunr-index-1775880562.7176704.js"></script>
+    <script src="/ogm-wiki/lunr-index-1775890627.6192238.js"></script>
     <script>var index = lunr.Index.load(lunr_index)</script>
     
     
-    <script src="/ogm-wiki/lunr-posts-1775880562.7176704.js"></script>
+    <script src="/ogm-wiki/lunr-posts-1775890627.6192238.js"></script>
     <script> function randomPageLink() { return "/ogm-wiki"+lunr_posts[Math.floor(Math.random() * lunr_posts.length)].link; } </script>
     
   </head>
@@ -67,7 +67,8 @@
       </div> <!-- edit this page button -->
       
       <h1>JERRY.md</h1>
-<p><em>Schema file for Claude. Read this at the start of any wiki session.</em> <em>Last updated: April 2026</em></p>
+<p><em>Schema file for Claude. Read this at the start of any wiki session.</em>
+<em>Last updated: April 2026</em></p>
 <hr />
 <h2>Who Jerry Is</h2>
 <p>Jerry Michalski is a knowledge curator, consultant, and convener based in Portland, Oregon. He's best known for maintaining a large public personal knowledge graph called Jerry's Brain — built in TheBrain software over 28 years, publicly accessible at jerrysbrain.com. It currently has 625,000+ nodes.</p>
@@ -80,9 +81,15 @@
 <li><strong>Contrarians</strong> — thinkers who challenged assumptions and turned out to be right (Alexander, Ostrom, Monderman, Owen, Gatto, Ackoff)</li>
 <li><strong>NeoBooks &amp; NeoDecks</strong> — his format for networked, modular publishing (playlists of Nuggets)</li>
 <li><strong>Sensemaking</strong> — civic discourse, epistemic commons, how we make sense together</li>
+<li><strong>Externalizers</strong> — people who have made their thinking public over long periods; Jerry is on a quest to find and convene them</li>
 </ul>
 <p>Jerry's project stack (nested): Embiggenment → Next Stacks → Big Fungus → Brain Legacy / JerrysBrainBot</p>
 <p>He's currently launching <strong>Stump Jerry's Brains (SJB)</strong> — a paid live sensemaking session for conferences and teams. Site: StumpJerrysBrains.com.</p>
+<ul>
+<li>Founding session rate: $3,500 (active offer, framed as founding rate not a discount)</li>
+<li>Full public pricing: $7,500 virtual (+$1,000 Teams surcharge), $12,500–$15,000 custom keynote, $20,000+ advisory half-day</li>
+<li>Goal: 2 bookings by end of April 2026; self-sustaining revenue by July 1</li>
+</ul>
 <p>Jerry is partnered with April. He recently obtained German citizenship. They own a flat in Bergamo, Italy, and a mixed-use property in Portland's Pearl District.</p>
 <hr />
 <h2>Voice &amp; Style</h2>
@@ -93,36 +100,99 @@
 <li>Writes for a smart generalist audience, not just technologists</li>
 <li>Avoids jargon unless he's coining it himself</li>
 <li>Thinks in webs, not outlines — associative, not hierarchical</li>
+<li>Prefers "we" framing when talking about civilizational projects</li>
+<li>Strong comedic voice — don't sand it off when writing on his behalf</li>
 </ul>
 <p>When writing wiki pages or synthesis on Jerry's behalf, match this voice.</p>
+<hr />
+<h2>How Jerry Likes to Work with Claude</h2>
+<ul>
+<li><strong>Creative director / implementer relationship</strong> — Jerry describes what he wants in plain language; Claude produces built artifacts to review</li>
+<li><strong>Ask clarifying questions before going into detail</strong> — don't dive into a long output when a quick question would save time</li>
+<li><strong>Favor no-code or low-code solutions</strong> — Jerry can edit sites without bureaucracy but isn't a developer</li>
+<li><strong>Produce files, not just text</strong> — when producing wiki pages or documents, create actual Markdown files</li>
+<li><strong>Don't over-format</strong> — avoid excessive bullet points and headers in conversational responses; prose is fine</li>
+<li><strong>One question at a time</strong> — when clarification is needed, ask one question, not five</li>
+</ul>
 <hr />
 <h2>This Wiki's Setup</h2>
 <p><strong>Tool stack:</strong></p>
 <ul>
-<li><strong>Jerry's Brain</strong> (TheBrain v15) — permanent associative graph, public-facing, 28 years old. The long-term store. LLM cannot write to it directly.</li>
-<li><strong>Obsidian</strong> — active synthesis layer. Flat namespace (no subfolders within Jerry's Nuggets). No daily notes. No templates.</li>
-<li><strong>GitHub</strong> — Obsidian vault syncs to OpenGlobalMind/ogm-wiki. Files in Projects/Jerry's Nuggets.</li>
-<li><strong>Massive Wiki</strong> — static site generator that publishes the OGM wiki. Plain Markdown renders; Dataview, Excalidraw, and .base files do not.</li>
-<li><strong>Claude</strong> — the synthesis and maintenance engine. You.</li>
+<li><strong>Jerry's Brain</strong> (TheBrain v15) — permanent associative graph, public-facing, 28 years old. The long-term store. LLM cannot write to it directly. Currently integrates with ChatGPT; Claude integration in progress. A public chatbot frontend (JerrysBrainBot) is also in development.</li>
+<li><strong>Obsidian</strong> — active synthesis layer, co-authored by Jerry and Claude. Flat namespace (no subfolders within Jerry's Nuggets). No daily notes. No templates currently in use.</li>
+<li><strong>Obsidian Git plugin</strong> — automatically syncs the vault to GitHub on commit. Configured with write access.</li>
+<li><strong>GitHub</strong> — vault syncs to OpenGlobalMind/ogm-wiki. Files live at Projects/Jerry's Nuggets/</li>
+<li><strong>Massive Wiki</strong> — static site generator that publishes the OGM wiki as a website. Plain Markdown renders; Dataview, Excalidraw, .base files, and YAML frontmatter do not render publicly.</li>
+<li><strong>Obsidian Bases</strong> — spreadsheet-style views inside Obsidian, driven by YAML frontmatter. Internal use only; does not render publicly. This is Jerry's post queue management tool.</li>
+<li><strong>Claude</strong> — synthesis and maintenance engine. You.</li>
 </ul>
 <p><strong>The relationship between layers:</strong></p>
 <ul>
-<li>Wiki (Obsidian) = synthesis layer. Claude writes and maintains this.</li>
-<li>Brain (TheBrain) = permanent graph. Jerry curates this manually, informed by wiki.</li>
-<li>When a wiki page matures, Jerry decides whether it earns a TheBrain node.</li>
-<li>When a Brain cluster needs deep work, Jerry exports or summarizes it as raw source for the wiki.</li>
+<li>Wiki (Obsidian) = synthesis layer, co-authored by Jerry and Claude</li>
+<li>Brain (TheBrain) = permanent graph, curated manually by Jerry</li>
+<li>When a wiki page matures, Jerry decides whether it earns a TheBrain node</li>
+<li>When a Brain cluster needs deep work, Jerry exports or summarizes it into Obsidian as raw source</li>
 </ul>
 <hr />
 <h2>File Conventions</h2>
 <ul>
-<li>Flat namespace — all files in one folder, no subfolders</li>
-<li>Plain Markdown only — no YAML frontmatter required (though optional)</li>
-<li>File names are the page titles, Title Case, .md extension</li>
-<li>Non-MD files (.base, .excalidraw) exist but don't render publicly — treat as invisible to readers</li>
-<li>index.md = the catalog of everything in the wiki. Claude reads this first each session.</li>
-<li>JERRY.md = this file. Claude reads this first each session.</li>
-<li>log.md = append-only session log. Claude adds an entry after each significant session.</li>
+<li>Flat namespace — all files in Projects/Jerry's Nuggets, no subfolders</li>
+<li>Plain Markdown with YAML frontmatter (see YAML section below)</li>
+<li>File names are page titles, Title Case, .md extension</li>
+<li>Non-MD files (.base, .excalidraw) exist but don't render publicly</li>
+<li><strong>index.md</strong> — catalog of everything in the wiki; Claude reads this each session</li>
+<li><strong>JERRY.md</strong> — this file; Claude reads this each session</li>
+<li><strong>log.md</strong> — append-only session log; Claude appends after significant sessions</li>
+<li><strong>RC Posts.md</strong> — Jerry's manually maintained post queue by series; being superseded by Bases + YAML</li>
 </ul>
+<hr />
+<h2>YAML Frontmatter</h2>
+<p>YAML is used for Obsidian Bases views and internal tracking. It does not render publicly. Claude should add YAML to every file it creates or substantially edits. Body content must always stand alone — never put critical information only in YAML.</p>
+<p><strong>Standard YAML block:</strong></p>
+<pre><code class="language-yaml">---
+status: stub
+series: []
+tags: []
+posted:
+---
+</code></pre>
+<p><strong><code>status</code> values:</strong></p>
+<ul>
+<li><code>stub</code> — title exists, little or no content yet</li>
+<li><code>draft</code> — content in progress</li>
+<li><code>ready</code> — ready to post</li>
+<li><code>posted</code> — published; fill in <code>posted:</code> date (YYYY-MM-DD)</li>
+</ul>
+<p><strong><code>series</code> values</strong> (use the hashtag labels below — one file can belong to multiple series):</p>
+<ul>
+<li><code>RethinkConstraints</code></li>
+<li><code>DesignfromTrust</code></li>
+<li><code>TheBigFungus</code></li>
+<li><code>GenAI</code></li>
+<li><code>GenAI+FoW</code> (GenAI + Future of Work)</li>
+<li><code>wiwty</code> (What If We Trusted You)</li>
+<li><code>NeoBooks</code></li>
+<li><code>JoyLine</code></li>
+<li><code>Contrarians</code></li>
+<li><code>BehindTheReel</code></li>
+<li><code>TechHistory</code></li>
+<li><code>RethinkSociety</code></li>
+<li><code>CurrentEvents</code></li>
+<li><code>TrumpFieldManual</code></li>
+<li><code>ConstraintTales</code></li>
+<li><code>Innovation</code></li>
+<li><code>4S</code> (See, Shift, Shape, Set)</li>
+<li><code>JerrysBrain</code></li>
+<li><code>OGM</code></li>
+<li><code>Rel8</code></li>
+<li><code>SJB</code></li>
+<li><code>BigPicture</code></li>
+<li><code>Context</code></li>
+<li><code>Meta</code></li>
+</ul>
+<p><strong><code>tags</code> values</strong> (topic labels, distinct from series):
+design-from-trust · trust · big-fungus · commons · cyborg · genai · tools-for-thinking · contrarians · neobooks · neodecks · sensemaking · rethink-constraints · democracy · politics · sjb · externalizers · llm-wiki · behind-the-reel · rel8 · abundance · cities · media · masculinity · capitalism · joy-line · 4s · innovation</p>
+<p><strong>Note on stubs:</strong> Files that exist only as ideas (no content yet) should have <code>status: stub</code>. This makes them visible in Bases views even before they're written. When Claude encounters an idea in RC Posts or elsewhere that doesn't have a file yet, it should flag it as a stub candidate.</p>
 <hr />
 <h2>Page Types</h2>
 <table>
@@ -130,74 +200,142 @@
 <tr>
 <th align="left">Type</th>
 <th align="left">Description</th>
-<th align="left">Examples</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td align="left"><strong>Concept</strong></td>
-<td align="left">A core idea, fully developed or in progress</td>
-<td align="left">Design from Trust, Big Fungus, Embiggenment</td>
+<td align="left">A core idea, developed or in progress</td>
 </tr>
 <tr>
 <td align="left"><strong>Contrarian Profile</strong></td>
-<td align="left">One thinker per page: who they are, what they challenged, why it matters to Jerry</td>
-<td align="left">Contrarian Christopher Alexander</td>
+<td align="left">One thinker: who they are, what they challenged, why it matters</td>
 </tr>
 <tr>
 <td align="left"><strong>Behind the Reel</strong></td>
 <td align="left">Personal memoir/context behind a public post or reel</td>
-<td align="left">Behind the Reel — Neural Nets in 1988</td>
 </tr>
 <tr>
 <td align="left"><strong>NeoBook / NeoDeck</strong></td>
 <td align="left">Metadata and structure for a modular publication</td>
-<td align="left">Design from Trust (NeoBook)</td>
 </tr>
 <tr>
 <td align="left"><strong>Project</strong></td>
 <td align="left">Active initiative with status and next steps</td>
-<td align="left">Stump Jerry's Brains, Rel8, Big Fungus</td>
 </tr>
 <tr>
 <td align="left"><strong>Ingest Summary</strong></td>
-<td align="left">One page per significant source: key takeaways, connections, open questions</td>
-<td align="left">Claude and The Big Fungus</td>
+<td align="left">One page per significant source processed with Claude</td>
 </tr>
 <tr>
 <td align="left"><strong>Synthesis</strong></td>
-<td align="left">Cross-concept connections, comparisons, answers to complex queries</td>
-<td align="left">(to be created)</td>
+<td align="left">Cross-concept connections, answers to queries worth keeping</td>
 </tr>
 <tr>
-<td align="left"><strong>Stub / Placeholder</strong></td>
-<td align="left">Title exists, content not yet written — many of these</td>
-<td align="left">Most of the short files</td>
+<td align="left"><strong>Stub</strong></td>
+<td align="left">Title and YAML only; content not yet written</td>
 </tr>
 </tbody>
 </table>
 <hr />
-<h2>Key Clusters (as of April 2026)</h2>
-<p>From index.md — the 11 named clusters:</p>
-<ol>
-<li>Design from Trust (28 files) — Jerry's primary intellectual framework</li>
-<li>Trust — General (33 files) — the broader trust ecosystem</li>
-<li>Big Fungus &amp; Commons (27 files) — civilizational knowledge commons vision</li>
-<li>NeoBooks &amp; NeoDecks (31 files) — modular publishing format</li>
-<li>Contrarians (12 files) — thinker profiles</li>
-<li>Behind the Reel (7 files) — personal memoir series</li>
-<li>Cyborg Future (14 files) — human-AI integration</li>
-<li>GenAI &amp; Tools for Thinking (23 files) — AI, LLMs, thinking tools</li>
-<li>Rethink Constraints (13 files) — with Russell Ackoff as patron saint</li>
-<li>Democracy, Politics &amp; Society (17 files) — civic discourse, Trump, capitalism</li>
-<li>Jerry's Brain &amp; Sensemaking (12 files) — the practice of thinking in public</li>
-<li>Rel8 (4 files) — embryonic new project, April 2026</li>
-<li>Unclustered (184 files) — stubs, one-offs, and not-yet-named clusters</li>
-</ol>
-<p><strong>Key raw sources for ingesting:</strong></p>
+<h2>Publication Series &amp; Cluster Map</h2>
+<p>This is the authoritative map of Jerry's publishing series, melding RC Posts.md (his manual queue) with topic clustering. Each series has a hashtag used across platforms.</p>
+<h3>#RethinkConstraints</h3>
+<p>The parent series. Everything else is a sub-series or feeds into this.</p>
 <ul>
-<li><code>Claude and The Big Fungus.md</code> (63KB) — April 3, 2026 conversation on Maturana, Extended Mind Thesis, Big Fungus architecture</li>
-<li><code>Claude Assesses LLMs vs Active Inference for Me.md</code> (60KB) — deep dive on LLMs vs Active Inference frameworks</li>
+<li>Tech History: General Magic's Two Fatal Flaws · When I Sent My First Wireless Email</li>
+<li>Constraint Tales: The Web Is Forgiving · Ackoff Was a Master · Brands Are Trapped · How the Robocar Trifecta Would Improve Our Cities · Watching Travelers Eat Citibank</li>
+<li>4S (See, Shift, Shape, Set): The 4S Innovation Process · Seeing Constraints · Shifting Your Perspective · Shaping Your Future · Setting Your Course</li>
+<li>Innovation: The Dark Side of Innovation · My Innovations · Dark Innovation · Types of Innovation · Other Kinds of Innovation</li>
+<li>Big Picture: Fighting Over the Joystick · This Project's Goals · Questions for Those With Projects to Fix the World · Does Ethical Capitalism Pencil Out · Rethinking My Own Constraints · Impossible Is Just the Most Famous Constraint</li>
+</ul>
+<h3>#DesignfromTrust</h3>
+<p>Jerry's primary intellectual framework series.</p>
+<ul>
+<li>Posted: My Story of Trust · Trust is… · The Alternatives to Sorting Out Trust All Suck · Wikipedia Started as the Nupedia · Trust Is Cheaper Than Control · Design from Trust Is Widespread Already · From Trust, Not For · Oh Advertisers 1 &amp; 2</li>
+<li>Queue: Design from Trust — How to Build Better Futures · Design from Trust Requires Thoughtful Design · Trust Just Feels Better · Scarcity = Abundance — Trust · The Joy Line · Jerry's Trust Summary · But Trust Doesn't Scale · How We Receive Matters · People are Generally More Trustworthy Than We Think They Are · Be Undefended Not Defenseless · Not Naïve Trust · But That Won't Work Here · Trust's Many Facets · Trust In Today's Political Arena · We Are Often Blind to Design from Trust · The 2 Oh Shit!s · Why You Love Design from Trust Already · Pointing Out the Pattern · Design from Mistrust · Reality Check · Design from Trust as a Differentiator · Trust Is the (Only) Way Forward · Undermining Trust Is a Strategy · The Big Picture — Effects of Design from Trust · Design from Trust is Corruptible · Examples of Design from Trust · Benefits of Design from Trust · Principles of Design from Trust · Trust Unlocks Innovation · Design Thinking and Design from Trust · Design from Trust as a Methodology · Writing a NeoBook About Design from Trust</li>
+<li>Ideas without files yet: We Normalized Mistrust · Trust Is the Crucial Constraint</li>
+</ul>
+<h3>#TheBigFungus</h3>
+<ul>
+<li>Fabulous Fungal Metaphors · Leaf-Cutter Ants Can't Digest Leaves · Joy and Jerry Discuss The Big Fungus · Help me Feed the Big Fungus · On Curating a Long-Term Memory</li>
+<li>All fungal metaphor files (Mycelia, Hyphae, Mushrooms, etc.)</li>
+<li>Collections to Feed the Big Fungus · The Fungus Manifesto · The Commons · Nurture the Commons</li>
+</ul>
+<h3>#GenAI</h3>
+<ul>
+<li>GenAI's Mixed Blessings (posted) · Tech Owes You an Apology · GenAI Gives Us Superpowers · Does GenAI Obsolete Notetaking · Does GenAI Obsolete Tools for Thinking · Does GenAI Obsolete Reading · On GenAI's Origins · Finding Your GenAI Advisors · GenAI Trust Issues · Proposing a GenAI Compact</li>
+</ul>
+<h3>#GenAI+FoW (GenAI + Future of Work)</h3>
+<ul>
+<li>GenAI Automates Tasks, Not Jobs · The Elephant in the GenAI Room · GenAI Is Like a Flesh-Eating Bacterium · The Future isn't AI — It's CHI · Will GenAI Survive Capitalism · Will Capitalism Survive GenAI</li>
+<li>Ideas without files: The GenAI-Jobs-Education Trilemma</li>
+</ul>
+<h3>#wiwty (What If We Trusted You)</h3>
+<ul>
+<li>What If We Trusted You (NeoBook) and related files</li>
+</ul>
+<h3>#NeoBooks</h3>
+<ul>
+<li>PowerPoints Should be Playlists · What's a NeoBook · What's a Nugget · Nuggets Are Really Powerful · Nuggetization · The Unwritten Laws of Books · How Books Fail Us · The NeoBooks Manifesto · Level Up Media · The Creator's Dilemma · Why Hasn't Software Solved Collaboration · Making Ideas More Useful · Jerry's Presentation Nuggets · Knowledge Should Accumulate · The History of Sensemaking</li>
+<li>Ideas without files: Bonfires on the Horizon · Smelling the Web · Smelling Smartphones · Apps atop shared warm data</li>
+</ul>
+<h3>#JoyLine</h3>
+<ul>
+<li>The Joy Line · The Joy Line in Health Care</li>
+</ul>
+<h3>#Contrarians</h3>
+<ul>
+<li>A Worldview Built from Contrarians · Contrarian Overview · Contrarian or Kook · Contrarians Who Make (or Made) Sense · How I Became Aware of Contrarians · Introducing My Contrarians · Patterns My Contrarians Share</li>
+<li>Profiles: Christopher Alexander · Elinor Ostrom · Hans Monderman · Harrison Owen · John Taylor Gatto · Russell Ackoff</li>
+<li>Ideas without profiles: more to add</li>
+</ul>
+<h3>#BehindTheReel</h3>
+<ul>
+<li>Behind the Reel (series) · Neural Nets in 1988 · Design from Trust · Slides on Acetates · The Documents That Saved My Family · The Joy Line · What Seems Impossible</li>
+</ul>
+<h3>#TechHistory</h3>
+<ul>
+<li>General Magic's Two Fatal Flaws · When I Sent My First Wireless Email</li>
+<li>"This Changes Everything" sub-series: Social Media Was Different before Facebook Got Its VC · Microfinance Was Different before Capitalists Discovered It · The Sharing Economy Was Different before Uber · Multiple Promising Technologies Were Warped by Capitalism</li>
+</ul>
+<h3>#RethinkSociety</h3>
+<ul>
+<li>Rethink Masculinity · Ownership versus Stewardship · Let's Treat Refugees as First-class Global Citizens</li>
+</ul>
+<h3>#CurrentEvents / #TrumpFieldManual</h3>
+<ul>
+<li>This Kamala Moment (done) · Kayfabe · OODA · DARVO · Kayfabe, OODA, DARVO — Why Democrats Are Clueless · Misunderestimating Donald Trump · Trump II Is Teaching a Masters Class · On Trump and Constraints · Trump Through the Trust Lens</li>
+</ul>
+<h3>#JerrysBrain</h3>
+<ul>
+<li>On Curating a 28-Year-Old Mind Map · Enumerated Wisdom · isms · Contrarians Who Make (or Made) Sense · Useful Thinking Frameworks and Mental Models · Variants of Capitalism · Communities Working to Fix World Problems</li>
+</ul>
+<h3>#OGM (Open Global Mind)</h3>
+<ul>
+<li>The OGM Birth Story · OGM Effects (if we succeed) · Running a QFT on Curiosity</li>
+</ul>
+<h3>#Rel8</h3>
+<ul>
+<li>Introducing Rel8 · Rel8 · Rel8 Founding Steward's Charter · Rel8 Manifesto</li>
+</ul>
+<h3>#SJB (Stump Jerry's Brains)</h3>
+<ul>
+<li>All SJB-related posts, outreach, and documentation</li>
+<li>Finding the Externalizers (post drafted April 2026)</li>
+<li>LLM Wiki / Karpathy response (video outline drafted April 2026)</li>
+</ul>
+<h3>Context &amp; Meta Posts (not hashtagged separately)</h3>
+<ul>
+<li>On Crossposting (done) · I Think in Webs · Rethinking My Own Constraints · On the Nature of Constraints · On Sensemaking · Getting My Kite Out of Storage</li>
+<li>Ideas without files: On Constraints and Strategy · A Map to This Project · My Missions · About This Substack · The Many Flavors of Capitalism · Help me shape this offer · Wrestling With Where I Fit</li>
+</ul>
+<hr />
+<h2>Key Raw Sources to Ingest</h2>
+<ul>
+<li><code>Claude and The Big Fungus.md</code> (63KB) — April 3 2026. Primary source on Big Fungus, Maturana, Extended Mind Thesis.</li>
+<li><code>Claude Assesses LLMs vs Active Inference for Me.md</code> (60KB) — LLMs vs Active Inference.</li>
+<li><code>RC Posts.md</code> — Jerry's manual post queue; being superseded by Bases + YAML but still the most complete picture of publication intent.</li>
 </ul>
 <hr />
 <h2>Workflows</h2>
@@ -205,13 +343,13 @@
 <ol>
 <li>Read JERRY.md (this file)</li>
 <li>Read index.md</li>
-<li>Ask Jerry what he wants to work on, or proceed with the session goal if stated</li>
+<li>Ask Jerry what he wants to work on, or proceed with stated goal</li>
 </ol>
 <h3>Ingesting a source</h3>
 <ol>
-<li>Read the source</li>
-<li>Discuss key takeaways with Jerry</li>
-<li>Write a summary page (Ingest Summary type)</li>
+<li>Read the source with Jerry</li>
+<li>Discuss key takeaways</li>
+<li>Write a summary page (type: ingest) with YAML</li>
 <li>Update relevant concept/project pages</li>
 <li>Update index.md if new pages were created</li>
 <li>Append to log.md</li>
@@ -221,36 +359,32 @@
 <li>Check index.md for relevant pages</li>
 <li>Read relevant pages</li>
 <li>Synthesize and respond</li>
-<li>If the answer is valuable, offer to file it as a new Synthesis page</li>
+<li>If valuable, offer to file as a Synthesis page</li>
 </ol>
 <h3>Lint pass (periodic)</h3>
-<p>Ask Claude to read index.md and flag:</p>
-<ul>
-<li>Stub pages that could be developed from existing content</li>
-<li>Concepts mentioned across pages but lacking their own page</li>
-<li>Potential new clusters hiding in the Unclustered bucket</li>
-<li>Contradictions between pages</li>
-<li>Open questions worth investigating</li>
-</ul>
+<p>Flag: stubs ready to develop · concepts without pages · new clusters in Unclustered · contradictions · ideas in RC Posts without stub files · YAML missing from older files</p>
 <hr />
 <h2>What Claude Should NOT Do</h2>
 <ul>
-<li>Do not write to TheBrain directly — that's Jerry's job</li>
-<li>Do not use Dataview syntax — it won't render in Massive Wiki</li>
+<li>Do not write to TheBrain directly</li>
+<li>Do not use Dataview syntax — won't render in Massive Wiki</li>
 <li>Do not create subfolders — flat namespace only</li>
 <li>Do not invent facts about Jerry's life, projects, or positions</li>
 <li>Do not over-formalize — this is a thinking tool, not a corporate wiki</li>
-<li>Do not add excessive YAML frontmatter unless Jerry asks</li>
+<li>Do not put critical content only in YAML — body must stand alone</li>
 </ul>
 <hr />
 <h2>Ongoing Threads to Revisit</h2>
-<p>These are important enough to weave into sessions even when not explicitly mentioned:</p>
 <ul>
-<li><strong>Big Fungus / Brain Legacy</strong> — the April 3 2026 conversation (Claude and The Big Fungus.md) is the canonical starting point. The nested project stack: Embiggenment → Next Stacks → Big Fungus → Brain Legacy / JerrysBrainBot.</li>
-<li><strong>Externalizers</strong> — Jerry is on a quest to find others who've made their thinking public over long periods. This connects to SJB audience development and Big Fungus collaborators.</li>
-<li><strong>LLM Wiki</strong> — Karpathy's April 2026 post; this wiki is the implementation. Jerry is figuring out how it fits his stack and potentially scales to Big Fungus.</li>
+<li><strong>Big Fungus / Brain Legacy</strong> — April 3 2026 conversation is canonical. Stack: Embiggenment → Next Stacks → Big Fungus → Brain Legacy / JerrysBrainBot.</li>
+<li><strong>Externalizers</strong> — quest for people who've made thinking public over long periods. SJB audience + Big Fungus collaborators. Post drafted April 2026.</li>
+<li><strong>LLM Wiki</strong> — Karpathy's April 2026 post. This wiki is Jerry's implementation. May scale to Big Fungus. Video outline drafted.</li>
 <li><strong>SJB</strong> — Stump Jerry's Brains. Founding rate $3,500. Goal: 2 bookings by end of April 2026, self-sustaining by July 1.</li>
-<li><strong>TheBrain v15 AI integration</strong> — currently ChatGPT only; Claude integration in progress. Chatbot frontend (JerrysBrainBot) also in development. Watch this space.</li>
+<li><strong>TheBrain v15 AI</strong> — ChatGPT now, Claude coming. Public JerrysBrainBot chatbot in development.</li>
+<li><strong>NeoBooks / NeoDecks / publishing vision</strong> — a PowerPoint-killer and modular publishing format, predates and differs from Marp. Jerry wants to explain this properly when the time is right.</li>
+<li><strong>Bases + YAML project</strong> — goal is to replace the manually maintained RC Posts.md with a live Bases view showing all posts by status, series, and date. YAML needs to be applied consistently across files. Stubs needed for ideas without files.</li>
+<li><strong>GWRE</strong> — GlobalWarmingRealEstate.com satirical rebuild. On hold until SJB generates revenue.</li>
+<li><strong>Portland property</strong> — mixed-use Pearl District, listed without success, unconventional marketing being considered.</li>
 </ul>
 
       
@@ -269,7 +403,7 @@
     
     <div>Licensed under <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</div>
     
-    <div><em>Site last updated on Saturday, April 11, 2026 at 04:09 UTC.</em></div>
+    <div><em>Site last updated on Saturday, April 11, 2026 at 06:57 UTC.</em></div>
   </div>
 </footer>
 </body>
