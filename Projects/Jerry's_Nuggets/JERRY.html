@@ -16,11 +16,11 @@
     <link rel="stylesheet" href="https://unpkg.com/bluesky-comments@0.12.0/dist/bluesky-comments.css">
     
     <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
-    <script src="/ogm-wiki/lunr-index-1775878028.6214888.js"></script>
+    <script src="/ogm-wiki/lunr-index-1775880562.7176704.js"></script>
     <script>var index = lunr.Index.load(lunr_index)</script>
     
     
-    <script src="/ogm-wiki/lunr-posts-1775878028.6214888.js"></script>
+    <script src="/ogm-wiki/lunr-posts-1775880562.7176704.js"></script>
     <script> function randomPageLink() { return "/ogm-wiki"+lunr_posts[Math.floor(Math.random() * lunr_posts.length)].link; } </script>
     
   </head>
@@ -66,8 +66,192 @@
 	<br clear="all">
       </div> <!-- edit this page button -->
       
-      <h1>JERRY</h1>
-<p>start with a paragraph describing your setup, your projects, your voice. Add to it as you discover what Claude needs to know. This conversation is a good starting point.</p>
+      <h1>JERRY.md</h1>
+<p><em>Schema file for Claude. Read this at the start of any wiki session.</em> <em>Last updated: April 2026</em></p>
+<hr />
+<h2>Who Jerry Is</h2>
+<p>Jerry Michalski is a knowledge curator, consultant, and convener based in Portland, Oregon. He's best known for maintaining a large public personal knowledge graph called Jerry's Brain — built in TheBrain software over 28 years, publicly accessible at jerrysbrain.com. It currently has 625,000+ nodes.</p>
+<p>Jerry's long-running intellectual interests include:</p>
+<ul>
+<li><strong>Design from Trust</strong> — his core framework: systems and institutions work better when they start from trust rather than suspicion</li>
+<li><strong>The Big Fungus</strong> — an open knowledge commons where people using different thinking tools encounter each other's maps and leave the shared territory better</li>
+<li><strong>Embiggenment</strong> — his personal process of converging individual and shared work toward larger civilizational projects</li>
+<li><strong>Tools for Thinking</strong> — TheBrain, Obsidian, Roam, Tinderbox, and the ecosystem of externalizing tools</li>
+<li><strong>Contrarians</strong> — thinkers who challenged assumptions and turned out to be right (Alexander, Ostrom, Monderman, Owen, Gatto, Ackoff)</li>
+<li><strong>NeoBooks &amp; NeoDecks</strong> — his format for networked, modular publishing (playlists of Nuggets)</li>
+<li><strong>Sensemaking</strong> — civic discourse, epistemic commons, how we make sense together</li>
+</ul>
+<p>Jerry's project stack (nested): Embiggenment → Next Stacks → Big Fungus → Brain Legacy / JerrysBrainBot</p>
+<p>He's currently launching <strong>Stump Jerry's Brains (SJB)</strong> — a paid live sensemaking session for conferences and teams. Site: StumpJerrysBrains.com.</p>
+<p>Jerry is partnered with April. He recently obtained German citizenship. They own a flat in Bergamo, Italy, and a mixed-use property in Portland's Pearl District.</p>
+<hr />
+<h2>Voice &amp; Style</h2>
+<ul>
+<li>Uses em dashes liberally — as connective tissue, not decoration</li>
+<li>Satirical sensibility; Colbert-era deadpan is a reference point</li>
+<li>Civilizational stakes, but approachable and often funny</li>
+<li>Writes for a smart generalist audience, not just technologists</li>
+<li>Avoids jargon unless he's coining it himself</li>
+<li>Thinks in webs, not outlines — associative, not hierarchical</li>
+</ul>
+<p>When writing wiki pages or synthesis on Jerry's behalf, match this voice.</p>
+<hr />
+<h2>This Wiki's Setup</h2>
+<p><strong>Tool stack:</strong></p>
+<ul>
+<li><strong>Jerry's Brain</strong> (TheBrain v15) — permanent associative graph, public-facing, 28 years old. The long-term store. LLM cannot write to it directly.</li>
+<li><strong>Obsidian</strong> — active synthesis layer. Flat namespace (no subfolders within Jerry's Nuggets). No daily notes. No templates.</li>
+<li><strong>GitHub</strong> — Obsidian vault syncs to OpenGlobalMind/ogm-wiki. Files in Projects/Jerry's Nuggets.</li>
+<li><strong>Massive Wiki</strong> — static site generator that publishes the OGM wiki. Plain Markdown renders; Dataview, Excalidraw, and .base files do not.</li>
+<li><strong>Claude</strong> — the synthesis and maintenance engine. You.</li>
+</ul>
+<p><strong>The relationship between layers:</strong></p>
+<ul>
+<li>Wiki (Obsidian) = synthesis layer. Claude writes and maintains this.</li>
+<li>Brain (TheBrain) = permanent graph. Jerry curates this manually, informed by wiki.</li>
+<li>When a wiki page matures, Jerry decides whether it earns a TheBrain node.</li>
+<li>When a Brain cluster needs deep work, Jerry exports or summarizes it as raw source for the wiki.</li>
+</ul>
+<hr />
+<h2>File Conventions</h2>
+<ul>
+<li>Flat namespace — all files in one folder, no subfolders</li>
+<li>Plain Markdown only — no YAML frontmatter required (though optional)</li>
+<li>File names are the page titles, Title Case, .md extension</li>
+<li>Non-MD files (.base, .excalidraw) exist but don't render publicly — treat as invisible to readers</li>
+<li>index.md = the catalog of everything in the wiki. Claude reads this first each session.</li>
+<li>JERRY.md = this file. Claude reads this first each session.</li>
+<li>log.md = append-only session log. Claude adds an entry after each significant session.</li>
+</ul>
+<hr />
+<h2>Page Types</h2>
+<table>
+<thead>
+<tr>
+<th align="left">Type</th>
+<th align="left">Description</th>
+<th align="left">Examples</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td align="left"><strong>Concept</strong></td>
+<td align="left">A core idea, fully developed or in progress</td>
+<td align="left">Design from Trust, Big Fungus, Embiggenment</td>
+</tr>
+<tr>
+<td align="left"><strong>Contrarian Profile</strong></td>
+<td align="left">One thinker per page: who they are, what they challenged, why it matters to Jerry</td>
+<td align="left">Contrarian Christopher Alexander</td>
+</tr>
+<tr>
+<td align="left"><strong>Behind the Reel</strong></td>
+<td align="left">Personal memoir/context behind a public post or reel</td>
+<td align="left">Behind the Reel — Neural Nets in 1988</td>
+</tr>
+<tr>
+<td align="left"><strong>NeoBook / NeoDeck</strong></td>
+<td align="left">Metadata and structure for a modular publication</td>
+<td align="left">Design from Trust (NeoBook)</td>
+</tr>
+<tr>
+<td align="left"><strong>Project</strong></td>
+<td align="left">Active initiative with status and next steps</td>
+<td align="left">Stump Jerry's Brains, Rel8, Big Fungus</td>
+</tr>
+<tr>
+<td align="left"><strong>Ingest Summary</strong></td>
+<td align="left">One page per significant source: key takeaways, connections, open questions</td>
+<td align="left">Claude and The Big Fungus</td>
+</tr>
+<tr>
+<td align="left"><strong>Synthesis</strong></td>
+<td align="left">Cross-concept connections, comparisons, answers to complex queries</td>
+<td align="left">(to be created)</td>
+</tr>
+<tr>
+<td align="left"><strong>Stub / Placeholder</strong></td>
+<td align="left">Title exists, content not yet written — many of these</td>
+<td align="left">Most of the short files</td>
+</tr>
+</tbody>
+</table>
+<hr />
+<h2>Key Clusters (as of April 2026)</h2>
+<p>From index.md — the 11 named clusters:</p>
+<ol>
+<li>Design from Trust (28 files) — Jerry's primary intellectual framework</li>
+<li>Trust — General (33 files) — the broader trust ecosystem</li>
+<li>Big Fungus &amp; Commons (27 files) — civilizational knowledge commons vision</li>
+<li>NeoBooks &amp; NeoDecks (31 files) — modular publishing format</li>
+<li>Contrarians (12 files) — thinker profiles</li>
+<li>Behind the Reel (7 files) — personal memoir series</li>
+<li>Cyborg Future (14 files) — human-AI integration</li>
+<li>GenAI &amp; Tools for Thinking (23 files) — AI, LLMs, thinking tools</li>
+<li>Rethink Constraints (13 files) — with Russell Ackoff as patron saint</li>
+<li>Democracy, Politics &amp; Society (17 files) — civic discourse, Trump, capitalism</li>
+<li>Jerry's Brain &amp; Sensemaking (12 files) — the practice of thinking in public</li>
+<li>Rel8 (4 files) — embryonic new project, April 2026</li>
+<li>Unclustered (184 files) — stubs, one-offs, and not-yet-named clusters</li>
+</ol>
+<p><strong>Key raw sources for ingesting:</strong></p>
+<ul>
+<li><code>Claude and The Big Fungus.md</code> (63KB) — April 3, 2026 conversation on Maturana, Extended Mind Thesis, Big Fungus architecture</li>
+<li><code>Claude Assesses LLMs vs Active Inference for Me.md</code> (60KB) — deep dive on LLMs vs Active Inference frameworks</li>
+</ul>
+<hr />
+<h2>Workflows</h2>
+<h3>Starting a session</h3>
+<ol>
+<li>Read JERRY.md (this file)</li>
+<li>Read index.md</li>
+<li>Ask Jerry what he wants to work on, or proceed with the session goal if stated</li>
+</ol>
+<h3>Ingesting a source</h3>
+<ol>
+<li>Read the source</li>
+<li>Discuss key takeaways with Jerry</li>
+<li>Write a summary page (Ingest Summary type)</li>
+<li>Update relevant concept/project pages</li>
+<li>Update index.md if new pages were created</li>
+<li>Append to log.md</li>
+</ol>
+<h3>Answering a query</h3>
+<ol>
+<li>Check index.md for relevant pages</li>
+<li>Read relevant pages</li>
+<li>Synthesize and respond</li>
+<li>If the answer is valuable, offer to file it as a new Synthesis page</li>
+</ol>
+<h3>Lint pass (periodic)</h3>
+<p>Ask Claude to read index.md and flag:</p>
+<ul>
+<li>Stub pages that could be developed from existing content</li>
+<li>Concepts mentioned across pages but lacking their own page</li>
+<li>Potential new clusters hiding in the Unclustered bucket</li>
+<li>Contradictions between pages</li>
+<li>Open questions worth investigating</li>
+</ul>
+<hr />
+<h2>What Claude Should NOT Do</h2>
+<ul>
+<li>Do not write to TheBrain directly — that's Jerry's job</li>
+<li>Do not use Dataview syntax — it won't render in Massive Wiki</li>
+<li>Do not create subfolders — flat namespace only</li>
+<li>Do not invent facts about Jerry's life, projects, or positions</li>
+<li>Do not over-formalize — this is a thinking tool, not a corporate wiki</li>
+<li>Do not add excessive YAML frontmatter unless Jerry asks</li>
+</ul>
+<hr />
+<h2>Ongoing Threads to Revisit</h2>
+<p>These are important enough to weave into sessions even when not explicitly mentioned:</p>
+<ul>
+<li><strong>Big Fungus / Brain Legacy</strong> — the April 3 2026 conversation (Claude and The Big Fungus.md) is the canonical starting point. The nested project stack: Embiggenment → Next Stacks → Big Fungus → Brain Legacy / JerrysBrainBot.</li>
+<li><strong>Externalizers</strong> — Jerry is on a quest to find others who've made their thinking public over long periods. This connects to SJB audience development and Big Fungus collaborators.</li>
+<li><strong>LLM Wiki</strong> — Karpathy's April 2026 post; this wiki is the implementation. Jerry is figuring out how it fits his stack and potentially scales to Big Fungus.</li>
+<li><strong>SJB</strong> — Stump Jerry's Brains. Founding rate $3,500. Goal: 2 bookings by end of April 2026, self-sustaining by July 1.</li>
+<li><strong>TheBrain v15 AI integration</strong> — currently ChatGPT only; Claude integration in progress. Chatbot frontend (JerrysBrainBot) also in development. Watch this space.</li>
+</ul>
 
       
     </div>
@@ -85,7 +269,7 @@
     
     <div>Licensed under <a href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>.</div>
     
-    <div><em>Site last updated on Saturday, April 11, 2026 at 03:27 UTC.</em></div>
+    <div><em>Site last updated on Saturday, April 11, 2026 at 04:09 UTC.</em></div>
   </div>
 </footer>
 </body>
