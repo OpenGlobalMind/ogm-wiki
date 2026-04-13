@@ -4,6 +4,8 @@ Rethink Constraints is the name of Jerry's Substack. These are posts, past and f
 ### Stump Jerry's Brain Posts
 - [[Behold, Stump Jerry's Brains]]! 
 - [[My Quantified Self Aha]]! 
+- [[Jochen's Mirror]] 
+- [[Every Link Is a Decision]] 
 
 ### Tech History Posts 
 - [[General Magic's Two Fatal Flaws]] 
