@@ -2,13 +2,15 @@
  (draft) 
 *Subhed.* 
 
+![[JB - Trust Models.jpg]]
+
 Here's something I've never said plainly:
 
-Every link in Jerry's Brain is a decision.
+Every link in Jerry's Brain is a decision. (I didn't see it that way until [[Jochen's Mirror|Jochen wrote it that way]].) 
 
 Not a filing decision — a _judgment_ decision. Does this connect to that? Is this relationship worth naming? Does this node belong here, or somewhere I haven't built yet?
 
-I've made that call roughly 625,000 times over 28 years.
+I've made that call roughly 1.2 million times over 28 years. More, if you enumerate what to link to, what to call a node, and where to look next. 
 
 Nobody asked me to. No algorithm surfaced the connection. No prompt generated the link. I saw something, I thought it belonged somewhere, and I connected it — in public, permanently, under my own name.
 
