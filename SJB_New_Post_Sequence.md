@@ -1,3 +1,71 @@
+# Other post ideas
+
+[[Jochen's Mirror]] and [[Every Link Is a Decision]] 
+
+Use **"Jerry’s Brain"** as the ultimate low-stakes icebreaker. By showing the messy, 28-year-old web of your own thoughts, you "lower the floor." You aren't the expert with the answers; you're the fellow explorer with a really big flashlight.
+
+International! Multinational!
+
+### 1. The "Script" vs. the "Shift"
+
+Most corporate events are **The Script**. Everyone knows what’s going to be said, the slides are vetted, and the "Q&A" is a polite formality.
+
+- **The Pitch:** "We are in a world where the script changes every morning. **Stump Jerry’s Brain** isn't a presentation; it's a 'live-fire exercise' in navigating a shift. It trains your team to think when there is no slide deck to save them."
+    
+
+### 2. Intellectual "Safety" vs. Intellectual "Sovereignty"
+
+People are conditioned to wait for the "right" answer (Safety). You are trying to get them to generate their own connections (Sovereignty).
+
+- **The Pitch:** "We’ve spent decades training people to be efficient processors of other people's ideas. I help them reclaim their own sensemaking. It’s the difference between a team that waits for instructions and a team that spots opportunities before you do."
+    
+
+### 3. "The Map is Not the Territory"
+
+This is a classic line that resonates with strategists.
+
+- **The Pitch:** "Most consultants sell you a map of how the world used to be. I bring the 'Territory' (my 30-year digital Brain) and we explore it together in real-time. It’s about building the muscle of **contextual intelligence**—the ability to see how a change in AI affects our culture, our trust, and our bottom line, all at once."
+
+How does it feel to think of **SJB** not as a "talk" you’re selling, but as a **capacity** you’re demonstrating?
+
+### Capturing the "Humboldtian" Moments
+
+When you go to edit those recordings, look for these three specific "character arcs" to show potential clients:
+
+1. **The "Pivot":** A moment where a guest asks a question from one domain (e.g., "supply chains") and you navigate through the Brain to connect it to something unexpected (e.g., "caste systems" or "societal trust"). This demonstrates **Contextual Intelligence.**
+    
+2. **The "Exhale":** That specific moment where a participant stops being "Prussian" (waiting for the right answer) and has a genuine "Humboldtian" epiphany. It usually looks like a long pause followed by, _"I never thought of it that way..."_
+    
+3. **The "Dashboard":** A screen-capture of you navigating the "Brain" in real-time. This turns your 28-year project from a "personal quirk" into a **Strategic Asset**—a proprietary database of human wisdom that they can tap into.
+
+I like to think of myself as a sensemaker with a decent sense of history and an optimistic view of the future.
+
+### Refining the "Sensemaker" Pitch
+
+To make this hit home for your pilot invites and posts, you might lean into the contrast between **Information** and **Insight**:
+
+- **The Prussian Problem:** Information is now a commodity. Being "the expert with all the facts" is a race to the bottom against LLMs.
+    
+- **The Humboldtian/Sensemaker Solution:** Insight is the ability to see the _relationships_ between those facts. That is what "Jerry's Brain" actually is—it's not a database; it's a **Relationship Engine.**
+
+### The "Optimistic" Edge
+
+Optimism is actually a strategic advantage in a high-complexity environment. Most "sensemaking" today (think doom-scrolling or geopolitical analysis) is grounded in fear. By anchoring your work in **Design from Trust**, you’re offering an alternative to the "control-and-surveillance" future.
+
+You aren't just telling them what's coming; you're showing them that they have the **sovereignty** to build something better.
+
+### A Tactical Suggestion for the Snippets
+
+When you edit those pilot clips, keep an eye out for what I call the **"Jerry-Moment"**:
+
+> It’s the split second where you stop looking at the nodes in the Brain and start looking at the _person_ asking the question.
+
+That’s where the "Optimistic Sensemaker" shines. It’s when you show them that the complexity isn't a threat to be managed, but a landscape to be explored.
+
+As you send out that flurry of emails, remember that you aren't asking for a "gig"—you're offering a **curated liberation** from the Prussian loop.
+
+
+
 # SJB Substack Post Sequence
 
 A phased content plan for promoting Stump Jerry's Brains while laying groundwork for the bigger mission threads (Big Fungus, Embiggenment, Cyborg, Tools for Thinking). Posts are sequenced so that trust and credibility are built before any direct commercial pitch. The commercial taint risk is managed by sequence: never pitching without having first demonstrated.
