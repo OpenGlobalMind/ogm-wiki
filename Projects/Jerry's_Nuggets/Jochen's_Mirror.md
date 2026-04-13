@@ -1,5 +1,5 @@
 # Jochen's Mirror (Huginn & Muninn)
- (draft) 
+ 
 *On human sensemaking.* 
 
 ![[Jochen Schmiedbauer's Comment on my Behold post.jpg]]
@@ -25,4 +25,4 @@ That's what [Stump Jerry's Brains](https://stumpjerrysbrains.com/) is: 28 years 
 \* My Brain has 625,000 Thoughts, connected by 1.2mm links, all put in by hand, by me.
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
+This article is cross-posted on Substack [here](https://rethinkconstraints.substack.com/p/jochens-mirror-huginn-and-muninn), Medium [here](https://jerrymichalski.medium.com/jochens-mirror-huginn-muninn-9bd97a068666) and LinkedIn [here](https://www.linkedin.com/pulse/jochens-mirror-huginn-muninn-jerry-michalski-xmeyc). It's also [here](https://bra.in/5pWANo) in [[Jerry's Brain|my Brain]]. 
