@@ -1,5 +1,7 @@
 # What Now?
 
+This page is AI generated. I forget which engine I used 🤣
+
 # We've Been Building Billion-Dollar Systems That Make the Problem Worse
 
 ## An outline for your next post
