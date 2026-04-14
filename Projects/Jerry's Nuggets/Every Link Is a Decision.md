@@ -16,7 +16,7 @@ Nobody asked me to. No algorithm surfaced the connection. No prompt generated th
 
 That's curation with intention. And it compounds.
 
-The Brain I have today isn't 635,000 nodes. It's several million decisions that reference each other. The value isn't in any single node — it's in the argument the whole thing makes about how ideas relate.
+The Brain I have today isn't 635,000 nodes. It's several million decisions that reference each other. The value isn't in any single node, it's in the argument the whole thing makes about how ideas relate.
 
 This is what I mean when I say [Stump Jerry's Brains](https://stumpjerrysbrains.com/) is a live sensemaking session, not a demo.
 
