@@ -29,4 +29,4 @@ That's the session. That's the offer.
 PS: Curious about how we snipped long-term relationships and brought on the Global Financial Crisis? Explore [here](https://bra.in/7j3PNr). 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
+This article is cross-posted on Substack [here](https://rethinkconstraints.substack.com/p/every-link-is-a-decision), Medium [here](https://jerrymichalski.medium.com/every-link-is-a-decision-371a49825137) and LinkedIn [here](https://www.linkedin.com/pulse/every-link-decision-jerry-michalski-hvjmc/). It's also [here](https://bra.in/8qVWNJ) in [[Jerry's Brain|my Brain]]. 
