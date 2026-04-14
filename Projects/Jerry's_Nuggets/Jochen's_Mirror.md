@@ -1,3 +1,12 @@
+---
+type: nugget
+status: done
+format:
+topic:
+queue_order:
+date posted: 2026-04-13
+---
+
 # Jochen's Mirror (Huginn & Muninn)
  
 *On human sensemaking.* 
