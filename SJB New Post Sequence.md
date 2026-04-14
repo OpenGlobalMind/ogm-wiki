@@ -1,7 +1,5 @@
 # Other post ideas
 
-[[Jochen's Mirror]] and [[Every Link Is a Decision]] 
-
 Use **"Jerry’s Brain"** as the ultimate low-stakes icebreaker. By showing the messy, 28-year-old web of your own thoughts, you "lower the floor." You aren't the expert with the answers; you're the fellow explorer with a really big flashlight.
 
 International! Multinational!
@@ -11,7 +9,8 @@ International! Multinational!
 Most corporate events are **The Script**. Everyone knows what’s going to be said, the slides are vetted, and the "Q&A" is a polite formality.
 
 - **The Pitch:** "We are in a world where the script changes every morning. **Stump Jerry’s Brain** isn't a presentation; it's a 'live-fire exercise' in navigating a shift. It trains your team to think when there is no slide deck to save them."
-    
+
+Working without a deck :)
 
 ### 2. Intellectual "Safety" vs. Intellectual "Sovereignty"
 
