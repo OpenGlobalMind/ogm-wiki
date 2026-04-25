@@ -1,5 +1,7 @@
 # Other post ideas
 
+
+
 Use **"Jerry’s Brain"** as the ultimate low-stakes icebreaker. By showing the messy, 28-year-old web of your own thoughts, you "lower the floor." You aren't the expert with the answers; you're the fellow explorer with a really big flashlight.
 
 International! Multinational!
