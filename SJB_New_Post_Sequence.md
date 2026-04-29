@@ -4,7 +4,9 @@
 
 Use **"Jerry’s Brain"** as the ultimate low-stakes icebreaker. By showing the messy, 28-year-old web of your own thoughts, you "lower the floor." You aren't the expert with the answers; you're the fellow explorer with a really big flashlight.
 
-International! Multinational!
+International! Multinational! Do your teams span the globe? Are they concerned about their shared knowledge? Are they working with AI? Are you in charge of keeping them up to date? 
+
+
 
 ### 1. The "Script" vs. the "Shift"
 
