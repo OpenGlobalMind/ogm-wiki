@@ -11,13 +11,13 @@ date posted:
 ---
 # Will GenAI Survive Capitalism?
  (draft)
-*Other useful technologies haven't fared so well.*
+*It's traveling a familiar path.*
 
 Insane amounts of money are chasing Generative AI, 
 
 The White House's new AI policy recently gave them free rein to do as they wish.
 
-
+Other useful technologies haven't fared so well. 
 
 Capitalism has a way of messing up good things. 
 
@@ -37,7 +37,7 @@ Whether we can [fix Capitalism](https://bra.in/2pJEWB) is a subject for future p
 
 ## OpenAI's flight
 
-Remember [the bizarre weekend in November 2023](https://bra.in/2joE85) when OpenAI's board fired Sam Altman, then everyone resigned, then he was rehired and the board was fired? Weird, wasn't it? Oh, but before he was rehired, Microsoft hired him! Then not. The whole thing was a surreal, real-time soap opera, played out largely in the public sphere. 
+Remember [the bizarre weekend in November 2023](https://bra.in/2joE85) when OpenAI's board fired Sam Altman, then everyone resigned, then he was rehired and the board was fired? Weird, wasn't it? Oh, but before he was rehired, Microsoft hired him! Then not. The whole thing was a surreal, real-time soap opera, played out in the public sphere. 
 
 My interpretation of that weekend was that OpenAI was shaking off its higher purpose, and settling in to capitalism. Sort of like an insect, snake or crab shedding the carapace or skin it had outgrown, except not that positive. Later, OpenAI opted to become a for-profit company. 
 
