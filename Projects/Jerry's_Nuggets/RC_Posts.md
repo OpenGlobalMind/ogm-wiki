@@ -1,6 +1,8 @@
 # Rethink Constraints Posts
 Rethink Constraints is the name of Jerry's Substack. These are posts, past and future, sorted by topic. 
 
+### JBafterJ Posts
+- [[JBafterJ — Interview Question Set (v1)]] 
 ### Stump Jerry's Brain Posts
 - [[Behold, Stump Jerry's Brains]]! (done)  
 - [[My Quantified Self Aha]]! (done)
