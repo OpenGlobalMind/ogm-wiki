@@ -224,6 +224,7 @@ AI role in collective intelligence
 - [[Kayfabe, OODA, DARVO - Why Democrats Are Clueless]] 
 - [[Charting a Positive Way Forward]] 
 - [[DFT FTW]] (as a path forward) 
+- [[The Ghosts of Douhet and Ho Chi Minh]] 
 
 ### Trump Field Manual 
 - [[Trump's Playbook]] 
