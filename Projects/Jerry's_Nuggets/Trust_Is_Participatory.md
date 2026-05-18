@@ -5,7 +5,7 @@ This is one of the [[Principles of Design from Trust]]. It may be superfluous.
 It seems to echo: 
 
 - [[Nothing About Us Without Us]] 
-- [[Subsidiarity]] 
+- [[Local Knows Best]] 
 - [[We're Citizens, Not Consumers]] 
 - [[Lift as We Climb]] 
 - [[Assume Good Faith]] and 

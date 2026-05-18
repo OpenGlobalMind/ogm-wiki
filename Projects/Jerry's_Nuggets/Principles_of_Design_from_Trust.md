@@ -12,6 +12,7 @@ Please note that a design principle for this page is to keep the DrT Principles 
 
 That said, here's the starting set of Principles (listed alphabetically): 
 
+- [[Not Naïve Trust]] 
 - [[Assume Good Faith]]  
 - [[Be Undefended, Not Defenseless]]  
 - [[Nurture the Commons]] 
@@ -23,9 +24,8 @@ That said, here's the starting set of Principles (listed alphabetically):
 - [[Work with the System, Not Against It]] 
 - [[Make the Right Thing Easy To Do]]  
 - [[Move Upstream Until Your Actions Can be Effective]]  
-- [[Not Naïve Trust]] 
 - [[Nothing About Us Without Us]]  
-- [[Subsidiarity]] (local knows best)  
+- [[Local Knows Best]] 
 - [[Trust Is Participatory]]  
 - [[We're Citizens, Not Consumers]]  
 

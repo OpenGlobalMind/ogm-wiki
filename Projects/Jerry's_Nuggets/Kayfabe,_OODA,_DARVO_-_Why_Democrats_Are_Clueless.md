@@ -14,7 +14,7 @@ date posted:
 
 I'm deeply concerned for the American Left. I'm afraid it has little clue what game is afoot. Progressives keep bringing knives to gunfights. 
 
-Actually, that's the wrong analogy, because it seems to suggest that Lefties need to up the violence to win. As you'll see, figuring out a winning strategy isn't simple at all, but it almost certainly doesn't involve cranking up the hatred, lies, and violence. 
+Actually, that's the wrong analogy, because it seems to suggest that knives aren't enough, that Lefties need to up the violence to win. As you'll see, figuring out a winning strategy isn't simple at all, but it almost certainly doesn't involve cranking up the hatred, lies, and violence. 
 
 The three terms that headline this post — Kayfabe, OODA, and DARVO — are unfortunately relatively unfamiliar that are all part of the hidden dynamics 
 
