@@ -82,12 +82,12 @@ Rethink Constraints is the name of Jerry's Substack. These are posts, past and f
 - [[Variants of Capitalism]] 
 
 ### Jerry's Brain Posts 
+- [[Useful Thinking Frameworks and Mental Models]] (Braincast) (done) 
 - On Curating a 28-Year-Old Mind Map 
 - [[Enumerated Wisdom]] 
 - [[isms]] 
 - Taglines 
 - [[Contrarians Who Make (or Made) Sense]] (series) 
-- [[Useful Thinking Frameworks and Mental Models]] (Braincast) (done) 
 - [[Variants of Capitalism]] (Braincast) 
 - [[Communities Working to Fix World Problems]] (Braincast) 
 
@@ -224,7 +224,7 @@ AI role in collective intelligence
 - [[Kayfabe, OODA, DARVO - Why Democrats Are Clueless]] 
 - [[Charting a Positive Way Forward]] 
 - [[DFT FTW]] (as a path forward) 
-- [[The Ghosts of Douhet and Ho Chi Minh]] 
+- [[Hormuz Meets the Ghosts of Douhet and Ho Chi Minh]] 
 
 ### Trump Field Manual 
 - [[Trump's Playbook]] 

@@ -1,4 +1,4 @@
-# Is it capitalism?
+# Is it the Capitalism?
  (draft) 
 *Exploring the causes of our discontent, and some fixes.* 
 
