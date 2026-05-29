@@ -1,14 +1,19 @@
 ---
-type: nugget 
-status: idea 
-format: 
-topic: 
-queue_order: 
-date posted:
+type: nugget
+status: done
+format:
+topic:
+  - History
+  - Constraints
+  - Current Events
+queue_order:
+date posted: 2026-05-29
 ---
 # Hormuz Meets the Ghosts of Douhet and Ho Chi Minh
- (draft) 
-*the* 
+ 
+*Bad policy comes back to bite you.* 
+
+### My outline: 
 
 - Negotiations Are Great Examples of Constraints in Action. 
 - Who Holds What Cards in the Hormuz Crisis?
@@ -36,7 +41,9 @@ date posted:
 - US Foreign Policy Is Stupid Way Too Often
 - Minding History Helps Reduce Stupid Foreign Policy Decisions (and more) 
 
-Here's a transcript of the video: 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MzSAcXPRvYY?si=75GsSizlQdg8qdop" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+### Transcript of the video: 
 
 Negotiations are among my favorite examples of constraints in action. Right now we have a live negotiation in the Straits of Hormuz, and it's interesting to figure out who actually holds the cards in this negotiation. 
 
@@ -70,7 +77,43 @@ You can also say that Ukraine is doing this with Russia, except Ukraine is also 
 
 One of the problems with Hormuz is that it's a choke point. You'd think it's an obvious choke point, but apparently that didn't sort of rise to consciousness for Trump and his advisors. It's similar to the Latin American debt crisis way back in the seventies or eighties, where a whole bunch of banks had made a lot of loans into Latin America. They had gone in and made business loans, small business loans, big business loans, retail loans, other loans, which they thought was a balanced and healthy portfolio of loans into South America — until the countries weren't able to repay. Until the countries needed to constrain their foreign exchange losses, and they they basically restricted foreign exchange, turning all those loans into a couple really big loans that were defaulting. And all of a sudden the banks were in trouble. Everybody was in trouble. 
 
-Those were unexpected choke points. I think less expected. Anybody who is looking at country risk and has read uh Perkins' book. confessions of an econom economic hitman and ha has realized how much debt uh American businesses and other businesses were piling on Latin American countries just Because they could, uh, might have seen that coming, but but uh there's all kinds of dynamics there that are that are really kind of crazy. So um in Hormuz, modern warfare makes protecting the Straits of Hormuz incredibly difficult. between mines in the ocean, but also drones and missiles and all kinds of craft that are hard to find and stop and that are easy to produce, inexpensive to produce in very large numbers. That's just a mess. Unless you have somebody's cooperation on the other side, unless Iran decides to cooperate or has a regime change and the new regime is friendly, that's going to be very hard. And unfortunately, the economic effects of shutting down Hormuz. Are enormous, enormous. 20% of the world's oil travels through there at any one time, 50% of the world's petroleum heading toward things like fertilizer products and so forth. uh food, the food system is being dented and damaged. I'm no fan of putting petroleum products on on food for pesticides and fertilizers, but we do it a lot. And damaging that supply chain is going to hurt us down the road even more than it already has. Then finally, A lot of these wars are completely avoidable. The situation in Iran is avoidable. The situation in the Vietnam War was completely avoidable. In fact, Ho Chi Minh, the very famous leader of North Vietnam, who died in 69, he approached Woodrow Wilson at the end of World War I and sending a letter saying, hey, uh President Wilson, I have here a draft constitution for Democratic Republic of Vietnam. Please help me get rid of our French occupiers. Well, the French were our allies, so we didn't even reply to Ho Chi Minh. Guess what? End of World War II, Ho Chi Minh writes Truman roughly the same thing. I was in Ho Chi Minh City once and went to the Museum of the American War and found under glass a document that I think is the Constitution that Ho Chi Minh was working on. And uh Truman did not like Ho Chi Minh. FDR was a Ho Chi Minh fan, and except FDR died just before the war ended. So we he writes Truman, Truman doesn't reply. There's a whole bunch of other things like that. But The Vietnam War, instead what happens is the US comes in and tells the French, hey, hold my beer, we'll take your place. We tap in and get our asses kicked. Despite our best efforts and our most expensive technology and all the military and all the things we know happened in the Vietnam War. So it was unnecessary to fight. And then The CIA uh overthrew Mohammad Mossadegh in 1953 in Operation Ajax. He had been elected by um by popular vote in Iran. And the sin he committed against us, I guess, was uh he started, he nationalized the Anglo-Persian uh petroleum company. which later, which is the precursor to British Petroleum or BP. But he thought that the oil assets in Iran maybe ought to belong to Iranians. And uh we didn't think so, so we overthrew him. And and we've done this in lots of different places. We we were cozy with the British at this point, so we did it sort of with them and for them. But as you know, From OPEC later and a whole bunch of other ventures that we have plenty of oil companies ourselves. So we overthrew the democratically elected Mossadegh and we put in his place the Shah of Iran And it was the Iranian revolution in 79, I think, that overthrew the Shah and put in the incredibly conservative and brutal regime that we're trying to topple right now, that has caused endless problems. By the way, small footnote, our needless taking out of Iraq back in the day and not managing to stabilize it as a functional democracy, Took away Iran's biggest opponent in the region and basically freed Iran's resources up. Iran and Iraq were hammering at each other for years. I mean brutal, brutal fighting. We helped basically Iran bubble to the surface because we took away their biggest rival. Maybe the last point I want to make here is that US foreign policy is remarkably stupid remarkably often. We do very dumb things and then We're amnesic about them. We like forget that they happened or or we're uncomfortable with going back and looking at history. There's been a huge backlash against uh you know being uh apologizing for things that we did uh for uh to native americans to black americans to other people like oh no no we shouldn't do that Really, when you ignore history, when you don't try to process it, it always comes back and bites you in the ass And it seems like it's been doing it over and over and over. We don't get a lot wiser. And right now, the Straits of Hormuz are Still closed, despite attempts at negotiation, despite bombing runs, despite who knows what else is going on back there. Um, and I don't hold a lot of hope because From the lessons of the Vietnamese delegation in the Paris Peace Accords, Iran can sit and wait, and the waiting will hurt them. But it's gonna hurt everybody else a whole lot more. A whole lot more. And that's where we are right now. 
+Those were unexpected choke points. Anybody who is looking at country risk and has read Perkins' book [Confessions of an Economic Hit Man](http://www.amazon.com/Confessions-Economic-Hit-John-Perkins/dp/1576753018/jerrymichalskisr) and has realized how much debt American businesses were piling on Latin American countries might have seen that coming, but there's all kinds of dynamics there that are that are really kind of crazy. 
+
+So in Hormuz, modern warfare makes protecting the Straits of Hormuz incredibly difficult. Between mines in the ocean, but also drones and missiles and all kinds of craft that are hard to find and stop and that are easy to produce, inexpensive to produce in very large numbers. That's just a mess. Unless you have somebody's cooperation on the other side, unless Iran decides to cooperate or has a regime change and the new regime is friendly, that's going to be very hard. 
+
+And unfortunately, the economic effects of shutting down Hormuz are enormous. 20% of the world's oil travels through there at any one time, 50% of the world's petroleum heading toward things like fertilizer products and so forth. The food system is being dented and damaged. I'm no fan of putting petroleum products on on food for pesticides and fertilizers, but we do it a lot. And damaging that supply chain is going to hurt us down the road even more than it already has. 
+
+Then finally, a lot of these wars ware completely avoidable. The situation in Iran is avoidable. The situation in the Vietnam War was completely avoidable. In fact, Ho Chi Minh, the very famous leader of North Vietnam, who died in 69, he approached Woodrow Wilson at the end of World War I sending a letter saying, hey, President Wilson, I have here a draft constitution for Democratic Republic of Vietnam. Please help me get rid of our French occupiers. Well, the French were our allies, so we didn't even reply to Ho Chi Minh. Guess what? End of World War II, Ho Chi Minh writes Truman roughly the same thing. 
+
+I was in Ho Chi Minh City once and went to the Museum of the American War and found under glass a document that I think is the Constitution that Ho Chi Minh was working on. Truman did not like Ho Chi Minh. FDR was a Ho Chi Minh fan, except FDR died just before the war ended. So we he writes Truman, Truman doesn't reply. There's a whole bunch of other things like that. 
+
+In the Vietnam War, instead what happens is the US comes in and tells the French, hey, hold my beer, we'll take your place. We tap in and get our asses kicked. Despite our best efforts and our most expensive technology and all the military and all the things we know happened in the Vietnam War. So it was unnecessary to fight. 
+
+Then the CIA overthrew Mohammad Mossadegh in 1953 in Operation Ajax. He had been elected by popular vote in Iran. The sin he committed against us, I guess, was that he nationalized the Anglo-Persian Oil Company, which is the precursor to British Petroleum or BP. But he thought that the oil assets in Iran maybe ought to belong to Iranians. We didn't think so, so we overthrew him. We've done this in lots of different places. We were cozy with the British at this point, so we did it sort of with them and for them. But as you know, From OPEC later and a whole bunch of other ventures that we have plenty of oil companies ourselves. 
+
+So we overthrew the democratically elected Mossadegh and we put in his place the Shah of Iran. It was the Iranian revolution in 79 that overthrew the Shah and put in the incredibly conservative and brutal regime that we're trying to topple right now, that has caused endless problems. 
+
+By the way, small footnote: Our needless taking out of Iraq back in the day and not managing to stabilize it as a functional democracy, took away Iran's biggest opponent in the region and basically freed Iran's resources up. Iran and Iraq were hammering at each other for years. I mean brutal, brutal fighting. We helped basically Iran bubble to the surface because we took away their biggest rival. 
+
+Maybe the last point I want to make here is that US foreign policy is remarkably stupid remarkably often. We do very dumb things and then we're amnesic about them. We like forget that they happened or or we're uncomfortable with going back and looking at history. 
+
+There's been a huge backlash against apologizing for things that we did to Native Americans, to Black Americans to other people. "Oh no, no, we shouldn't do that." Really, when you ignore history, when you don't try to process it, it always comes back and bites you in the ass. And it seems like it's been doing that over and over and over. We don't get a lot wiser. 
+
+Right now, the Straits of Hormuz are still closed, despite attempts at negotiation, despite bombing runs, despite who knows what else is going on back there. And I don't hold a lot of hope because from the lessons of the Vietnamese delegation in the Paris Peace Accords, Iran can sit and wait, and the waiting will hurt them. But it's gonna hurt everybody else a whole lot more. A whole lot more. And that's where we are right now. 
+
+### Fact-checking myself (for after you’ve watched the video):
+
+Ho Chi Minh didn’t write Wilson directly after World War I, but rather presented a petition to the peace negotiations at Versailles. Still, his message didn’t get through.
+
+The 7.5mT of ordnance dropped wasn’t all on Vietnam, but also on Laos and Cambodia, in total an area the size of Texas.
+
+The “battle of the tables” happened in 1968-1969 during the Johnson Administration, after the Tet Offensive. Kissinger wasn’t yet in charge. [Here’s](https://defenceindepth.co/2017/05/19/stuck-in-endless-preliminaries-vietnam-and-the-battle-of-the-paris-peace-table-november-1968-january-1969/) a great post about it all.
+
+Douhet didn’t write that strategic bombing would end wars, but rather shorten them.
+
+There are also two arguable exceptions that might prove Douhet’s thesis: NATO’s bombing of Kosovo and the US’s dropping atomic weapons on Japan. In both cases, regimes toppled after intense aerial bombing. But in both cases, it wasn’t because the population rose up to overthrow them, which is Douhet’s claim. So I’ll stand on the myth 🤣
+
+And my closing is a bit of an offhand rant about the US’s repeated foreign policy blunders, rather than a restatement of what went wrong here, and why we keep repeating those particular mistakes. I could have landed this better.
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
