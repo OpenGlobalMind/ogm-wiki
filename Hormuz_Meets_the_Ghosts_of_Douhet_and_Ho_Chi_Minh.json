@@ -1,8 +1,12 @@
 {
   "type": "nugget",
-  "status": "idea",
+  "status": "done",
   "format": null,
-  "topic": null,
+  "topic": [
+    "History",
+    "Constraints",
+    "Current Events"
+  ],
   "queue_order": null,
-  "date posted": null
+  "date posted": "2026-05-29"
 }
