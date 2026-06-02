@@ -116,4 +116,4 @@ There are also two arguable exceptions that might prove Douhet’s thesis: NATO�
 And my closing is a bit of an offhand rant about the US’s repeated foreign policy blunders, rather than a restatement of what went wrong here, and why we keep repeating those particular mistakes. I could have landed this better.
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
+This article is cross-posted on Substack [here](https://rethinkconstraints.substack.com/p/hormuz-and-the-ghosts-of-douhet-and), and LinkedIn [here](https://www.linkedin.com/pulse/hormuz-ghosts-douhet-ho-chi-minh-jerry-michalski-dwfbc/). It's also [here](https://bra.in/5qEMgK) in [[Jerry's Brain|my Brain]]. 
