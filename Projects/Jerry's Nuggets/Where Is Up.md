@@ -33,9 +33,9 @@ Many mind maps are attractive, but relatively useless. In 2005, Manuel Lima star
 
 One of the problems I had with the site was that a majority of the examples it highlighted weren't very useful. They were just flashy. And unfortunately, visualizations can often get by on being flashy. The problems arise when you try to navigate or curate them. When you start to make them practical, few pass the test. 
 
+What you want is a display that your eye and brain can parse and comprehend easily. This is way harder than it sounds. Having a consistent sense of orientation is one of the ways to make a mind map more legible. 
 
-
-With that, here's my video about one attribute that makes TheBrain special (of several): 
+From my perspective, after almost 29 years of constant use, TheBrain passes the practical (vs flashy) test with flying colors. This Braincast is about one attribute that makes TheBrain special (of several): 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wtwbYUIuKJo?si=mHh8ZPdnPPSkGKzi" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
