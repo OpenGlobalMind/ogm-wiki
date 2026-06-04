@@ -1,5 +1,5 @@
 # Snip! On the Origins of the Global Financial Crisis
-(draft) 
+ 
 *Severing ties to long-term outcomes ends badly.*
 
 Early in our Pandemic, compelled by a series of ideas that clicked together in my brain (the wet, onboard, organic one),and inspired the the book and film versions of [The Big Short](https://bra.in/2j3kAr), I created three videos to explain how we got into the [Global Financial Crisis](https://en.wikipedia.org/wiki/2008_financial_crisis) of 2008-2009, which started as the Subprime Crisis, then snowballed. 
