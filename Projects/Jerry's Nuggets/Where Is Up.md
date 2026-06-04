@@ -41,4 +41,4 @@ From my perspective, after almost 29 years of constant use, TheBrain passes the 
 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/where-is-up?r=1173&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true) and LinkedIn [here](https://www.linkedin.com/pulse/where-up-jerry-michalski-uvmlc). It's also [here](https://bra.in/2jQmEm) in [[Jerry's Brain|my Brain]]. 
