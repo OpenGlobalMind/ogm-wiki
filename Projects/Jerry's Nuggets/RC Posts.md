@@ -84,7 +84,7 @@ Rethink Constraints is the name of Jerry's Substack. These are posts, past and f
 ### Jerry's Brain Posts 
 - [[Useful Thinking Frameworks and Mental Models]] (Braincast) (done) 
 - [[Yo Externalizers]] (done) 
-- [[Where Is Up]]?
+- [[Where Is Up]]? (done) 
 - On Curating a 28-Year-Old Mind Map 
 - [[Enumerated Wisdom]] 
 - [[isms]] 
