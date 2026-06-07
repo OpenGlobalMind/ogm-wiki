@@ -16,9 +16,10 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Useful Thinking Frameworks and Mental Models]] (Braincast) (done) 
 - [[Poems for REX]] (done) 
 - [[Where Is Up]]? (done) 
-- [[The Youth Anxiety Crisis]] 
-- [[A Guide to Using Jerry's Brain]] 
+- [[In Medias Res]] (done) 
+- [[Diagnosing the Youth Anxiety Crisis]] 
 - [[Snip and the Origins of the Global Financial Crisis]] 
+- [[A Guide to Using Jerry's Brain]] 
 - [[How Might We Make a Better Future]]? (podcast series) 
 	- [[What Are Our Next Two Stacks]]? (done) 
 	- [[We Used to Know How to Live in Community on the Commons]] (done) 
