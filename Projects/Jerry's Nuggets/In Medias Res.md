@@ -22,4 +22,4 @@ I’ve decided to free myself from these constraints, or at least to take them w
 This is one of the [[Nuggets Explaining The Big Fungus]], all part of [[The Big Picture]]. 
 
 --- 
-This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/in-medias-res) and LinkedIn [here](). It's also [here](https://bra.in/4pRP4x) in [[Jerry's Brain|my Brain]]. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/in-medias-res) and LinkedIn [here](https://www.linkedin.com/pulse/medias-res-jerry-michalski-x5bfc). It's also [here](https://bra.in/4pRP4x) in [[Jerry's Brain|my Brain]]. 
