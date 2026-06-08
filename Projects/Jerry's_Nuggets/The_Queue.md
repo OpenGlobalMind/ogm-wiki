@@ -17,7 +17,8 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Poems for REX]] (done) 
 - [[Where Is Up]]? (done) 
 - [[In Medias Res]] (done) 
-- [[General Magic's Two Fatal Flaws]] 
+- [[General Magic's Two Fatal Flaws]] (done) 
+- [[Connections Inspired Me]] (done) 
 - [[Diagnosing the Youth Anxiety Crisis]] 
 - [[Snip and the Origins of the Global Financial Crisis]] 
 - [[A Guide to Using Jerry's Brain]] 

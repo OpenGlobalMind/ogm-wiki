@@ -2,7 +2,7 @@
 
 Pages in this folder:
 
-- [[Connections (British Documentary)]]
+- [[Connections Episodes Listing]]
 - [[Diamond Sutra]]
 - [[Le Goût de la Mer]]
 - [[The kindest person in the room is often the smartest]]
