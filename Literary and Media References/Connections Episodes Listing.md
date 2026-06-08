@@ -1,4 +1,4 @@
-# Connections (British Documentary)
+# Connections Episodes
 
 Episode listing from the Wikipedia article, [Connections (British Documentary)](https://en.wikipedia.org/wiki/Connections_(British_documentary)).
 
