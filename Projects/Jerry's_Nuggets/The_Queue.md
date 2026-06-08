@@ -17,6 +17,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Poems for REX]] (done) 
 - [[Where Is Up]]? (done) 
 - [[In Medias Res]] (done) 
+- [[General Magic's Two Fatal Flaws]] 
 - [[Diagnosing the Youth Anxiety Crisis]] 
 - [[Snip and the Origins of the Global Financial Crisis]] 
 - [[A Guide to Using Jerry's Brain]] 
@@ -45,7 +46,6 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 	- [[New Forms of Intelligence]] 
 	- [[The Sweet Spot Is Becoming a Great Cyborg]] 
 - [[An Antifragile Sense of Nation]] 
-- [[General Magic's Two Fatal Flaws]] 
 - [[PowerPoints Should be Playlists]] 
 - [[Pull on This Thread]] 
 - [[Healthy Cultures Don't Cancel]] 

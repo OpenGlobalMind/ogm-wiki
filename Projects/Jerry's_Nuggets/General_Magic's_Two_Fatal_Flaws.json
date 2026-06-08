@@ -1,11 +1,12 @@
 {
   "type": "nugget",
-  "status": "draft",
+  "status": "done",
   "format": null,
   "topic": [
-    "History",
-    "Strategy"
+    "Strategy",
+    "Innovation",
+    "Mistakes"
   ],
   "queue_order": null,
-  "date posted": null
+  "date posted": "2026-06-07"
 }
