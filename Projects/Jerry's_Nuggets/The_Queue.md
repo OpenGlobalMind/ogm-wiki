@@ -19,7 +19,11 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[In Medias Res]] (done) 
 - [[General Magic's Two Fatal Flaws]] (done) 
 - [[Connections Inspired Me]] (done) 
+---
+
 - [[Diagnosing the Youth Anxiety Crisis]] 
+- [[Will GenAI Survive Capitalism]]? (contains multiple) 
+- [[Will Capitalism Survive GenAI]]? 
 - [[Snip and the Origins of the Global Financial Crisis]] 
 - [[A Guide to Using Jerry's Brain]] 
 - [[How Might We Make a Better Future]]? (podcast series) 
@@ -27,7 +31,6 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 	- [[We Used to Know How to Live in Community on the Commons]] (done) 
 	- [[Comparing the Old and New Stacks]] 
 	- [[Who Holds Parts of the New Stacks]]? 
-- [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[How Might We Blend the Best of the Old and New]]? (podcast series) 
 - [[The Creator’s Dilemma]] 
 - [[Principles of Design from Trust]] 

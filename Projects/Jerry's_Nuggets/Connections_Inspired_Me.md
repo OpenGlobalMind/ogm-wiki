@@ -29,5 +29,7 @@ It shouldn’t surprise you that I have such a collection [in my Brain](https:/
 
 Of course, I’d love to know what inspired you. Please lmk in the comments; I’ll add novel items to my Brain.
 
+Here's the [[Connections Episodes Listing|list of Connections episodes]].
+
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/connections-inspired-me) and LinkedIn [here](https://www.linkedin.com/pulse/connections-inspired-me-jerry-michalski-xuyjc). It's also [here](https://bra.in/6qzdQ6) in [[Jerry's Brain|my Brain]]. 
