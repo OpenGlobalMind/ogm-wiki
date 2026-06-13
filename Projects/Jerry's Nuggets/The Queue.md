@@ -20,7 +20,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[General Magic's Two Fatal Flaws]] (done) 
 - [[Connections Inspired Me]] (done) 
 ---
-
+**UPCOMING:**
 - [[Diagnosing the Youth Anxiety Crisis]] 
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[Will Capitalism Survive GenAI]]? 
