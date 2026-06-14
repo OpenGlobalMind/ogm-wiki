@@ -1,6 +1,8 @@
 # Claude: NeoBooks Project
 
-> Me: The map I just uploaded is a pretty major project for me. I've always wanted to write a book, possibly several books. Part of this project is explaining to you what the NeoBooks project is, which is kind of a deconstruction of books so that we can actually Nuggetize the contents of books and use some Nuggets in a variety of books. I'll explain it in more detail later.
+## Me: 
+
+> The map I just uploaded is a pretty major project for me. I've always wanted to write a book, possibly several books. Part of this project is explaining to you what the NeoBooks project is, which is kind of a deconstruction of books so that we can actually Nuggetize the contents of books and use some Nuggets in a variety of books. I'll explain it in more detail later.
 > 
 > I have a bunch of different book ideas, which I haven't been able to pick my way through.
 > 
