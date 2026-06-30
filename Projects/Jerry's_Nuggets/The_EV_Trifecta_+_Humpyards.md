@@ -60,4 +60,4 @@ Plenty of analysts have presented ifs that seem like insurmountable barriers, fr
 But it’s always fun to dream, and sometimes barriers tumble all of a sudden. 
 
 --- 
-This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/the-ev-trifecta-humpyards) and LinkedIn [here](). It's also [here](https://bra.in/5jYXxA) in [[Jerry's Brain|my Brain]]. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/the-ev-trifecta-humpyards) and LinkedIn [here](https://www.linkedin.com/pulse/ev-trifecta-humpyards-jerry-michalski-9ljne/). It's also [here](https://bra.in/5jYXxA) in [[Jerry's Brain|my Brain]]. 
