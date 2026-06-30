@@ -19,12 +19,16 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[In Medias Res]] (done) 
 - [[General Magic's Two Fatal Flaws]] (done) 
 - [[Connections Inspired Me]] (done) 
+- [[Sangeet and Jerry Talk Mapping]] (done) 
+- [[The EV Trifecta + Humpyards]] (done) 
 ---
 **UPCOMING:**
+- [[Principles of Design from Trust]] 
 - [[Diagnosing the Youth Anxiety Crisis]] 
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[Will Capitalism Survive GenAI]]? 
 - [[Snip and the Origins of the Global Financial Crisis]] 
+- [[The Creator’s Dilemma]] 
 - [[A Guide to Using Jerry's Brain]] 
 - [[How Might We Make a Better Future]]? (podcast series) 
 	- [[What Are Our Next Two Stacks]]? (done) 
@@ -32,8 +36,6 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 	- [[Comparing the Old and New Stacks]] 
 	- [[Who Holds Parts of the New Stacks]]? 
 - [[How Might We Blend the Best of the Old and New]]? (podcast series) 
-- [[The Creator’s Dilemma]] 
-- [[Principles of Design from Trust]] 
 - [[GenAI Trust Issues]] (series) 
 	- [[The Elephant in the GenAI Room]] 
 	- [[GenAI Is Like a Flesh-Eating Bacterium]] 
