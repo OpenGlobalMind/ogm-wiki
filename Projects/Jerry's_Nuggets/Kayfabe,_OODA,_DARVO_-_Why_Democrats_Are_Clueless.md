@@ -26,10 +26,10 @@ For me, the most memorable example of Democratic cluelessness happened during th
 
 I'm guessing Trump knows he's likely to lose any legitimate debate against an Ivy-League trained opponent. So instead, he 
 
-owned the media cycle for some three days. 
-showed his followers he understood modern power. 
+- owned the media cycle for some three days. 
+- showed his followers he understood modern power. 
 
-Trump having side conversation with his followers. 
+Trump has been having side conversation with his followers. 
 
 In 2024, Joe Biden showed up for a debate; Donald Trump showed up for a [cage match](https://en.wikipedia.org/wiki/Professional_wrestling_match_types#Steel_cage_match), which he won. Democrats had learned nothing at all. 
 
