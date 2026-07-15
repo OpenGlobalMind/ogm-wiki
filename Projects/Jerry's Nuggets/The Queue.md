@@ -24,6 +24,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 ---
 **UPCOMING:**
 - [[Principles of Design from Trust]] 
+- [[NextStacks Principles]] 
 - [[Diagnosing the Youth Anxiety Crisis]] 
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[Will Capitalism Survive GenAI]]? 
