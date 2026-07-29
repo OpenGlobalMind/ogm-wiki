@@ -1,10 +1,10 @@
 ---
-type: nugget 
-status: idea 
-format: 
-topic: 
-queue_order: 
-date posted:
+type: nugget
+status: done
+format:
+topic:
+queue_order:
+date posted: 2026-07-28
 ---
 
 # On Handing Over Your Thinking
@@ -24,4 +24,4 @@ I've spent thirty years on the other side of that line, building an external mem
 More on this soon. Meanwhile, I'm curious: where have you noticed thinking quietly changing hands in your organization, and which of those trades would you make again, on purpose?
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/on-handing-over-your-thinking) and LinkedIn [here](https://www.linkedin.com/pulse/handing-over-your-thinking-jerry-michalski-choac). It's also [here](https://bra.in/3j3n3E) in [[Jerry's Brain|my Brain]]. 
