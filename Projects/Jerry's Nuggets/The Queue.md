@@ -16,6 +16,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Useful Thinking Frameworks and Mental Models]] (Braincast) (done) 
 - [[Poems for REX]] (done) 
 - [[Where Is Up]]? (done) 
+- [[Every Link Is a Decision]] (done) 
 - [[In Medias Res]] (done) 
 - [[General Magic's Two Fatal Flaws]] (done) 
 - [[Connections Inspired Me]] (done) 
@@ -23,7 +24,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[The EV Trifecta + Humpyards]] (done) 
 ---
 **UPCOMING:**
-- [[Are You Handing Over Your Thinking]]? 
+- [[On Handing Over Your Thinking]]? 
 - [[Principles of Design from Trust]] 
 - [[NextStacks Design Principles]]  
 - [[Diagnosing the Youth Anxiety Crisis]] 
