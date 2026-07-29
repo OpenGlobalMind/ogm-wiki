@@ -11,7 +11,7 @@ date posted:
  
 *Managing the human/AI boundary intentionally.* 
 
-![[Outsource Your Thinking.jpg]]
+![[Outsource Your Thinking 1.jpg]]
 
 Your organization is deciding right now, mostly by accident, how much of its thinking to outsource.
 
