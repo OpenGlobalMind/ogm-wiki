@@ -24,7 +24,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[The EV Trifecta + Humpyards]] (done) 
 ---
 **UPCOMING:**
-- [[On Handing Over Your Thinking]]? 
+- [[On Handing Over Your Thinking]] 
 - [[Principles of Design from Trust]] 
 - [[NextStacks Design Principles]]  
 - [[Diagnosing the Youth Anxiety Crisis]] 
