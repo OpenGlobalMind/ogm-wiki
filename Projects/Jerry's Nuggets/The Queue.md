@@ -22,9 +22,11 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Connections Inspired Me]] (done) 
 - [[Sangeet and Jerry Talk Mapping]] (done) 
 - [[The EV Trifecta + Humpyards]] (done) 
+- [[On Handing Over Your Thinking]] (done) 
 ---
 **UPCOMING:**
-- [[On Handing Over Your Thinking]] 
+- [[Ways We Give Away Our Thinking]] 
+- [[Thinking in Space]] 
 - [[Principles of Design from Trust]] 
 - [[NextStacks Design Principles]]  
 - [[Diagnosing the Youth Anxiety Crisis]] 

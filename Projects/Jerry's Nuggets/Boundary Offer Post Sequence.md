@@ -32,7 +32,7 @@ Four mid-week scenario posts run in the gaps. Details at the end.
 
 ---
 
-## 1. Launch text post — the keeper line, with the grace note
+## 1. Launch text post — the keeper line, with the grace note: [[On Handing Over Your Thinking]] 
 
 This is the front door. It carries the whole stance in one read, and it's the post that will drive more profile visits than anything you've published in years — which is why the profile rework happens *before* this goes up (see the separate LinkedIn makeover file).
 
@@ -56,7 +56,7 @@ This is the front door. It carries the whole stance in one read, and it's the po
 
 ---
 
-## 2. Video 1 — The four scenarios
+## 2. Video 1 — The four scenarios: [[Ways We Give Away Our Thinking]] 
 
 The scenario list, delivered as sharp pattern-recognition rather than war stories. Nobody expects a boundary-dweller to have sat in their meetings, so the authority is observational, not anecdotal. Six beats, five to seven minutes.
 
@@ -81,7 +81,7 @@ The scenario list, delivered as sharp pattern-recognition rather than war storie
 
 ---
 
-## 3. Video 2 — The Brain tour
+## 3. Video 2 — The Brain tour: [[Thinking in Space]] 
 
 The live dispatch. You promised to take them across; now you do. This is the episode that turns the abstract boundary into something they can watch you stand on.
 
