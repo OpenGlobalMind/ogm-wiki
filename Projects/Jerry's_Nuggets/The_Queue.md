@@ -27,6 +27,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 **UPCOMING:**
 - [[Ways We Give Away Our Thinking]] 
 - [[Thinking in Space]] 
+- [[If a Thing Doesn’t Transit Your Neurons]] 
 - [[Principles of Design from Trust]] 
 - [[NextStacks Design Principles]]  
 - [[Diagnosing the Youth Anxiety Crisis]] 
