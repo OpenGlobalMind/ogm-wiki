@@ -1,10 +1,10 @@
 ---
-type: nugget 
-status: idea 
-format: 
-topic: 
-queue_order: 
-date posted:
+type: nugget
+status: done
+format:
+topic:
+queue_order:
+date posted: 2026-08-04
 ---
 # Ways We Give Away Our Thinking
  
@@ -26,4 +26,4 @@ Each of these steps toward surrender is a convenience, adopted for good reasons.
 Now that you can see these forces, how do you want to shape them?
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/6j9KkR) in [[Jerry's Brain|my Brain]]. 
+This article is cross-posted on Substack [here](https://open.substack.com/pub/rethinkconstraints/p/ways-we-give-away-our-thinking) and LinkedIn [here](https://www.linkedin.com/pulse/ways-we-give-away-our-thinking-jerry-michalski-qumqc). It's also [here](https://bra.in/6j9KkR) in [[Jerry's Brain|my Brain]]. 
