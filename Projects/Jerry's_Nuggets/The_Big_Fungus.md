@@ -2,7 +2,7 @@
 
 Why a Big Fungus? 
 
-![[Fabulous Fungal Metaphors]]
+[[Fabulous Fungal Metaphors]]
 
 Now a narrative to weave these metaphors:
 
