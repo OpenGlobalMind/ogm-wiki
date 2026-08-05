@@ -28,6 +28,9 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Ways We Give Away Our Thinking]] 
 - [[Thinking in Space]] 
 - [[If a Thing Doesn’t Transit Your Neurons]] 
+- [[The Unwritten Laws of Books]] 
+- [[How Books Fail Us]] 
+- [[On Sensemaking]] 
 - [[Principles of Design from Trust]] 
 - [[NextStacks Design Principles]]  
 - [[Diagnosing the Youth Anxiety Crisis]] 
@@ -101,7 +104,6 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[How the Robocar Trifecta Would Improve Our Cities]] 
 - Instrumenting Ideas (Animating?) 
 - [[We Separated Work, Play and Learning]] 
-- [[On Sensemaking]] 
 - [[Brands Are Trapped]] 
 - A Chatbot for My Brain? 
 - In What Ways Would I Like GenAI to Enhance My Brain? 
@@ -111,8 +113,6 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Impossible Is Just the Most Famous Constraint]] 
 - [[Behind the Reel - The Joy Line]] (contains [[The Joy Line]] ) 
 - [[The Internet Is Stuck in Mainstream Media Metaphors]] 
-- [[The Unwritten Laws of Books]] 
-- [[How Books Fail Us]] 
 - [[Nuggetization]] 
 - [[The Betterverse|What's Your Betterverse?]] 
 - [[Proposing a GenAI Compact]] 
