@@ -1,6 +1,6 @@
 # On Sensemaking
- (draft) 
-*That elusive thing.* 
+ 
+*A fun tour.* 
 
 ![[j3rry_spiff_cartoon_art_illustrating_the_notion_of_groups_of__fed72a4f-81c9-49a5-9c44-4846c6a9ece0_3.png]]
 
@@ -52,24 +52,23 @@ And in speculative (wishful?) non-fiction:
 - 1980: Deleuze and Guattari's [Rhizomal Networks](http://en.wikipedia.org/wiki/Rhizome_(philosophy)) 
 - 1987: Apple's [Knowledge Navigator](https://www.youtube.com/watch?v=umJsITGzXd0) video 
 
-You can browse all of these, in context, in my Brain [here](https://bra.in/2pxbo6). To suggest others, please [write me](mailto:sociate@gmail.com) or comment here. 
-
 From the tech side, the many different sensemaking efforts I've heard of include: 
 
-- Dynamic Knowledge Repositories ([DKRs](https://bra.in/6jg32r)) 
+- [Knowledge Graphs](https://bra.in/2vG3Qa) 
 - Distributed Knowledge Graphs ([DKGs](https://bra.in/6vP3G9)) 
 - Enterprise Knowledge Graphs ([EKGs](https://bra.in/7pK43B)) 
 - Personal Knowledge Graphs ([PKGs](https://bra.in/4pR8Wy)) 
 - Personal Knowledge Networks ([PKNs](https://bra.in/2vmaeJ)) 
+- Personal Knowledge Management ([PKM](https://bra.in/3qaQAE))
 - Open Knowledge Networks ([OKNs](https://bra.in/7qw9GD)) 
+- Dynamic Knowledge Repositories ([DKRs](https://bra.in/6jg32r)) 
+- [Knowledge Gardens](https://knowledgegardens.wordpress.com/) 
 
-In my imagination: [[The Big Fungus]]. tktktk 
+You can browse all of these, in context, in my Brain [here](https://bra.in/2pxbo6). To suggest others, please [write me](mailto:sociate@gmail.com) or comment here. For a guided tour of these nodes in my Brain, go here. 
 
-## Some caveats 
+Twenty-eight years of curating a single mind map has led me here. This is my playground. These folks' dreams and fantasies have influenced my vision. The advent of generative AI shatters some constraints that made realizing these visions hard to see before; now it's possible. 
 
-Despite (obviously) being a huge fan of sensemaking, I'm also a realist. That means I think many actions we take aren't based on logic, reasoning, and measured debate about actual potential outcomes, but instead are a maelstrom of fear, spin, factoids, misrepresentations, etc. 
-
-One of our greatest fears is being shunned by our neighbors, our communities. That's why I have [this Thought](https://bra.in/2vPB9q) in my Brain. 
+Who is working on this? 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in my Brain.  
+This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/6v2wee) in my Brain.  
