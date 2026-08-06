@@ -5,11 +5,13 @@
 ![[j3rry_spiff_cartoon_art_illustrating_the_notion_of_groups_of__fed72a4f-81c9-49a5-9c44-4846c6a9ece0_3.png]]
 
 One of humans' biggest quests has been to understand the world around us. I'm not sure we're all that good at it yet. 
-## Visions and inspirations 
-Sensemaking has many relatives, including: 
 
-- [Collective Intelligence](https://bra.in/9q5WVv) 
+Twenty-eight years of curating a single mind map has led me here. This is my playground. These folks' dreams and fantasies have influenced my vision. The advent of generative AI shatters some constraints that made realizing these visions hard to see before; now it's possible. 
+## Visions and inspirations 
+Sensemaking has many **relatives**, including: 
+
 - [Collaborative Sensemaking](https://bra.in/5pKkrp) 
+- [Collective Intelligence](https://bra.in/9q5WVv) 
 - [Hive Mind](https://bra.in/3jY98A) or Group Mind 
 - [Extended Mind](https://bra.in/8vADRa) 
 - [Large Scale Collective IQ](https://bra.in/5px926) 
@@ -17,14 +19,14 @@ Sensemaking has many relatives, including:
 - [Superintelligence](https://bra.in/7j8bKk) (which might or might not involve humans) 
 - And a new favorite, [CHI](https://bra.in/6vG3Qa) (Collective Hybrid Intelligence)
 
-Of course, it has its opposites: 
+Of course, sensemaking has its **opposites**: 
 
 - [Herd Mentality](https://en.wikipedia.org/wiki/Herd_mentality) 
 - [Crowd (Mob) Psychology](https://bra.in/8jrE65) 
 - [Groupthink](https://bra.in/8jkM4w) 
 - Other [Dysfunctional Group Dynamics](https://bra.in/7qZzYB) 
 
-And of course, sensemaking shows up in fiction: 
+And of course, sensemaking shows up in **fiction**: 
 
 - The [Encyclopedia Galactica](https://en.wikipedia.org/wiki/Encyclopedia_Galactica) in Asimov's Foundation series, as well as [Psychohistory](https://en.wikipedia.org/wiki/Foundation_universe#Psychohistory) 
 - A Young Lady's Illustrated Primer, in Neal Stephenson's [The Diamond Age](https://en.wikipedia.org/wiki/The_Diamond_Age) 
@@ -39,7 +41,7 @@ And of course, sensemaking shows up in fiction:
 - The [Construct](https://matrix.fandom.com/wiki/Construct) in The Matrix 
 - [Precogs](https://www.urbandictionary.com/define.php?term=precog) in Minority Report 
 
-And in speculative (wishful?) non-fiction: 
+And in **speculative (wishful?) non-fiction**: 
 
 - 1500-500 BC: [Indra's Net](http://en.wikipedia.org/wiki/Indra's_net) 
 - 1937: HG Wells' article [World Brain](https://en.wikipedia.org/wiki/World_Brain) 
@@ -52,7 +54,7 @@ And in speculative (wishful?) non-fiction:
 - 1980: Deleuze and Guattari's [Rhizomal Networks](http://en.wikipedia.org/wiki/Rhizome_(philosophy)) 
 - 1987: Apple's [Knowledge Navigator](https://www.youtube.com/watch?v=umJsITGzXd0) video 
 
-From the tech side, the many different sensemaking efforts I've heard of include: 
+From the tech side, the many different **sensemaking efforts** I've heard of include: 
 
 - [Knowledge Graphs](https://bra.in/2vG3Qa) 
 - Distributed Knowledge Graphs ([DKGs](https://bra.in/6vP3G9)) 
@@ -64,9 +66,7 @@ From the tech side, the many different sensemaking efforts I've heard of include
 - Dynamic Knowledge Repositories ([DKRs](https://bra.in/6jg32r)) 
 - [Knowledge Gardens](https://knowledgegardens.wordpress.com/) 
 
-You can browse all of these, in context, in my Brain [here](https://bra.in/2pxbo6). To suggest others, please [write me](mailto:sociate@gmail.com) or comment here. For a guided tour of these nodes in my Brain, go here. 
-
-Twenty-eight years of curating a single mind map has led me here. This is my playground. These folks' dreams and fantasies have influenced my vision. The advent of generative AI shatters some constraints that made realizing these visions hard to see before; now it's possible. 
+You can browse all of these, in context, in my Brain [here](https://bra.in/2pxbo6). To suggest others, please [write me](mailto:sociate@gmail.com) or comment below this post. For a guided tour of these nodes in my Brain, go here. 
 
 Who is working on this? 
 

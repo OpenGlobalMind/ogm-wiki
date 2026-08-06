@@ -23,14 +23,14 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Sangeet and Jerry Talk Mapping]] (done) 
 - [[The EV Trifecta + Humpyards]] (done) 
 - [[On Handing Over Your Thinking]] (done) 
+- [[Ways We Give Away Our Thinking]] (done) 
 ---
 **UPCOMING:**
-- [[Ways We Give Away Our Thinking]] 
+- [[On Sensemaking]] 
 - [[Thinking in Space]] 
 - [[If a Thing Doesn’t Transit Your Neurons]] 
 - [[The Unwritten Laws of Books]] 
 - [[How Books Fail Us]] 
-- [[On Sensemaking]] 
 - [[Principles of Design from Trust]] 
 - [[NextStacks Design Principles]]  
 - [[Diagnosing the Youth Anxiety Crisis]] 
