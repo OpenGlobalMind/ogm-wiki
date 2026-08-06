@@ -15,6 +15,7 @@ Sensemaking has many relatives, including:
 - [Large Scale Collective IQ](https://bra.in/5px926) 
 - [Knowledge Ecosystems](https://bra.in/8jYWD2) 
 - [Superintelligence](https://bra.in/7j8bKk) (which might or might not involve humans) 
+- And a new favorite, [CHI](https://bra.in/6vG3Qa) (Collective Hybrid Intelligence)
 
 Of course, it has its opposites: 
 
@@ -25,12 +26,18 @@ Of course, it has its opposites:
 
 And of course, sensemaking shows up in fiction: 
 
-- The [Encyclopedia Galactica](https://en.wikipedia.org/wiki/Encyclopedia_Galactica) in Asimov's Foundation series 
+- The [Encyclopedia Galactica](https://en.wikipedia.org/wiki/Encyclopedia_Galactica) in Asimov's Foundation series, as well as [Psychohistory](https://en.wikipedia.org/wiki/Foundation_universe#Psychohistory) 
 - A Young Lady's Illustrated Primer, in Neal Stephenson's [The Diamond Age](https://en.wikipedia.org/wiki/The_Diamond_Age) 
 - Borges's [Library of Babel](http://en.wikipedia.org/wiki/The_Library_of_Babel) (especially if you can find the index volume!) 
-- The Minds in Iain M. Banks' [Culture series](https://en.wikipedia.org/wiki/Culture_series) 
-- [The Borg](http://en.wikipedia.org/wiki/Borg_(Star_Trek)) in Star Trek 
-- Hitchhiker's Guide?? 
+- [Minds](https://en.wikipedia.org/wiki/The_Culture#Minds) in Iain M. Banks' [Culture series](https://en.wikipedia.org/wiki/Culture_series) 
+- [The Borg](http://en.wikipedia.org/wiki/Borg_(Star_Trek)) in Star Trek, as well as the [Holodeck](https://en.wikipedia.org/wiki/Holodeck) (tea, Earl Gray, hot) and the [Tricorder](https://en.wikipedia.org/wiki/Tricorder) 
+- [Hitchhiker's Guide to the Galaxy](https://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_(fictional)) (DON'T PANIC!)
+- The [Pensieve](https://en.wikipedia.org/wiki/Magical_objects_in_Harry_Potter#Pensieve) in the Harry Potter universe
+- The X-Men's [Cerebro](https://en.wikipedia.org/wiki/Cerebro) 
+- The [Palantír](https://en.wikipedia.org/wiki/Palant%C3%ADr) from Lord of the Rings 
+- [Alethiometers](https://en.wikipedia.org/wiki/Dust_(His_Dark_Materials)#Alethiometers) from the His Dark Materials trilogy 
+- The [Construct](https://matrix.fandom.com/wiki/Construct) in The Matrix 
+- [Precogs](https://www.urbandictionary.com/define.php?term=precog) in Minority Report 
 
 And in speculative (wishful?) non-fiction: 
 
