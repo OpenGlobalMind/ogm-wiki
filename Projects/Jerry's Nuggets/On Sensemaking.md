@@ -4,10 +4,11 @@
 
 ![[j3rry_spiff_cartoon_art_illustrating_the_notion_of_groups_of__fed72a4f-81c9-49a5-9c44-4846c6a9ece0_3.png]]
 
-One of humans' biggest quests has been to understand the world around us. I'm not sure we're all that good at it yet. 
+One of humans' biggest quests has been to understand the world around us. I'm not sure we're all that good at it yet. It would be useful if we were better. 
 
-Twenty-eight years of curating a single mind map has led me here. This is my playground. These folks' dreams and fantasies have influenced my vision. The advent of generative AI shatters some constraints that made realizing these visions hard to see before; now it's possible. 
+The topics you'll see on this page, all related to sensemaking, constitute my playground. These folks' dreams and fantasies have influenced my vision profoundly. Twenty-eight years of curating a single mind map (plus an unhealthy dose of curiosity) has led me here. 
 ## Visions and inspirations 
+
 Sensemaking has many **relatives**, including: 
 
 - [Collaborative Sensemaking](https://bra.in/5pKkrp) 
@@ -65,6 +66,8 @@ From the tech side, the many different **sensemaking efforts** I've heard of inc
 - Open Knowledge Networks ([OKNs](https://bra.in/7qw9GD)) 
 - Dynamic Knowledge Repositories ([DKRs](https://bra.in/6jg32r)) 
 - [Knowledge Gardens](https://knowledgegardens.wordpress.com/) 
+
+The advent of generative AI shatters some constraints that made realizing these visions hard to see before; now it's possible. 
 
 You can browse all of these, in context, in my Brain [here](https://bra.in/2pxbo6). To suggest others, please [write me](mailto:sociate@gmail.com) or comment below this post. For a guided tour of these nodes in my Brain, go here. 
 
