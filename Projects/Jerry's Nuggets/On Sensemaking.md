@@ -69,9 +69,9 @@ From the tech side, the many different **sensemaking efforts** I've heard of inc
 
 The advent of generative AI shatters some constraints that made realizing these visions hard to see before; now it's possible. 
 
-You can browse all of these, in context, in my Brain [here](https://bra.in/2pxbo6). To suggest others, please [write me](mailto:sociate@gmail.com) or comment below this post. For a guided tour of these nodes in my Brain, go here. 
+You can browse all of these, in context, in my Brain [here](https://bra.in/2pxbo6). To suggest others, please [write me](mailto:sociate@gmail.com) or comment below this post. For a guided video tour of these nodes in my Brain, go [here](https://youtu.be/VD-WnnwOm2E). 
 
 Who is working on this? 
 
 --- 
-This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here](https://bra.in/6v2wee) in my Brain.  
+This article is cross-posted on Substack [here]() and LinkedIn [here](). It's also [here](https://bra.in/6v2wee) in my Brain.  
