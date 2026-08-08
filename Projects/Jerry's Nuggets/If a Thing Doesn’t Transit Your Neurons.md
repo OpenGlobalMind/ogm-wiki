@@ -1,10 +1,13 @@
 ---
-type: nugget 
-status: idea 
-format: 
-topic: 
-queue_order: 
-date posted:
+type: nugget
+status: done
+format:
+topic:
+  - Memory
+  - Jerry's Brain
+  - Cognitive Surrender
+queue_order:
+date posted: 2026-08-08
 ---
 # If a Thing Doesn’t Transit Your Neurons...
  
@@ -35,4 +38,4 @@ Find your equivalent joyful manual act (saucy pun intended) to engage your neuro
 Beware of handing things over to AIs to the point where you're completely out of the loop, and don't know how to break back in. 
 
 --- 
-This article is cross-posted on Substack [here]() and LinkedIn [here](). It's also [here](https://bra.in/9vmM4J) in [[Jerry's Brain|my Brain]]. 
+This article is cross-posted on Substack [here](https://rethinkconstraints.substack.com/p/if-a-thing-doesnt-transit-your-neurons) and LinkedIn [here](https://www.linkedin.com/pulse/thing-doesnt-transit-your-neurons-jerry-michalski-t5kdc). It's also [here](https://bra.in/9vmM4J) in [[Jerry's Brain|my Brain]]. 
