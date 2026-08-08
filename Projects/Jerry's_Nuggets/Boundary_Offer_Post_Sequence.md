@@ -94,6 +94,9 @@ The live dispatch. You promised to take them across; now you do. This is the epi
 **Trailing hook:** close by pointing forward — you've shown them *what* an externalized mind does; next week, *why* it matters for the version of this they're living, the moment they wonder whether the machine is replacing them.
 
 ---
+## Unplanned video: [[If a Thing Doesn’t Transit Your Neurons]]
+
+---
 
 ## 4. Video 3 — Extended mind / the good Cyborg
 
