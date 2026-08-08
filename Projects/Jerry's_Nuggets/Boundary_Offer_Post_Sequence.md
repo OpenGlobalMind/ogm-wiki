@@ -81,7 +81,7 @@ The scenario list, delivered as sharp pattern-recognition rather than war storie
 
 ---
 
-## 3. Video 2 — The Brain tour: [[Thinking in Space]] 
+## 3. Video 2 — The Brain tour: [[On Sensemaking]] 
 
 The live dispatch. You promised to take them across; now you do. This is the episode that turns the abstract boundary into something they can watch you stand on.
 
