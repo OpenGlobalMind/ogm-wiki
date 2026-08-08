@@ -28,9 +28,11 @@ Over time, a few of my friends learned to use my online Brain without me being p
 
 Because I'm crazy curious and I've been curating the same map for almost three decades, I have resources in my Brain that no longer show up on Google searches because they didn't get enough inbound link love (or use SEO to stay in view). Sometimes the Wayback Machine has to help restore that content, but just because the articles were written a few years ago, doesn't make them less useful. 
 
-I report all this because the act of curating my external Brain forces me into System 2 thinking, which gets my neurons engaged and connected. Later, when I demo a section of my Brain I curated long before, that act refreshes my neural pathways. And I know where the hidden trails in my Brain are that tell stories, a thing that is not easily evident until I make those stories explicit. 
+I report all this because the very manual act of curating my external Brain forces me into System 2 thinking, which gets my neurons engaged and connected. Later, when I demo a section of my Brain I curated long before, that act refreshes my neural pathways. And I know where the hidden trails in my Brain are that tell stories, a thing that is not easily evident until I make those stories explicit. 
 
-Beware of handing things over to AIs to the point where you're completely out of the loop, and don't know how to break back in. 
+Find your equivalent joyful manual act (saucy pun intended) to engage your neurons. If it's not fun, you won't keep doing it.
+
+Beware of handing things over to AIs to the point where you're completely out of the loop, and don't rknow how to break back in. 
 
 --- 
 This article is cross-posted on Substack [here]() and LinkedIn [here](). It's also [here](https://bra.in/9vmM4J) in [[Jerry's Brain|my Brain]]. 
