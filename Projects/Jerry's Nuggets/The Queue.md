@@ -27,7 +27,6 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 ---
 **UPCOMING:**
 - [[On Sensemaking]] 
-- [[Thinking in Space]] 
 - [[If a Thing Doesn’t Transit Your Neurons]] 
 - [[The Unwritten Laws of Books]] 
 - [[How Books Fail Us]] 

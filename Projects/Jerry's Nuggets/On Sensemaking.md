@@ -74,4 +74,4 @@ You can browse all of these, in context, in my Brain [here](https://bra.in/2pxbo
 Who is working on this? 
 
 --- 
-This article is cross-posted on Substack [here]() and LinkedIn [here](). It's also [here](https://bra.in/6v2wee) in my Brain.  
+This article is cross-posted on Substack [here](https://rethinkconstraints.substack.com/p/on-sensemaking) and LinkedIn [here](). It's also [here](https://bra.in/6v2wee) in my Brain.  
