@@ -24,10 +24,13 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[The EV Trifecta + Humpyards]] (done) 
 - [[On Handing Over Your Thinking]] (done) 
 - [[Ways We Give Away Our Thinking]] (done) 
+- [[On Sensemaking]] (done) 
+- [[If a Thing Doesn’t Transit Your Neurons]] (done) 
+- [[Are You Talking To Your Colleagues Less]]? (done) 
+- [[How Much Are We Adapting to AI]]? (done) 
+
 ---
 **UPCOMING:**
-- [[On Sensemaking]] 
-- [[If a Thing Doesn’t Transit Your Neurons]] 
 - [[The Unwritten Laws of Books]] 
 - [[How Books Fail Us]] 
 - [[Principles of Design from Trust]] 
