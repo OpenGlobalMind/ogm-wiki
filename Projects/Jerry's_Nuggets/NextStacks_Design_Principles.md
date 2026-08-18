@@ -14,6 +14,8 @@ These are the seven things each piece has to clear.
 
 A piece earns its place in the toolkit when it works for the people you'd never invite to dinner, not just the people you would. We're not going to settle who has the correct theory; we're going to look at what gets built when people who don't already agree decide to build something anyway. The toolkit is for everyone or it's for no one.
 
+That doesn't stop at the people you thought to invite. Some of "them" won't show up until after a piece is already running — and when they do, the test is the same one: do they get heard, or do they get managed. 
+
 ### 2. Testable locally, grows by use.
 
 A piece should be testable by a real group at local scale — a council, a co-op, a congregation, a classroom — without permission from above. And it should be designed so the early version can grow into a mature practice through use, not get replaced by a "real" program later. The seed and the tree are the same organism.
@@ -34,6 +36,8 @@ What one community tries, every community can study. Successes, failures, half-m
 
 Anyone can take a piece, change it, rename it, run with it in a direction we wouldn't have chosen — and we celebrate that, not police it. We name the one thing that has to stay intact for the piece to still work, and everything else is yours to bend. Projects that can't be forked die with their founders; projects that can be forked outlive them.
 
+Forkability isn't only for tinkerers. It's what keeps "for you and them" honest. If a piece stops listening to the people it touches, they don't need our permission to go build something better. And if theirs is better, it spreads on its own — not because we made anyone switch.
+
 ### 7. Naturally contagious.
 
 A piece of the toolkit should be so useful and appealing that groups *want* to try it without anyone pushing. Mandates breed resentment. Good tools spread by example.
@@ -47,6 +51,8 @@ A piece of the toolkit should be so useful and appealing that groups *want* to t
 **They aren't neutral.** They favor bottom-up over top-down, durability over novelty, modesty over grandeur. That's on purpose. The pieces of the old stack that are crumbling fastest are the ones that forgot these things.
 
 **They aren't fixed.** If a community tries something and discovers an eighth principle we missed, the principles change. That's the whole idea.
+
+**They aren't a complete accountability system.** Forking protects the people who have the standing, skill, or time to go build the alternative. It does less for the people who don't. We don't have a good answer for that yet — if you do, bring it.
 
 ---
 
