@@ -21,3 +21,6 @@ If you want to try this new version of TheBrain out, head here: [https://thebrai
 To explore my external Brain, head here: [https://bra.in/5jrdwQ](https://bra.in/5jrdwQ)
 
 For some background on my Brain, head here: [https://www.jerrysbrain.com/](https://www.jerrysbrain.com/) 
+
+--- 
+This article is cross-posted on LinkedIn [here](https://www.linkedin.com/pulse/three-reasons-why-thebrain-15-big-deal-jerry-michalski-v0amc). It's also [here](https://bra.in/3jYyrA) in [[Jerry's Brain|my Brain]]. 
