@@ -28,6 +28,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[If a Thing Doesn’t Transit Your Neurons]] (done) 
 - [[Are You Talking To Your Colleagues Less]]? (done) 
 - [[How Much Are We Adapting to AI]]? (done) 
+- [[Three Reasons Why TheBrain 15 Is a Big Deal]] (done) 
 
 ---
 **UPCOMING:**
