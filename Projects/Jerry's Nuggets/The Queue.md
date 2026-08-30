@@ -32,6 +32,8 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 
 ---
 **UPCOMING:**
+- [[Life as a Seer]] 
+- [[What Makes Me a Good Advisor]] 
 - [[The Unwritten Laws of Books]] 
 - [[How Books Fail Us]] 
 - [[Principles of Design from Trust]] 
