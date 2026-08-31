@@ -32,6 +32,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 
 ---
 **UPCOMING:**
+- [[Trail Blazing in the Noosphere]] 
 - [[Life as a Seer]] 
 - [[What Makes Me a Good Advisor]] 
 - [[The Unwritten Laws of Books]] 
