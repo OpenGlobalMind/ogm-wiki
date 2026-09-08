@@ -14,8 +14,13 @@ date posted:
 
 In the more innocent days of the early Web, Newsweek Magazine named me a "Software Seer," a description I've always treasured. 
 
-1981: After Playing Gomoku Online and Exchanging a File with a Reporter with my Apple II+, I Smelled the Internet. Then Faxes Arrived.
+![[Software Seer.jpg]]
+
+
+
+1981: After Playing [Gomoku](https://en.wikipedia.org/wiki/Gomoku) Online and Exchanging a File with a Reporter with my Apple II+, I Smelled the Internet. Then Faxes Arrived.
 In 1985, I Foresaw the Cellular Market in Argentina (1990 = privatization)
+In 1988, I Wrote a Market Research Report about Neural Networks 
 In 1990, My IDM Service Described the Web
 In 1991, My CIE Service Described Smartphones (iPhone = 2007)
 In 1992, I Saw the Unification of Messaging Services
@@ -25,6 +30,7 @@ In 1995, “What’s a Zine?” Showed Up as Weblogs in 1997
 In 1997, I Saw Buddy Lists as the Future of Interpersonal Communications
 In 1997, My “Fridge Door” Showed up as Wikis and Family Apps Later
 
+Where I'm Pointing Now. 
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
