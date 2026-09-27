@@ -32,6 +32,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 
 ---
 **UPCOMING:**
+- [[This Next Stretch Is Different]] 
 - [[Online Is Gonna Rock]] 
 - [[Cellular in Buenos Aires]] 
 - [[Neural Nets in 88]] 
@@ -42,6 +43,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[What's a Zine]] 
 - [[Buddy Lists]] 
 - [[My Reliable Pattern]] 
+- [[My Seer Map]] 
 - [[Where I'm Pointing Now]] 
 - [[Trail Blazing in the Noosphere]] 
 - [[Life as a Seer]] 
