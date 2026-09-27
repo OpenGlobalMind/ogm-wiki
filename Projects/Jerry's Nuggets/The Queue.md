@@ -32,6 +32,17 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 
 ---
 **UPCOMING:**
+- [[Online Is Gonna Rock]] 
+- [[Cellular in Buenos Aires]] 
+- [[Neural Nets in 88]] 
+- [[Intelligent Document Management]] 
+- [[Continuous Information Environments]] 
+- [[Online Community]] 
+- [[Let Users Create Auctions]] 
+- [[What's a Zine]] 
+- [[Buddy Lists]] 
+- [[My Reliable Pattern]] 
+- [[Where I'm Pointing Now]] 
 - [[Trail Blazing in the Noosphere]] 
 - [[Life as a Seer]] 
 - [[What Makes Me a Good Advisor]] 
