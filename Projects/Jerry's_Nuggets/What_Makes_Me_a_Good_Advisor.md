@@ -10,9 +10,11 @@ date posted:
  (draft) 
 *You could use my advice.* 
 
-My radar is good: [[Life as a Seer]], especially [[My Reliable Pattern]].   
+Trust is at record lows. Generative AI might save us — or tank us, and we're having trouble finding the leash. The new World Order has scrambled historic patterns and relationships. 
 
-I'm independent. Since the last Millennium (1998). 
+My radar is good: [[Life as a Seer]]. 
+
+I'm independent. Have been since the last Millennium (1998). 
 
 I'm unafraid to address difficult questions, and skilled at navigating them. 
 
