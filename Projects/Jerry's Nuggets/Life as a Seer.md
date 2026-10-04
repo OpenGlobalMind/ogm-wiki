@@ -40,7 +40,7 @@ In 1995, “[[What's a Zine]]?” showed up as Weblogs in 1997.
 
 In 1997, I saw [[Buddy Lists]] as the future of interpersonal communications. 
 
-In 1997, my “Fridge Door” showed up as Wikis and family apps later
+In 1997, my “Fridge Door” showed up as Wikis and family apps later. 
 
 [[My Reliable Pattern]]
 
