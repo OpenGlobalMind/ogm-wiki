@@ -32,6 +32,9 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 
 ---
 **UPCOMING:**
+- [[Will GenAI Survive Capitalism]]? (contains multiple) 
+- [[Will Capitalism Survive GenAI]]? 
+- [[Kayfabe, OODA, DARVO - Why Democrats Are Clueless]] 
 - [[This Next Stretch Is Different]] 
 - [[Online Is Gonna Rock]] 
 - [[Cellular in Buenos Aires]] 
@@ -53,8 +56,6 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Principles of Design from Trust]] 
 - [[NextStacks Design Principles]]  
 - [[Diagnosing the Youth Anxiety Crisis]] 
-- [[Will GenAI Survive Capitalism]]? (contains multiple) 
-- [[Will Capitalism Survive GenAI]]? 
 - [[Snip and the Origins of the Global Financial Crisis]] 
 - [[The Creator’s Dilemma]] 
 - [[A Guide to Using Jerry's Brain]] 

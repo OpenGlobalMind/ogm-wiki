@@ -11,7 +11,7 @@ date posted:
  (draft) 
 *Subhed.* 
 
-The 
+The next dozen or so posts, which will arrive in quick succession, look to the past. 
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
