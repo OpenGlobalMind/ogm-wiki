@@ -10,7 +10,7 @@ date posted:
  (draft) 
 *You could use my advice.* 
 
-Trust is at record lows. Loneliness is way up. The new World Order has scrambled historic patterns and relationships. Climate risks don't go away when you ignore them. Generative AI might save us — or tank us, and we're having trouble finding the leash. Nevertheless, our future is cyborg. What that means is shifting monthly. 
+Trust is at record lows. Loneliness is epidemic. The new World Order has scrambled historic patterns and relationships. Climate risks don't go away when you ignore them. People are angry and disoriented. Generative AI might save us — or tank us, and we're having trouble finding the leash. Nevertheless, our future is cyborg. What that means is shifting monthly. 
 
 Do you or your team have someone who helps you navigate these waters? Why might I help you steer? 
 
