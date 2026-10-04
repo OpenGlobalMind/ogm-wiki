@@ -20,7 +20,7 @@ I'm independent. Have been since the last Millennium (1998).
 
 I'm unafraid to address difficult questions, and skilled at navigating them. 
 
-I steward multiple [useful ideas](https://bra.in/5joYLY) that will help you see differently. 
+I steward multiple [useful ideas](https://bra.in/5joYLY) that will help you see differently, most notably Design from Trust. 
 
 For three decades, I've curated a unique, world-class [Second Brain](https://bra.in/6jYogA), which I share openly. 
 

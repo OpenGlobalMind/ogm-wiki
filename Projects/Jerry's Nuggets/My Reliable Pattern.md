@@ -8,7 +8,7 @@ date posted:
 ---
 # My Reliable Pattern
  (draft) 
-*Subhed.* 
+*A rhythm I've learned to count on.* 
 
 In the series I just posted, [[Life as a Seer]], I recounted stories from my career when I could smell the future. If you were paying attention, you likely saw a pattern:
 
