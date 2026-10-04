@@ -13,9 +13,11 @@ date posted:
 
 Here are topics that are top of my mind now. 
 
-Our future is Cyborg. We humans and Generative AI are going to meld more and more. What that means keeps evolving, month by month. 
+Our future is Cyborg. We humans are going to meld more and more with Generative AI. What that means keeps evolving, month by month. 
 
 Employees can't lean in to a Cyborg future if they fear a Sword of Damocles is dangling overhead. You won't have trust until you have the conversation about GenAI potentially unemploying everyone. 
+
+Right now most organizations are outsourcing their thinking to AI accidentally, haphazardly. How can they control the process?
 
 The sweet spot is not high-performing individual humans, but rather Collective Hybrid Intelligence, which has humans and AIs collaborating productively. 
 
