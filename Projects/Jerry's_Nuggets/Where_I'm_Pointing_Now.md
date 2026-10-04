@@ -11,17 +11,21 @@ date posted:
  (draft) 
 *How do these intersect with where you're headed?* 
 
-Here are topics that are top of mind now. 
+Here are topics that are top of my mind now. 
 
-Our future is Cyborg. What that means keeps evolving, month by month. 
+Our future is Cyborg. We humans and Generative AI are going to meld more and more. What that means keeps evolving, month by month. 
 
 Employees can't lean in to a Cyborg future if they fear a Sword of Damocles is dangling overhead. You won't have trust until you have the conversation about GenAI potentially unemploying everyone. 
+
+The sweet spot is not high-performing individual humans, but rather Collective Hybrid Intelligence, which has humans and AIs collaborating productively. 
+
+Key to thinking together well are maps of the territory that don't vanish every time we make one, so we can pin things down we agree on, set up experiments to address where we disagree, and tell useful stories of where we're going. 
 
 Snip! We got to this low-trust spot by cutting relationships and responsibilities that used to hold society and economies together. 
 
 We can mend what's torn, but we can't patch it: most systems need a deep redesign. I propose we use Design from Trust. 
 
-
+Rethinking your constraints opens up new strategic opportunities. Useful rethinking usually involves seeing your situation differently. 
 
 --- 
 This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 
