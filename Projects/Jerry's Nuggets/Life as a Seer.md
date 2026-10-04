@@ -46,9 +46,7 @@ In 1997, I saw [[Buddy Lists]] as the future of interpersonal communications.
 
 In 1997, my “Fridge Door” showed up as Wikis and family apps later. 
 
-[[My Reliable Pattern]]
-
-[[My Seer Map]] 
+[[My Reliable Pattern]] 
 
 Next: [[Where I'm Pointing Now]]. 
 
