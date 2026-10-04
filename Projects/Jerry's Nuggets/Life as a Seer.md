@@ -18,15 +18,19 @@ In the more innocent days of the early Web, Newsweek Magazine named me a "Softwa
 
 So how exactly do you "seer"? 
 
+As you might expect, the word scrolls back to seeing, a word that has several layers of meaning. There's the plain evidence of photons hitting your retina and getting interpreted by your mind. There are the mental filters and preconceptions that affect that raw perception. Then there is seeing how things fit, the larger patterns and their implications. 
 
+Biblical times gave "seer" a more prophetic sheen, which makes the word more fun. 
+
+The way you seer is to notice things before they happen. Bonus points if you describe them well. Here are some examples when I've done that in my career. 
 
 1981: [[Online Is Gonna Rock]]! After using my my Apple II+'s Hayes modem to play an online game and exchange a file with a reporter, I smelled the Internet. Then faxes arrived.
 
-In 1985, I foresaw the [[Cellular in Buenos Aires|cellular market in Argentina]]. 
+In 1985, on a project for Russell Ackoff in Buenos Aires, I foresaw the [[Cellular in Buenos Aires|cellular market in Argentina]]. 
 
-In 1988, I wrote a market research report about [[Neural Nets in 88|Neural Networks]].  
+In 1988, I wrote a market research report about [[Neural Nets in 88|Neural Networks]], the great-grandparents of Generative AI.  
 
-In 1990, my [[Intelligent Document Management]] research service described the Web. 
+In 1990, my [[Intelligent Document Management]] research service described the Web. It also brought illustrative diagrams to tech market research. 
 
 In 1991, my [[Continuous Information Environments]] research service described smartphones (iPhone = 2007). 
 
