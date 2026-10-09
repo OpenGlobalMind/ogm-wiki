@@ -1,6 +1,6 @@
 # Variants of Capitalism
 (draft) 
-*More flavors than Baskin-Robbins.* 
+*More flavors than Baskin-Robbins (whatever that is).* 
 
 Check out this collection of variants of capitalism ([direct link](https://bra.in/5vmPJj), better view):
 <iframe width="800" height="600" src="https://app.thebrain.com/brain/3d80058c-14d8-5361-0b61-a061f89baf87/5007e79a-c60f-82f5-45cc-195190bfe59b" frameborder="0"></iframe>

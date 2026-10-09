@@ -1,3 +1,11 @@
+---
+type: nugget 
+status: idea 
+format: 
+topic: 
+queue_order: 
+date posted:
+---
 # Microfinance Was Different before Capitalists Discovered It
 
 In 2007, when my better half and I first met, she was doing microfinance law. I had heard of microfinance, but was only superficially familiar with it. 
@@ -18,3 +26,6 @@ Then the major financial centers got wind of microfinance's successes, and event
 Then some markets got saturated, with some borrowers taking multiple microloans, one to pay off the other, unable to close the loop. Some [committed suicide](https://web.archive.org/web/20160304035259/https://www.bloomberg.com/news/articles/2010-12-28/suicides-among-borrowers-in-india-show-how-men-made-a-mess-of-microcredit). 
 
 Our current flavor of Capitalism doesn't like mutual aid. It doesn't like leaving anything on the table for others. It doesn't like equity, community or waiting especially long. 
+
+--- 
+This article is cross-posted on Substack [here](), Medium [here]() and LinkedIn [here](). It's also [here]() in [[Jerry's Brain|my Brain]]. 

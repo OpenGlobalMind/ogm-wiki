@@ -13,9 +13,21 @@ date posted:
  (draft)
 *It's traveling a familiar path.*
 
-Insane amounts of money are chasing Generative AI, 
+Insane amounts of money are chasing Generative AI, to the point where it's being characterized as a feeding frenzy. 
 
-The White House's new AI policy recently gave them free rein to do as they wish.
+Meanwhile, we've given this new software considerable autonomy, giving it access to the Internet, APIs and apps, login credentials, and the ability to act as humans clicking a mouse and typing at a keyboard. It can credibly imitate human voices in real time and knows more than most of us about hacking and cracking. How exciting! 
+
+We appear to have thrown the keys to the Hummer to an impulsive, obsessive, occasionally devious twelve-year-old. And boy, do I wish the problem had as limited negative consequences as that little analogy implies. 
+
+To complicate matters, we're having trouble [finding the brake pedal](https://bra.in/5vBBmW). While many voices are shouting about the growing threat of [p(doom)](https://bra.in/8vmmoJ), actual efforts seem either sincere but toothless or dishearteningly impractical. 
+
+The approach voiced by President Trump is to let the market and the environment take its course, to trust Capitalism and the Captains of Industry to do the right thing. 
+
+This post is a short story of how Capitalism has warped several promising ideas, not destroying them, but damaging their credibility and creating new threats to society. The examples I'll use are: 
+
+- Microfinance
+- The Sharing Economy 
+- Social Media
 
 Other useful technologies haven't fared so well. 
 
@@ -31,7 +43,7 @@ When too much money chases initially good ideas, bad things often happen.
 
 The Commons loses. We lose. 
 
-Capitalism, at least in its current flavor, is greedy and insatiable. 
+Capitalism, at least in its current flavor, is greedy and insatiable. There are many [[Variants of Capitalism|flavors of capitalism]]. 
 
 Whether we can [fix Capitalism](https://bra.in/2pJEWB) is a subject for future posts. 
 
