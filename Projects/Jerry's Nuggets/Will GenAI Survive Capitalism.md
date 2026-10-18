@@ -23,7 +23,7 @@ We appear to have thrown the keys to the Hummer to an impulsive, obsessive, occa
 
 To complicate matters, we're having trouble [finding the brake pedal](https://bra.in/5vBBmW). While many voices are shouting about the growing threat of [p(doom)](https://bra.in/8vmmoJ), actual efforts seem either sincere but toothless or dishearteningly impractical. 
 
-The approach voiced by President Trump is to let the market and the environment take its course, to trust Capitalism and the Captains of Industry to do the right thing. 
+The approach voiced by President Trump is to let the market and the environment take its course, to trust minimally fettered Capitalism and the Captains of Industry to do the right thing. 
 
 This post is a short story of how Capitalism has warped several promising ideas, not destroying them, but damaging their credibility and creating new threats to society. The examples I'll use are: 
 
