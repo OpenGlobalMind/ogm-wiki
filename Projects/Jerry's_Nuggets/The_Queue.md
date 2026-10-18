@@ -35,6 +35,7 @@ The list of upcoming posts, in expected time sequence. They move around. And I [
 - [[Will GenAI Survive Capitalism]]? (contains multiple) 
 - [[Will Capitalism Survive GenAI]]? 
 - [[Kayfabe, OODA, DARVO - Why Democrats Are Clueless]] 
+- [[Pain Points I Address]] 
 - [[This Next Stretch Is Different]] 
 - [[Online Is Gonna Rock]] 
 - [[Cellular in Buenos Aires]] 
