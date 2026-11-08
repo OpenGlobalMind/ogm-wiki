@@ -1,7 +1,8 @@
-# TheBrain 15 with Harlan Hugh
+# Three Decades of Connections
 
-*A conversation between Jerry Michalski and Harlan Hugh, recorded on Zoom October 30, 2026*
+*Harlan Hugh and I look back to our 1997 first meeting, and ahead to Cerebro and Atlas*
 
+Video goes here. 
 ## Chapters
 
 ```
