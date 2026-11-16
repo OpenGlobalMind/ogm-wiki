@@ -1,8 +1,16 @@
+---
+type: nugget
+status: done
+format:
+topic:
+queue_order:
+date posted: 2026-11-08
+---
 # Three Decades of Connections
 
 *Harlan Hugh and I look back to our 1997 first meeting, and ahead to Cerebro and Atlas*
 
-Video goes here. 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5jhYHG27xJU?si=gPYdBYCvgrGPoM1E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ## Chapters
 
 ```

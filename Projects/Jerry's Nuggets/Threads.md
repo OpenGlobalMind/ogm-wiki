@@ -4,6 +4,26 @@ A regrouping of [[The Queue]] into threads, drafted 11 Nov 2026 for Jerry to cor
 
 Front door: [[Pull on This Thread]] is already drafted as the starting page that points into these threads.
 
+## Next up
+
+1. **A strategy for this moment** (inside Politics and democracy): the reframed Kayfabe, OODA, DARVO post and its companions.
+2. **Mycelia make great metaphors**: six posts, each pulling in two or three freestanding nuggets.
+
+Standing reminder for every fungal nugget and post: end with what it means for how we think, share, metabolize and crystallize new ideas together into collective hybrid intelligence. That closing line is also the bridge to the maps thread.
+
+### A strategy for this moment
+
+Overtly political, tuned to the next two years, offered humbly as one view among many. The Kayfabe post was left unfinished because its tone was "I know this and you don't"; the reframe is an offering, with the three concepts as freestanding nuggets.
+
+- [[Kayfabe, OODA, DARVO - Why Democrats Are Clueless]] (drafted; to be reframed and probably retitled)
+	- [[Kayfabe]]
+	- [[OODA]]
+	- [[DARVO]]
+- Second post: what else to do, with Design from Trust offered as one possible answer. Jerry's worry: it could read as egoistic, and DfT is not yet explained enough to land. Possible bridges already in the folder: [[Not Naïve Trust]], [[Be Undefended, Not Defenseless]], [[Assume Good Faith]]
+- Third post: other people's ideas that are fantastic, sending attention their way. Jerry to name them
+
+Jerry sees this triplet as the cluster for the current moment and the first thing to produce. Order decided 11 Nov: the Kayfabe post first, other people's ideas second, Design from Trust last. The punchline Jerry wants: there are bad actors, and you don't have to play their game; you defuse it, and try to turn bad actors into good ones. Open: whether the antidotes go in the first post or the third.
+
 ## Maps as boundary objects
 
 New thinking, not yet in The Queue. The whiteboard photo: the map a group makes together is the thing worth keeping, for people talking with people and with AIs. Named as a possible draw for backers and clients.
@@ -19,26 +39,35 @@ New thinking, not yet in The Queue. The whiteboard photo: the map a group makes 
 
 ## Mycelia make great metaphors
 
-A short run of fungal nuggets that leads to The Big Fungus and to rethinking media. Fabulous Fungal Metaphors holds the full list and nearly 2,000 words; the individual metaphor pages exist but are mostly stubs, so each one is a short write-up away from recordable.
+Six posts in the style of the Kayfabe post: each is a page in Jerry's voice that pulls in two or three freestanding nuggets. [[Fabulous Fungal Metaphors]] is the contents page. Facts for every nugget are in [[Fungal Metaphors - Science Check]]. Post names below are working labels, not titles.
 
-- [[Fabulous Fungal Metaphors]] (drafted, 1980 words)
-- [[Hyphae Connect]] (stub)
-- [[Mycelia Are Nature's Internet]] (stub)
-- [[Mycelia Externalize Their Digestion]] (stub)
-- [[Mycelia Trade Nutrients in the Wood Wide Web]] (stub)
-- [[Mushrooms Are the Fruiting Bodies of Mycelium]] (started, 177 words)
-- [[Fungi Can Be Huge]] (stub)
-- [[Fungi are the Principal Decomposers in Ecological Systems]] (stub)
-- [[Fungal Fixers - Mycoremediation]] (stub)
-- [[Fungi Are Essential to Soil Health]] (stub)
-- [[Magic Mushrooms]] (stub)
-- [[Leaf-Cutter Ants Can't Digest Leaves]] (started, 227 words)
-- [[The Big Fungus]] (started, 111 words)
-- [[The Fungus Manifesto]] (started, 84 words)
-- [[NeoBooks are Mushrooms of The Big Fungus]] (started, 157 words)
-- [[NeoDecks are Mushrooms of The Big Fungus]] (stub)
-- [[The Noosphere]] (started, 99 words)
-- [[Joy and Jerry Discuss The Big Fungus]] (started, 109 words)
+1. **Connection** ([[Fungal Post 1 - Connection]])
+	- [[Hyphae Connect]]
+	- [[Mycelia Are Nature's Internet]]
+2. **Digestion outside the body** ([[Fungal Post 2 - Digestion Outside the Body]])
+	- [[Mycelia Externalize Their Digestion]]
+	- [[Leaf-Cutter Ants Can't Digest Leaves]]
+3. **Breaking down and repairing** ([[Fungal Post 3 - Breaking Down and Repairing]])
+	- [[Fungi are the Principal Decomposers in Ecological Systems]]
+	- [[Fungal Fixers - Mycoremediation]]
+	- [[Fungi Are Essential to Soil Health]]
+4. **Exchange** ([[Fungal Post 4 - Exchange]])
+	- [[Mycelia Trade Nutrients in the Wood Wide Web]] (to split: the fungus-root trade, and the tree-to-tree network claim)
+	- [[The Matsutake's Peculiar Ecosystem]]
+5. **Seeing differently** ([[Fungal Post 5 - Seeing Differently]])
+	- [[Magic Mushrooms]]
+6. **Framing still open** ([[Fungal Post 6 - Framing Open]]). Jerry is not sold on "the visible part is the small part" as the point; the grouping stands, the angle is his to find.
+	- [[Mushrooms Are the Fruiting Bodies of Mycelium]]
+	- [[Fungi Can Be Huge]]
+	- [[Data as Healthy Soil]]
+	- lands on [[The Big Fungus]]
+
+Later, not part of this burst:
+
+- [[NeoBooks are Mushrooms of The Big Fungus]] and [[NeoDecks are Mushrooms of The Big Fungus]] (after the Books and NeoBooks cluster is written; they bridge the two threads)
+- [[Joy and Jerry Discuss The Big Fungus]] (old Zoom recording; post once The Big Fungus is described; a Call Cleanup job)
+- [[The Fungus Manifesto]] (overlaps other writing; may not end up a page)
+- [[The Noosphere]]
 
 ## Snip!
 
@@ -208,6 +237,27 @@ Beat three (Rethinking) of the arc.
 - [[Lessons from Anarchism]] (stub)
 - [[Sitting with the Enemy]] (stub)
 
+## Names for how we think together
+
+The long line of metaphors for collective thinking (the Noosphere, Indra's Net and others), with The Big Fungus as Jerry's offer to that line. He has a slide gathering them and wants to retell it slowly and visually; an earlier post went through it too fast. Next door to the mycelia thread and to collective hybrid intelligence.
+
+- [[The Noosphere]]
+- [[Trail Blazing in the Noosphere]]
+- [[The Big Fungus]]
+- Seed: the slide of names, one nugget per metaphor
+
+## The Big Sentence
+
+One playful sentence that weaves the projects together, each term linking to its own nugget: "Cyborgs practice Upkido to create a Betterverse that's Designed from Trust, while gardening the Big Fungus and developing the precepts and rituals of Foobarism." Not quite a manifesto. The terms it names:
+
+- [[The Big Sentence]] (the sentence itself, drafted; the unpacking is still to write)
+- [[Cyborgs]] (stub; see the thread Our cyborg future)
+- [[Upkido]] (started, 129 words)
+- [[The Betterverse]] (stub)
+- [[Design from Trust]] (started, 230 words; see the thread We have trust backwards)
+- [[The Big Fungus]] (started, 111 words; see the thread Mycelia make great metaphors)
+- [[Foobarism]] (stub)
+
 ## Not yet on a thread
 
 Queue items I did not place. Some are Braincasts; some may belong to a thread I have not seen.
@@ -217,8 +267,6 @@ Queue items I did not place. Some are Braincasts; some may belong to a thread I 
 - [[Taglines]] (started, 83 words)
 - [[Variants of Capitalism]] (started, 138 words)
 - [[PlaceboPhone]] (stub)
-- [[Upkido]] (started, 129 words)
-- [[The Big Sentence]] (stub)
 - [[Has Progress Stopped]] (stub)
 - [[Behind the Reel - What Seems Impossible]] (drafted, 336 words)
 - [[Behind the Reel - The Joy Line]] (stub)
